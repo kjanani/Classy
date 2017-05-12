@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2014v6.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-14T16:00:59-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-10-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>581971018</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>WHALEY HAMMONDS TOMASELLO PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>115 WESTRIDGE IND BLVD SUITE 200</AddressLine1Txt>
+        <CityNm>MCDONOUGH</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>30253</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2014-11-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>582514465</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>FEARS FAMILY FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>FEAR</BusinessNameControlTxt>
+      <PhoneNum>6787748252</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 1666</AddressLine1Txt>
+        <CityNm>JACKSON</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>30233</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>LINDA FEARS</PersonNm>
+      <PersonTitleTxt>FOUNDATION MANAGER</PersonTitleTxt>
+      <PhoneNum>6787748252</PhoneNum>
+      <SignatureDt>2016-09-14</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>LORRAINE F KELLEY</PreparerPersonNm>
+      <PTIN>P00286826</PTIN>
+      <PhoneNum>7709141040</PhoneNum>
+      <PreparationDt>2016-09-14</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2014</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>295342</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>1</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>1</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>17587</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>17587</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">5095</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>25763</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>22683</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>17588</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>7600</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">2800</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>2800</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc8">231</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>231</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc7">2716</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>1350</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>1366</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>13347</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1581</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>4166</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>8500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>8500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>21847</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1581</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>12666</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>836</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>16007</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>13623</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>13242</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>13242</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>257410</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>267458</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>257410</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>257410</AcctRcvblEOYFMVAmt>
+        <CorporateStockBOYAmt>26415</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">30213</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>24690</CorporateStockEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>1530</InvstLandCostOrOtherBasisAmt>
+        <LandBldgInvestmentsBOYAmt>1530</LandBldgInvestmentsBOYAmt>
+        <LandBldgInvestmentsEOYAmt referenceDocumentId="RetDoc5">1530</LandBldgInvestmentsEOYAmt>
+        <TotalAssetsBOYAmt>309026</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>302395</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>295342</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>309026</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>302395</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>309026</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>302395</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>309026</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>302395</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>309026</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>836</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>309862</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc6">7467</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>302395</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>22363</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>302970</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.073813</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>9151</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>304728</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.030030</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>18536</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>297296</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.062349</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>6050</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>296780</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.020385</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>3900</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>296780</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.013141</DistributionYr5Rt>
+        <TotalDistributionRt>0.199718</TotalDistributionRt>
+        <AverageDistributionRt>0.039944</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>291527</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>11645</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>160</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>11805</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>12666</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>160</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>160</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>160</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>160</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>GA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>LINDA FEARS</IndividualWithBooksNm>
+        <PhoneNum>6787748252</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 1666</AddressLine1Txt>
+          <CityNm>JACKSON</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>30233</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LINDA FEARS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 1666</AddressLine1Txt>
+            <CityNm>JACKSON</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30233</ZIPCd>
+          </USAddress>
+          <TitleTxt>MANAGER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>3800</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EMILY ROUSH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>336 LOGWALL CHURCH ROAD</AddressLine1Txt>
+            <CityNm>FORSYTH</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31029</ZIPCd>
+          </USAddress>
+          <TitleTxt>MANAGER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>3800</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>CONTRIBUTIONS TO 501(C)(3) ORGANIZATIONS INCLUDING CHURCHES</Description1Txt>
+        <Expenses1Amt>8500</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>27056</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>9971</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>258940</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>295967</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>295967</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>4440</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>291527</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>14576</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>14576</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>160</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>160</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>14416</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>14416</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>14416</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>12666</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>12666</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>160</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>12506</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>14416</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>5670</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>5670</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>12666</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>12666</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>1750</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>1750</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>3920</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>3920</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>3920</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>LINDA FEARS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1666</AddressLine1Txt>
+            <CityNm>JACKSON</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30233</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>6787748252</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>WRITTEN REQUEST TO LINDA FEARS AT THE ADDRESS ABOVE.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NO DEADLINES</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>MUST BE TO A 501(C)(3) ORGANIZATION</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JACKSON UNITED METHODIST</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>EAST THIRD STREET</AddressLine1Txt>
+            <CityNm>JACKSON</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30233</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ROCK SPRINGS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>219 ROCK SPRINGS RD</AddressLine1Txt>
+            <CityNm>MILNER</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30257</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>8500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>17587</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>5095</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>17588</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>5095</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>22683</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>2800</Amt>
+        <DisbursementsCharitablePrpsAmt>2800</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SYNOVUS FINANCIAL CO</AssetDesc>
+        <AcquiredDt>2014-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-05</SoldDt>
+        <GrossSalesPriceAmt>3949</GrossSalesPriceAmt>
+        <BasisAmt>3613</BasisAmt>
+        <TotalNetAmt>336</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2014-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <GrossSalesPriceAmt>2772</GrossSalesPriceAmt>
+        <BasisAmt>2614</BasisAmt>
+        <TotalNetAmt>158</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CISCO SYSTEMS</AssetDesc>
+        <AcquiredDt>2013-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <GrossSalesPriceAmt>2627</GrossSalesPriceAmt>
+        <BasisAmt>2248</BasisAmt>
+        <TotalNetAmt>379</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>GENERAL ELECTRIC</AssetDesc>
+        <AcquiredDt>2011-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>2313</GrossSalesPriceAmt>
+        <BasisAmt>1916</BasisAmt>
+        <TotalNetAmt>397</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SYNOVUS FINANCIAL CO</AssetDesc>
+        <AcquiredDt>2013-05</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-05</SoldDt>
+        <GrossSalesPriceAmt>6214</GrossSalesPriceAmt>
+        <BasisAmt>4834</BasisAmt>
+        <TotalNetAmt>1380</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2013-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>5116</GrossSalesPriceAmt>
+        <BasisAmt>3670</BasisAmt>
+        <TotalNetAmt>1446</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2014-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <GrossSalesPriceAmt>2772</GrossSalesPriceAmt>
+        <BasisAmt>1773</BasisAmt>
+        <TotalNetAmt>999</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RAYMOND JAMES INVESTMENT ACCT</StockNm>
+        <EOYBookValueAmt>30213</EOYBookValueAmt>
+        <EOYFMVAmt>24690</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsLandSchedule2 documentId="RetDoc5">
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>LAND</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1530</CostOrOtherBasisAmt>
+        <BookValueAmt>1530</BookValueAmt>
+      </InvestmentLandGrp>
+    </InvestmentsLandSchedule2>
+    <OtherDecreasesSchedule documentId="RetDoc6">
+      <OtherDecreasesDetail>
+        <Desc>ADJUSTED NOTES RECEVABLE BALANCE</Desc>
+        <Amt>7467</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>96</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>96</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT ADVISORY FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>100</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>100</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2520</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1250</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1270</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc8">
+      <TaxesDetail>
+        <CategoryTxt>TAXES</CategoryTxt>
+        <Amt>231</Amt>
+        <NetInvestmentIncomeAmt>231</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

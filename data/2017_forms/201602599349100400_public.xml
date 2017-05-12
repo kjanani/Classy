@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-15T07:35:55-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>561415202</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Hughes Pittman &amp; Gupton LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1500 Sunday Drive Suite 300</AddressLine1Txt>
+        <CityNm>Raleigh</CityNm>
+        <StateAbbreviationCd>NC</StateAbbreviationCd>
+        <ZIPCd>27607</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>562203535</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Troan Foundation Inc</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>c/o Erik Troan</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>TROA</BusinessNameControlTxt>
+      <PhoneNum>9192325900</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1707 McDonald Lane</AddressLine1Txt>
+        <CityNm>Raleigh</CityNm>
+        <StateAbbreviationCd>NC</StateAbbreviationCd>
+        <ZIPCd>27608</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Erik W Troan</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <PhoneNum>9192325900</PhoneNum>
+      <SignatureDt>2016-05-18</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Beth S Traynham</PreparerPersonNm>
+      <PTIN>P00221506</PTIN>
+      <PhoneNum>9192325900</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1612455</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>105</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>105</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>46617</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>46617</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-2059</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1092163</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>44663</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>46722</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">3922</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">18115</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>18115</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">4015</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>15</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>26052</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>18130</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>93000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>93000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>119052</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>18130</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>93000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-74389</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>28592</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashEOYAmt>1</CashEOYAmt>
+        <CashEOYFMVAmt>1</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>42630</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>8960</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>8960</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>1701410</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">1660690</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1603494</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>1744040</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1669651</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1612455</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>1744040</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1669651</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1744040</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1669651</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1744040</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1669651</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1744040</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-74389</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>1669651</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1669651</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities - GS 1482</PropertyDesc>
+          <GrossSalesPriceAmt>265166</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>237525</CostOrOtherBasisAmt>
+          <GainOrLossAmt>27641</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>27641</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities - GS 1482</PropertyDesc>
+          <GrossSalesPriceAmt>70970</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>99302</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-28332</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-28332</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities - GS 1482 - Wash</PropertyDesc>
+          <GrossSalesPriceAmt>83</GrossSalesPriceAmt>
+          <GainOrLossAmt>83</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>83</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities - GS 1482</PropertyDesc>
+          <GrossSalesPriceAmt>397816</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>404346</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-6530</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-6530</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities - GS 1482</PropertyDesc>
+          <GrossSalesPriceAmt>233944</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>203999</CostOrOtherBasisAmt>
+          <GainOrLossAmt>29945</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>29945</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities - GS 1482 - Wash</PropertyDesc>
+          <GrossSalesPriceAmt>775</GrossSalesPriceAmt>
+          <GainOrLossAmt>775</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>775</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities - GS 6756</PropertyDesc>
+          <GrossSalesPriceAmt>111959</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>137638</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-25679</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-25679</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities - GS 6756</PropertyDesc>
+          <GrossSalesPriceAmt>10672</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11412</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-740</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-740</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gains Dividends</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>778</GrossSalesPriceAmt>
+          <GainOrLossAmt>778</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>778</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-2059</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>98599</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1917941</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.051409</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>89546</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>1825205</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.049061</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>86500</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1755085</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.049285</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>89250</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1772388</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.050356</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>104456</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1682976</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.062066</DistributionYr5Rt>
+        <TotalDistributionRt>0.262177</TotalDistributionRt>
+        <AverageDistributionRt>0.052435</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1773263</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>92981</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>286</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>93267</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>93000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>572</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>572</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>572</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>4278</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>4278</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>3706</OverpaymentAmt>
+        <AppliedToESTaxAmt>3706</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NC</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>Brigid V Troan</IndividualWithBooksNm>
+        <PhoneNum>9195233718</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1707 McDonald Lane</AddressLine1Txt>
+          <CityNm>Raleigh</CityNm>
+          <StateAbbreviationCd>NC</StateAbbreviationCd>
+          <ZIPCd>27608</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Erik W Troan</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1707 McDonald Lane</AddressLine1Txt>
+            <CityNm>Raleigh</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27608</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman and President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Brigid V Troan</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1707 McDonald Lane</AddressLine1Txt>
+            <CityNm>Raleigh</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27608</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary and Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Lawrence Edward Troan</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>8414 Sawyer Drive</AddressLine1Txt>
+            <CityNm>Raleigh</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27613</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Barbara Troan</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>20 Hidden Valley Road</AddressLine1Txt>
+            <CityNm>Rhinebeck</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12572</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1800267</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1800267</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1800267</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>27004</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1773263</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>88663</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>88663</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>572</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>572</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>88091</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>88091</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>88091</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>93000</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>93000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>93000</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>88091</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>779</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>4472</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr2Amt>855</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>8504</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>14610</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>93000</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>88091</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>4909</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>19519</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>779</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>18740</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>4472</ExcessFromYear4Amt>
+        <ExcessFromYear2Amt>855</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>8504</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>4909</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Erik W Troan</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NCSSM Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1219 Broad Street</AddressLine1Txt>
+            <CityNm>Durham</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donation</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Pennsylvania State University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>University Park</AddressLine1Txt>
+            <CityNm>State College</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donation</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Southern Coalition for Social Justice</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1415 West Highway 54 Ste 101</AddressLine1Txt>
+            <CityNm>Durham</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27707</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donation</GrantOrContributionPurposeTxt>
+          <Amt>18000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>North Carolina Veterinary Medical Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1060 William Moore Drive</AddressLine1Txt>
+            <CityNm>Raleigh</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27607</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donation</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Triangle Family Services</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3937 Western Blvd</AddressLine1Txt>
+            <CityNm>Raleigh</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27606</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donation</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>93000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>105</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>46617</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-2059</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>44663</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>44663</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting Fees</CategoryTxt>
+        <Amt>3922</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Equity Investments</StockNm>
+        <EOYBookValueAmt>1660690</EOYBookValueAmt>
+        <EOYFMVAmt>1603494</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Management Fees</CategoryTxt>
+        <Amt>18115</Amt>
+        <NetInvestmentIncomeAmt>18115</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>Foreign Taxes</CategoryTxt>
+        <Amt>15</Amt>
+        <NetInvestmentIncomeAmt>15</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Federal Taxes</CategoryTxt>
+        <Amt>4000</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

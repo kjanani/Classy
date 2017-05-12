@@ -1,0 +1,598 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-25T10:38:34-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>471150573</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>PEDEN &amp; LOFF LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>955 DAIRY ASHFORD ST STE 100</AddressLine1Txt>
+        <CityNm>HOUSTON</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>770795307</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>766158087</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE VERNON K WILLBORG CHARITABLE</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>TRUST</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>VERN</BusinessNameControlTxt>
+      <PhoneNum>2812081320</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4502 WATER POINT</AddressLine1Txt>
+        <CityNm>MISSOURI CITY</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>77459</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ANITA NANCE</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <SignatureDt>2016-08-22</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>AARON L LOFF</PreparerPersonNm>
+      <PTIN>P01345475</PTIN>
+      <PhoneNum>2814965903</PhoneNum>
+      <PreparationDt>2016-08-22</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="13">
+    <IRS990PF documentId="RetDoc2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>749191</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>75</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>80</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>80</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>11934</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>11934</DividendsNetInvstIncmAmt>
+        <GrossRentsRevAndExpnssAmt>90549</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>90549</GrossRentsNetInvstIncmAmt>
+        <NetRentalIncomeOrLossAmt>72632</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-21101</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>754998</GrossSalesPriceAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc10">-8847</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>-8847</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>72690</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>93716</TotalNetInvstIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc7">41445</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>41445</LegalFeesNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc3">8250</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>8250</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc13">7686</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>7686</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc14">1252</TaxesRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>9277</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>9277</OccupancyNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc9">9418</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>9418</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>77328</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>76076</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>20661</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>20661</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>97989</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>76076</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>20661</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-25299</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>17640</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>49508</CashBOYAmt>
+        <SavAndTempCashInvstBOYAmt>63103</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>99811</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>99811</SavAndTempCashInvstEOYFMVAmt>
+        <OtherNtsAndLoansRcvblAmt>129671</OtherNtsAndLoansRcvblAmt>
+        <OtherRcvblAllwncDbtflAcctAmt>42687</OtherRcvblAllwncDbtflAcctAmt>
+        <OtherNtsAndLoansRcvblBOYAmt>133535</OtherNtsAndLoansRcvblBOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt referenceDocumentId="RetDoc12">86984</OtherNtsAndLoansRcvblEOYAmt>
+        <OtherNtsAndLoansRcvblEOYFMVAmt>59925</OtherNtsAndLoansRcvblEOYFMVAmt>
+        <CorporateStockBOYAmt>336985</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">159141</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>159141</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>71611</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc4">198794</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>198794</CorporateBondsEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>359747</InvstLandCostOrOtherBasisAmt>
+        <InvstLandAccumDepreciationAmt>38932</InvstLandAccumDepreciationAmt>
+        <LandBldgInvestmentsBOYAmt>329455</LandBldgInvestmentsBOYAmt>
+        <LandBldgInvestmentsEOYAmt referenceDocumentId="RetDoc6">320815</LandBldgInvestmentsEOYAmt>
+        <LandBldgInvestmentsEOYFMVAmt>231520</LandBldgInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>984197</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>865545</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>749191</TotalAssetsEOYFMVAmt>
+        <DeferredRevenueBOYAmt>16539</DeferredRevenueBOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc11">66758</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc11">27059</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>83297</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>27059</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>900900</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>838486</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>900900</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>838486</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>984197</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>865545</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>900900</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-25299</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>875601</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc8">37115</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>838486</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SECURITIES - ASSETMARK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>632570</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>652473</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-19903</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-19903</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SECURITIES - ASSETMARK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>121408</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>123626</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2218</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2218</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-21101</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>58743</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>843861</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.069612</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>16851</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>768824</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.021918</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>39745</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>687294</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.057828</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>8050</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>748430</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.010756</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>2000</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>860107</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.002325</DistributionYr5Rt>
+        <TotalDistributionRt>0.162439</TotalDistributionRt>
+        <AverageDistributionRt>0.032488</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>745118</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>24207</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>176</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>24383</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>20661</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>353</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>353</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>353</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1075</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1075</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>722</OverpaymentAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+        <RefundAmt>722</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>PEDEN &amp; LOFF LLC</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2814965903</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>955 DAIRY ASHFORD STE 100</AddressLine1Txt>
+          <CityNm>HOUSTON</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>77079</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>true</UndistributedIncomePYInd>
+        <UndistributedIncomePY1Yr>2014</UndistributedIncomePY1Yr>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANITA NANCE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4502 WATER POINT</AddressLine1Txt>
+            <CityNm>MISSOURI CITY</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77459</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>383266</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>106211</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>266988</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>756465</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>756465</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>11347</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>745118</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>37256</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>37256</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>353</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>353</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>36903</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>36903</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>36903</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>20661</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>20661</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>20661</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>36903</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>27091</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2014</PriorYear1Yr>
+        <QualifyingDistributionsAmt>20661</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>20661</AppliedToYear1Amt>
+        <Taxable2Amt>6430</Taxable2Amt>
+        <UndistributedIncomeCYAmt>36903</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>ANITA NANCE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4502 WATER POINT</AddressLine1Txt>
+            <CityNm>MISSOURI CITY</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77459</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2812081320</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>SCHOLARSHIP APPLICANTS MUST SUBMIT A WRITTEN REQUEST, INCLUDING SCHOOL TRANSCRIPTS REPORTTING AN ACCEPTABLE GRADE POINT AVERAGE, AND DEMONSTRATE FINANCIAL NEED.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>SCHOLARSHIP REQUESTS MUST BE RECEIVED BY JULY 31 FOR THE UPCOMING ACADEMIC PERIOD. GRANTS REQUESTS A</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>SCHOLARSHIPS ARE RESTRICTED TO 2 OR 4-YEAR COLLEGES, UNIVERSITIES OR TECHNICAL SCHOOLS. GRANTS ARE LIMITED TO NONPROFIT 501(C)(3)ORGANIZATIONS BASED THE APPLICANT'S MERIT AND NEEDS AS WELL AS THE AMOUNT OF FUNDS AVAILABLE FOR CHARITABLE DISTRIBUTIONS.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GALVESTON CHILDREN'S CENT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2600</AddressLine1Txt>
+            <CityNm>GALVESTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77553</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BENEFIT CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOPE FAITH &amp; CHARITY CHUR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>825 LITTLE YORK ROAD</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77076</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BENEFIT CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JESSICA GOMEZ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9403 BECKFORD</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77099</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATIONAL &amp; TRANSPORTATION NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>8684</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TEXAS BATTERED WOMEN'S CE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 553</AddressLine1Txt>
+            <CityNm>HAWKINS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75765</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BENEFIT CHARTIABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>4375</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CLARIVEL AREASIO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9403 BECKFORD</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77099</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATIONAL NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>302</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LINEBERGER COLLEGE FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>16755 SW FREEWAY</AddressLine1Txt>
+            <CityNm>SUGAR LAND</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>774792312</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HALLIE DECKER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1411 TAHOE VALLEY LN</AddressLine1Txt>
+            <CityNm>SUGAR LAND</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77479</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>20661</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>80</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>11934</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <RelatedOrExemptFunctionIncmAmt>72632</RelatedOrExemptFunctionIncmAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>38</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>-21101</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>U S NATURAL GAS FUND, LP</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>-4600</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>US 12 MO NATURAL GAS FUND, LP</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>-4285</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>-17934</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>72632</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>54698</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFeesDetail>
+        <CategoryTxt>PEDEN &amp; LOFF, LLC</CategoryTxt>
+        <Amt>8250</Amt>
+        <NetInvestmentIncomeAmt>8250</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CORPORATE BONDS</BondNm>
+        <EOYBookValueAmt>198794</EOYBookValueAmt>
+        <EOYFMVAmt>198794</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORPORATE STOCKS AND ETFS</StockNm>
+        <EOYBookValueAmt>159141</EOYBookValueAmt>
+        <EOYFMVAmt>159141</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsLandSchedule2 documentId="RetDoc6">
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>LAND, BUILDINGS AND EQUIPMENT</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>359747</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>38932</AccumulatedDepreciationAmt>
+        <BookValueAmt>320815</BookValueAmt>
+        <EOYFMVAmt>231520</EOYFMVAmt>
+      </InvestmentLandGrp>
+    </InvestmentsLandSchedule2>
+    <LegalFeesSchedule documentId="RetDoc7">
+      <LegalFeesGrp>
+        <CategoryTxt>MARK MURRAH</CategoryTxt>
+        <LegalFeesAmt>31445</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>31445</NetInvestmentIncomeAmt>
+      </LegalFeesGrp>
+      <LegalFeesGrp>
+        <CategoryTxt>NANCE &amp; SIMPSON</CategoryTxt>
+        <LegalFeesAmt>10000</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>10000</NetInvestmentIncomeAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc8">
+      <OtherDecreasesDetail>
+        <Desc>DECREASE IN VALUE OF INVESTMENTS</Desc>
+        <Amt>37115</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc9">
+      <OtherExpensesScheduleGrp>
+        <Desc>VARIOUS RENTAL</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT DEPRECIATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>8640</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>8640</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE &amp; POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>496</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>496</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>282</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>282</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc10">
+      <OtherIncomeDetail>
+        <Desc>OTHER INCOME - VSR SERVICES,</Desc>
+        <RevenueAndExpensesPerBooksAmt>3</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>3</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>NET ROYALTY</Desc>
+        <RevenueAndExpensesPerBooksAmt>35</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>35</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>U S NATURAL GAS FUND, LP</Desc>
+        <RevenueAndExpensesPerBooksAmt>-4600</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-4600</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>US 12 MO NATURAL GAS FUND, LP</Desc>
+        <RevenueAndExpensesPerBooksAmt>-4285</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-4285</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc11">
+      <OtherLiabilitiesDetail>
+        <Desc>NON INTEREST BEARING ADVANCES GLYNN</Desc>
+        <BOYBookValueAmt>66758</BOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>NOTE PAYABLE RAYMOND ALFORD TRUST</Desc>
+        <EOYBookValueAmt>27059</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherNotesLoansRcvblShortSch2 documentId="RetDoc12">
+      <OtherNotesLoansRcvblShortGrp>
+        <Organization501c3Name>
+          <BusinessNameLine1Txt>OTHER LOANS RECEIVABLE</BusinessNameLine1Txt>
+        </Organization501c3Name>
+        <BalanceDueAmt>86984</BalanceDueAmt>
+      </OtherNotesLoansRcvblShortGrp>
+    </OtherNotesLoansRcvblShortSch2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc13">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>NANCE &amp; DUNCAN PLLC</CategoryTxt>
+        <Amt>492</Amt>
+        <NetInvestmentIncomeAmt>492</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES - VSR F</CategoryTxt>
+        <Amt>50</Amt>
+        <NetInvestmentIncomeAmt>50</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES - ASSET</CategoryTxt>
+        <Amt>7144</Amt>
+        <NetInvestmentIncomeAmt>7144</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc14">
+      <TaxesDetail>
+        <CategoryTxt>990-PF TAX (2014)</CategoryTxt>
+        <Amt>177</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>990-PF TAX (2015) - EST TAX PYMT</CategoryTxt>
+        <Amt>1075</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

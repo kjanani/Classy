@@ -1,0 +1,557 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-06T11:08:44-07:00</ReturnTs>
+    <TaxPeriodEndDt>2016-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>GALASSO PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>30701 BARRINGTON ST STE 175</AddressLine1Txt>
+        <CityNm>MADISON HEIGHTS</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>480715135</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>611437291</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CHISBETTS FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CHIS</BusinessNameControlTxt>
+      <PhoneNum>7349945000</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>505 E HURON STREET</AddressLine1Txt>
+        <CityNm>ANN ARBOR</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>481041567</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>BETTY CHISHOLM</PersonNm>
+      <PersonTitleTxt>DIRECTOR</PersonTitleTxt>
+      <PhoneNum>7349945000</PhoneNum>
+      <SignatureDt>2016-08-25</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JOSEPH P GALASSO JR</PreparerPersonNm>
+      <PhoneNum>2485882800</PhoneNum>
+      <PreparationDt>2016-09-06</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>628888</FMVAssetsEOYAmt>
+      <MethodOfAccountingOtherInd methodOfAccountingOtherDesc="CASH EXCEPT TAXES">X</MethodOfAccountingOtherInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>33852</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>33852</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="00000002" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">13394</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>42462</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>13394</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>47246</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>47246</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt>1045</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>880</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>165</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="00000005" referenceDocumentName="TaxesSchedule">20</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>20</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="00000004" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">150</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>150</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>1215</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1050</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>165</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>72500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>72500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>73715</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1050</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>72665</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-26469</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>46196</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CorporateStockBOYAmt>617527</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="00000003" referenceDocumentName="InvestmentsCorpStockSchedule">591058</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>628888</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>617527</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>591058</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>628888</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>617527</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>591058</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>617527</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>591058</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>617527</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>591058</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>617527</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-26469</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>591058</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>591058</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000shs BROOKFIELD INFRASTRUC PA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-01-17</AcquiredDt>
+          <SoldDt>2016-05-20</SoldDt>
+          <GrossSalesPriceAmt>42462</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>29068</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13394</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>13394</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>13394</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>48151</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>697257</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.069058</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>36860</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>710051</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.051912</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>38600</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>711481</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.054253</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>35145</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>724621</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.048501</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>23725</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>749338</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.031661</DistributionYr5Rt>
+        <TotalDistributionRt>0.255385</TotalDistributionRt>
+        <AverageDistributionRt>0.051077</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>650340</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>33217</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>462</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>33679</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>72665</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>462</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>462</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>462</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>674</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>674</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnOverpaymentAmt>-674</OriginalReturnOverpaymentAmt>
+        <OverpaymentAmt>212</OverpaymentAmt>
+        <AppliedToESTaxAmt>212</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MI</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>true</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>JOSEPH P GALASSO JR</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2485882800</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>30701 BARRINGTON ST 175</AddressLine1Txt>
+          <CityNm>MADISON HEIGHTS</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>48071</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <RelyingCurrentNtcDsstrAsst1Ind>X</RelyingCurrentNtcDsstrAsst1Ind>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DONALD BETTY CHISHOLM</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>505 E HURON STREET</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48107</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTORS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>8.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>470424</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>189820</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>660244</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>660244</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>9904</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>650340</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>32517</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>32517</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>462</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>462</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>32055</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>32055</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>32055</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>72665</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>72665</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>462</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>72203</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>32055</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>25996</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>13940</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>39936</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>72665</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>72665</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>32055</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>32055</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>80546</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>80546</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>7881</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>72665</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>DONALD BETTY CHISHOLM</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>U OF M MUSIC SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ANN ARBOR</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>26000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>C MANKOWSKI SCHOLARSHIP</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ANN ARBOR</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>A MANKOWSKI SCHOLARSHIP</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ANN ARBOR</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEW CENTURY CHORALE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 766</AddressLine1Txt>
+            <CityNm>GRAND BLANC</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48480</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WASHTENAW COMMUNITY COLLEGE FDN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4800 E HURON RIVER DR</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF MICHIGAN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>OPTHAMOLOGY RESEARCH</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ANN ARBOR SUMMER FESTIVAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>310 DEPOT ST STE 3</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KELLOGG EYE CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 WALL STREET</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MCLENNAN FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1400 COLLEGE DRIVE</AddressLine1Txt>
+            <CityNm>WACO</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76708</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STEVE WOOD MUSIC INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5084 KENSINGTON AVE</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48224</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KERRYTOWN CONCERT HOUSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>415 N 4TH AVENUE</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HERITAGE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>214 MASSACHUSETTS AVE NE</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>APPALACHIAN STATE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>438 ACADEMY STREET</AddressLine1Txt>
+            <CityNm>BOONE</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28608</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>72500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>33852</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <RelatedOrExemptFunctionIncmAmt>13394</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>33852</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>13394</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>47246</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="00000002">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>1000shs BROOKFIELD INFRASTRUC PA</AssetDesc>
+        <AcquiredDt>2012-01</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2016-05</SoldDt>
+        <GrossSalesPriceAmt>42462</GrossSalesPriceAmt>
+        <BasisAmt>29068</BasisAmt>
+        <TotalNetAmt>13394</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="00000003">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>700 SHS ANIXTER INTERNATIONAL</StockNm>
+        <EOYBookValueAmt>49102</EOYBookValueAmt>
+        <EOYFMVAmt>37296</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1172 SHS EQUITY RES REIT</StockNm>
+        <EOYBookValueAmt>32450</EOYBookValueAmt>
+        <EOYFMVAmt>80727</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>10942 SHS EQUITY LIFESTYLE PROPERTIES</StockNm>
+        <EOYBookValueAmt>298885</EOYBookValueAmt>
+        <EOYFMVAmt>316105</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1210 SHS PAR PACIFIC HOLDINGS</StockNm>
+        <EOYBookValueAmt>24200</EOYBookValueAmt>
+        <EOYFMVAmt>18561</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MERRILL LYNCH MM</StockNm>
+        <EOYBookValueAmt>169299</EOYBookValueAmt>
+        <EOYFMVAmt>169299</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1000 SHS BROOKFIELD INFRASTRUCTURE PA</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>10000 SHS REPUBLIC AIRWAYS HLDGS</StockNm>
+        <EOYBookValueAmt>17122</EOYBookValueAmt>
+        <EOYFMVAmt>6900</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="00000004">
+      <OtherExpensesScheduleGrp>
+        <Desc>MISC</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>150</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>150</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="00000005">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>MISC</CategoryTxt>
+        <Amt>20</Amt>
+        <NetInvestmentIncomeAmt>20</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL INC TAX</CategoryTxt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

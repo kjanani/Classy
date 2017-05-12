@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-13T16:08:27-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Lawrence A Singer CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1050 Marina Village Pkwy 102</AddressLine1Txt>
+        <CityNm>Alameda</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94501</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>461309241</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Gordon Rausser Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>GORD</BusinessNameControlTxt>
+      <PhoneNum>5105272721</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>661 San Luis Road</AddressLine1Txt>
+        <CityNm>Berkeley</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94707</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Gordon Rausser</PersonNm>
+      <PersonTitleTxt>Director</PersonTitleTxt>
+      <SignatureDt>2016-08-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Lawrence A Singer</PreparerPersonNm>
+      <PTIN>P00095229</PTIN>
+      <PhoneNum>5105218946</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1810505</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>245279</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>28</InterestOnSavNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>69605</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>120476</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>69605</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>69605</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>314884</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>69633</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>69605</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">2912</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>2912</LegalFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">11682</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>11682</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">7087</DeprecAndDpltnRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">7870</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesAdjNetIncmAmt>177</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>27693</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>29551</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>177</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>42287</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>29551</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>177</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>42287</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>285333</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>69633</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>69428</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>432930</CashBOYAmt>
+        <SavAndTempCashInvstEOYAmt>827739</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>827739</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesEOYAmt>24091</PrepaidExpensesEOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">72960</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>16200</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>762350</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>15010</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>744427</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">747340</LandEOYAmt>
+        <LandEOYFMVAmt>762350</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">204216</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">204216</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">204216</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1381573</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1876346</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1810505</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">209440</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesEOYAmt>209440</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>1381573</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>1666906</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1381573</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1666906</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1381573</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1876346</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1381573</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>285333</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1666906</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1666906</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 OPTNS PUT UNITED HEALTH GROUP 1/15/16 115</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-08-19</AcquiredDt>
+          <SoldDt>2015-05-26</SoldDt>
+          <GrossSalesPriceAmt>74893</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>39055</CostOrOtherBasisAmt>
+          <GainOrLossAmt>35838</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>35838</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 OPTNS PUT HOME DEPOT INC 1/15/16 90</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-07-13</AcquiredDt>
+          <SoldDt>2015-11-24</SoldDt>
+          <GrossSalesPriceAmt>639</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9055</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-8416</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-8416</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 OPTNS PUT HOME DEPOT INC 11/15/16 110</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-23</AcquiredDt>
+          <SoldDt>2015-07-13</SoldDt>
+          <GrossSalesPriceAmt>44944</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2761</CostOrOtherBasisAmt>
+          <GainOrLossAmt>42183</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>42183</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>69605</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>69605</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>22203</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>336753</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.06593</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>23860</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>171582</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.13906</DistributionYr2Rt>
+        <TotalDistributionRt>0.204992</TotalDistributionRt>
+        <AverageDistributionRt>0.102496</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>587057</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>60171</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>696</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>60867</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>42287</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1393</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1393</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1393</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>13</EsPenaltyAmt>
+        <TaxDueAmt>1406</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Gordon C Rausser</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5105272721</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>661 San Luis Road</AddressLine1Txt>
+          <CityNm>Berkeley</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94707</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Gordon Rausser</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>661 San Luis Road</AddressLine1Txt>
+            <CityNm>Berkeley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94707</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Paige Rausser</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>661 San Luis Road</AddressLine1Txt>
+            <CityNm>Berkeley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94707</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Gordon S Rausser</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>661 San Luis Road</AddressLine1Txt>
+            <CityNm>Berkeley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94707</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Stephanie Rausser</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>661 San Luis Road</AddressLine1Txt>
+            <CityNm>Berkeley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94707</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Wendy Enkema</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>661 San Luis Road</AddressLine1Txt>
+            <CityNm>Berkeley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94707</ZIPCd>
+          </USAddress>
+          <TitleTxt>Scty/Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>SUPPORT FOR BIO-DIVERSITY CONFERENCE TO BE HELD IN 2016.</Description1Txt>
+        <Expenses1Amt>20000</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>19758</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>576239</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>595997</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>595997</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>8940</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>587057</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>29353</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>29353</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1393</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1393</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>27960</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>27960</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>27960</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>42287</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>42287</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>42287</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>27960</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>15281</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>17865</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>33146</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>42287</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>27960</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>14327</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>47473</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>47473</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>15281</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>17865</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>14327</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Gordon Rausser</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>69605</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>69605</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>69605</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>GORDON C RAUSSER</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>661 SAN LUIS ROAD</AddressLine1Txt>
+          <CityNm>BERKELEY</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94707</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>245279</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FARM MACHINERY</PropertyDesc>
+        <AcquiredDt>2013-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>32350</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>7923</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.1749</Rt>
+        <CurrentYearExpenseAmt>5658</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FENCING AND IRRIGATION EQ</PropertyDesc>
+        <AcquiredDt>2015-01-07</AcquiredDt>
+        <CostOrOtherBasisAmt>10000</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.1429</Rt>
+        <CurrentYearExpenseAmt>1429</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>50 OPTNS PUT GILEAD SCIENCES 1/15/16 90</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>3555</BookValueAmt>
+        <EOYFMVAmt>1100</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>100 OPTNS PUT UNITEDHEALTH GRP 1/15/16</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>38019</BookValueAmt>
+        <EOYFMVAmt>500</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>100 OPTNS PUT APPLE INC 1/15/16 100</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>21861</BookValueAmt>
+        <EOYFMVAmt>6000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>50 OPTNS PUT FACEBOOK 2/16/16 95</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>9525</BookValueAmt>
+        <EOYFMVAmt>8600</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Machinery and Equipment</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>32350</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>13581</AccumulatedDepreciationAmt>
+        <BookValueAmt>18769</BookValueAmt>
+        <EOYFMVAmt>32350</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Improvements</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>10000</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1429</AccumulatedDepreciationAmt>
+        <BookValueAmt>8571</BookValueAmt>
+        <EOYFMVAmt>10000</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Land</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>720000</CostOrOtherBasisAmt>
+        <BookValueAmt>720000</BookValueAmt>
+        <EOYFMVAmt>720000</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <LegalFeesGrp>
+        <CategoryTxt>ATTORNEY FEES</CategoryTxt>
+        <LegalFeesAmt>2912</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2912</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherAssetsScheduleGrp>
+        <Desc>ANGUS CATTLE</Desc>
+        <BOYBookValueAmt>43116</BOYBookValueAmt>
+        <EOYBookValueAmt>43116</EOYBookValueAmt>
+        <EOYFMVAmt>43116</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>PUREBRED HORSES</Desc>
+        <BOYBookValueAmt>160000</BOYBookValueAmt>
+        <EOYBookValueAmt>160000</EOYBookValueAmt>
+        <EOYFMVAmt>160000</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>SICILIAN DONKEYS</Desc>
+        <BOYBookValueAmt>1100</BOYBookValueAmt>
+        <EOYBookValueAmt>1100</EOYBookValueAmt>
+        <EOYFMVAmt>1100</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>CATTLE FEED</Desc>
+        <RevenueAndExpensesPerBooksAmt>706</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>706</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CONFERENCE EXPENSE</Desc>
+        <DisbursementsCharitablePrpsAmt>20000</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FILING/USER FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>247</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>177</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>70</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>HORSE LODGING</Desc>
+        <RevenueAndExpensesPerBooksAmt>6750</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>6750</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SUBSCRIPTION FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>167</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>167</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherLiabilitiesDetail>
+        <Desc>SHORT OPTIONS</Desc>
+        <EOYBookValueAmt>209440</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <CategoryTxt>NEVADA COUNTY PROPERTY TAX</CategoryTxt>
+        <Amt>11682</Amt>
+        <DisbursementsCharitablePrpsAmt>11682</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

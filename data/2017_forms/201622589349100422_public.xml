@@ -1,0 +1,686 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-14T16:33:51-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>593544776</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>HURD HAWKINS MEYERS &amp; RADOSEVICHPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2299 TALL PINES DRIVE</AddressLine1Txt>
+        <CityNm>LARGO</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>33771</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>464332181</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE BERMAN FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BERM</BusinessNameControlTxt>
+      <PhoneNum>7274334402</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1200 GULF BLVD SUITE 605</AddressLine1Txt>
+        <CityNm>CLEARWATER</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>33767</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ARTHUR BERMAN</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>7274334402</PhoneNum>
+      <SignatureDt>2016-09-14</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>TD HAWKINS III CPA</PreparerPersonNm>
+      <PTIN>P00745015</PTIN>
+      <PhoneNum>7275011111</PhoneNum>
+      <PreparationDt>2016-09-14</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>261610</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>46</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>46</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>46</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>1203</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>1203</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>1203</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc2">912</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>47757</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>83</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>2161</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1332</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>1249</TotalAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc4">666</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>666</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc5">7</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>7</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>673</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>673</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>15905</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>15905</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>16578</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>673</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>15905</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-14417</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>659</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1249</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>235925</CashBOYAmt>
+        <CashEOYAmt>212710</CashEOYAmt>
+        <CashEOYFMVAmt>212710</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>42955</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">51753</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>48900</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>278880</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>264463</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>261610</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>278880</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>264463</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>278880</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>264463</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>278880</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>264463</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>278880</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-14417</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>264463</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>264463</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>83</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>10187</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>213901</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.047625</DistributionYr1Rt>
+        <NetVlNoncharitableAssetsYr2Amt>147750</NetVlNoncharitableAssetsYr2Amt>
+        <TotalDistributionRt>0.047625</TotalDistributionRt>
+        <AverageDistributionRt>0.047625</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>266364</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>12686</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>7</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>12693</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>15905</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>7</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>7</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>7</TaxBasedOnInvestmentIncomeAmt>
+        <AppliedToEsTaxAmt>13</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>13</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>6</OverpaymentAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+        <RefundAmt>6</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>ARTHUR BERMAN</IndividualWithBooksNm>
+        <PhoneNum>7274334402</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1200 GULF BLVD 605</AddressLine1Txt>
+          <CityNm>CLEARWATER</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33767</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ARTHUR BERMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 GULF BLVD 605</AddressLine1Txt>
+            <CityNm>CLEARWATER</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33767</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BONNIE BERMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 GULF BLVD 605</AddressLine1Txt>
+            <CityNm>CLEARWATER</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33767</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ESTELLE BERMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>13-B STRATFORD DR EAST</AddressLine1Txt>
+            <CityNm>BOYNTON BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33436</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ERICK BERMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 GULF BLVD 605</AddressLine1Txt>
+            <CityNm>CLEARWATER</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33767</ZIPCd>
+          </USAddress>
+          <TitleTxt>MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAIMIE BERMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1600 GULF BLVD 605</AddressLine1Txt>
+            <CityNm>CLEARWATER</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33767</ZIPCd>
+          </USAddress>
+          <TitleTxt>MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>CONTRIBUTIONS TO MENORAH MANOR OF 3,823; TO MIND BODY AWARENESS PROJECT OF 1,166; TO JEWISH NATIONAL FUND OF 1,333; TO SHANE KOHLER OF 1,000; TO GULF COAST JEWISH FAMILY SERVICES OF 1,333; TO KIDS IN DISTRESS OF 850; TO INWARD BOUND OF 1,833; TO AM FRIENDS OF MOGEN DAVID ADOM OF 2,000 AND RELATED EXPENSES ARE MADE TO PERPETUATE AND ENLARGE THE NOTION OF CHARITABLE GIVING AND ADVANCE EDUCATION AND WELL BEING OF CHILDREN AND FAMILIES.</Description1Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>46102</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>224318</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>270420</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>270420</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>4056</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>266364</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>13318</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>13318</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>7</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>7</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>13311</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>13311</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>13311</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>15905</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>15905</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>7</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>15898</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>13311</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>832</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>15905</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>832</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>13311</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>1762</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>1762</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>1762</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>1762</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MIND BODY AWARENESS PROJECT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 7541</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94601</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MEDICAL CONDITIONS</GrantOrContributionPurposeTxt>
+          <Amt>1166</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KIDS IN DISTRESS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1301 N CONGRESS AVE</AddressLine1Txt>
+            <AddressLine2Txt>STE 310</AddressLine2Txt>
+            <CityNm>BOYNTON BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33426</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FAMILY SERVICES</GrantOrContributionPurposeTxt>
+          <Amt>850</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MULTIPLE SCLEROSIS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6520 N ANDREWS AVE</AddressLine1Txt>
+            <CityNm>FT LAUDERDALE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33309</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MEDICAL CONDITIONS</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INWARD BOUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1517 MC CARTHY ROAD</AddressLine1Txt>
+            <CityNm>EAGAN</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55121</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SHELTER KIDS IN CRISIS</GrantOrContributionPurposeTxt>
+          <Amt>1833</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MENORAH MANOR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>255 59TH ST N</AddressLine1Txt>
+            <CityNm>ST PETERSBURG</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33710</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MEDICAL HEALTH</GrantOrContributionPurposeTxt>
+          <Amt>3823</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JEWISH NATIONAL FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>42 EAST 69TH STREET</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10021</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1333</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AM FRIENDS OF MOGEN DAVID ADOM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>352 7TH AVE STE 400</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>EMERGENCY MEDICAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GULF COAST JEWISH FAMILY SERVICES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>14041 ICOT BLVD</AddressLine1Txt>
+            <CityNm>CLEARWATER</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33760</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FAMILY SERVICES</GrantOrContributionPurposeTxt>
+          <Amt>1333</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAMADHI FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>W CHARLESTON BLVD</AddressLine1Txt>
+            <AddressLine2Txt>STE 2-865</AddressLine2Txt>
+            <CityNm>LAS VEGAS</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>89117</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FAMILY SERVICES</GrantOrContributionPurposeTxt>
+          <Amt>1333</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SIMON WEISENTHAL CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>W PICO BLVD</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90035</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FAMILY SERVICES</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RUTH ECKERD HALL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>N MCMULLEN BOOTH RD</AddressLine1Txt>
+            <CityNm>CLEARWATER</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33759</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ARTS &amp; PERFORMANCES</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN ASSC PHYSICIAN SPECIALIST</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5550 WEST EXECUTIVE DR</AddressLine1Txt>
+            <AddressLine2Txt>STE 400</AddressLine2Txt>
+            <CityNm>TAMPA</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33609</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MEDICAL HEALTH</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF YAD ELIEZER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1102 EAST 26TH STREET</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11210</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MEDICAL HEALTH</GrantOrContributionPurposeTxt>
+          <Amt>333</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DESIGN GLOBAL SCHOOL-SHANE KOHLER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1249 F STREET</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92102</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JASON CHAPMANTRANSPORTATIONSON</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>C/O 1660 GULF BLVD</AddressLine1Txt>
+            <CityNm>CLEARWATER</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33767</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MEDICAL HEALTH</GrantOrContributionPurposeTxt>
+          <Amt>351</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>15905</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>46</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1203</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>912</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>2161</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>2161</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AQR DIVERSIFIED ARBITRAGE FD</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>2339</GrossSalesPriceAmt>
+        <BasisAmt>2539</BasisAmt>
+        <TotalNetAmt>-200</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMERICAN MUTUAL FD CL F2</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>2275</GrossSalesPriceAmt>
+        <BasisAmt>2121</BasisAmt>
+        <TotalNetAmt>154</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ARTISAN INTERNATIONAL FD</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>2099</GrossSalesPriceAmt>
+        <BasisAmt>2015</BasisAmt>
+        <TotalNetAmt>84</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BAIRD AGGREGATE BD FD</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>4136</GrossSalesPriceAmt>
+        <BasisAmt>4132</BasisAmt>
+        <TotalNetAmt>4</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EUROPACIFIC GROWTH FD</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>2056</GrossSalesPriceAmt>
+        <BasisAmt>2024</BasisAmt>
+        <TotalNetAmt>32</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FEDERATED SHORT TERM INC FD</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>4039</GrossSalesPriceAmt>
+        <BasisAmt>4053</BasisAmt>
+        <TotalNetAmt>-14</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>GATEWAY FD CL A</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>3146</GrossSalesPriceAmt>
+        <BasisAmt>3040</BasisAmt>
+        <TotalNetAmt>106</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>JPMORGAN CORE BOND FD</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>5230</GrossSalesPriceAmt>
+        <BasisAmt>5126</BasisAmt>
+        <TotalNetAmt>104</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CLEARBRIDGE DIVIDEN STRATEGY</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>4540</GrossSalesPriceAmt>
+        <BasisAmt>4072</BasisAmt>
+        <TotalNetAmt>468</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LOOMIS SAYLES GROWTH FD</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>2300</GrossSalesPriceAmt>
+        <BasisAmt>2015</BasisAmt>
+        <TotalNetAmt>285</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MFS RESEARCH FD CL A</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>2787</GrossSalesPriceAmt>
+        <BasisAmt>2644</BasisAmt>
+        <TotalNetAmt>143</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MAINSTAY EPOCH GLOBAL</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>2705</GrossSalesPriceAmt>
+        <BasisAmt>2656</BasisAmt>
+        <TotalNetAmt>49</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PRUDENTIAL HIGH YIELD FD</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>2561</GrossSalesPriceAmt>
+        <BasisAmt>2641</BasisAmt>
+        <TotalNetAmt>-80</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>T ROWE PRICE SMALL CAP VALUE FD</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>1970</GrossSalesPriceAmt>
+        <BasisAmt>2131</BasisAmt>
+        <TotalNetAmt>-161</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SPDR BARCLAYS CAPITAL INTL TR.</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>1975</GrossSalesPriceAmt>
+        <BasisAmt>2050</BasisAmt>
+        <TotalNetAmt>-75</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SPDR BARCLAYS CAP AGGRE. BD</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>3516</GrossSalesPriceAmt>
+        <BasisAmt>3586</BasisAmt>
+        <TotalNetAmt>-70</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MUTUAL FUNDS</StockNm>
+        <EOYBookValueAmt>51753</EOYBookValueAmt>
+        <EOYFMVAmt>48900</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc4">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>BROKER FEES</CategoryTxt>
+        <Amt>666</Amt>
+        <NetInvestmentIncomeAmt>666</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>7</Amt>
+        <NetInvestmentIncomeAmt>7</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

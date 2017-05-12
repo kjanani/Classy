@@ -1,0 +1,765 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-12T15:00:23-05:00</ReturnTs>
+    <TaxPeriodEndDt>2016-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>113518842</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>MARKS PANETH LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>685 THIRD AVENUE</AddressLine1Txt>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10017</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>133490882</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE KLEBAN FOUNDATION INC</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O MARKS PANETH LLP</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>KLEB</BusinessNameControlTxt>
+      <PhoneNum>2125038800</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>685 THIRD AVENUE</AddressLine1Txt>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10017</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>RICHARD MALTBY</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>2125038800</PhoneNum>
+      <SignatureDt>2016-08-19</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>RICHARD J TERRANO</PreparerPersonNm>
+      <PTIN>P00101716</PTIN>
+      <PhoneNum>2125038800</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc1235000001" referenceDocumentId="RetDoc2258700001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2983465</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>35</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>35</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>68442</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>68442</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>1198</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1216042</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>1198</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">200151</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>200151</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>269826</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>269826</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>20000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>10000</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>10000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">20074</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>2008</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>18066</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">5400</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2700</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2700</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">40794</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>20794</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>20000</OtherProfFeesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">11898</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>742</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>10906</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>98166</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>36244</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>61672</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>200000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>200000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>298166</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>36244</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>261672</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-28340</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>233582</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>157962</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>338266</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>338266</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>2839176</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc2210400001">2530130</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>2645199</USGovtObligationsEOYFMVAmt>
+        <TotalAssetsBOYAmt>2997138</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2868396</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2983465</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>2997138</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>2868396</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2997138</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2868396</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2997138</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2868396</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2997138</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-28340</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>2968798</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">100402</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2868396</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100M MA PT AUTH-C BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-18</AcquiredDt>
+          <SoldDt>2015-07-01</SoldDt>
+          <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100M RICHMOND GO-B BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-04-10</AcquiredDt>
+          <SoldDt>2015-10-12</SoldDt>
+          <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>55M PT NY NJ 142ND BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-26</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>55000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>55000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50M DUNCANVLE ISD BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-05-29</AcquiredDt>
+          <SoldDt>2016-02-03</SoldDt>
+          <GrossSalesPriceAmt>50004</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>50069</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-65</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-65</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100M PIANO ISD BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-01-21</AcquiredDt>
+          <SoldDt>2016-04-21</SoldDt>
+          <GrossSalesPriceAmt>107584</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>107659</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-75</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-75</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75M MASSACHUSETTS BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-08-21</AcquiredDt>
+          <SoldDt>2015-07-01</SoldDt>
+          <GrossSalesPriceAmt>75000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>75000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100M NJ ST EDL FACS BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-09-20</AcquiredDt>
+          <SoldDt>2015-07-01</SoldDt>
+          <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150M MO ST HWYS-B BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-10-01</AcquiredDt>
+          <SoldDt>2015-11-10</SoldDt>
+          <GrossSalesPriceAmt>153174</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>152644</CostOrOtherBasisAmt>
+          <GainOrLossAmt>530</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>530</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100M TEXAS TRANSN C BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-04-09</AcquiredDt>
+          <SoldDt>2015-11-03</SoldDt>
+          <GrossSalesPriceAmt>101783</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>101614</CostOrOtherBasisAmt>
+          <GainOrLossAmt>169</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>169</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>30M NYC TFA A-2 BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-09-21</AcquiredDt>
+          <SoldDt>2015-12-07</SoldDt>
+          <GrossSalesPriceAmt>30000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>30000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100M HARRIS CNTY TE BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-10-27</AcquiredDt>
+          <SoldDt>2016-01-21</SoldDt>
+          <GrossSalesPriceAmt>103106</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>102937</CostOrOtherBasisAmt>
+          <GainOrLossAmt>169</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>169</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>115M GOOSE CREEK TE BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-12-18</AcquiredDt>
+          <SoldDt>2016-02-03</SoldDt>
+          <GrossSalesPriceAmt>120173</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>119921</CostOrOtherBasisAmt>
+          <GainOrLossAmt>252</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>252</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20M WORCESTER GO-A BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-12-17</AcquiredDt>
+          <SoldDt>2016-02-03</SoldDt>
+          <GrossSalesPriceAmt>20218</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>218</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>218</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100M NEW YORK NY BE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-14</AcquiredDt>
+          <SoldDt>2016-03-16</SoldDt>
+          <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>1198</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>267974</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>3043338</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.088053</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>255359</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>3118409</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.081888</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>305172</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>3173579</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.096160</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>491249</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>3199094</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.153559</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>48549</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>3077410</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.015776</DistributionYr5Rt>
+        <TotalDistributionRt>0.435436</TotalDistributionRt>
+        <AverageDistributionRt>0.087087</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>2904905</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>252979</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>2336</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>255315</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>261672</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>2336</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>2336</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2336</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>3200</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>3200</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1192000001">X</Form2220AttachedInd>
+        <EsPenaltyAmt>3</EsPenaltyAmt>
+        <OverpaymentAmt>861</OverpaymentAmt>
+        <AppliedToESTaxAmt>861</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>SARAH DOUGLAS</IndividualWithBooksNm>
+        <PhoneNum>6464619376</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>275 SEVENTH AVENUE 26TH FLOOR</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10001</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>1</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>1</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>1</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>0</TransactionsFailToQlfyAsExcInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MAURY YESTON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O MARKS PANETH LLP 685 THIRD AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JONATHAN WEIDMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O MARKS PANETH LLP 685 THIRD AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SHELDON HARNICK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O MARKS PANETH LLP 685 THIRD AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RICHARD MALTBY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O MARKS PANETH LLP 685 THIRD AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANDRE BISHOP</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O MARKS PANETH LLP 685 THIRD AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SARAH DOUGLAS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O MARKS PANETH LLP 685 THIRD AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELLIOT BROWN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O MARKS PANETH LLP 685 THIRD AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </USAddress>
+          <TitleTxt>ASSISTANT TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RICHARD TERRANO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O MARKS PANETH LLP 685 THIRD AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>GRANTS MADE TO PROMISING THEATRICAL LYRICISTS AND LIBRET- TISTS. SELECTION TO BE MADE BY A PANEL OF THEATRICAL LYRICISTS AND LIBRETTISTS.</Description1Txt>
+        <Expenses1Amt>200000</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2710491</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>238651</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2949142</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2949142</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>44237</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2904905</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>145245</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>145245</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2336</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2336</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>142909</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>142909</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>142909</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>261672</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>261672</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>2336</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>259336</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>142909</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr4Amt>339706</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>151857</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>103082</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>122169</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>716814</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>261672</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>142909</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>118763</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>835577</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>835577</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>339706</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>151857</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>103082</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>122169</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>118763</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>ELLIOT H BROWN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>488 MADISON AVENUE 18TH FLOOR</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2129355500</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>WRITTEN APPLICATION</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>GRANTS MADE TO PROMISING THEATRICAL LYRICISTS AND LIBRETTISTS. SELECTION TO BE MADE BY A PANEL OF THEATRICAL LYRICISTS AND LIBRETTISTS.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAM CARNER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>241 W 109TH STREET APT 2C</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AWARD</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAM WILLMOTT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10-01 47TH ROAD 3RD FLOOR</AddressLine1Txt>
+            <CityNm>LONG ISLAND CITY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AWARD</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>STACEY LUFTIG</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>321 WEST 24TH STREET APT 15E</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AWARD</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DANIEL GOLDSTEIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>764 UNION STREET 4</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11215</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AWARD</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>200000</TotalGrantOrContriPdDurYrAmt>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>DANIEL GOLDSTEIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>764 UNION STREET 4</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11215</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AWARD</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>STACEY LUFTIG</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>321 WEST 24TH STREET APT 15E</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AWARD</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <TotalGrantOrContriApprvFutAmt>100000</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>35</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>68442</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>15</ExclusionCd>
+          <ExclusionAmt>200151</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>1198</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>269826</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>269826</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>MARKS PANETH LLP</CategoryTxt>
+        <Amt>5400</Amt>
+        <NetInvestmentIncomeAmt>2700</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2700</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GeneralExplanationAttachment documentId="RetDoc2258700001">
+      <GeneralExplanationGrp>
+        <IdentifierTxt>OFFICERS</IdentifierTxt>
+        <FormAndLineReferenceDesc>FORM 990-PF</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>RICHARD TERRANO, TREASURER, IS A PARTNER WITH MARKS PANETH LLP AND, AS SUCH, SHARES IN THE PROFITS OF THE FIRM. MARKS PANETH LLP PROVIDES ACCOUNTING AND TAX PREPARATION SERVICES TO THE KLEBAN FOUNDATION, INC.ELLIOT BROWN, ASSISTANT TREASURER, IS AN ATTORNEY WITH FRANKLIN, WEINRIB, RUDELL + VASSALLO, P.C. AND, AS SUCH, SHARES IN THE PROFITS OF THE FIRM. FRANKLIN, WEINRIB, RUDELL + VASSALLO, P.C. PROVIDES LEGAL SERVICES FOR THE KLEBAN FOUNDATION, INC.</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+    </GeneralExplanationAttachment>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtObligationsBookVlEOYAmt>0</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>0</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>2530130</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>2645199</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>FRANKLIN WEINRIB RUDELL &amp; VASSALLO P.C</CategoryTxt>
+        <LegalFeesAmt>20074</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>2008</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>18066</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>EXCISE TAX ON INVESTMENT INCOME</Desc>
+        <Amt>2700</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED GAIN(LOSS)</Desc>
+        <Amt>97702</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>AWARD EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>10165</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>10165</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1468</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>734</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>734</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>NYS REGISTRATION FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>250</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>15</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>8</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>7</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>ROYALTY INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>200151</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>200151</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>200151</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>NEW DRAMATISTS</CategoryTxt>
+        <Amt>20000</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>20000</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES- MORGAN STANLEY</CategoryTxt>
+        <Amt>20794</Amt>
+        <NetInvestmentIncomeAmt>20794</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

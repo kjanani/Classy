@@ -1,0 +1,2854 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-07T07:28:43-07:00</ReturnTs>
+    <TaxPeriodEndDt>2016-03-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Andrew R Glickman CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3601 Village Green Dr</AddressLine1Txt>
+        <CityNm>Roswell</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>30075</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-04-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>311781836</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Milton and Norma Cohen Family</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>Foundation Inc</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MILT</BusinessNameControlTxt>
+      <PhoneNum>5164313036</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1233 Beech Street</AddressLine1Txt>
+        <CityNm>Atlantic Beach</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11509</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Jodie Glickman</PersonNm>
+      <PersonTitleTxt>Treasurer</PersonTitleTxt>
+      <SignatureDt>2016-09-01</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Andrew R Glickman</PreparerPersonNm>
+      <PTIN>P00007843</PTIN>
+      <PhoneNum>6782269098</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2758309</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>163</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>163</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>110620</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>84951</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>105754</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2153167</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>182754</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">810</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>810</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>217347</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>268678</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>22500</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>7500</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>15000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">7574</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>3787</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>3787</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">6000</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>2000</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>4000</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">-2300</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">21373</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>21123</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>250</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>55147</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>34410</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>23037</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>130393</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>129043</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>185540</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>34410</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>152080</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>31807</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>234268</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>97406</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>187056</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>187056</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>724169</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvestmentsGovtObligationsSche">276874</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>155788</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>1546165</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">1414638</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1795428</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>293808</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedule">813425</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>619453</CorporateBondsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">5103</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">6465</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">584</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>2666651</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2698458</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2758309</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>2666651</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>2698458</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2666651</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2698458</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2666651</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2698458</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2666651</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>31807</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2698458</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2698458</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 3M Co</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-04-04</AcquiredDt>
+          <SoldDt>2015-07-31</SoldDt>
+          <GrossSalesPriceAmt>7562</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4631</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2931</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2931</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 Alibaba Group Hldgs -SP ADR</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-03-10</AcquiredDt>
+          <SoldDt>2016-02-19</SoldDt>
+          <GrossSalesPriceAmt>5046</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6100</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1054</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1054</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Alibaba Group Hldgs -SP ADR</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-09-18</AcquiredDt>
+          <SoldDt>2016-02-19</SoldDt>
+          <GrossSalesPriceAmt>3364</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3400</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-36</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-36</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>65 Allergan PLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-26</AcquiredDt>
+          <SoldDt>2016-01-05</SoldDt>
+          <GrossSalesPriceAmt>20106</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18815</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1291</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1291</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.027 Alphabet Inc/CA-CL C</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-11-21</AcquiredDt>
+          <SoldDt>2015-05-08</SoldDt>
+          <GrossSalesPriceAmt>15</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.04 Alphabet Inc/CA-CL C</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-04-21</AcquiredDt>
+          <SoldDt>2015-05-08</SoldDt>
+          <GrossSalesPriceAmt>22</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.014 Alphabet Inc/CA-CL C</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-01-20</AcquiredDt>
+          <SoldDt>2015-05-08</SoldDt>
+          <GrossSalesPriceAmt>7</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 Altera Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-05-05</AcquiredDt>
+          <SoldDt>2015-12-28</SoldDt>
+          <GrossSalesPriceAmt>10800</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8941</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1859</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1859</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>250 Altera Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-02</AcquiredDt>
+          <SoldDt>2015-12-28</SoldDt>
+          <GrossSalesPriceAmt>13500</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10640</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2860</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2860</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>15 Amazon.com Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-10-27</AcquiredDt>
+          <SoldDt>2015-12-21</SoldDt>
+          <GrossSalesPriceAmt>9921</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4327</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5594</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5594</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 American Express</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-17</AcquiredDt>
+          <SoldDt>2015-09-28</SoldDt>
+          <GrossSalesPriceAmt>5508</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5893</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-385</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-385</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 American Express</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-10-07</AcquiredDt>
+          <SoldDt>2015-09-28</SoldDt>
+          <GrossSalesPriceAmt>14688</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7588</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7100</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7100</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 American Express</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-08-08</AcquiredDt>
+          <SoldDt>2015-09-28</SoldDt>
+          <GrossSalesPriceAmt>3672</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4334</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-662</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-662</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125 Antero Resources Corporation</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-03-05</AcquiredDt>
+          <SoldDt>2015-08-27</SoldDt>
+          <GrossSalesPriceAmt>3029</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4674</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1645</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1645</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 Antero Resources Corporation</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-10-11</AcquiredDt>
+          <SoldDt>2015-08-21</SoldDt>
+          <GrossSalesPriceAmt>3696</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7796</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4100</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4100</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Antero Resources Corporation</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-11-13</AcquiredDt>
+          <SoldDt>2015-08-21</SoldDt>
+          <GrossSalesPriceAmt>1232</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2699</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1467</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1467</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Antero Resources Corporation</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-11-15</AcquiredDt>
+          <SoldDt>2015-08-21</SoldDt>
+          <GrossSalesPriceAmt>616</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1347</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-731</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-731</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Antero Resources Corporation</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-11-18</AcquiredDt>
+          <SoldDt>2015-08-24</SoldDt>
+          <GrossSalesPriceAmt>1181</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2699</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1518</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1518</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Antero Resources Corporation</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-13</AcquiredDt>
+          <SoldDt>2015-08-24</SoldDt>
+          <GrossSalesPriceAmt>590</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1364</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-774</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-774</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Antero Resources Corporation</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-13</AcquiredDt>
+          <SoldDt>2015-08-27</SoldDt>
+          <GrossSalesPriceAmt>606</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1364</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-758</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-758</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Antero Resources Corporation</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-04-14</AcquiredDt>
+          <SoldDt>2015-08-27</SoldDt>
+          <GrossSalesPriceAmt>1211</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2987</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1776</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1776</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>45 Apple Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-04-12</AcquiredDt>
+          <SoldDt>2015-07-23</SoldDt>
+          <GrossSalesPriceAmt>5677</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1560</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4117</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4117</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 ASML Holding NV</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-07-16</AcquiredDt>
+          <SoldDt>2016-02-09</SoldDt>
+          <GrossSalesPriceAmt>4273</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4412</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-139</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-139</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Bristol Myers Squibb Co</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-09-25</AcquiredDt>
+          <SoldDt>2016-02-08</SoldDt>
+          <GrossSalesPriceAmt>5990</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3414</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2576</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2576</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 Cabot Oil &amp; Gas Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-04-26</AcquiredDt>
+          <SoldDt>2015-06-04</SoldDt>
+          <GrossSalesPriceAmt>2562</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1027</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1535</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1535</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 Cabot Oil &amp; Gas Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-04-26</AcquiredDt>
+          <SoldDt>2015-06-09</SoldDt>
+          <GrossSalesPriceAmt>2557</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1027</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1530</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1530</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 Cabot Oil &amp; Gas Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-04-26</AcquiredDt>
+          <SoldDt>2015-06-10</SoldDt>
+          <GrossSalesPriceAmt>2544</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1027</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1517</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1517</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125 CDW Corporation</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-12-16</AcquiredDt>
+          <SoldDt>2015-10-09</SoldDt>
+          <GrossSalesPriceAmt>5330</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4182</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1148</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1148</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>650 Chicago Ill Brd Ed 6.519% 12/1/40</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-03-30</AcquiredDt>
+          <SoldDt>2015-07-21</SoldDt>
+          <GrossSalesPriceAmt>52648</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>64925</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-12277</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-12277</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1350 Chicago Ill Brd Ed 6.519% 12/1/40</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-05-11</AcquiredDt>
+          <SoldDt>2015-07-21</SoldDt>
+          <GrossSalesPriceAmt>109346</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117456</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-8110</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-8110</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 Chicago Ill Brd Ed 6.519% 12/1/40</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-05-19</AcquiredDt>
+          <SoldDt>2015-07-21</SoldDt>
+          <GrossSalesPriceAmt>16199</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16653</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-454</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-454</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Church &amp; Dwight Co Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-19</AcquiredDt>
+          <SoldDt>2015-08-05</SoldDt>
+          <GrossSalesPriceAmt>4474</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1594</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2880</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2880</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Church &amp; Dwight Co Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-19</AcquiredDt>
+          <SoldDt>2016-02-18</SoldDt>
+          <GrossSalesPriceAmt>2238</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>797</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1441</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1441</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Church &amp; Dwight Co Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-02-02</AcquiredDt>
+          <SoldDt>2016-02-18</SoldDt>
+          <GrossSalesPriceAmt>2238</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>771</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1467</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1467</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 Citizens Communications Co 9% 8/15/31</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-06-24</AcquiredDt>
+          <SoldDt>2015-09-11</SoldDt>
+          <GrossSalesPriceAmt>26169</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28731</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2562</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2562</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 CME Group Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-13</AcquiredDt>
+          <SoldDt>2015-12-07</SoldDt>
+          <GrossSalesPriceAmt>4958</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3724</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1234</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1234</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 Coca Cola Co</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-02</AcquiredDt>
+          <SoldDt>2015-06-11</SoldDt>
+          <GrossSalesPriceAmt>12025</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9663</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2362</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2362</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Coca Cola Co</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-02</AcquiredDt>
+          <SoldDt>2015-06-25</SoldDt>
+          <GrossSalesPriceAmt>4008</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3221</CostOrOtherBasisAmt>
+          <GainOrLossAmt>787</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>787</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Coca Cola Co</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-11-09</AcquiredDt>
+          <SoldDt>2015-06-25</SoldDt>
+          <GrossSalesPriceAmt>4008</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3631</CostOrOtherBasisAmt>
+          <GainOrLossAmt>377</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>377</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 Comcast Corp-A SPL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-02</AcquiredDt>
+          <SoldDt>2015-04-01</SoldDt>
+          <GrossSalesPriceAmt>4244</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1795</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2449</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2449</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Comcast Corp-A SPL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-04-04</AcquiredDt>
+          <SoldDt>2015-04-01</SoldDt>
+          <GrossSalesPriceAmt>1415</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>581</CostOrOtherBasisAmt>
+          <GainOrLossAmt>834</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>834</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Comcast Corp-A SPL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-04-04</AcquiredDt>
+          <SoldDt>2015-04-06</SoldDt>
+          <GrossSalesPriceAmt>1445</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>581</CostOrOtherBasisAmt>
+          <GainOrLossAmt>864</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>864</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125 Concho Resources Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-09</AcquiredDt>
+          <SoldDt>2016-02-17</SoldDt>
+          <GrossSalesPriceAmt>11939</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14143</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2204</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2204</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Concho Resources Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-11</AcquiredDt>
+          <SoldDt>2016-02-17</SoldDt>
+          <GrossSalesPriceAmt>4776</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5364</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-588</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-588</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Concho Resources Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-13</AcquiredDt>
+          <SoldDt>2016-02-17</SoldDt>
+          <GrossSalesPriceAmt>2388</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2554</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-166</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-166</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10 Constellation Brands Inc CL A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-02-20</AcquiredDt>
+          <SoldDt>2015-07-27</SoldDt>
+          <GrossSalesPriceAmt>1172</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>433</CostOrOtherBasisAmt>
+          <GainOrLossAmt>739</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>739</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10 Constellation Brands Inc CL A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-02-20</AcquiredDt>
+          <SoldDt>2015-08-26</SoldDt>
+          <GrossSalesPriceAmt>1215</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>433</CostOrOtherBasisAmt>
+          <GainOrLossAmt>782</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>782</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Constellation Brands Inc CL A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-02-20</AcquiredDt>
+          <SoldDt>2015-10-15</SoldDt>
+          <GrossSalesPriceAmt>3377</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1082</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2295</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2295</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>55 Constellation Brands Inc CL A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-02-20</AcquiredDt>
+          <SoldDt>2016-01-25</SoldDt>
+          <GrossSalesPriceAmt>8140</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2380</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5760</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5760</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000 Continental ResourcesSr NT 4.9%</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-01-12</AcquiredDt>
+          <SoldDt>2016-03-17</SoldDt>
+          <GrossSalesPriceAmt>72744</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>61006</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11738</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11738</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Costco Wholesale Corp-New</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-02-10</AcquiredDt>
+          <SoldDt>2015-04-09</SoldDt>
+          <GrossSalesPriceAmt>7444</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5670</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1774</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1774</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Costco Wholesale Corp-New</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-02-10</AcquiredDt>
+          <SoldDt>2015-11-05</SoldDt>
+          <GrossSalesPriceAmt>3908</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2835</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1073</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1073</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 CVS Health Corporation</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-09-01</AcquiredDt>
+          <SoldDt>2016-01-29</SoldDt>
+          <GrossSalesPriceAmt>4750</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5034</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-284</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-284</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.354 Dentsply Sirona Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-10-01</AcquiredDt>
+          <SoldDt>2016-03-01</SoldDt>
+          <GrossSalesPriceAmt>21</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.162 Dentsply Sirona Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-06-04</AcquiredDt>
+          <SoldDt>2016-03-01</SoldDt>
+          <GrossSalesPriceAmt>10</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.324 Dentsply Sirona Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-06-06</AcquiredDt>
+          <SoldDt>2016-03-01</SoldDt>
+          <GrossSalesPriceAmt>20</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8</CostOrOtherBasisAmt>
+          <GainOrLossAmt>12</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 Estee Lauder Cos Cl A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-07-25</AcquiredDt>
+          <SoldDt>2016-01-07</SoldDt>
+          <GrossSalesPriceAmt>6256</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3922</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2334</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2334</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3895.5 Fairholme Fund</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-04-23</AcquiredDt>
+          <SoldDt>2015-12-15</SoldDt>
+          <GrossSalesPriceAmt>72963</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>113166</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-40203</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-40203</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>104.5 Fairholme Fund</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-12-16</AcquiredDt>
+          <SoldDt>2015-12-15</SoldDt>
+          <GrossSalesPriceAmt>1957</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3036</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1079</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1079</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Fiserv Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2007-08-22</AcquiredDt>
+          <SoldDt>2015-07-23</SoldDt>
+          <GrossSalesPriceAmt>2166</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>598</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1568</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1568</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Fiserv Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2007-08-22</AcquiredDt>
+          <SoldDt>2015-09-28</SoldDt>
+          <GrossSalesPriceAmt>2123</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>598</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1525</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1525</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 Fiserv Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2007-08-22</AcquiredDt>
+          <SoldDt>2016-01-25</SoldDt>
+          <GrossSalesPriceAmt>6819</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1794</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5025</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5025</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>180 FMC Technologies</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-08-26</AcquiredDt>
+          <SoldDt>2015-10-14</SoldDt>
+          <GrossSalesPriceAmt>6109</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4747</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1362</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1362</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 FMC Technologies</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-04-25</AcquiredDt>
+          <SoldDt>2015-10-14</SoldDt>
+          <GrossSalesPriceAmt>1697</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2318</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-621</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-621</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 FMC Technologies</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-07-25</AcquiredDt>
+          <SoldDt>2015-10-14</SoldDt>
+          <GrossSalesPriceAmt>848</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1051</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-203</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-203</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125 FMC Technologies</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-08-08</AcquiredDt>
+          <SoldDt>2015-10-14</SoldDt>
+          <GrossSalesPriceAmt>4242</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6735</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2493</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2493</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 FMC Technologies</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-11-19</AcquiredDt>
+          <SoldDt>2015-10-14</SoldDt>
+          <GrossSalesPriceAmt>2545</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3717</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1172</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1172</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 Freeport-McMoran Copper 5.45% 3/</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-01-27</AcquiredDt>
+          <SoldDt>2016-03-18</SoldDt>
+          <GrossSalesPriceAmt>33744</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21253</CostOrOtherBasisAmt>
+          <GainOrLossAmt>12491</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12491</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 Grupo Televias SA GDR</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-08-04</AcquiredDt>
+          <SoldDt>2015-10-05</SoldDt>
+          <GrossSalesPriceAmt>5292</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6992</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1700</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1700</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>350 Hess Corp. 5.6% 2/15/41</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-02-01</AcquiredDt>
+          <SoldDt>2016-03-04</SoldDt>
+          <GrossSalesPriceAmt>27297</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25270</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2027</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2027</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 Hess Corp. 5.6% 2/15/41</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-02-16</AcquiredDt>
+          <SoldDt>2016-03-04</SoldDt>
+          <GrossSalesPriceAmt>23397</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21981</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1416</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1416</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Intuit Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-05-23</AcquiredDt>
+          <SoldDt>2015-05-25</SoldDt>
+          <GrossSalesPriceAmt>5369</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2930</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2439</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2439</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Intuit Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-05-23</AcquiredDt>
+          <SoldDt>2015-10-05</SoldDt>
+          <GrossSalesPriceAmt>2269</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1465</CostOrOtherBasisAmt>
+          <GainOrLossAmt>804</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>804</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 IPG Photonics Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-09-12</AcquiredDt>
+          <SoldDt>2016-01-26</SoldDt>
+          <GrossSalesPriceAmt>8077</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6884</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1193</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1193</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>400 Kinder Morgan Energy Ptrs 6.375%</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-01-27</AcquiredDt>
+          <SoldDt>2016-03-29</SoldDt>
+          <GrossSalesPriceAmt>37294</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>32839</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4455</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4455</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Kraft Food Group Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-06-08</AcquiredDt>
+          <SoldDt>2015-07-06</SoldDt>
+          <GrossSalesPriceAmt>8914</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8336</CostOrOtherBasisAmt>
+          <GainOrLossAmt>578</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>578</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.5 liberty Lilac Group Ser C</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-02</AcquiredDt>
+          <SoldDt>2015-07-08</SoldDt>
+          <GrossSalesPriceAmt>22</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10</CostOrOtherBasisAmt>
+          <GainOrLossAmt>12</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000 Lifetime Brands, Inc.</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2004-09-16</AcquiredDt>
+          <SoldDt>2015-04-16</SoldDt>
+          <GrossSalesPriceAmt>15419</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>270</CostOrOtherBasisAmt>
+          <GainOrLossAmt>15149</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>15149</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000 Lifetime Brands, Inc.</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2004-09-16</AcquiredDt>
+          <SoldDt>2015-06-19</SoldDt>
+          <GrossSalesPriceAmt>15169</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>270</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14899</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14899</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000 Lifetime Brands, Inc.</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2004-09-16</AcquiredDt>
+          <SoldDt>2015-10-09</SoldDt>
+          <GrossSalesPriceAmt>14969</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>270</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14699</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14699</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000 Lifetime Brands, Inc.</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2004-09-16</AcquiredDt>
+          <SoldDt>2015-11-03</SoldDt>
+          <GrossSalesPriceAmt>15579</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>270</CostOrOtherBasisAmt>
+          <GainOrLossAmt>15309</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>15309</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000 Lifetime Brands, Inc.</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2004-09-16</AcquiredDt>
+          <SoldDt>2016-03-30</SoldDt>
+          <GrossSalesPriceAmt>14379</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>270</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14109</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14109</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000 Linn energy LLc Sr NY 7.75% 2/1/21</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-16</AcquiredDt>
+          <SoldDt>2015-05-05</SoldDt>
+          <GrossSalesPriceAmt>86994</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>81506</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5488</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5488</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1380 Linn energy LLc Sr NY 7.75% 2/1/21</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-04</AcquiredDt>
+          <SoldDt>2015-05-06</SoldDt>
+          <GrossSalesPriceAmt>125056</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>111096</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13960</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13960</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Moodys Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-03-19</AcquiredDt>
+          <SoldDt>2015-09-28</SoldDt>
+          <GrossSalesPriceAmt>4878</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2524</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2354</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2354</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 Morgan Stanley</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-07-26</AcquiredDt>
+          <SoldDt>2015-04-20</SoldDt>
+          <GrossSalesPriceAmt>2786</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>978</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1808</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1808</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 Morgan Stanley</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-08-01</AcquiredDt>
+          <SoldDt>2015-04-20</SoldDt>
+          <GrossSalesPriceAmt>11144</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4081</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7063</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7063</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Morgan Stanley</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-12-21</AcquiredDt>
+          <SoldDt>2015-04-20</SoldDt>
+          <GrossSalesPriceAmt>929</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>473</CostOrOtherBasisAmt>
+          <GainOrLossAmt>456</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>456</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 Nestle SA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-02</AcquiredDt>
+          <SoldDt>2015-06-18</SoldDt>
+          <GrossSalesPriceAmt>5630</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4235</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1395</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1395</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125 Nestle SA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-02</AcquiredDt>
+          <SoldDt>2015-07-13</SoldDt>
+          <GrossSalesPriceAmt>9368</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7059</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2309</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2309</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 Omnicom Group Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-10-23</AcquiredDt>
+          <SoldDt>2015-04-09</SoldDt>
+          <GrossSalesPriceAmt>15638</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13730</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1908</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1908</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 Pitney Bowes Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-12</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>3711</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4539</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-828</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-828</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 Pitney Bowes Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-12-13</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>3711</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4446</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-735</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-735</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>325 Pitney Bowes Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-12-16</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>6030</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7209</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1179</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1179</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Pitney Bowes Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-12-17</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>464</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>550</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-86</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-86</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125 Pitney Bowes Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-03-24</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>2319</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3179</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-860</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-860</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Pitney Bowes Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-03-25</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>464</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>644</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-180</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-180</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Pitney Bowes Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-04-28</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>928</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1225</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-297</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-297</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 Pitney Bowes Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-04-29</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>1391</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1870</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-479</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-479</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Praxair</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-02</AcquiredDt>
+          <SoldDt>2015-07-31</SoldDt>
+          <GrossSalesPriceAmt>5705</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4906</CostOrOtherBasisAmt>
+          <GainOrLossAmt>799</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>799</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>65 Praxair</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-02</AcquiredDt>
+          <SoldDt>2015-09-08</SoldDt>
+          <GrossSalesPriceAmt>6759</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6378</CostOrOtherBasisAmt>
+          <GainOrLossAmt>381</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>381</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>65 Precision Castparts Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-01-25</AcquiredDt>
+          <SoldDt>2015-08-18</SoldDt>
+          <GrossSalesPriceAmt>15004</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9252</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5752</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5752</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5 Precision Castparts Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-02-03</AcquiredDt>
+          <SoldDt>2015-08-18</SoldDt>
+          <GrossSalesPriceAmt>1154</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>713</CostOrOtherBasisAmt>
+          <GainOrLossAmt>441</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>441</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Precision Castparts Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-04-29</AcquiredDt>
+          <SoldDt>2015-08-18</SoldDt>
+          <GrossSalesPriceAmt>5771</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6324</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-553</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-553</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Precision Castparts Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-07-24</AcquiredDt>
+          <SoldDt>2015-08-18</SoldDt>
+          <GrossSalesPriceAmt>5771</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5835</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-64</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-64</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>800 Puerto Rico Elec Pwr Auth 5% 7/1/37</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-12-10</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>48746</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>39246</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9500</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9500</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1200 Puerto Rico Elec Pwr Auth 5% 7/1/42</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-12-15</AcquiredDt>
+          <SoldDt>2016-01-11</SoldDt>
+          <GrossSalesPriceAmt>74832</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>58506</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16326</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16326</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000 Puerto Rico Elec Pwr Auth 5.05% 7/1/42</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-05-14</AcquiredDt>
+          <SoldDt>2015-07-28</SoldDt>
+          <GrossSalesPriceAmt>56744</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>58036</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1292</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1292</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>650 Puerto Rico Elec Pwr Auth 5.25% 7/1/35</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-08-13</AcquiredDt>
+          <SoldDt>2016-01-07</SoldDt>
+          <GrossSalesPriceAmt>40171</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>53302</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-13131</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-13131</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>900 Puerto Rico Elec Pwr Auth 6.125% 7/1/40</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-25</AcquiredDt>
+          <SoldDt>2016-01-13</SoldDt>
+          <GrossSalesPriceAmt>56109</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>50068</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6041</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6041</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1050 Puerto Rico Sales Tax 4.85% 8/1/36</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-05-11</AcquiredDt>
+          <SoldDt>2015-09-11</SoldDt>
+          <GrossSalesPriceAmt>58794</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>56811</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1983</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1983</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000 Puerto Rico sales Tax Fing 6.35% 8/1/39</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-24</AcquiredDt>
+          <SoldDt>2016-01-27</SoldDt>
+          <GrossSalesPriceAmt>40371</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>59631</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-19260</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-19260</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1150 Puerto Rico sales Tax Fing Rev Bd 6.05% 8/1/29</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-03-10</AcquiredDt>
+          <SoldDt>2016-01-27</SoldDt>
+          <GrossSalesPriceAmt>45649</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>70300</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-24651</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-24651</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 Range Resources Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-08</AcquiredDt>
+          <SoldDt>2015-04-17</SoldDt>
+          <GrossSalesPriceAmt>9090</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9598</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-508</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-508</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Sandisk Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-08-08</AcquiredDt>
+          <SoldDt>2015-04-07</SoldDt>
+          <GrossSalesPriceAmt>1713</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1447</CostOrOtherBasisAmt>
+          <GainOrLossAmt>266</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>266</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 Sandisk Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-08-08</AcquiredDt>
+          <SoldDt>2016-02-29</SoldDt>
+          <GrossSalesPriceAmt>10918</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8681</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2237</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2237</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Sandisk Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-08-19</AcquiredDt>
+          <SoldDt>2016-02-29</SoldDt>
+          <GrossSalesPriceAmt>7279</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5489</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1790</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1790</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Sandisk Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-23</AcquiredDt>
+          <SoldDt>2016-02-29</SoldDt>
+          <GrossSalesPriceAmt>3639</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3559</CostOrOtherBasisAmt>
+          <GainOrLossAmt>80</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>80</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>15 Schlumberger</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2007-03-20</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>969</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>983</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-14</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-14</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10 Schlumberger</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2007-03-20</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>646</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>656</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-10</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-10</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125 Schlumberger</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-10-17</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>8072</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6223</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1849</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1849</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Schlumberger</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-03-15</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>1614</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1598</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10 Schlumberger</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-12-14</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>646</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>686</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-40</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-40</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Sirona Dental Systems Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-04-04</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>5015</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2552</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2463</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2463</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Sirona Dental Systems Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-04-04</AcquiredDt>
+          <SoldDt>2015-07-30</SoldDt>
+          <GrossSalesPriceAmt>5140</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2552</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2588</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2588</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Sirona Dental Systems Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-06-04</AcquiredDt>
+          <SoldDt>2015-10-30</SoldDt>
+          <GrossSalesPriceAmt>2746</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1036</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1710</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1710</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Toll Brothers</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-12-17</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>1482</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1597</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-115</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-115</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Toll Brothers</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-12-17</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>1482</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1597</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-115</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-115</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 Toll Brothers</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-12-20</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>4445</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4828</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-383</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-383</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 Toll Brothers</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-12-21</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>2223</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2365</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-142</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-142</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Toll Brothers</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-15</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>2964</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3461</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-497</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-497</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Toll Brothers</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-02-21</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>1482</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1699</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-217</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-217</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 Toll Brothers</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-08-08</AcquiredDt>
+          <SoldDt>2016-01-15</SoldDt>
+          <GrossSalesPriceAmt>4445</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4749</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-304</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-304</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1150 Transocean Inc 6.5% 11/15/20</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-03-11</AcquiredDt>
+          <SoldDt>2015-04-16</SoldDt>
+          <GrossSalesPriceAmt>103494</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>101206</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2288</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2288</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1550 Transocean Inc 6.8% 3/15/38</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-04-16</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>111207</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>124781</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-13574</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-13574</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>800 Transocean Inc 6.8% 3/15/38</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-07-21</AcquiredDt>
+          <SoldDt>2015-09-11</SoldDt>
+          <GrossSalesPriceAmt>54994</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>57002</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2008</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2008</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1450 Transocean Inc 6.8% 3/15/38</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-07-21</AcquiredDt>
+          <SoldDt>2015-10-08</SoldDt>
+          <GrossSalesPriceAmt>93519</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>103316</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9797</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9797</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 Tyco Intl</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-08-20</AcquiredDt>
+          <SoldDt>2015-09-29</SoldDt>
+          <GrossSalesPriceAmt>5018</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2346</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2672</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2672</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Tyco Intl</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-11-10</AcquiredDt>
+          <SoldDt>2015-09-29</SoldDt>
+          <GrossSalesPriceAmt>3345</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1715</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1630</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1630</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Tyco Intl</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-07-29</AcquiredDt>
+          <SoldDt>2015-09-29</SoldDt>
+          <GrossSalesPriceAmt>836</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>553</CostOrOtherBasisAmt>
+          <GainOrLossAmt>283</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>283</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Tyco Intl</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-10-05</AcquiredDt>
+          <SoldDt>2015-09-29</SoldDt>
+          <GrossSalesPriceAmt>3345</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2889</CostOrOtherBasisAmt>
+          <GainOrLossAmt>456</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>456</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125 Tyco Intl</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-12-02</AcquiredDt>
+          <SoldDt>2015-09-29</SoldDt>
+          <GrossSalesPriceAmt>4181</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3478</CostOrOtherBasisAmt>
+          <GainOrLossAmt>703</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>703</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Tyco Intl</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-11-13</AcquiredDt>
+          <SoldDt>2015-09-29</SoldDt>
+          <GrossSalesPriceAmt>3345</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4211</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-866</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-866</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 United Health Group Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-02</AcquiredDt>
+          <SoldDt>2015-08-26</SoldDt>
+          <GrossSalesPriceAmt>5649</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2132</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3517</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3517</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20 Valeant pharmaceuticals Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-10-20</AcquiredDt>
+          <SoldDt>2016-03-29</SoldDt>
+          <GrossSalesPriceAmt>580</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3095</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2515</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2515</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Valeant pharmaceuticals Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-10-30</AcquiredDt>
+          <SoldDt>2016-03-29</SoldDt>
+          <GrossSalesPriceAmt>1451</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4758</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3307</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3307</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 Valeant pharmaceuticals Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-04-25</AcquiredDt>
+          <SoldDt>2016-03-29</SoldDt>
+          <GrossSalesPriceAmt>726</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3330</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2604</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2604</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 Valeant pharmaceuticals Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-05-05</AcquiredDt>
+          <SoldDt>2016-03-29</SoldDt>
+          <GrossSalesPriceAmt>2177</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10179</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-8002</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-8002</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Wal-Mart Stores Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-02</AcquiredDt>
+          <SoldDt>2015-04-30</SoldDt>
+          <GrossSalesPriceAmt>7809</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5175</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2634</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2634</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Walt Disney Co</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-09-30</AcquiredDt>
+          <SoldDt>2015-07-16</SoldDt>
+          <GrossSalesPriceAmt>5939</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1517</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4422</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4422</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Walt Disney Co</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-09-30</AcquiredDt>
+          <SoldDt>2015-11-10</SoldDt>
+          <GrossSalesPriceAmt>5802</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1517</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4285</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4285</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 Whitewave Foods Company</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-06-03</AcquiredDt>
+          <SoldDt>2015-07-13</SoldDt>
+          <GrossSalesPriceAmt>2517</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>849</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1668</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1668</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gain Dividends</PropertyDesc>
+          <GainOrLossAmt>80663</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>182754</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-39560</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>180495</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>3244503</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.05563</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>141396</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>3167990</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.04463</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>116153</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>2754375</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.04217</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>93320</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>2641489</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.03533</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>93571</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>2695200</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.03472</DistributionYr5Rt>
+        <TotalDistributionRt>0.212481</TotalDistributionRt>
+        <AverageDistributionRt>0.042496</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>2882561</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>122497</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>2343</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>124840</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>152080</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>2343</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2343</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2343</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>6860</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>6860</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>4517</OverpaymentAmt>
+        <AppliedToESTaxAmt>4517</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Andrew R Glickman</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6782269098</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3601 Village Green Drive</AddressLine1Txt>
+          <CityNm>Roswell</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>30075</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Norma M Cohen</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1233 Beech Street 35</AddressLine1Txt>
+            <CityNm>Atlantic Beach</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11509</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Bruce E Cohen</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1233 Beech Street 35</AddressLine1Txt>
+            <CityNm>Atlantic Beach</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11509</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>7500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Jodie B Glickman</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1233 Beech Street 35</AddressLine1Txt>
+            <CityNm>Atlantic Beach</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11509</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>7500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Laura T Miller</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1233 Beech Street 35</AddressLine1Txt>
+            <CityNm>Atlantic Beach</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11509</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>7500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2775664</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>150210</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>584</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2926458</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2926458</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>43897</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2882561</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>144128</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>144128</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2343</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2343</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>141785</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>141785</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>141785</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>152080</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>152080</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>2343</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>149737</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>141785</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>118400</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>152080</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>118400</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>33680</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>108105</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Cancer Society</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>132 West 32nd Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>3800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Birthright Israel Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>33 East 33rd Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>360</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Brookville Park Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>25 Rolling Drive</AddressLine1Txt>
+            <CityNm>Brookville</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11545</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Columbia University Medical Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>161 Fort Washington Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10032</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>62500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Damon Runyan Cancer Research Fdn</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>55 Broadway</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>7825</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Dysautonomia Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>313 West 39th Street STE 701</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Friends of Growing Up Green Charter</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>39-37 28th Street</AddressLine1Txt>
+            <CityNm>Long Island City</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>1200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Make A Wish Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4742 N 24th Street</AddressLine1Txt>
+            <CityNm>Phoenix</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>3550</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Papanicolaou Corps For Cancer Resea</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1192 East Newport Center</AddressLine1Txt>
+            <CityNm>Deerfield Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33442</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Ronald McDonald House</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>One Kroc Drive</AddressLine1Txt>
+            <CityNm>Oakbrook</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60523</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Sid Jacobson Jewish Community Cente</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 Forest Drive</AddressLine1Txt>
+            <CityNm>East Hills</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11548</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted Contribution</GrantOrContributionPurposeTxt>
+          <Amt>3100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Smile Train Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>41 Madison Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St Judes Childrens Research Hospita</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 St Jude Place</AddressLine1Txt>
+            <CityNm>Memphis</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UJA Federation of NY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>130 East 59th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>21175</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Wounded Warrior Project</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>370 Seventh Avenue Suite 1802</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Hadassah</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 West 58th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>315</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Jewish Adoption Foster Care Options</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4200 N University DR</AddressLine1Txt>
+            <CityNm>Sunrise</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33351</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Let All the Children Play</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>33 South Service Road</AddressLine1Txt>
+            <CityNm>Jericho</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11753</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Memorial Sloan Kettering Cancer Cen</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1275 York Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10065</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Play For Pink Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>175 East 74th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10021</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALS Assoc of Greater NY Chapter</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>42 Broadway ST 1724</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Sunrise Day Camp Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15 Neil Court</AddressLine1Txt>
+            <CityNm>Oceanside</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11572</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Dolphins Cancer Challenge</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>347 Don Shula Drive</AddressLine1Txt>
+            <CityNm>Miami Gardens</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33056</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Adults Children WLearning Disabilit</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>807 S Oyster Bay Road</AddressLine1Txt>
+            <CityNm>Bethpage</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11714</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>All About Cats Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>111 E Sunrise Highway</AddressLine1Txt>
+            <CityNm>Freeport</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11520</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Alzheimers Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>322 Eighth Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Heart Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7272 Greenville Avenue</AddressLine1Txt>
+            <CityNm>Dallas</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75231</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Autism Speaks</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 East 33rd Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Avon Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>777 Third Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Books For Kids Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>440 Park Avenue South</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>850</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Breast Cancer Research Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>60 East 56th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Casablanca Academy Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>400 North 35th Avenue</AddressLine1Txt>
+            <CityNm>Hollywood</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33021</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Cleveland Orchestra</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11001 Euclid Avenue</AddressLine1Txt>
+            <CityNm>Cleveland</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Gift of Hope Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>155 East 47th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Pace Center for Girls Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 West Adams Street</AddressLine1Txt>
+            <CityNm>Jacksonville</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Shuzz Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>222 Clematis Street</AddressLine1Txt>
+            <CityNm>West Palm Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>South Florida Celiac Support Group</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11214 Misty Ridge Way</AddressLine1Txt>
+            <CityNm>Boynton Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33473</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>University of Miami</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 248073</AddressLine1Txt>
+            <CityNm>Coral Gables</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33124</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>University of Michigan</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 S State Street</AddressLine1Txt>
+            <CityNm>Ann Arbor</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>118</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Urban Arts Partnership</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>21 Howard Street 5th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10013</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>4200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Westchester Reform Temple</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>255 Mamaroneck Road</AddressLine1Txt>
+            <CityNm>Scarsdale</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10583</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Caron Treatment Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7789 NW Beacon Sq Blvd</AddressLine1Txt>
+            <CityNm>Boca Raton</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33487</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted contribution</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>129043</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>163</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>110620</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>810</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>105754</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>217347</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>217347</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Bookkeeping and tax preparation fees</CategoryTxt>
+        <Amt>7574</Amt>
+        <NetInvestmentIncomeAmt>3787</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3787</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Diamond Offshore Drilling 5.7% 10/15/39</BondNm>
+        <EOYBookValueAmt>29215</EOYBookValueAmt>
+        <EOYFMVAmt>27486</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Ecopetrol SA 5.875% 5/28/45</BondNm>
+        <EOYBookValueAmt>39831</EOYBookValueAmt>
+        <EOYFMVAmt>39360</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Freeport-McMoran Copper 5.45% 3/15/43</BondNm>
+        <EOYBookValueAmt>21253</EOYBookValueAmt>
+        <EOYFMVAmt>30625</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Genworth Financial 6.5% 6/15/34</BondNm>
+        <EOYBookValueAmt>59506</EOYBookValueAmt>
+        <EOYFMVAmt>67000</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Linn Energy LLC 8.625% 4/15/20</BondNm>
+        <EOYBookValueAmt>179137</EOYBookValueAmt>
+        <EOYFMVAmt>28750</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Marathon Oil Corp 5.2% 6/1/45</BondNm>
+        <EOYBookValueAmt>69151</EOYBookValueAmt>
+        <EOYFMVAmt>69830</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Murphy Oil Corp 5.125% 12/1/42</BondNm>
+        <EOYBookValueAmt>18006</EOYBookValueAmt>
+        <EOYFMVAmt>19257</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SLM Corp 6% 12/15/31</BondNm>
+        <EOYBookValueAmt>16266</EOYBookValueAmt>
+        <EOYFMVAmt>13834</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SLM Corp 6% 3/15/37</BondNm>
+        <EOYBookValueAmt>130281</EOYBookValueAmt>
+        <EOYFMVAmt>108852</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SLM Corp 6.15% 9/15/29</BondNm>
+        <EOYBookValueAmt>17686</EOYBookValueAmt>
+        <EOYFMVAmt>15404</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Transocean Inc 7.5% 4/15/31</BondNm>
+        <EOYBookValueAmt>110831</EOYBookValueAmt>
+        <EOYFMVAmt>80600</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Vale Overseas Ltd 6.875% 11/21/36</BondNm>
+        <EOYBookValueAmt>122262</EOYBookValueAmt>
+        <EOYFMVAmt>118455</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EOG Res Inc</StockNm>
+        <EOYBookValueAmt>8178</EOYBookValueAmt>
+        <EOYFMVAmt>16693</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Lifetime Brands Inc</StockNm>
+        <EOYBookValueAmt>197527</EOYBookValueAmt>
+        <EOYFMVAmt>292448</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Oracle Inc</StockNm>
+        <EOYBookValueAmt>34078</EOYBookValueAmt>
+        <EOYFMVAmt>47047</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Pepsico Inc</StockNm>
+        <EOYBookValueAmt>12752</EOYBookValueAmt>
+        <EOYFMVAmt>20496</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Roper Industries Inc</StockNm>
+        <EOYBookValueAmt>7803</EOYBookValueAmt>
+        <EOYFMVAmt>22846</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Danaher Corp</StockNm>
+        <EOYBookValueAmt>13593</EOYBookValueAmt>
+        <EOYFMVAmt>28458</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Fiserv Inc</StockNm>
+        <EOYBookValueAmt>5382</EOYBookValueAmt>
+        <EOYFMVAmt>23080</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Berkshire Hathaway Inc</StockNm>
+        <EOYBookValueAmt>31328</EOYBookValueAmt>
+        <EOYFMVAmt>48239</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JP Morgan Chase Inc</StockNm>
+        <EOYBookValueAmt>37926</EOYBookValueAmt>
+        <EOYFMVAmt>41454</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Nestle SA</StockNm>
+        <EOYBookValueAmt>9246</EOYBookValueAmt>
+        <EOYFMVAmt>16787</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Church &amp; Dwight Co Inc</StockNm>
+        <EOYBookValueAmt>11745</EOYBookValueAmt>
+        <EOYFMVAmt>20280</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AON Plc</StockNm>
+        <EOYBookValueAmt>18313</EOYBookValueAmt>
+        <EOYFMVAmt>36557</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Apple Inc</StockNm>
+        <EOYBookValueAmt>11513</EOYBookValueAmt>
+        <EOYFMVAmt>32479</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Comcast Corp</StockNm>
+        <EOYBookValueAmt>22875</EOYBookValueAmt>
+        <EOYFMVAmt>25959</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Ecolab Inc</StockNm>
+        <EOYBookValueAmt>12100</EOYBookValueAmt>
+        <EOYFMVAmt>27880</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Fairholme Fund</StockNm>
+        <EOYBookValueAmt>203269</EOYBookValueAmt>
+        <EOYFMVAmt>118880</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Goldman Sachs Group Inc</StockNm>
+        <EOYBookValueAmt>8222</EOYBookValueAmt>
+        <EOYFMVAmt>11774</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Mondelez Intl-W/I</StockNm>
+        <EOYBookValueAmt>11193</EOYBookValueAmt>
+        <EOYFMVAmt>20060</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Lennar Corp</StockNm>
+        <EOYBookValueAmt>9450</EOYBookValueAmt>
+        <EOYFMVAmt>25389</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Liberty Global Inc CL C</StockNm>
+        <EOYBookValueAmt>18357</EOYBookValueAmt>
+        <EOYFMVAmt>28170</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Microsoft Inc</StockNm>
+        <EOYBookValueAmt>21816</EOYBookValueAmt>
+        <EOYFMVAmt>44184</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Moodys Corp</StockNm>
+        <EOYBookValueAmt>20963</EOYBookValueAmt>
+        <EOYFMVAmt>26554</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Noble Energy Inc</StockNm>
+        <EOYBookValueAmt>18318</EOYBookValueAmt>
+        <EOYFMVAmt>12564</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Thermo Fisher Scientific Inc</StockNm>
+        <EOYBookValueAmt>8358</EOYBookValueAmt>
+        <EOYFMVAmt>21239</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>United Health Group Inc</StockNm>
+        <EOYBookValueAmt>8530</EOYBookValueAmt>
+        <EOYFMVAmt>25780</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WR Berkley Corp</StockNm>
+        <EOYBookValueAmt>5968</EOYBookValueAmt>
+        <EOYFMVAmt>11240</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Cabot Oil and Gas Corp</StockNm>
+        <EOYBookValueAmt>9994</EOYBookValueAmt>
+        <EOYFMVAmt>9652</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Dover Corp</StockNm>
+        <EOYBookValueAmt>26063</EOYBookValueAmt>
+        <EOYFMVAmt>27662</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Alphabet Inc Cl A</StockNm>
+        <EOYBookValueAmt>5396</EOYBookValueAmt>
+        <EOYFMVAmt>15258</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Walt Disney Co Inc</StockNm>
+        <EOYBookValueAmt>6489</EOYBookValueAmt>
+        <EOYFMVAmt>19862</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Bristol Myers Squibb Co</StockNm>
+        <EOYBookValueAmt>14662</EOYBookValueAmt>
+        <EOYFMVAmt>22358</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Estee Lauder Cos CL A</StockNm>
+        <EOYBookValueAmt>9214</EOYBookValueAmt>
+        <EOYFMVAmt>14146</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Morgan Stanley</StockNm>
+        <EOYBookValueAmt>3312</EOYBookValueAmt>
+        <EOYFMVAmt>4377</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Range Resources Corp</StockNm>
+        <EOYBookValueAmt>19634</EOYBookValueAmt>
+        <EOYFMVAmt>11333</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Anadarko Petroleum</StockNm>
+        <EOYBookValueAmt>5937</EOYBookValueAmt>
+        <EOYFMVAmt>3493</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Citigroup Inc</StockNm>
+        <EOYBookValueAmt>28658</EOYBookValueAmt>
+        <EOYFMVAmt>25056</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CME Group Inc</StockNm>
+        <EOYBookValueAmt>16600</EOYBookValueAmt>
+        <EOYFMVAmt>21611</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Cooper Companies Inc</StockNm>
+        <EOYBookValueAmt>18424</EOYBookValueAmt>
+        <EOYFMVAmt>23096</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Costco Wholesale Corp</StockNm>
+        <EOYBookValueAmt>14228</EOYBookValueAmt>
+        <EOYFMVAmt>19697</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Dish Network Corp</StockNm>
+        <EOYBookValueAmt>23586</EOYBookValueAmt>
+        <EOYFMVAmt>21560</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Intuit Inc</StockNm>
+        <EOYBookValueAmt>12685</EOYBookValueAmt>
+        <EOYFMVAmt>20802</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Johnson &amp; Johnson Inc</StockNm>
+        <EOYBookValueAmt>23022</EOYBookValueAmt>
+        <EOYFMVAmt>27050</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Twenty-First Century Fox Inc</StockNm>
+        <EOYBookValueAmt>34439</EOYBookValueAmt>
+        <EOYFMVAmt>31725</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>White Wave Food Company Inc</StockNm>
+        <EOYBookValueAmt>6345</EOYBookValueAmt>
+        <EOYFMVAmt>15240</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Alibaba group Holdings-SP ADR</StockNm>
+        <EOYBookValueAmt>8095</EOYBookValueAmt>
+        <EOYFMVAmt>7903</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Amazon.com Inc</StockNm>
+        <EOYBookValueAmt>13209</EOYBookValueAmt>
+        <EOYFMVAmt>26714</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ASML Holding NV</StockNm>
+        <EOYBookValueAmt>13276</EOYBookValueAmt>
+        <EOYFMVAmt>15058</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CDW Corporation</StockNm>
+        <EOYBookValueAmt>21662</EOYBookValueAmt>
+        <EOYFMVAmt>25938</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Discovery Communications</StockNm>
+        <EOYBookValueAmt>6651</EOYBookValueAmt>
+        <EOYFMVAmt>5400</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Alphabet Inc CL C</StockNm>
+        <EOYBookValueAmt>41905</EOYBookValueAmt>
+        <EOYFMVAmt>57361</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IPG Photonics Corp</StockNm>
+        <EOYBookValueAmt>14260</EOYBookValueAmt>
+        <EOYFMVAmt>19216</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Allergan PLC</StockNm>
+        <EOYBookValueAmt>12604</EOYBookValueAmt>
+        <EOYFMVAmt>12061</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Bank of America Inc</StockNm>
+        <EOYBookValueAmt>13979</EOYBookValueAmt>
+        <EOYFMVAmt>10816</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Chubb Ltd</StockNm>
+        <EOYBookValueAmt>16300</EOYBookValueAmt>
+        <EOYFMVAmt>17873</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CVS Health Corporation</StockNm>
+        <EOYBookValueAmt>24654</EOYBookValueAmt>
+        <EOYFMVAmt>25933</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Dentsply Sirona Inc</StockNm>
+        <EOYBookValueAmt>14761</EOYBookValueAmt>
+        <EOYFMVAmt>22310</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Express Scripts Holding Co</StockNm>
+        <EOYBookValueAmt>19038</EOYBookValueAmt>
+        <EOYFMVAmt>15455</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Fedex Corp</StockNm>
+        <EOYBookValueAmt>27005</EOYBookValueAmt>
+        <EOYFMVAmt>26035</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Fidelity Natl Information Services Inc</StockNm>
+        <EOYBookValueAmt>30831</EOYBookValueAmt>
+        <EOYFMVAmt>31655</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Kraft Heinz Co</StockNm>
+        <EOYBookValueAmt>7265</EOYBookValueAmt>
+        <EOYFMVAmt>7856</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Liberty Lilac Group Ser C</StockNm>
+        <EOYBookValueAmt>953</EOYBookValueAmt>
+        <EOYFMVAmt>1402</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Marriott International Inc</StockNm>
+        <EOYBookValueAmt>23308</EOYBookValueAmt>
+        <EOYFMVAmt>23134</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Nextera Energy Inc</StockNm>
+        <EOYBookValueAmt>13081</EOYBookValueAmt>
+        <EOYFMVAmt>14793</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Pfizer Inc</StockNm>
+        <EOYBookValueAmt>25174</EOYBookValueAmt>
+        <EOYFMVAmt>22971</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Starwood Hotels &amp; Resorts Worldwide Inc</StockNm>
+        <EOYBookValueAmt>19136</EOYBookValueAmt>
+        <EOYFMVAmt>25029</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationsSche" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <StateLocalSecBookVlEOYAmt>276874</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>155788</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherAssetsScheduleGrp>
+        <Desc>Accrued interest purchased</Desc>
+        <BOYBookValueAmt>5103</BOYBookValueAmt>
+        <EOYBookValueAmt>6465</EOYBookValueAmt>
+        <EOYFMVAmt>584</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADR Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>12</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>12</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Custodial fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>700</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>700</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Filing fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>250</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>250</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Foreign withholding taxes</Desc>
+        <RevenueAndExpensesPerBooksAmt>168</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>168</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Investment management fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>20243</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>20243</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherIncomeDetail>
+        <Desc>Other Investment Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>810</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>810</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Legal fees</CategoryTxt>
+        <Amt>6000</Amt>
+        <NetInvestmentIncomeAmt>2000</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4000</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <CategoryTxt>Federal excise tax</CategoryTxt>
+        <Amt>2300</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

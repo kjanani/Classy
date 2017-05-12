@@ -1,0 +1,941 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-12T15:24:04-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>WIENER AND GARG LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>6000 EXECUTIVE BLVD SUITE 520</AddressLine1Txt>
+        <CityNm>ROCKVILLE</CityNm>
+        <StateAbbreviationCd>MD</StateAbbreviationCd>
+        <ZIPCd>20852</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>526942242</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE EJL98 CHARITABLE TRUST</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% EDWARD J LENKIN TRUSTEE</InCareOfNm>
+      <BusinessNameControlTxt>EJL9</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>4922A ST ELMO AVENUE</AddressLine1Txt>
+        <CityNm>BETHESDA</CityNm>
+        <StateAbbreviationCd>MD</StateAbbreviationCd>
+        <ZIPCd>208145008</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>EDWARD J LENKIN</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>3016542100</PhoneNum>
+      <SignatureDt>2016-08-29</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>SUBHASH GARG</PreparerPersonNm>
+      <PTIN>P00111513</PTIN>
+      <PhoneNum>3018814244</PhoneNum>
+      <PreparationDt>2016-08-31</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>982993</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>400</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>43</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>43</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>20409</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>19167</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>30960</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>450527</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>30960</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>198</NetSTCapitalGainAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">22560</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>17037</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>74372</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>67207</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>198</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">4000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2000</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">2055</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>2055</OtherProfFeesNetInvstIncmAmt>
+        <InterestRevAndExpnssAmt>12677</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>12677</InterestNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">2238</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>238</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">12943</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>12772</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>33913</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>29742</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>46898</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>46898</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>80811</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>29742</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>46898</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-6439</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>37465</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>198</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>726</CashBOYAmt>
+        <CashEOYAmt>33442</CashEOYAmt>
+        <CashEOYFMVAmt>33442</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>437609</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">389364</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>550079</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>390382</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">397914</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>397914</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSch">0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSch">1558</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSch">1558</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>828717</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>822278</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>982993</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabSch">0</OtherLiabilitiesBOYAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>828717</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>822278</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>828717</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>822278</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>828717</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>822278</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>828717</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-6439</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>822278</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>822278</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CS SHORT-TERM COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-12-29</AcquiredDt>
+          <SoldDt>2015-06-16</SoldDt>
+          <GrossSalesPriceAmt>7587</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7704</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-117</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-117</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CS LONG-TERM COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-12-27</AcquiredDt>
+          <SoldDt>2015-06-16</SoldDt>
+          <GrossSalesPriceAmt>141372</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>152094</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-10722</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-10722</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CS LONG-TERM NONCOVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-11-18</AcquiredDt>
+          <SoldDt>2015-06-16</SoldDt>
+          <GrossSalesPriceAmt>228879</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>198057</CostOrOtherBasisAmt>
+          <GainOrLossAmt>30822</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>30822</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BETTERMENT ST COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-07-07</AcquiredDt>
+          <SoldDt>2015-12-16</SoldDt>
+          <GrossSalesPriceAmt>43624</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>44759</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-201</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1135</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BETTERMENT LT COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-07-27</AcquiredDt>
+          <SoldDt>2015-12-16</SoldDt>
+          <GrossSalesPriceAmt>27921</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>17887</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10034</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10034</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAIN DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GainOrLossAmt>186</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>30960</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>198</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>29102</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>910252</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.031971</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>44250</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>890983</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.049664</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>43296</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>858534</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.05043</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>44860</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>853150</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.052582</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>37850</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>848984</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.044583</DistributionYr5Rt>
+        <TotalDistributionRt>0.22923</TotalDistributionRt>
+        <AverageDistributionRt>0.045846</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>878030</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>40254</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>375</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>40629</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>46898</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>375</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>375</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>375</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1011</EstimatedPlusOvpmtIncmTxAmt>
+        <AppliedToEsTaxAmt>1000</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>2011</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>1636</OverpaymentAmt>
+        <AppliedToESTaxAmt>1636</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>true</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MD</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>EDWARD J LENKIN TRUSTEE</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3016542100</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4922A ST ELMO AVE</AddressLine1Txt>
+          <CityNm>BETHESDA</CityNm>
+          <StateAbbreviationCd>MD</StateAbbreviationCd>
+          <ZIPCd>20814</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RelyingCurrentNtcDsstrAsst1Ind>X</RelyingCurrentNtcDsstrAsst1Ind>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EDWARD J LENKIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4922A ST ELMO AVENUE</AddressLine1Txt>
+            <CityNm>BETHESDA</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>208145008</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>465609</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>32731</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>393061</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>891401</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>891401</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>13371</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>878030</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>43902</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>43902</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>375</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>375</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>43527</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>43527</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>43527</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>46898</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>46898</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>375</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>46523</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>43527</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2013</PriorYear1Yr>
+        <PriorYear2Yr>2012</PriorYear2Yr>
+        <PriorYear3Yr>2011</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr4Amt>820</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>901</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>537</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>2258</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>46898</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>43527</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>3371</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>5629</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>5629</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>820</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>901</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>537</ExcessFromYear2Amt>
+        <ExcessFromCurrentYearAmt>3371</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>EDWARD J LENKIN</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>EDWARD J LENKIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4922A ST ELMO AVENUE</AddressLine1Txt>
+            <CityNm>BETHESDA</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>208145008</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3016542100</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>APPLICATION SHOULD BE IN WRITING AND SHOULD INCLUDE THE PRIMARY PURPOSE FOR WHICH THE CHARITY WAS ORGANIZED AND WHETHER IT IS A IRS CODE SEC 501(C)(3) ORGANIZATION.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>APPLICATION SHOULD BE IN WRITING AND SHOULD INCLUDE THE PRIMARY PURPOSE FOR WHICH THE CHARITY WAS ORGANIZED AND WHETHER IT IS A IRS CODE SEC 501(C)(3) ORGANIZATION.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALZHEIMER'S FOUNDATION OF AMERICA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1250 24TH STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>B-CC High School Educational Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 31209</AddressLine1Txt>
+            <CityNm>BETHESDA</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20824</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>American Cancer Society</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>124 PARK STREET SE</AddressLine1Txt>
+            <CityNm>VIENNA</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22180</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Jewish Federation of Greater Washington</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1700 K Street NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>University of Pennsylvania</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>SIB MEMORIAL SCHOLARSHIP</AddressLine1Txt>
+            <AddressLine2Txt>433 Franklin Building</AddressLine2Txt>
+            <CityNm>PHILADELPHIA</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Sibley Society</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5255 Loughboro Road NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>United Jewish Appeal</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 8590</AddressLine1Txt>
+            <CityNm>ASPEN</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WETA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3939 Campbell Avenue</AddressLine1Txt>
+            <CityNm>ARLINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22206</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Whitney Museum of American Art</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>945 Madison Ave at 75th Street</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10021</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SALZBURG GLOBAL SEMINAR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>152 MAPLE STREET 102</AddressLine1Txt>
+            <CityNm>MIDDLEBURY</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05733</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SIXTH &amp; I HISTORIC SYNAGOGUE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>600 I St NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Easter Seals</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4041 PWDER MILL RD SUITE 100</AddressLine1Txt>
+            <CityNm>CALVERTON</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20705</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LUPUS THERAPEUTICS - ALLIANCE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>FOR LUPUS RESEARCH</AddressLine1Txt>
+            <AddressLine2Txt>28 WEST 44TH STREET 501</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OTHER PAID THROUGH IRONWOOD PARTNERS LP</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ONE MARTKET PLAZA STEUART TOWER</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 2500</AddressLine2Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3) ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>8</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN PARKINSON DISEASE ASSN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>RICHMOND METRO CHAPTER</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 70283</AddressLine2Txt>
+            <CityNm>RICHMOND</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>232550283</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SIBLEY MEMORIAL HOSPITAL FN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5255 LOUGHBORO ROAD NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20016</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMAZON CONSERVATION TEAM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4211 N FAIRFAX DRIVE</AddressLine1Txt>
+            <CityNm>ARLINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22203</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARCHBISHOP CARROLL HIGH SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4300 HAREWOOD RD NE</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20017</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COLORADO ROCKY MOUNTAIN SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1493 COUNTY ROAD 106</AddressLine1Txt>
+            <CityNm>CARBONDALE</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81623</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DC JCC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1529 16TH STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FOOD ALLERGY INITIATIVE (FARE)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>625 MADISON AVENUE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF CANCER RESEARCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3299 K STREET NW SUITE 100</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20007</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF SIGNATURE THEATRE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4200 CAMPBELL AVE</AddressLine1Txt>
+            <CityNm>ARLINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22206</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GEORGE WASHINGTON UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>UNIVERSITY DEVELOPMENT OFFICE</AddressLine1Txt>
+            <AddressLine2Txt>2129 EYE STREET NW</AddressLine2Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20052</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INTERNATIONAL ARTS AND ARTISTS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9 HILLYER COURT NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20008</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JEWISH HISTORICAL SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>701 THIRD STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20001</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>N STREET VILLAGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1333 N STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIONAL GALLERY OF ART</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>600 CONSTITUTION AVE NE</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PHILLIPS COLLECTION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1600 TWENTY-FIRST ST NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20009</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>1940</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SMITHSONIAN AMERICAN ART MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 G STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20001</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNITED STATES HOLOCAUST MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 RAOUL WALLENBERG PLACE SW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20024</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF SEC. 501(C)(3)</GrantOrContributionPurposeTxt>
+          <Amt>1800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>46898</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <BusinessCd>525990</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>43</UnrelatedBusinessTaxblIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <BusinessCd>525990</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>20409</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>14</ExclusionCd>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp>
+          <BusinessCd>525990</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>22560</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>18</ExclusionCd>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <BusinessCd>525990</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>30960</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>18</ExclusionCd>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>73972</UnrelatedBusinessTaxblIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>73972</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>WIENER &amp; GARG LLC</CategoryTxt>
+        <Amt>4000</Amt>
+        <NetInvestmentIncomeAmt>2000</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MARKETABLE SECURITIES</StockNm>
+        <EOYBookValueAmt>389364</EOYBookValueAmt>
+        <EOYFMVAmt>550079</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>IRONWOOD PARTNERS L.P.</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>397914</BookValueAmt>
+        <EOYFMVAmt>397914</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssetsScheduleGrp>
+        <Desc>FEDERAL TAX REFUND RECEIVABLE</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>1066</EOYBookValueAmt>
+        <EOYFMVAmt>1066</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>DIVIDENDS RECEIVABLE</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>492</EOYBookValueAmt>
+        <EOYFMVAmt>492</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>IRONWOOD K-1 - NON DEDUCTIBLE</Desc>
+        <RevenueAndExpensesPerBooksAmt>84</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>IRONWOOD - OTHER DEDNS.</Desc>
+        <RevenueAndExpensesPerBooksAmt>12697</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>12697</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>IRONWOOD - BOOK/TAX ADJ.</Desc>
+        <RevenueAndExpensesPerBooksAmt>87</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>75</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>75</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>IRONWOOD PARTNERS</Desc>
+        <RevenueAndExpensesPerBooksAmt>17037</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>17037</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>IRONWOOD PARTNERS - INC ON 990-T</Desc>
+        <RevenueAndExpensesPerBooksAmt>3181</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>FEDERAL TAX REFUND 990PF</Desc>
+        <RevenueAndExpensesPerBooksAmt>2342</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabSch">
+      <OtherLiabilitiesDetail>
+        <Desc>BANK OVERDRAFT</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISOR FEES</CategoryTxt>
+        <Amt>2055</Amt>
+        <NetInvestmentIncomeAmt>2055</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>IRONWOOD K-1 - FOREIGN TAXES</CategoryTxt>
+        <Amt>118</Amt>
+        <NetInvestmentIncomeAmt>118</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>BETTERMENT - FOREIGN TAX</CategoryTxt>
+        <Amt>120</Amt>
+        <NetInvestmentIncomeAmt>120</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL ESTIMATED TAXES</CategoryTxt>
+        <Amt>2000</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

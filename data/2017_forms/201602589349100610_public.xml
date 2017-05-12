@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-14T12:05:09-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>770483462</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>MORTON &amp; ASSOCIATES INC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2479 EAST BAYSHORE ROAD SUITE 285</AddressLine1Txt>
+        <CityNm>PALO ALTO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94303</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>270864414</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE HAROLD C AND MARILYN A HOHBACH</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>HARO</BusinessNameControlTxt>
+      <PhoneNum>6503228242</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>29 LOWERY DRIVE</AddressLine1Txt>
+        <CityNm>ATHERTON</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94027</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>HAROLD C HOHBACH</PersonNm>
+      <PersonTitleTxt>PRESIDENT/TREASURER</PersonTitleTxt>
+      <PhoneNum>6503228242</PhoneNum>
+      <SignatureDt>2016-09-07</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JACK MORTON</PreparerPersonNm>
+      <PTIN>P00097139</PTIN>
+      <PhoneNum>6503236665</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2535672</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>13000</ContriRcvdRevAndExpnssAmt>
+        <GrossRentsRevAndExpnssAmt>423753</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>423753</GrossRentsNetInvstIncmAmt>
+        <NetRentalIncomeOrLossAmt>43522</NetRentalIncomeOrLossAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>436753</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>423753</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">68775</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>68765</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>10</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc2203000001">53381</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>53381</DeprecAndDpltnNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">262352</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>258955</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>3388</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>384508</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>381101</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>3398</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>75578</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>75578</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>460086</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>381101</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>78976</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-23333</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>42652</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>1415</CashBOYAmt>
+        <CashEOYAmt>9764</CashEOYAmt>
+        <CashEOYFMVAmt>9764</CashEOYFMVAmt>
+        <OtherNtsAndLoansRcvblAmt>124470</OtherNtsAndLoansRcvblAmt>
+        <OtherRcvblAllwncDbtflAcctAmt>0</OtherRcvblAllwncDbtflAcctAmt>
+        <OtherNtsAndLoansRcvblBOYAmt>237115</OtherNtsAndLoansRcvblBOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>124470</OtherNtsAndLoansRcvblEOYAmt>
+        <OtherNtsAndLoansRcvblEOYFMVAmt>124470</OtherNtsAndLoansRcvblEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>2553962</InvstLandCostOrOtherBasisAmt>
+        <InvstLandAccumDepreciationAmt>285674</InvstLandAccumDepreciationAmt>
+        <LandBldgInvestmentsBOYAmt>2321669</LandBldgInvestmentsBOYAmt>
+        <LandBldgInvestmentsEOYAmt referenceDocumentId="RetDoc2059100001">2268288</LandBldgInvestmentsEOYAmt>
+        <LandBldgInvestmentsEOYFMVAmt>2268288</LandBldgInvestmentsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>0</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">132020</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>132020</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc2046600001">0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc2046600001">1130</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc2046600001">1130</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>2560199</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2535672</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2535672</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>1194</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>0</AccountsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">31510</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">31510</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>32704</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>31510</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>2527495</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>2504162</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2527495</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2504162</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2560199</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2535672</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2527495</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-23333</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>2504162</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2504162</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>87301</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>2571751</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.033946</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>157455</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>2476996</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.063567</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>103748</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>2505118</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.041414</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>76516</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>2123269</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.036037</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>0</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1489091</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.000000</DistributionYr5Rt>
+        <TotalDistributionRt>0.174964</TotalDistributionRt>
+        <AverageDistributionRt>0.034993</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>2597176</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>90883</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>427</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>91310</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>78976</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>853</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>853</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>853</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>2000</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>2000</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>1147</OverpaymentAmt>
+        <AppliedToESTaxAmt>1147</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>THE FOUNDATION</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6503228242</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>29 LOWERY DRIVE</AddressLine1Txt>
+          <CityNm>ATHERTON</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94027</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>HAROLD C HOHBACH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>29 LOWERY DRIVE</AddressLine1Txt>
+            <CityNm>ATHERTON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94027</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT/TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARILYN A HOHBACH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>29 LOWERY DRIVE</AddressLine1Txt>
+            <CityNm>ATHERTON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94027</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DOUGLAS C HOHBACH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1253 BYRON STREET</AddressLine1Txt>
+            <CityNm>PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94301</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT/SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JANET HOHBACH MCCLOY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1443 4TH AVENUE</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94122</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELLEN HOHBACH SCHEETZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2690 SAN CARLOS AVENUE</AddressLine1Txt>
+            <CityNm>SAN CARLOS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94070</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>5256</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>2631471</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2636727</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2636727</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>39551</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2597176</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>129859</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>129859</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>853</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>853</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>129006</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>129006</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>129006</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>78976</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>78976</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>78976</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>129006</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>75682</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>78976</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>75682</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>3294</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>125712</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SILICON VALLEY LUMINARY SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>29 LOWERY DRIVE</AddressLine1Txt>
+            <CityNm>ATHERTON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PRIVATE FOUNDATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO FINANCE THE CHARITABLE ACTIVITY OF THE DONEE ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>75578</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>75578</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <RelatedOrExemptFunctionIncmAmt>43522</RelatedOrExemptFunctionIncmAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>43522</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>43522</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>5</LineNumberTxt>
+          <RelationshipStatementTxt>TO FINANCE THE CHARITABLE ACTIVITY OF A RELATED PRIVATE FOUNDATION AND A COMMUNITY FOUNDATION</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>HOHBACH REALTY COMPANY LP</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>29 LOWERY DRIVE</AddressLine1Txt>
+          <CityNm>ATHERTON</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94027</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>13000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND</PropertyDesc>
+        <AcquiredDt>2009-12-28</AcquiredDt>
+        <CostOrOtherBasisAmt>129394</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>L</ComputationMethodTxt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>32.68% SHARE OF BLDG, 1717 EMBARCADERO</PropertyDesc>
+        <AcquiredDt>2009-12-28</AcquiredDt>
+        <CostOrOtherBasisAmt>570606</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>73155</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>39.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>14631</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>14631</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND</PropertyDesc>
+        <AcquiredDt>2010-01-02</AcquiredDt>
+        <CostOrOtherBasisAmt>129394</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>L</ComputationMethodTxt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>25.42% SHARE OF BLDG, 1717 EMBARCADERO</PropertyDesc>
+        <AcquiredDt>2010-01-02</AcquiredDt>
+        <CostOrOtherBasisAmt>570606</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>73155</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>39.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>14631</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>14631</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND</PropertyDesc>
+        <AcquiredDt>2011-01-02</AcquiredDt>
+        <CostOrOtherBasisAmt>129394</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>L</ComputationMethodTxt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>25.42% SHARE OF BLDG, 1717 EMBARCADERO</PropertyDesc>
+        <AcquiredDt>2011-01-02</AcquiredDt>
+        <CostOrOtherBasisAmt>570606</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>57914</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>39.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>14631</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>14631</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND</PropertyDesc>
+        <AcquiredDt>2012-01-02</AcquiredDt>
+        <CostOrOtherBasisAmt>83914</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>L</ComputationMethodTxt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>16.48% SHARE OF BLDG, 1717 EMBARCADERO</PropertyDesc>
+        <AcquiredDt>2012-01-02</AcquiredDt>
+        <CostOrOtherBasisAmt>370048</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>28069</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>39.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>9488</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>9488</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsLandSchedule2 documentId="RetDoc2059100001">
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>LAND</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>129394</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+        <BookValueAmt>129394</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>32.68% SHARE OF BLDG, 1717 EMBARCADERO</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>570606</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>87786</AccumulatedDepreciationAmt>
+        <BookValueAmt>482820</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>LAND</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>129394</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+        <BookValueAmt>129394</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>25.42% SHARE OF BLDG, 1717 EMBARCADERO</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>570606</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>87786</AccumulatedDepreciationAmt>
+        <BookValueAmt>482820</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>LAND</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>129394</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+        <BookValueAmt>129394</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>25.42% SHARE OF BLDG, 1717 EMBARCADERO</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>570606</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>72545</AccumulatedDepreciationAmt>
+        <BookValueAmt>498061</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>LAND</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>83914</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+        <BookValueAmt>83914</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>16.48% SHARE OF BLDG, 1717 EMBARCADERO</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>370048</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>37557</AccumulatedDepreciationAmt>
+        <BookValueAmt>332491</BookValueAmt>
+      </InvestmentLandGrp>
+    </InvestmentsLandSchedule2>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PREPAID COMMISSIONS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>132020</BookValueAmt>
+        <EOYFMVAmt>132020</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssetsScheduleGrp>
+        <Desc>PREPAID TAXES</Desc>
+        <EOYBookValueAmt>1130</EOYBookValueAmt>
+        <EOYFMVAmt>1130</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>PENALTIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>9</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ACCOUNTING</Desc>
+        <RevenueAndExpensesPerBooksAmt>3150</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3150</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MAINTENANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>222549</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>222549</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2523</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2523</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>UTILITIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>33883</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>33883</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CALIFORNIA ATTORNEY GENERAL</Desc>
+        <RevenueAndExpensesPerBooksAmt>75</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>75</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>17</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>17</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>50</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>50</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>71</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>71</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CALIFORNIA SECRETARY OF STATE</Desc>
+        <RevenueAndExpensesPerBooksAmt>25</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>25</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>TENANT DEPOSITS</Desc>
+        <BOYBookValueAmt>31468</BOYBookValueAmt>
+        <EOYBookValueAmt>31468</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>AMENDED 2014 TAX PAYABLE</Desc>
+        <BOYBookValueAmt>42</BOYBookValueAmt>
+        <EOYBookValueAmt>42</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>UNITED STATES TREASURY</CategoryTxt>
+        <Amt>870</Amt>
+        <NetInvestmentIncomeAmt>870</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PROPERTY TAXES</CategoryTxt>
+        <Amt>67895</Amt>
+        <NetInvestmentIncomeAmt>67895</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>CA FRANCHISE TAX</CategoryTxt>
+        <Amt>10</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>10</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

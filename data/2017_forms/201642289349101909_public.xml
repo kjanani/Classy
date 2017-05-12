@@ -1,0 +1,680 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-15T15:37:22-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>820474810</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ANDERSON BROS CPA'S PA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1810 E SCHNEIDMILLER AVENUE STE</AddressLine1Txt>
+        <CityNm>POST FALLS</CityNm>
+        <StateAbbreviationCd>ID</StateAbbreviationCd>
+        <ZIPCd>83854</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>263909838</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE ALTON FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ALTO</BusinessNameControlTxt>
+      <PhoneNum>5099943006</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>712 N LANCASHIRE LN</AddressLine1Txt>
+        <CityNm>LIBERTY LAKE</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>99019</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DUANE ALTON</PersonNm>
+      <PersonTitleTxt>DIRECTOR</PersonTitleTxt>
+      <PhoneNum>5099943006</PhoneNum>
+      <SignatureDt>2016-06-20</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>LEE A ANDERSON</PreparerPersonNm>
+      <PTIN>P00870262</PTIN>
+      <PhoneNum>2087771099</PhoneNum>
+      <PreparationDt>2016-06-20</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2023067</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>1806150</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>7501</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>7501</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>7501</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>12288</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>12288</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>12288</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>17849</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>169382</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>17849</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>14172</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>1843788</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>37638</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>33961</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc3">1608</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>1608</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc8">70</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>70</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc7">5778</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>5778</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>7456</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>70</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>7386</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>245950</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>245950</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>253406</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>70</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>253336</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>1590382</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>37568</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>33961</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>2049</CashBOYAmt>
+        <CashEOYAmt>506142</CashEOYAmt>
+        <CashEOYFMVAmt>506144</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>50</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>6915</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>6915</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>239871</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">1319295</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1360008</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>150000</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc5">150000</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>150000</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>8247</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>8247</LandBldgEquipAccumDeprecAmt>
+        <TotalAssetsBOYAmt>391970</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1982352</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2023067</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>391970</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>1982352</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>391970</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1982352</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>391970</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1982352</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>391970</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>1590382</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1982352</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1982352</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NUANCE COMM INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-25</AcquiredDt>
+          <SoldDt>2015-10-26</SoldDt>
+          <GrossSalesPriceAmt>84647</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>70475</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14172</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14172</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NUANCE COMM INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-08-01</AcquiredDt>
+          <SoldDt>2015-10-26</SoldDt>
+          <GrossSalesPriceAmt>3390</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3798</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-408</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-408</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NUANCE COMM INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-08-01</AcquiredDt>
+          <SoldDt>2015-10-26</SoldDt>
+          <GrossSalesPriceAmt>22033</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>24691</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2658</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2658</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NUANCE COMM INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-12-04</AcquiredDt>
+          <SoldDt>2015-10-26</SoldDt>
+          <GrossSalesPriceAmt>4237</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3471</CostOrOtherBasisAmt>
+          <GainOrLossAmt>766</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>766</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NUANCE COMM INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-12-31</AcquiredDt>
+          <SoldDt>2015-10-26</SoldDt>
+          <GrossSalesPriceAmt>12712</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11376</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1336</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1336</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NUANCE COMM INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-02</AcquiredDt>
+          <SoldDt>2015-10-26</SoldDt>
+          <GrossSalesPriceAmt>8474</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7567</CostOrOtherBasisAmt>
+          <GainOrLossAmt>907</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>907</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NUANCE COMM INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-08</AcquiredDt>
+          <SoldDt>2015-10-26</SoldDt>
+          <GrossSalesPriceAmt>6780</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6100</CostOrOtherBasisAmt>
+          <GainOrLossAmt>680</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>680</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NUANCE COMM INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-10-07</AcquiredDt>
+          <SoldDt>2015-10-26</SoldDt>
+          <GrossSalesPriceAmt>12152</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10780</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1372</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1372</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NUANCE COMM INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-10-07</AcquiredDt>
+          <SoldDt>2015-10-26</SoldDt>
+          <GrossSalesPriceAmt>14957</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13275</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1682</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1682</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>17849</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>14172</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>94901</AdjustedQlfyDistriYr1Amt>
+        <AdjustedQlfyDistriYr2Amt>269115</AdjustedQlfyDistriYr2Amt>
+        <AdjustedQlfyDistriYr3Amt>45100</AdjustedQlfyDistriYr3Amt>
+        <AdjustedQlfyDistriYr4Amt>43834</AdjustedQlfyDistriYr4Amt>
+        <AdjustedQlfyDistriYr5Amt>217550</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsAmt>1169355</NetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>376</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>376</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>253336</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>376</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>376</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>376</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>376</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>WA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>DUANE ALTON</IndividualWithBooksNm>
+        <PhoneNum>5099943006</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>712 N LANCASHIRE LN</AddressLine1Txt>
+          <CityNm>LIBERTY LAKE</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>99019</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DUANE ALTON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>712 N LANCHASHIRE LN</AddressLine1Txt>
+            <CityNm>LIBERTY LAKE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99019</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>THE CORPORATION IS FORMED FOR CHARITABLE, RELIGIOUS, AND EDUCATIONAL PURPOSES TO ADVANCE A CHRISTIAN WORLD VIEW IN SOCIETY BASED ON BIBICAL DOCTRINE AND APPLICATION.</Description1Txt>
+        <Expenses1Amt>253405</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>779583</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>257579</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>150000</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1187162</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1187162</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>17807</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1169355</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>58468</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>253336</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>253336</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>376</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>252960</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <QualifyingDistributionsAmt>253336</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>253336</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>253336</TotalCorpusAmt>
+        <CorpusDistri170b1EOr4942g3Amt>253405</CorpusDistri170b1EOr4942g3Amt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <PrivateOperatingFndtnRulingDt>2008-10-01</PrivateOperatingFndtnRulingDt>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>33961</CurrentYearAmt>
+          <TotalAmt>33961</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>28867</CurrentYearAmt>
+          <TotalAmt>28867</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>253336</CurrentYearAmt>
+          <Year1Amt>94971</Year1Amt>
+          <Year2Amt>269119</Year2Amt>
+          <Year3Amt>45100</Year3Amt>
+          <TotalAmt>662526</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>253336</CurrentYearAmt>
+          <Year1Amt>94971</Year1Amt>
+          <Year2Amt>269119</Year2Amt>
+          <Year3Amt>45100</Year3Amt>
+          <TotalAmt>662526</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <CurrentYearAmt>1982354</CurrentYearAmt>
+          <Year1Amt>891970</Year1Amt>
+          <Year2Amt>491895</Year2Amt>
+          <Year3Amt>202687</Year3Amt>
+          <TotalAmt>3568906</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <CurrentYearAmt>1982354</CurrentYearAmt>
+          <Year1Amt>891970</Year1Amt>
+          <Year2Amt>491895</Year2Amt>
+          <Year3Amt>202687</Year3Amt>
+          <TotalAmt>3568906</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>ELVIN D ALTON</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1721 W ROCKWELL</AddressLine1Txt>
+            <AddressLine2Txt>1721 W ROCKWELL</AddressLine2Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99205</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>914 W CARLISLE AVE</AddressLine1Txt>
+            <AddressLine2Txt>914 W CARLISLE AVE</AddressLine2Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99205</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>5500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 LAKE HART DRIVE</AddressLine1Txt>
+            <AddressLine2Txt>100 LAKE HART DRIVE</AddressLine2Txt>
+            <CityNm>ORLANDO</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32832</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>115500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>102 HARGREAVES HALL</AddressLine1Txt>
+            <AddressLine2Txt>102 HARGREAVES HALL</AddressLine2Txt>
+            <CityNm>CHENEY</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>990042413</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 552</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 552</AddressLine2Txt>
+            <CityNm>OLYMPIA</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98507</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2659 N ASH ST</AddressLine1Txt>
+            <AddressLine2Txt>2659 N ASH ST</AddressLine2Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99205</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>11000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5104 E BERNHILL RD</AddressLine1Txt>
+            <AddressLine2Txt>5104 E BERNHILL RD</AddressLine2Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>992056797</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TUITION ASSISTANCE</GrantOrContributionPurposeTxt>
+          <Amt>32000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>721 KEYS RD</AddressLine1Txt>
+            <AddressLine2Txt>721 KEYS RD</AddressLine2Txt>
+            <CityNm>YAKIMA</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98901</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TUITION ASSISTANCE</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 20002</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 2002</AddressLine2Txt>
+            <CityNm>ASHEVILLE</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28803</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CHRISTIAN PUBLICATION</GrantOrContributionPurposeTxt>
+          <Amt>18000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1420 CELEBRATION BLVD</AddressLine1Txt>
+            <AddressLine2Txt>1420 CELEBRATION BLVD</AddressLine2Txt>
+            <CityNm>CELEBRATION</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34747</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MINISTRY</GrantOrContributionPurposeTxt>
+          <Amt>4200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 10443</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 10443</AddressLine2Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99209</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5000 DEER PARK DR SE</AddressLine1Txt>
+            <AddressLine2Txt>5000 DEER PARK DR SE</AddressLine2Txt>
+            <CityNm>SALEM</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97317</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TUITION ASSISTANCE</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 141146</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 141146</AddressLine2Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99214</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>14000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>421 W RIVERSIDE AVE 335</AddressLine1Txt>
+            <AddressLine2Txt>421 W RIVERSIDE AVE 335</AddressLine2Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20170 E DESCHUTES AVE</AddressLine1Txt>
+            <AddressLine2Txt>20170 E DESCHUTES AVE</AddressLine2Txt>
+            <CityNm>LIBERTY LAKE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>1250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>245950</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7501</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>12288</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>17849</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>19789</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>17849</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>37638</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>E DUANE ALTON</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>712 N LANCASHIE LN</AddressLine1Txt>
+          <CityNm>LIBERTY LAKE</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>99019</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>1806150</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>COSTCO STOCK</NoncashPropertyDesc>
+        <FairMarketValueAmt>806150</FairMarketValueAmt>
+        <ReceivedDt>2015-12-23</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>1608</Amt>
+        <DisbursementsCharitablePrpsAmt>1608</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COSTCO</StockNm>
+        <EOYBookValueAmt>1070025</EOYBookValueAmt>
+        <EOYFMVAmt>1132233</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NUANCE COMMUN INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FORD MOTOR COMPANY</StockNm>
+        <EOYBookValueAmt>249270</EOYBookValueAmt>
+        <EOYFMVAmt>227775</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc5">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FIRM FOUNDATION INVESTMENT LLC</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>150000</BookValueAmt>
+        <EOYFMVAmt>150000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc6">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>ORGANIZATIONAL COSTS</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>8247</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>8247</AccumulatedDepreciationAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE SUPPLIES &amp; AUTO</Desc>
+        <RevenueAndExpensesPerBooksAmt>5778</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>5778</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc8">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL INCOME TAX</CategoryTxt>
+        <Amt>70</Amt>
+        <NetInvestmentIncomeAmt>70</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-13T15:45:02-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>943145806</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>REALIZE CPA LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>50 CALIFORNIA STREET SUITE 3550</AddressLine1Txt>
+        <CityNm>SAN FRANCISCO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94111</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>432050577</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>COYOTE FOUNDATION</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O COYOTE PROPERTIES LLC</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>COYO</BusinessNameControlTxt>
+      <PhoneNum>4082273440</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>55 LAS COLINAS</AddressLine1Txt>
+        <CityNm>SAN JOSE</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>951191214</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>VINCENT BORELLI</PersonNm>
+      <PersonTitleTxt>CO-TRUSTEE</PersonTitleTxt>
+      <PhoneNum>4082273440</PhoneNum>
+      <SignatureDt>2016-08-25</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>GREGORY BIAGINI</PreparerPersonNm>
+      <PTIN>P01084797</PTIN>
+      <PhoneNum>4153625990</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>3157224</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>2250000</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>4057</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>4057</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-460</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>106000</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>2253597</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>4057</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">3100</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1550</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1550</AccountingFeesChrtblPrpsAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">377</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>377</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>3477</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1927</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>1550</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>453750</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>453750</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>457227</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1927</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>455300</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>1796370</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>2130</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>19781</CashBOYAmt>
+        <CashEOYAmt>12772</CashEOYAmt>
+        <CashEOYFMVAmt>12772</CashEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>341073</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc2210400001">144452</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>144452</USGovtObligationsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>1000000</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">3000000</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>3000000</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1360854</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>3157224</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>3157224</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>1360854</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>3157224</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1360854</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3157224</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1360854</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>3157224</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1360854</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>1796370</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>3157224</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3157224</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>US TREASURY BILLS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-03-10</AcquiredDt>
+          <SoldDt>2015-02-19</SoldDt>
+          <GrossSalesPriceAmt>10000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10009</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>US TREASURY BILLS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-03-10</AcquiredDt>
+          <SoldDt>2015-07-22</SoldDt>
+          <GrossSalesPriceAmt>96000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>96451</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-451</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-451</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-460</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>104250</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>609455</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.171054</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>105285</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>463784</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.227013</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>102550</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>570662</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.179704</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>201838</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>521952</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.386698</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>402127</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>792915</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.507150</DistributionYr5Rt>
+        <TotalDistributionRt>1.471619</TotalDistributionRt>
+        <AverageDistributionRt>0.294324</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>2512038</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>739353</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>21</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>739374</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>455300</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>43</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>43</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>43</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1909</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1909</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>1866</OverpaymentAmt>
+        <AppliedToESTaxAmt>1866</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>0</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JENNY WIEBES</IndividualWithBooksNm>
+        <PhoneNum>4082273440</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>C/O COYOTE PROPERTIES LLC 55 LAS</AddressLine1Txt>
+          <AddressLine2Txt>COLINAS</AddressLine2Txt>
+          <CityNm>SAN JOSE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>951191214</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VINCENT BORELLI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O COYOTE PROPERTIES 55 LAS</AddressLine1Txt>
+            <AddressLine2Txt>COLINAS</AddressLine2Txt>
+            <CityNm>SAN JOSE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>951191214</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SUSAN BORELLI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O COYOTE PROPERTIES 55 LAS</AddressLine1Txt>
+            <AddressLine2Txt>COLINAS</AddressLine2Txt>
+            <CityNm>SAN JOSE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>951191214</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2367659</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>182633</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2550292</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2550292</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>38254</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2512038</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>125602</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>125602</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>43</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>43</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>125559</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>125559</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>125559</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>455300</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>455300</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>455300</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>125559</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>402299</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>201838</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>102550</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>82169</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>73847</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>862703</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>455300</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>125559</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>329741</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>1192444</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>402299</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>790145</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>201838</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>102550</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>82169</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>73847</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>329741</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>VINCENT BORELLI</ContributingManagerNm>
+        <ContributingManagerNm>SUSAN BORELLI</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JENNY WIEBES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>C/O COYOTE PROPERTIES 55 LAS</AddressLine1Txt>
+            <AddressLine2Txt>COLINAS</AddressLine2Txt>
+            <CityNm>SAN JOSE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95119</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>4082273440</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>THE APPLICATION SHOULD BE IN WRITING AND INCLUDE A COMPLETE DESCRIPTION OF THE PROGRAM, THE COSTS AND AN ANALYSIS OF THE INTENEDED BENEFITS.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SUNDAY FRIENDS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 24887</AddressLine1Txt>
+            <CityNm>SAN JOSE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>951544887</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RELIGOUS</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE SILICON VALLEY MONTEREY BAY COUNCIL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>970 WEST JULIAN STREET</AddressLine1Txt>
+            <CityNm>SAN JOSE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95126</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT FOR BOY SCOUTS OF AMERICA</GrantOrContributionPurposeTxt>
+          <Amt>2750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FILMMAKERS COLLABORATIVE SF</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>145 NINTH STREET 101</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PRODUCE COMPELLING FILMS AND CAMPAIGNS TAHT ENGAGE THE PUBLIC TO MAKE INFORMED DECISIONS</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TREE FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>552 S WASHINGTON ST 109</AddressLine1Txt>
+            <CityNm>NAPERVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60540</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TREE RESEARCH AND EDUCATION IN ARBORICULTURE AND URBAN FORESTRY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUMANE SOCIETY SILICON VALLEY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>901 AMES AVE</AddressLine1Txt>
+            <CityNm>MILPITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95035</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PET CARE SERVUCES, AND EDUCATION PROGRAMS TO ENHANCE HUMAN-ANIMAL BOND</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>453750</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>4057</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-460</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>3597</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>3597</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>VINCENT AND SUSAN BORELLI</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>55 LAS COLINAS LANE</AddressLine1Txt>
+          <CityNm>SAN JOSE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95119</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>2250000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>3100</Amt>
+        <NetInvestmentIncomeAmt>1550</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1550</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtObligationsBookVlEOYAmt>144452</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>144452</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>0</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>0</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PHARMATROPHIX</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>3000000</BookValueAmt>
+        <EOYFMVAmt>3000000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT MANAGEMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>217</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>217</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REGISTRATION RENEWAL FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>150</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>150</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FTB FILING FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>10</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>10</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributorDetail>
+        <PersonNm>VINCENT BORELLI</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>55 LAS COLINAS LANE</AddressLine1Txt>
+          <CityNm>SAN JOSE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95119</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+      <SubstantialContributorDetail>
+        <PersonNm>SUSAN BORELLI</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>55 LAS COLINAS LANE</AddressLine1Txt>
+          <CityNm>SAN JOSE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95119</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

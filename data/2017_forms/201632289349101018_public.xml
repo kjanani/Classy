@@ -1,0 +1,1546 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-15T09:00:52-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>William Green Accountancy Corp</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>7777 Alvarado Rd Ste 310</AddressLine1Txt>
+        <CityNm>La Mesa</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>919428246</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>582049998</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>MONEY ARENZ FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MONE</BusinessNameControlTxt>
+      <PhoneNum>6193038291</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3525 DEL MAR HEIGHTS RD</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92130</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JULIE ANNE ARENZ TIFFT</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2016-08-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>PATRICIA C HITCHCOCK</PreparerPersonNm>
+      <PTIN>P00402272</PTIN>
+      <PhoneNum>6193038291</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="12">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1523641</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>337275</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>6</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>6</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>34637</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>34637</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>102245</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1181650</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>102280</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">19</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>474182</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>136923</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">4721</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>4721</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">7819</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>7819</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">16490</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>16490</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">384</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>384</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>29414</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>24309</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>5105</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>195200</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>195200</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>224614</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>24309</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>200305</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>249568</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>112614</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>4351</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>6441</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>6441</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>1280584</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">1217392</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1146898</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>177558</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedule">390482</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>370302</CorporateBondsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>6000</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>6000</LandBldgEquipAccumDeprecAmt>
+        <TotalAssetsBOYAmt>1462493</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1614315</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1523641</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>1462493</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>1614315</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1462493</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1614315</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1462493</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1614315</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1462493</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>249568</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">35</OtherIncreasesAmt>
+        <SubtotalAmt>1712096</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">97781</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1614315</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2,014.099 DFA INVT TWO YEAR GLOBAL FIXED INCOME</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-05-13</SoldDt>
+          <GrossSalesPriceAmt>20000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20179</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-179</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-179</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>9,325.546 DFA INVT TWO YEAR GLOBAL FIXED INCOME</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-05-20</SoldDt>
+          <GrossSalesPriceAmt>92603</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>93430</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-827</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-827</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4,492.805 LOOMIS SAYLES STRATEGIC INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-05-20</SoldDt>
+          <GrossSalesPriceAmt>73008</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>74745</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1737</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1737</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>555 AETNA INC NEW COM</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-05-21</SoldDt>
+          <GrossSalesPriceAmt>63088</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>36165</CostOrOtherBasisAmt>
+          <GainOrLossAmt>26923</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>26923</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>339 AMGEN INC</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2012-12-31</AcquiredDt>
+          <SoldDt>2015-05-21</SoldDt>
+          <GrossSalesPriceAmt>55451</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>30399</CostOrOtherBasisAmt>
+          <GainOrLossAmt>25052</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>25052</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>400 DISNEY WALT CO</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2012-12-31</AcquiredDt>
+          <SoldDt>2015-05-21</SoldDt>
+          <GrossSalesPriceAmt>44215</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>24583</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19632</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19632</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>199 PPG INDUSTRIES</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2012-12-31</AcquiredDt>
+          <SoldDt>2015-05-21</SoldDt>
+          <GrossSalesPriceAmt>45885</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>26298</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19587</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19587</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>430 ROSS STORES INC COM</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2012-12-31</AcquiredDt>
+          <SoldDt>2015-05-21</SoldDt>
+          <GrossSalesPriceAmt>43685</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>24471</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19214</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19214</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>828 ROSS STORES INC COM</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-09-01</SoldDt>
+          <GrossSalesPriceAmt>40952</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>26076</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14876</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14876</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>663 UNITEDHEALTH GROUP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-09-01</SoldDt>
+          <GrossSalesPriceAmt>77171</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>60112</CostOrOtherBasisAmt>
+          <GainOrLossAmt>17059</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>17059</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>31 VALERO ENERGY CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2012-12-31</AcquiredDt>
+          <SoldDt>2015-09-01</SoldDt>
+          <GrossSalesPriceAmt>1848</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>952</CostOrOtherBasisAmt>
+          <GainOrLossAmt>896</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>896</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>16,635.498 DFA CA INTMD TERM MUNI BOND INSTL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-09-09</SoldDt>
+          <GrossSalesPriceAmt>174007</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>172678</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1329</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1329</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>6,720.032 DFA EMERGING MRKTS CORE EQUPORTF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-09-09</SoldDt>
+          <GrossSalesPriceAmt>107319</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>133309</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-25990</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-25990</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>9,639.888 DFA GLOBAL REAL ESTATE SEC PORTFOLIO</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-09-09</SoldDt>
+          <GrossSalesPriceAmt>93507</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>101665</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-8158</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-8158</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>9,329.472 DFA INTERNATIONAL CORE EQUITY</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-09-09</SoldDt>
+          <GrossSalesPriceAmt>106449</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>113593</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-7144</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-7144</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3,173.051 FIDELITY SELECT NATURAL RESOURCES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-09-09</SoldDt>
+          <GrossSalesPriceAmt>83356</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>110354</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-26998</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-26998</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>835.655 DFA US CORE EQUITY I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-10-30</SoldDt>
+          <GrossSalesPriceAmt>15000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>15011</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-11</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-11</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>921.376 DFA US VECTOR EQUITY PRTF INSTL CL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-10-30</SoldDt>
+          <GrossSalesPriceAmt>15000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>15385</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-385</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-385</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gain Dividends</PropertyDesc>
+          <GainOrLossAmt>29106</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Wash Sale</PropertyDesc>
+          <GainOrLossAmt>35</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>102280</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-11207</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>193806</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1319159</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.14692</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>244523</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>901370</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.27128</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>249925</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>894243</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.27948</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>249600</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>837610</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.29799</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>75425</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>936097</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.08057</DistributionYr5Rt>
+        <TotalDistributionRt>1.076242</TotalDistributionRt>
+        <AverageDistributionRt>0.215248</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1559158</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>335606</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>1126</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>336732</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>200305</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2252</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2252</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2252</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>8400</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>8400</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>6148</OverpaymentAmt>
+        <AppliedToESTaxAmt>6148</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>GA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="SubstantialContributorsSchedul">true</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>JULIE ANNE ARENZ TIFFT</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6195404000</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3525 DEL MAR HEIGHTS RD 104</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>921302122</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BETTY MONEY ARENZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>90 N COAST HIGHWAY 101 311</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.19</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JULIE ANNE ARENZ TIFFT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>90 N COAST HIGHWAY 101 311</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.35</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBERT F ARENZ JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1725 GRAND AVENUE</AddressLine1Txt>
+            <CityNm>SANTA BARBARA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93101</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.19</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN MARSHALL ARENZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6465 CANYON RD</AddressLine1Txt>
+            <CityNm>POLLOCK</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95726</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.19</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>DISTRIBUTIONS MADE TO VARIOUS ORGANIZATIONS THAT QUALIFY AS EXEMPT ORGANIZATIONS UNDER SECTION 501(C)(3) OF THE INTERNAL REVENUE CODE AND THE RELATED ADMINISTRATIVE EXPENSES ASSOCIATED WITH THIS ACTIVITY.</Description1Txt>
+        <Expenses1Amt>200305</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1528927</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>53975</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1582902</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1582902</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>23744</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1559158</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>77958</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>77958</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2252</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2252</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>75706</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>75706</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>75706</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>200305</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>200305</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>200305</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>75706</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>75800</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>250000</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>250400</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>200608</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>135938</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>912746</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>200305</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>75706</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>124599</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>1037345</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>75800</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>961545</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>250000</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>250400</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>200608</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>135938</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>124599</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>BETTY MONEY ARENZ</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RADY CHILDREN'S HOSPITAL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3020 CHILDRENS WAY</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PUBLIC HEALTH</GrantOrContributionPurposeTxt>
+          <Amt>10800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE SALVATION ARMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2688</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MINISTERIAL</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE SCRIPPS RESEARCH INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10550 N TORREY PINES ROAD</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL &amp; SCIENTIFIC</GrantOrContributionPurposeTxt>
+          <Amt>11000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE WHITTIER INSTITUTE FOR DIABETES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2669</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92038</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MONARCH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1625 NEWTON AVENUE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92113</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE SAN DIEGO ZOO DEVELOPMENT DEPT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 120551</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ANIMAL CONSERVATION</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>OLD GLOBE THEATER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 122171</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>THEATRICAL ART</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>REALITY CHANGERS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3910 UNIVERSITY AVE STE 300-RC</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>6900</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAN DIEGO MUSEUM OF ART</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 122107</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ART PRESERVATION</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAN DIEGO OPERA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1200 THIRD AVENUE 18TH FLOOR</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>THEATRICAL ART</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GEORGIA FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>UNIVERSITY OF GEORGIA</AddressLine1Txt>
+            <CityNm>ATHENS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP ENDOWMENT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VOICES FOR CHILDREN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2851 MEADOW LARK DRIVE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOSTER CARE</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PLANT WITH PURPOSE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4903 MORENA BLVD STE 1215</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92117</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ENVIRONMENTAL DEVELOPMENT</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PROMISES2KIDS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9400 RUFFIN CT STE A</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHILD ABUSE PREVENTION</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SD CENTER FOR CHILDREN- SCHOLARSHIP</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3002 ARMSTRONG STREET</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAVE THE CHILDREN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>54 WILTON ROAD</AddressLine1Txt>
+            <CityNm>WESTPORT</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06880</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHILD INTEREST PROTECTION</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF VIRGINIA- JMM CHAIR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 400807</AddressLine1Txt>
+            <CityNm>CHARLOTTESVILLE</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22904</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MATHEMATICS</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN HIMALAYAN FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>909 MONTGOMERY ST STE 400</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HUMANITARIAN - PRESERVATION OF HIMALAYAN SOCIETY</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF THE CUMBERLANDS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6191 COLLEGE STATION DRIVE</AddressLine1Txt>
+            <CityNm>WILLIAMSBURG</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>40769</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LA JOLLA ROUGH WATER SWIM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2127</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92038</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ATHLETIC COMPETITION</GrantOrContributionPurposeTxt>
+          <Amt>800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE GRAUER SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1500 EL CAMINO REAL</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE PREP EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>10600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COMMUNITY RESOURCE CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>169 SAXONY RD STE 104</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SOCIAL SERVICE</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PRINCETON UNIVERSITY MEN'S WATER PO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 5357</AddressLine1Txt>
+            <CityNm>PRINCETON</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08543</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ATHLETICS</GrantOrContributionPurposeTxt>
+          <Amt>600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAN DIEGO SHORES WATER POLO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7875 CONVOY COURT STE A4</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>YOUTH ATHLECTICS</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JOHN MARSHALL ELEMENTARY SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3550 ALTADENA AVENUE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ELEMENTARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RUBICON TRAIL FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2188</AddressLine1Txt>
+            <CityNm>PLACERVILLE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95667</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HISTORICAL AND ENVIRONMENTAL PRESERVATION</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CASA EL DORADO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2000 24TH STREET STE 130</AddressLine1Txt>
+            <CityNm>BAKERSFIELD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOSTER CARE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EL DORADO COMMUNITY FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1388</AddressLine1Txt>
+            <CityNm>PLACERVILLE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95667</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COMMUNITY</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HEARTS AND MINDS FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>561 CANAL ST</AddressLine1Txt>
+            <CityNm>PLACERVILLE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95667</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION/COMMUNITY</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MARSHALL HOSPITAL FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1996</AddressLine1Txt>
+            <CityNm>PLACERVILLE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95667</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HEALTH</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHELTER BOX USA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8374 MARKET ST 203</AddressLine1Txt>
+            <CityNm>LAKEWOOD RANCH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NATURAL DISASTER AID</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HELP MITKO-KIDS INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 5154</AddressLine1Txt>
+            <CityNm>EL DORADO HILLS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95762</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHILDREN'S CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WILDLANDS NETWORK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 5284</AddressLine1Txt>
+            <CityNm>TITUSVILLE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32783</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>WILDLIFE PRESERVATION</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF CALIFORNIA SANTA BARB</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>UC REGENTS</AddressLine1Txt>
+            <CityNm>SANTA BARBARA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>LIBRARY DEVELOPMENT</GrantOrContributionPurposeTxt>
+          <Amt>4500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF CALIFORNIA DAVIS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>UC REGENTS</AddressLine1Txt>
+            <CityNm>DAVIS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95616</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ECOTRUST</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>721 NW NINTH AVE STE 200</AddressLine1Txt>
+            <CityNm>PORTLAND</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97209</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SOCIAL/ECON/ECOLOGICAL</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FOREST SERVICE EMPLOYEES FOR ENV ET</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 11615</AddressLine1Txt>
+            <CityNm>EUGENE</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97440</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ENVIRONMENTAL ETHICS</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>REGIONAL ALLIANCE FOR INFO NETWORKI</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>485 ALISAL ROAD STE H1</AddressLine1Txt>
+            <CityNm>SOLVANG</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93436</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PUBLIC INTERNET BROADCAST</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>REWILDING INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 13768</AddressLine1Txt>
+            <CityNm>ALBUQUERQUE</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87192</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>WILDERNESS CONSERVATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ROCKY MOUNTAIN INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1820 FOLSOM STREET</AddressLine1Txt>
+            <CityNm>BOULDER</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUSTAINABILITY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEA SHEPARD CONSERVATION SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2616</AddressLine1Txt>
+            <CityNm>FRIDAY HARBOR</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98250</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MARINE WILDLIFE CONSERVATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>YELLOWSTONE TO YUKON CONS INITIATIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>BOX 157</AddressLine1Txt>
+            <CityNm>BOZEMAN</CityNm>
+            <StateAbbreviationCd>MT</StateAbbreviationCd>
+            <ZIPCd>59771</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>WILDERNESS CONSERVATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN RIVERS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1101 14TH STREET NW STE 1400</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NATURE CONSERVATION</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CALIFORNIA WILDERNESS COALITION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 11094</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94611</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>WILDERNESS CONSERVATION</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COMMUNITY ENVIRONMENTAL COUNCIL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>26 W ANAPAMA ST 2ND FLOOR</AddressLine1Txt>
+            <CityNm>SANTA BARBARA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ENVIRONMENTAL CONSERVATION</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CONSERVATION INTERNATIONAL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2011 CRYSTAL DR STE 500</AddressLine1Txt>
+            <CityNm>ARLINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ENVIRONMENTAL CONSERVATION</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EARTH ISLAND INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2150 ALLSTON WAY STE 460</AddressLine1Txt>
+            <CityNm>BERKELEY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94704</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ECOSYSTEM CONSERVATION</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ENVIRONMENTAL DEFENSE CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>906 GARDEN STREET</AddressLine1Txt>
+            <CityNm>SANTA BARBARA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ENVIRONMENTAL LAW</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KEEP TAHOE BLUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2608 LAKE TAHOE BLVD</AddressLine1Txt>
+            <CityNm>SOUTH LAKE TAHOE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>96150</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ENVIRONMENTAL LAW</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LAND TRUST FOR SANTA BARBARA COUNTY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 91830</AddressLine1Txt>
+            <CityNm>SANTA BARBARA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93190</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>WILDLIFE PROTECTION</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AKIDO OF SANTA BARBARA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>121 NORTH MILPAS ST</AddressLine1Txt>
+            <CityNm>SANTA BARBARA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MARTIAL ARTS</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>OCEAN CONSERVANCY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1300 19TH ST NW 8TH FLOOR</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OCEAN CONSERVANCY</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RAINFOREST ACTION NETWORK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>425 BUSH STREET STE 300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RAINFOREST PRESERVATION</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SANTA BARBARA BOTANIC GARDEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1212 MISSION CANYON RD</AddressLine1Txt>
+            <CityNm>SANTA BARBARA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BOTANIC GARDEN</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SANTA BARBARA MUSEUM OF NATURAL HIS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2559 PUESTA DEL SOL</AddressLine1Txt>
+            <CityNm>SANTA BARBARA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MUSEUM</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SOCIETY FOR CONSERVATION BIOLOGY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1017 O STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BIOLOGICAL CONSERVATION</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SOCIETY FOR CONSERVATION GIS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 7183</AddressLine1Txt>
+            <CityNm>REDLANDS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92375</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEOGRAPHIC INFO SYSTEMS</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SURFRIDER FOUNDATION USA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 6010</AddressLine1Txt>
+            <CityNm>SAN CLEMENTE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92674</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OCEAN/COAST PRESERVATION</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GIFTS TO SHARE INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>915 I STREET 3RD FLOOR</AddressLine1Txt>
+            <CityNm>SACRAMENTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95814</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COMMUNITY GARDEN COALITION</GrantOrContributionPurposeTxt>
+          <Amt>1200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JUST IN TIME</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 81292</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92138</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TRANSITION FOSTER YOUTH</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PRINCETON UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 5357</AddressLine1Txt>
+            <CityNm>PRINCETON</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08543</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MECHANICAL AND AEROSPACE ENGINEERING</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SCRIPPS HEALTH FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2669</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ROBOTIC SURGERY</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE TYLER CLEMENTI FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 54</AddressLine1Txt>
+            <CityNm>RIDGEWOOD</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07451</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PREVENTION OF BULLYING</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF CO - MEN'S WATER POLO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>355 UCB</AddressLine1Txt>
+            <CityNm>BOULDER</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80309</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEN'S WATER POLO TEAM</GrantOrContributionPurposeTxt>
+          <Amt>1600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GLSEN INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>90 BROAD ST 2ND FLOOR</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PREVENT LGBT BULLYING</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NEW MORNING YOUTH AND FAMILY SERVIC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6765 GREEN VALLEY RD</AddressLine1Txt>
+            <CityNm>PLACERVILLE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95667</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE PROFESSIONAL SOCIAL SERVICES TO YOUTH IN EL DORADO COUNTY.</GrantOrContributionPurposeTxt>
+          <Amt>600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>195200</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>6</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>34637</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>19</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>102245</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>136907</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>136907</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>BETTY ARENZ</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>7025 VISTA DEL MAR</AddressLine1Txt>
+          <CityNm>LA JOLLA</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92037</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>337275</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>555 SH AETNA INC NEW, 339 SH AMGEN INC, 400 SH DISNEY WALT CO, 199 SH PPG INDUSTRIES, 430 SH ROSS ST</NoncashPropertyDesc>
+        <FairMarketValueAmt>326835</FairMarketValueAmt>
+        <ReceivedDt>2015-05-18</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>WILLIAM GREEN ACCNTCY CORP-TAX PREP FEES</CategoryTxt>
+        <Amt>4721</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4721</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BLACKROCK HIGH YIELD BOND INSTITUTIONAL</BondNm>
+        <EOYBookValueAmt>128053</EOYBookValueAmt>
+        <EOYFMVAmt>111912</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DFA FIVE YEAR GLBL FIXED INC PR</BondNm>
+        <EOYBookValueAmt>104826</EOYBookValueAmt>
+        <EOYFMVAmt>103369</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DFA INTERMEDIATE GOVT F/I PRTF INSTL</BondNm>
+        <EOYBookValueAmt>157603</EOYBookValueAmt>
+        <EOYFMVAmt>155021</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY SELECT NATURAL RESOURCE</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA GLOBAL REAL ESTATE SEC PORT</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA INTERNATIONAL CORE EQUITY</StockNm>
+        <EOYBookValueAmt>131011</EOYBookValueAmt>
+        <EOYFMVAmt>122609</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA US VECTOR EQUITY PRTF INST</StockNm>
+        <EOYBookValueAmt>334471</EOYBookValueAmt>
+        <EOYFMVAmt>303045</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA US CORE EQUITY I</StockNm>
+        <EOYBookValueAmt>467269</EOYBookValueAmt>
+        <EOYFMVAmt>446987</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA EMERGING MRKTS CORE EQU POR</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA INVT TWO YEAR GLOBAL FIXED</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LOOMIS SAYLES STRATEGIC INC Y</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PIMCO STOCKS PLUS INSTL CLASS</StockNm>
+        <EOYBookValueAmt>163547</EOYBookValueAmt>
+        <EOYFMVAmt>154518</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PIMCO STOCKS PLUS INTERNATL</StockNm>
+        <EOYBookValueAmt>121094</EOYBookValueAmt>
+        <EOYFMVAmt>119739</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Machinery and Equipment</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>6000</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>6000</AccumulatedDepreciationAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>384</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>384</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherIncomeDetail>
+        <Desc>Other Investment Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>19</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherIncreasesDetail>
+        <Desc>WASH SALE NOT DEDUCTED</Desc>
+        <Amt>35</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES</CategoryTxt>
+        <Amt>7819</Amt>
+        <NetInvestmentIncomeAmt>7819</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="SubstantialContributorsSchedul" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <SubstantialContributorDetail>
+        <PersonNm>BETTY ANNE MONEY ARENZ</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>90 N COAST HIGHWAY 101 311</AddressLine1Txt>
+          <CityNm>ENCINITAS</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92024</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <CategoryTxt>INTERNAL REVENUE SERVICE</CategoryTxt>
+        <Amt>16490</Amt>
+        <NetInvestmentIncomeAmt>16490</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

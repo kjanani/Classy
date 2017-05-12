@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-02T12:34:46-05:00</ReturnTs>
+    <TaxPeriodEndDt>2016-01-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>721568735</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>LISA T HOYT CPA A PROFESSIONAL CORP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>205 W 5TH AVE STE 103</AddressLine1Txt>
+        <CityNm>ESCONDIDO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92025</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-02-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>364549894</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CRAIG AND LAURA ANDERSON FAMILY</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CRAI</BusinessNameControlTxt>
+      <PhoneNum>9093660124</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 260</AddressLine1Txt>
+        <CityNm>FAWNSKIN</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92333</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>LAURA ANDERSON</PersonNm>
+      <PersonTitleTxt>PRES, DIR</PersonTitleTxt>
+      <PhoneNum>9093660124</PhoneNum>
+      <SignatureDt>2016-08-22</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>LISA T HOYT</PreparerPersonNm>
+      <PTIN>P00250906</PTIN>
+      <PhoneNum>7602332323</PhoneNum>
+      <PreparationDt>2016-08-22</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>108111</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>627</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>627</DividendsNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc4">5777</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>5777</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>6404</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>6404</TotalNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc5">74</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc3">155</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>100</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>55</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>229</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>100</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>55</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>5240</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>5240</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>5469</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>100</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>5295</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>935</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>6304</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>4333</CashBOYAmt>
+        <CashEOYAmt>6590</CashEOYAmt>
+        <CashEOYFMVAmt>6590</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>3309</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>4170</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>4170</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>28105</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2">28105</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>12079</CorporateStockEOYFMVAmt>
+        <MortgageLoansBOYAmt>87455</MortgageLoansBOYAmt>
+        <MortgageLoansEOYAmt>85272</MortgageLoansEOYAmt>
+        <MortgageLoansEOYFMVAmt>85272</MortgageLoansEOYFMVAmt>
+        <TotalAssetsBOYAmt>123202</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>124137</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>108111</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>123202</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>124137</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>123202</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>124137</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>123202</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>124137</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>123202</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>935</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>124137</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>124137</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>4211</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>109891</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.038320</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>5394</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>112656</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.047880</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>10625</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>113242</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.093826</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>5376</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>123610</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.043492</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>6540</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>119917</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.054538</DistributionYr5Rt>
+        <TotalDistributionRt>0.278056</TotalDistributionRt>
+        <AverageDistributionRt>0.055611</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>107577</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>5982</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>63</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>6045</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>5295</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>126</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>126</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>126</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>126</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>LAURA ANDERSON</IndividualWithBooksNm>
+        <PhoneNum>9093660124</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 260</AddressLine1Txt>
+          <CityNm>FAWNSKIN</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92333</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LAURA ANDERSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 260</AddressLine1Txt>
+            <CityNm>FAWNSKIN</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92333</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRES, DIR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CRAIG ANDERSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 260</AddressLine1Txt>
+            <CityNm>FAWNSKIN</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92333</ZIPCd>
+          </USAddress>
+          <TitleTxt>SEC, TREAS,</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>14137</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>9806</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>85272</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>109215</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>109215</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1638</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>107577</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>5379</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>5379</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>126</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>126</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>5253</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>5253</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>5253</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>5295</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>5295</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>5295</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>5253</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr3Amt>4956</ExcessDistributionCyovYr3Amt>
+        <TotalExcessDistributionCyovAmt>4956</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>5295</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>5253</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>42</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>4998</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>4998</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>4956</ExcessFromYear3Amt>
+        <ExcessFromCurrentYearAmt>42</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JENNIFER HENRICKSEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 260</AddressLine1Txt>
+            <CityNm>FAWNSKIN</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92333</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>AID</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DAVID GALLEGOS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 260</AddressLine1Txt>
+            <CityNm>FAWNSKIN</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92333</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>AID</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALZHEIMER'S ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>225 N MICHIGAN AVE FL-17</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN RED CROSS NATIONAL HEADQUA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2025 E STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON DC</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BIG BEAR CITY PROFESSIONAL</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>FIREFIGHTERS</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>301 W BIG BEAR BLVD</AddressLine1Txt>
+            <CityNm>BIG BEAR CITY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92314</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>AID</GrantOrContributionPurposeTxt>
+          <Amt>400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BROTHER BENNO FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3260 PRODUCTION AVENUE</AddressLine1Txt>
+            <CityNm>OCEANSIDE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92058</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CITY OF HOPE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1500 EAST DUARTE ROAD</AddressLine1Txt>
+            <CityNm>DUARTE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DOCTORS WITHOUT BORDERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 7TH AVENUE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>100015004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FEED THE CHILDREN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 36</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FEEDING AMERICA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>35 EAST WACKER DRIVE</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 2000</AddressLine2Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GUIDE DOGS OF AMERICA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13445 GLENOAKS BLVD</AddressLine1Txt>
+            <CityNm>SYLMAR</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91342</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HABITAT FOR HUMANITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10222 SAN DIEGO MISSION R</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MAKE A WISH FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4742 N 24TH ST</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 400</AddressLine2Txt>
+            <CityNm>PHOENIX</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MOOSE CHARITIES INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 S INTERNATIONAL DRIV</AddressLine1Txt>
+            <CityNm>MOOSEHEART</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60539</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>240</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PACIFIC WHALE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 MAALAEA ROAD</AddressLine1Txt>
+            <CityNm>WAILUKU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96793</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>REDLANDS COMMUNITY SCHOLARSHIP FOUN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1683</AddressLine1Txt>
+            <CityNm>REDLANDS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92373</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RONALD MCDONALD HOUSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ONE KROC DRIVE</AddressLine1Txt>
+            <CityNm>OAK BROOK</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60523</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST JUDE CHILDRENS RESEARCH</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>HOSPITAL</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>262 DANNY THOMAS PLACE</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE MICHAEL J FOX FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 4777</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>101634777</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE SALVATION ARMY HEADQUARTERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>615 SLATERS LANE</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 269</AddressLine2Txt>
+            <CityNm>ALEXANDRIA</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22313</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WOUNDED WARRIOR PROJECT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2468 HISTORIC DECATUR RD</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 150</AddressLine2Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GEN OPS FUND</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>5240</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>627</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>INTEREST ON MORTAGE LOAN</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>5467</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>ROYALTIES</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>310</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>6404</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>6404</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALTRIA GROUP 100 SHARES</StockNm>
+        <EOYBookValueAmt>3225</EOYBookValueAmt>
+        <EOYFMVAmt>6111</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ANWORTH MORTGAGE ASSET 175 SHARES</StockNm>
+        <EOYBookValueAmt>1182</EOYBookValueAmt>
+        <EOYFMVAmt>745</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ENERPLUS CORP 612.787 SHARES</StockNm>
+        <EOYBookValueAmt>18037</EOYBookValueAmt>
+        <EOYFMVAmt>1943</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SABINE ROYALTY TR 100 SHARES</StockNm>
+        <EOYBookValueAmt>5661</EOYBookValueAmt>
+        <EOYFMVAmt>3280</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc3">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>24</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>24</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FOREIGN TAXES PAID ON BROKERA</Desc>
+        <RevenueAndExpensesPerBooksAmt>76</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>76</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER</Desc>
+        <RevenueAndExpensesPerBooksAmt>55</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>55</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc4">
+      <OtherIncomeDetail>
+        <Desc>INTEREST ON MORTAGE LOAN</Desc>
+        <RevenueAndExpensesPerBooksAmt>5467</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>5467</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>ROYALTIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>310</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>310</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc5">
+      <TaxesDetail>
+        <CategoryTxt>INDIRECT TAXES/LICENSES</CategoryTxt>
+        <Amt>74</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

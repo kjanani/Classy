@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-12T14:31:03-07:00</ReturnTs>
+    <TaxPeriodEndDt>2016-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>JOHN G CALLAGY CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1910 OLYMPIC BLVD STE 330</AddressLine1Txt>
+        <CityNm>WALNUT CREEK</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>945965096</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>202407119</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>ALLAN AND PATRICIA BOSCACCI FAMILY</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ALLA</BusinessNameControlTxt>
+      <PhoneNum>9252999002</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 1637</AddressLine1Txt>
+        <CityNm>LAFAYETTE</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94549</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ALLAN J BOSCACCI</PersonNm>
+      <PersonTitleTxt>Chairman</PersonTitleTxt>
+      <SignatureDt>2016-09-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>John Callagy</PreparerPersonNm>
+      <PTIN>P00967336</PTIN>
+      <PhoneNum>9259849100</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1895708</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>1085235</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>8</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>8</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>48786</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>48786</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>6314</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>302755</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>6314</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>1140343</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>55108</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>4200</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>2100</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>2100</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">1688</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>844</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>844</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">905</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>905</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">133</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>38</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>95</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>6926</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>3887</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>3039</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>172630</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>172630</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>179556</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>3887</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>175669</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>960787</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>51221</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>9849</CashBOYAmt>
+        <CashEOYAmt>915528</CashEOYAmt>
+        <CashEOYFMVAmt>915528</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>935575</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>990683</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>980180</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>945424</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1906211</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1895708</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>945424</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>1906211</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>945424</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1906211</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>945424</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1906211</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>945424</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>960787</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1906211</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1906211</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4000 RBS PREF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-03-21</AcquiredDt>
+          <SoldDt>2016-06-13</SoldDt>
+          <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>97280</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2720</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2720</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4000 RBC PREF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-02</AcquiredDt>
+          <SoldDt>2016-02-18</SoldDt>
+          <GrossSalesPriceAmt>103603</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>99152</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4451</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4451</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4000 CITY NATL PREF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-04-16</AcquiredDt>
+          <SoldDt>2015-11-02</SoldDt>
+          <GrossSalesPriceAmt>99152</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100009</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-857</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-857</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>6314</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>7171</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>55331</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>913714</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.06056</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>267294</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>1014188</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.26356</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>282625</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>883410</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.31993</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>31075</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>385410</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.08063</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>51844</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>248401</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.20871</DistributionYr5Rt>
+        <TotalDistributionRt>0.933375</TotalDistributionRt>
+        <AverageDistributionRt>0.186675</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1517834</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>283342</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>512</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>283854</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>175669</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1024</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1024</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1024</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>25</EsPenaltyAmt>
+        <TaxDueAmt>1049</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>ALLISON MEIN</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9252999002</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 1637</AddressLine1Txt>
+          <CityNm>LAFAYETTE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94549</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALLAN J BOSCACCI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 1637</AddressLine1Txt>
+            <CityNm>LAFAYETTE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94549</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PATRICIA A BOSCACCI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 1637</AddressLine1Txt>
+            <CityNm>LAFAYETTE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94549</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALLISON MEIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 1637</AddressLine1Txt>
+            <CityNm>LAFAYETTE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94549</ZIPCd>
+          </USAddress>
+          <TitleTxt>CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4200</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>940167</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>600781</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1540948</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1540948</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>23114</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1517834</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>75892</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>75892</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1024</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1024</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>74868</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>74868</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>74868</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>175669</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>175669</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>175669</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>74868</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>39809</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>11898</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>238844</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>218104</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>10520</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>519175</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>175669</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>74868</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>100801</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>619976</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>39809</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>580167</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>11898</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>238844</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>218104</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>10520</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>100801</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>ALLAN J BOSCACCI</ContributingManagerNm>
+        <ContributingManagerNm>PATRICIA A BOSCACCI</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ST PERPETUA'S CATHOLIC SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3445 HAMLIN ROAD</AddressLine1Txt>
+            <CityNm>LAFAYETTE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94549</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPER. BUDGET SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>25430</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHELTER INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1815 ARNOLD DRIVE</AddressLine1Txt>
+            <CityNm>MARTINEZ</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94553</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPER. BUDGET SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ST ANDRE BESSETTE CATHOLIC CHURCH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>601 W BURNSIDE STREET</AddressLine1Txt>
+            <CityNm>PORTLAND</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97209</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPER. BUDGET SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ST ANTHONYS ELEMENTARY SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1500 E 15TH STREET</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94606</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING BUDGET SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>128200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ST COLUMBA CATHOLIC CHURCH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6401 SAN PABLO AVENUE</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94608</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>FUNDING FOR CHURCH ORGAN</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>172630</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>8</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>48786</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>6314</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>55108</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>55108</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>ALLAN BOSCACCI</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>POBOX 1637</AddressLine1Txt>
+          <CityNm>LAFAYETTE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94549</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>1085235</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <AccountingFeesDetail>
+        <Amt>1688</Amt>
+        <NetInvestmentIncomeAmt>844</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>844</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>38</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>38</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>State filing fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>95</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>95</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <CategoryTxt>Franchise tax board</CategoryTxt>
+        <Amt>10</Amt>
+        <NetInvestmentIncomeAmt>10</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>IRS</CategoryTxt>
+        <Amt>895</Amt>
+        <NetInvestmentIncomeAmt>895</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,715 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-12T06:08:05-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Lichtenstein Briefman Gardner &amp; Thomas PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2501 South Tamiami Trail</AddressLine1Txt>
+        <CityNm>Sarasota</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>342394502</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>272554822</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Ann &amp; Lars Lewander Scholarship</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>Foundation Inc</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ANN&amp;</BusinessNameControlTxt>
+      <PhoneNum>9417560600</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>7061 15th Street East</AddressLine1Txt>
+        <CityNm>Sarasota</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>34243</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Lars Lewander</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2016-09-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Kimeth Gardner CPA</PreparerPersonNm>
+      <PTIN>P00281743</PTIN>
+      <PhoneNum>9413663737</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>783573</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>20462</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>20462</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>20462</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>24379</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>87281</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>24379</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>44841</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>44841</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>20462</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">700</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>700</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>700</LegalFeesAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">825</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>825</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>825</AccountingFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">516</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>516</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>516</TaxesAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">120</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>120</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>120</OtherExpensesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>2161</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>2161</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>2161</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>50000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>50000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>52161</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>2161</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>2161</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>50000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-7320</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>42680</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>18301</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>765</CashBOYAmt>
+        <CashEOYAmt>6487</CashEOYAmt>
+        <CashEOYFMVAmt>6487</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>496488</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">480760</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>775436</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">2686</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1650</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>497253</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>489933</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>783573</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>497253</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>489933</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>497253</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>489933</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>497253</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>489933</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>497253</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-7320</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>489933</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>489933</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10 Apple Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-01</AcquiredDt>
+          <SoldDt>2015-01-07</SoldDt>
+          <GrossSalesPriceAmt>1070</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>619</CostOrOtherBasisAmt>
+          <GainOrLossAmt>451</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>451</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>30 Apple Inc.</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-01</AcquiredDt>
+          <SoldDt>2015-05-04</SoldDt>
+          <GrossSalesPriceAmt>3878</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1857</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2021</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2021</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 Geospance Technologies CP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2015-04-08</SoldDt>
+          <GrossSalesPriceAmt>1603</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4962</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3359</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3359</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>620 Johnson &amp; Johnson</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-01</AcquiredDt>
+          <SoldDt>2015-07-21</SoldDt>
+          <GrossSalesPriceAmt>62337</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>38034</CostOrOtherBasisAmt>
+          <GainOrLossAmt>24303</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>24303</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 Mc Donalds Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-01</AcquiredDt>
+          <SoldDt>2015-01-27</SoldDt>
+          <GrossSalesPriceAmt>17968</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16971</CostOrOtherBasisAmt>
+          <GainOrLossAmt>997</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>997</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Mc Donalds Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2015-01-27</SoldDt>
+          <CostOrOtherBasisAmt>20</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-20</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-20</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4 Mc Donalds Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2015-01-27</SoldDt>
+          <GrossSalesPriceAmt>359</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>375</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-16</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-16</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>.7296 MC Donalds Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2015-01-27</SoldDt>
+          <GrossSalesPriceAmt>66</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>64</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>24379</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-3393</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>69508</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>745743</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.09321</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>39417</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>639302</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.06166</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>30000</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>259399</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.11565</DistributionYr3Rt>
+        <TotalDistributionRt>0.270514</TotalDistributionRt>
+        <AverageDistributionRt>0.090171</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>780502</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>70379</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>427</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>70806</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>50000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>854</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>854</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>854</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>12</EsPenaltyAmt>
+        <TaxDueAmt>866</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Lars Lewander</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9417560600</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>7061 15th Street East</AddressLine1Txt>
+          <CityNm>Sarasota</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>34243</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Lars Lewander</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7061 15th Street East</AddressLine1Txt>
+            <CityNm>Sarasota</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34243</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Michael Havey</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7061 15th Street East</AddressLine1Txt>
+            <CityNm>Sarasota</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34243</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Marlin Stoltzfus</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7061 15th Street East</AddressLine1Txt>
+            <CityNm>Sarasota</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34243</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>787937</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>3626</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>825</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>792388</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>792388</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>11886</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>780502</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>39025</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>39025</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>854</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>854</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>38171</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>38171</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>38171</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>50000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>50000</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>50000</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>38171</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr3Amt>30000</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>8618</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>33205</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>71823</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>50000</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>38171</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>11829</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>83652</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>83652</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>30000</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>8618</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>33205</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>11829</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Dylan Dicarlo</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4705 26th Avenue East</AddressLine1Txt>
+            <CityNm>Bradenton</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34208</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Student Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>5200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Victoria Brosilow</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4523 3rd Avenue East</AddressLine1Txt>
+            <CityNm>Bradenton</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34208</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Student Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>5200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Jacob Leonard</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1311 Riverside Drive</AddressLine1Txt>
+            <CityNm>Plametto</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34221</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Student Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>5200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Tiffany Denny</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5824 20th SW</AddressLine1Txt>
+            <CityNm>Bradenton</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34207</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Student Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>3200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Kailee Sharp</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13539 2nd Ave NE</AddressLine1Txt>
+            <CityNm>Bradenton</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34212</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Educational Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>5200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Robert Walton</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2634 Nassau Street</AddressLine1Txt>
+            <CityNm>Sarasota</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34231</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Educational Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>5200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Marissa Sharp</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13539 2nd Ave</AddressLine1Txt>
+            <CityNm>Bradenton</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34212</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Educational Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>5200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Jacob Strauss</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1350 Main Street 2</AddressLine1Txt>
+            <CityNm>Sarasota</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34236</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Educational Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>5200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Kayla Avirett</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7604 13th Avenue NW</AddressLine1Txt>
+            <CityNm>Bradenton</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34209</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Educational Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>5200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Vitalina Rogozin</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8128 San Jacinto Avenue</AddressLine1Txt>
+            <CityNm>North Port</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34287</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Educational Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>5200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>50000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <RelatedOrExemptFunctionIncmAmt>20462</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>24379</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>44841</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>44841</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting Fees</CategoryTxt>
+        <Amt>825</Amt>
+        <NetInvestmentIncomeAmt>825</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>825</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ABBOT LABORATORIES</StockNm>
+        <EOYBookValueAmt>9167</EOYBookValueAmt>
+        <EOYFMVAmt>17066</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALTRIA GROUP INC</StockNm>
+        <EOYBookValueAmt>82671</EOYBookValueAmt>
+        <EOYFMVAmt>170726</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ASSURED GUARENTY LTD F</StockNm>
+        <EOYBookValueAmt>1598</EOYBookValueAmt>
+        <EOYFMVAmt>2907</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CINCINNATI FINANCIAL CP</StockNm>
+        <EOYBookValueAmt>3009</EOYBookValueAmt>
+        <EOYFMVAmt>7396</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GILEAD SCIENCES INC</StockNm>
+        <EOYBookValueAmt>1989</EOYBookValueAmt>
+        <EOYFMVAmt>11131</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INTEL GORP</StockNm>
+        <EOYBookValueAmt>28422</EOYBookValueAmt>
+        <EOYFMVAmt>45012</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOHNSON &amp; JOHNSON</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MARVELL TECH GROUP LTD F</StockNm>
+        <EOYBookValueAmt>5009</EOYBookValueAmt>
+        <EOYFMVAmt>3528</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PHILIP MORRIS INTL INC</StockNm>
+        <EOYBookValueAmt>67509</EOYBookValueAmt>
+        <EOYFMVAmt>87910</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TEVA PHARM INDS LTD ADRF</StockNm>
+        <EOYBookValueAmt>4470</EOYBookValueAmt>
+        <EOYFMVAmt>6564</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VISA INC CL A</StockNm>
+        <EOYBookValueAmt>18832</EOYBookValueAmt>
+        <EOYFMVAmt>80652</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>APPLE INC</StockNm>
+        <EOYBookValueAmt>136160</EOYBookValueAmt>
+        <EOYFMVAmt>211959</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MC DONALDS CORP</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TRANSCOCEAN INC NEW</StockNm>
+        <EOYBookValueAmt>14517</EOYBookValueAmt>
+        <EOYFMVAmt>7992</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ABBVIE INC</StockNm>
+        <EOYBookValueAmt>9940</EOYBookValueAmt>
+        <EOYFMVAmt>22511</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HERBALIFE LTD</StockNm>
+        <EOYBookValueAmt>11358</EOYBookValueAmt>
+        <EOYFMVAmt>16086</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IPG PHOTONICS CORP</StockNm>
+        <EOYBookValueAmt>1995</EOYBookValueAmt>
+        <EOYFMVAmt>3121</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOY GLOBAL INC</StockNm>
+        <EOYBookValueAmt>3280</EOYBookValueAmt>
+        <EOYFMVAmt>789</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NUANCE COMMUN INC</StockNm>
+        <EOYBookValueAmt>10616</EOYBookValueAmt>
+        <EOYFMVAmt>13923</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ORACLE CORPORATION</StockNm>
+        <EOYBookValueAmt>20111</EOYBookValueAmt>
+        <EOYFMVAmt>22577</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PAREXEL INTL CORP</StockNm>
+        <EOYBookValueAmt>4214</EOYBookValueAmt>
+        <EOYFMVAmt>6812</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CIRRUS LOGIC INC</StockNm>
+        <EOYBookValueAmt>3883</EOYBookValueAmt>
+        <EOYFMVAmt>5906</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Acorda Therapeutics New</StockNm>
+        <EOYBookValueAmt>1029</EOYBookValueAmt>
+        <EOYFMVAmt>1412</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Geospace Technlogies CP</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Michael Kors Hldfs</StockNm>
+        <EOYBookValueAmt>1982</EOYBookValueAmt>
+        <EOYFMVAmt>1042</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>New Oriental Ed ADR</StockNm>
+        <EOYBookValueAmt>2062</EOYBookValueAmt>
+        <EOYFMVAmt>3137</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Soufun Hldgs Ltd ADR</StockNm>
+        <EOYBookValueAmt>2163</EOYBookValueAmt>
+        <EOYFMVAmt>2217</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MICRON TECHNOLOGY</StockNm>
+        <EOYBookValueAmt>9429</EOYBookValueAmt>
+        <EOYFMVAmt>7080</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NATIONAL OILWELL VAR</StockNm>
+        <EOYBookValueAmt>17902</EOYBookValueAmt>
+        <EOYFMVAmt>10382</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>QUALC OMM INC</StockNm>
+        <EOYBookValueAmt>7443</EOYBookValueAmt>
+        <EOYFMVAmt>5598</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>UNITED STATES OIL ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>2686</BookValueAmt>
+        <EOYFMVAmt>1650</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <LegalFeesGrp>
+        <LegalFeesAmt>700</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>700</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>700</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK SERVICE CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>13</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>13</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>13</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>106</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>106</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>106</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ROUNDING</Desc>
+        <RevenueAndExpensesPerBooksAmt>1</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <Amt>516</Amt>
+        <NetInvestmentIncomeAmt>516</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>516</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

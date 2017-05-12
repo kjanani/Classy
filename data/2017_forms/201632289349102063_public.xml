@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-15T18:51:50-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>721225704</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>LOIS ROTHWELL CPA MS LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>100 TYLER SQ STE 6</AddressLine1Txt>
+        <CityNm>COVINGTON</CityNm>
+        <StateAbbreviationCd>LA</StateAbbreviationCd>
+        <ZIPCd>704333060</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>263776649</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>AL &amp; DIANE KRAMER FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>AL&amp;D</BusinessNameControlTxt>
+      <PhoneNum>9858927363</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>701 E TEMPERANCE ST</AddressLine1Txt>
+        <CityNm>COVINGTON</CityNm>
+        <StateAbbreviationCd>LA</StateAbbreviationCd>
+        <ZIPCd>70433</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DIANE KRAMER</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <PhoneNum>9858927363</PhoneNum>
+      <SignatureDt>2016-08-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>LOIS ROTHWELL CPA MS</PreparerPersonNm>
+      <PTIN>P00450518</PTIN>
+      <PhoneNum>9858986364</PhoneNum>
+      <PreparationDt>2016-08-15</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>47618</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <TotalRevAndExpnssAmt>47618</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">1035</AccountingFeesRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc4">850</OtherProfFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc5">90</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc3">1448</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>3423</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>7635</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>7635</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>11058</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>7635</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>36560</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>17431</CashBOYAmt>
+        <CashEOYAmt>53991</CashEOYAmt>
+        <TotalAssetsBOYAmt>17431</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>53991</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>17431</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>53991</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>17431</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>53991</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>17431</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>53991</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>17431</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>36560</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>53991</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>53991</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>34334</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>2213</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>15.514686</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>29931</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>19428</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>1.540611</DistributionYr2Rt>
+        <TotalDistributionRt>17.055297</TotalDistributionRt>
+        <AverageDistributionRt>8.527649</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>4432</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>37795</AdjNetVlNoncharitableAssetsAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>37795</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>7635</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>DIANE KRAMER</IndividualWithBooksNm>
+        <PhoneNum>9858927363</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>701 E TEMPERANCE ST</AddressLine1Txt>
+          <CityNm>COVINGTON</CityNm>
+          <StateAbbreviationCd>LA</StateAbbreviationCd>
+          <ZIPCd>70433</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DIANE KRAMER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>701 EAST TEMPERANCE ST</AddressLine1Txt>
+            <CityNm>COVINGTON</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70433</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>AL KRAMER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>701 E TEMPERANCE ST</AddressLine1Txt>
+            <CityNm>COVINGTON</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70433</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KAREN KRAMER JOHNSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>273 12TH ST NE UNIT 313</AddressLine1Txt>
+            <CityNm>ATLANTA</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30309</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHERYL KRAMER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>304 MEADOW WOOD TERRACE</AddressLine1Txt>
+            <CityNm>ITHACA</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>14850</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KEVIN KRAMER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9 GREENBRIAR DR</AddressLine1Txt>
+            <CityNm>COVINGTON</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70433</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>SUPPORT IN COMMUNITY CHARITABLE ORGANIZATIONS</Description1Txt>
+        <Expenses1Amt>6885</Expenses1Amt>
+        <Description2Txt>SUPPORT VARIOUS NATIONAL CHARITIES</Description2Txt>
+        <Expenses2Amt>750</Expenses2Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>4500</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>4500</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>4500</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>68</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>4432</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>222</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>7635</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>7635</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>7635</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <QualifyingDistributionsAmt>7635</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>7635</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>7635</TotalCorpusAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <PrivateOperatingFndtnRulingDt>2010-07-01</PrivateOperatingFndtnRulingDt>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <TotalAmt>0</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>7635</CurrentYearAmt>
+          <Year1Amt>34334</Year1Amt>
+          <Year2Amt>29931</Year2Amt>
+          <Year3Amt>34075</Year3Amt>
+          <TotalAmt>105975</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>7635</CurrentYearAmt>
+          <Year1Amt>34334</Year1Amt>
+          <Year2Amt>29931</Year2Amt>
+          <Year3Amt>34075</Year3Amt>
+          <TotalAmt>105975</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>148</CurrentYearAmt>
+          <Year1Amt>74</Year1Amt>
+          <Year2Amt>647</Year2Amt>
+          <TotalAmt>869</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>DIANE KRAMER</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>DIANE KRAMER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>701 E TEMPERANCE</AddressLine1Txt>
+            <CityNm>COVINGTON</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70433</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9858927363</RecipientPhoneNum>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AM VETS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 687</AddressLine1Txt>
+            <CityNm>DESTREHAN</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70047</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>ASSIST VETS</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN CANCER SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20162 PARC WOOD DRIVE</AddressLine1Txt>
+            <CityNm>COVINGTON</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70433</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CANCER RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COOKING FOR A CAUSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1522 W CAUSEWAY APPROACH</AddressLine1Txt>
+            <CityNm>MANDEVILLE</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70448</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>COMMUNITY SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COVINGTON FOOD BANK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>840 N COLUMBIA ST</AddressLine1Txt>
+            <CityNm>COVINGTON</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70433</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>FOOD FOR NEEDY PEOPLE</GrantOrContributionPurposeTxt>
+          <Amt>1710</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COVINGTON HERITAGE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>419 N NEW HAMPSHIRE</AddressLine1Txt>
+            <CityNm>COVINGTON</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70433</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>COMMUNITY SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>30</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LEADERSHIP ST TAMMANY JUVENILLE DET</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>28528 US HWY 190</AddressLine1Txt>
+            <CityNm>COVINGTON</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70433</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE FOR JAILED YOUTH</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SHRINERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1940 ORMOND BLVD</AddressLine1Txt>
+            <CityNm>DESTREHAN</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70047</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SHRINERS HOSPITAL</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SMILE TRAIN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>41 MADISON AVE</AddressLine1Txt>
+            <AddressLine2Txt>28TH FL</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CLEFT SURGERY</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST PAUL'S SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>JAHNCKE AVE</AddressLine1Txt>
+            <CityNm>COVINGTON</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70433</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST TAMMANY HOSPITAL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1202 SOUTH TYLER</AddressLine1Txt>
+            <CityNm>COVINGTON</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70433</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT HEALING WORK</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UPWARD COMMUNITY SERVICES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1148 N COLUMBIA ST</AddressLine1Txt>
+            <CityNm>COVINGTON</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70433</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>COMMUNITY PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>1435</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WYES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3330 N CAUSEWAY BLVD</AddressLine1Txt>
+            <CityNm>METAIRIE</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MULTI MEDIA RESOURCES</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YOUTH SERVICE BUREAU</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>430 N NEW HAMPSHIRE</AddressLine1Txt>
+            <CityNm>COVINGTON</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70433</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>ADVOCACY, COUNCELING FOR AT RISK</GrantOrContributionPurposeTxt>
+          <Amt>2160</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>7635</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREP</CategoryTxt>
+        <Amt>1035</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc3">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE/POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1408</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WIRE TRANSFER FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>40</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc4">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INDIRECT OTHER PROFESSIONAL FEES</CategoryTxt>
+        <Amt>850</Amt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <TaxesDetail>
+        <CategoryTxt>INDIRECT TAXES/LICENSES</CategoryTxt>
+        <Amt>90</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

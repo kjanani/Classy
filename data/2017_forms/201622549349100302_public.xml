@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-10T12:26:18-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Sheridan Law Offices</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>4470 Erin Drive</AddressLine1Txt>
+        <CityNm>Eagan</CityNm>
+        <StateAbbreviationCd>MN</StateAbbreviationCd>
+        <ZIPCd>55122</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>411889747</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Frank &amp; Evelyn Rechtzigel Family FD</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>FRAN</BusinessNameControlTxt>
+      <PhoneNum>9522121234</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>19779 Juno Trail</AddressLine1Txt>
+        <CityNm>Lakeville</CityNm>
+        <StateAbbreviationCd>MN</StateAbbreviationCd>
+        <ZIPCd>55044</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Gene Rechtzigel</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2016-09-10</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Daniel M Sheridan</PreparerPersonNm>
+      <PTIN>P00629410</PTIN>
+      <PhoneNum>6514528705</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1026390</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>82</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>82</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>82</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>9156</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>9156</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>9156</DividendsAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>9238</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>9238</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>9238</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">5277</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>2111</LegalFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">540</OtherProfFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">3601</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>2122</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>9418</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>4233</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>70000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>70000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>79418</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>4233</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>70000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-70180</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>5005</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>9238</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>826038</CashBOYAmt>
+        <CashEOYAmt>754440</CashEOYAmt>
+        <CashEOYFMVAmt>754440</CashEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>981192</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>982610</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>271950</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1807230</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1737050</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1026390</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>55858</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>55858</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>1751372</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1681192</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1807230</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1737050</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1807230</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1737050</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1807230</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-70180</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1737050</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1737050</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>117870</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1369039</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.08610</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>61000</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>1550209</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.03935</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>61000</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1743061</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.03500</DistributionYr3Rt>
+        <NetVlNoncharitableAssetsYr4Amt>1880926</NetVlNoncharitableAssetsYr4Amt>
+        <AdjustedQlfyDistriYr5Amt>129885</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1814785</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.07157</DistributionYr5Rt>
+        <TotalDistributionRt>0.232013</TotalDistributionRt>
+        <AverageDistributionRt>0.046403</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1118878</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>51919</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>50</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>51969</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>70000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>50</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>50</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>50</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>50</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MN</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Gene Rechtzigel</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9522121234</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>19779 Juno Trail</AddressLine1Txt>
+          <CityNm>Lakeville</CityNm>
+          <StateAbbreviationCd>MN</StateAbbreviationCd>
+          <ZIPCd>55044</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Gene Rechtzigel</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>19799 Juno Trail W</AddressLine1Txt>
+            <CityNm>Lakeville</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55044</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Donald J Rechtzigel</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2872 County Rd G</AddressLine1Txt>
+            <CityNm>Elmwood</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>54740</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Carla C Rechtzigel</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>15973 Fennel Ct</AddressLine1Txt>
+            <CityNm>Apple Valley</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55124</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>The Foundation primarily promotes charitable, religious, human service, and educational activities</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>345678</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>790239</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1135917</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1135917</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>17039</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1118878</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>55944</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>55944</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>50</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>50</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>55894</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>55894</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>55894</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>70000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>70000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>50</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>69950</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>55894</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>41941</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>41941</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>70000</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>55894</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>14106</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>56047</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>56047</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>41941</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>14106</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>New Life Family Services</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>308 SE Oak St</AddressLine1Txt>
+            <CityNm>Minneapolis</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55414</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Silver Cord Ministries</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 46041</AddressLine1Txt>
+            <CityNm>Eden Prairie</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55344</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Food for His Children</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 2261</AddressLine1Txt>
+            <CityNm>Burnsville</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55337</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>First Baptist Church of Rosemount</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1440 Diamond Path W</AddressLine1Txt>
+            <CityNm>Rosemount</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55068</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Central Baptist Church of Wayne</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>106 W Lancaster Ave PO Box 309</AddressLine1Txt>
+            <CityNm>Wayne</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19087</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Navigators Ministries</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 6000</AddressLine1Txt>
+            <CityNm>Colorado Springs</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80934</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Liberty Godparent Home</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1124 Liberty Mountain Dr</AddressLine1Txt>
+            <CityNm>Lynchburg</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>24502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Amnion Crisis Pregnancy Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13775 Nicollet Ave</AddressLine1Txt>
+            <CityNm>Burnsville</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55337</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Open Arms of MN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2500 Bloomington Ave S</AddressLine1Txt>
+            <CityNm>Mpls</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55404</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Grace Outreach Covenant</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3000 5th St NW</AddressLine1Txt>
+            <CityNm>New Brighton</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Helping Hands Ministry</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>135 Main St</AddressLine1Txt>
+            <CityNm>Tallulah Falls</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30573</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>13000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Roots Covenant Church</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>775 Lexington Parkway N</AddressLine1Txt>
+            <CityNm>St Paul</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Discipling for Development</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3820 N 30th Street</AddressLine1Txt>
+            <CityNm>Colorado Springs</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80904</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Renew Church</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2240 FM 725</AddressLine1Txt>
+            <CityNm>New Braunfels</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Charitable</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>70000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <UnrelatedBusinessTaxblIncmAmt>82</UnrelatedBusinessTaxblIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <UnrelatedBusinessTaxblIncmAmt>9156</UnrelatedBusinessTaxblIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>9238</UnrelatedBusinessTaxblIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>9238</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <LegalFeesGrp>
+        <CategoryTxt>-Related to Investments</CategoryTxt>
+        <LegalFeesAmt>2111</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>2111</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+      <LegalFeesGrp>
+        <CategoryTxt>-Tax Return Preparation</CategoryTxt>
+        <LegalFeesAmt>3166</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Consulting Fees</CategoryTxt>
+        <Amt>540</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <CategoryTxt>Federal Income Taxes</CategoryTxt>
+        <Amt>1479</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Foreign Taxes Paid</CategoryTxt>
+        <Amt>2122</Amt>
+        <NetInvestmentIncomeAmt>2122</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

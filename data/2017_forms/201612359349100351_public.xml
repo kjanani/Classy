@@ -1,0 +1,789 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-22T10:13:48-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>560747981</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>DIXON HUGHES GOODMAN LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>111 ROCKVILLE PIKE 6TH FLOOR</AddressLine1Txt>
+        <CityNm>ROCKVILLE</CityNm>
+        <StateAbbreviationCd>MD</StateAbbreviationCd>
+        <ZIPCd>20850</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>522062781</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SID &amp; MARY FOULGER FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SID&amp;</BusinessNameControlTxt>
+      <PhoneNum>8188075095</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>111 ROCKVILLE PIKE NO 6TH FL</AddressLine1Txt>
+        <CityNm>ROCKVILLE</CityNm>
+        <StateAbbreviationCd>MD</StateAbbreviationCd>
+        <ZIPCd>20850</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JEAN HONG AND FLORENCE TUNG</PersonNm>
+      <PersonTitleTxt>TREASURER AND SECRETARY</PersonTitleTxt>
+      <PhoneNum>8183685516</PhoneNum>
+      <SignatureDt>2016-08-22</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>STEPHANIE M FENNER</PreparerPersonNm>
+      <PTIN>P01362935</PTIN>
+      <PhoneNum>2404033700</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>4858249</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>3224</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>225</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>225</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>124633</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>122845</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>70075</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1116663</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>70075</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>198157</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>193145</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">2000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1000</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2000</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">35358</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>35088</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>270</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">531</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>531</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>37889</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>36619</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2270</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>140000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>140000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>177889</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>36619</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>142270</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>20268</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>156526</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>9617</CashBOYAmt>
+        <CashEOYAmt>10498</CashEOYAmt>
+        <CashEOYFMVAmt>10498</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>972121</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>813539</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>813539</SavAndTempCashInvstEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>4310102</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">4483845</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>4034212</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>5291840</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>5307882</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>4858249</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>5291840</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>5307882</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>5291840</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>5307882</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>5291840</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>5307882</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>5291840</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>20268</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>5312108</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">4226</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>5307882</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>140.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDT</PropertyDesc>
+          <AcquiredDt>2014-06-26</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>1449</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1428</CostOrOtherBasisAmt>
+          <GainOrLossAmt>21</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>21</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>126.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDT</PropertyDesc>
+          <AcquiredDt>2014-07-28</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>1304</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1301</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>86.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDTN</PropertyDesc>
+          <AcquiredDt>2014-08-26</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>890</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>895</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDTN</PropertyDesc>
+          <AcquiredDt>2014-09-26</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>10</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDT</PropertyDesc>
+          <AcquiredDt>2014-09-26</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>1553</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1548</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDTN</PropertyDesc>
+          <AcquiredDt>2014-10-28</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>10</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>116.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDT</PropertyDesc>
+          <AcquiredDt>2014-10-28</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>1201</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1151</CostOrOtherBasisAmt>
+          <GainOrLossAmt>50</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>50</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>80.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDTN</PropertyDesc>
+          <AcquiredDt>2014-11-28</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>828</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>854</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-26</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-26</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDTN</PropertyDesc>
+          <AcquiredDt>2014-12-29</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>10</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>604.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDT</PropertyDesc>
+          <AcquiredDt>2014-12-29</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>6252</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6482</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-230</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-230</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>130.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDT</PropertyDesc>
+          <AcquiredDt>2015-01-27</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>1346</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1353</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-7</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-7</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>68.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDTN</PropertyDesc>
+          <AcquiredDt>2015-02-26</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>704</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>738</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-34</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-34</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDTN</PropertyDesc>
+          <AcquiredDt>2015-03-26</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>10</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>154.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDT</PropertyDesc>
+          <AcquiredDt>2015-03-26</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>1594</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1654</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-60</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-60</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>131.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQDT</PropertyDesc>
+          <AcquiredDt>2015-04-28</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>1356</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1410</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-54</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-54</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.9937 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH REDEMPTION</PropertyDesc>
+          <AcquiredDt>2015-04-28</AcquiredDt>
+          <SoldDt>2015-06-15</SoldDt>
+          <GrossSalesPriceAmt>10</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>252.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2015-05-27</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>2241</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2364</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-123</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-123</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRIN</PropertyDesc>
+          <AcquiredDt>2014-07-28</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>9</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRIN</PropertyDesc>
+          <AcquiredDt>2014-10-28</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>9</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRIN</PropertyDesc>
+          <AcquiredDt>2014-12-29</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>9</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRIN</PropertyDesc>
+          <AcquiredDt>2015-02-26</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>9</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRIN</PropertyDesc>
+          <AcquiredDt>2015-03-26</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>9</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRIN</PropertyDesc>
+          <AcquiredDt>2015-04-28</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>9</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>270.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2014-07-28</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>2401</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2791</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-390</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-390</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>284.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2014-08-26</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>2525</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2908</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-383</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-383</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>205.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2014-09-26</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>1823</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2039</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-216</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-216</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>270.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2014-10-28</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>2401</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2577</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-176</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-176</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>175.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2014-11-28</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>1556</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1738</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-182</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-182</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>299.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2014-12-29</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>2658</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2884</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-226</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-226</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>254.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2015-01-09</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>2258</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2378</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-120</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-120</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>362.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2015-01-27</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>3218</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3454</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-236</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-236</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>139.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2015-02-26</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>1236</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1349</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-113</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-113</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>209.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2015-03-26</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>1858</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2014</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-156</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-156</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>219.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2015-04-28</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>1947</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2108</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-161</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-161</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.6392 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15 MONTHLY CASH REDE</PropertyDesc>
+          <AcquiredDt>2015-05-27</AcquiredDt>
+          <SoldDt>2015-07-15</SoldDt>
+          <GrossSalesPriceAmt>6</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>49565.000 FT 4717 TARGET HIGH QUALITY DIVID PORT SER 5 MONTHLY CASH PRIN LIQ</PropertyDesc>
+          <AcquiredDt>2014-05-13</AcquiredDt>
+          <SoldDt>2015-06-12</SoldDt>
+          <GrossSalesPriceAmt>513032</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>499277</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13755</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13755</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>49335.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15MONTHLY CASH PR</PropertyDesc>
+          <AcquiredDt>2014-05-13</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>438628</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>497219</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-58591</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-58591</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>248.000 FT 4750 TARGET GLOBAL DVD LEADERS 2Q 14 TERM 7/9/15MONTHLY CASH PRI</PropertyDesc>
+          <AcquiredDt>2014-06-26</AcquiredDt>
+          <SoldDt>2015-07-14</SoldDt>
+          <GrossSalesPriceAmt>2205</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2556</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-351</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-351</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>118089</GrossSalesPriceAmt>
+          <GainOrLossAmt>118089</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>118089</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>70075</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>386131</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>5196390</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.074308</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>944153</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>3052819</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.309273</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>662763</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>381913</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>1.735377</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>426167</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>54402</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>7.833664</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>334613</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>127818</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>2.617886</DistributionYr5Rt>
+        <TotalDistributionRt>12.570508</TotalDistributionRt>
+        <AverageDistributionRt>2.514102</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>5008540</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>12591980</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>1565</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>12593545</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>142270</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>3131</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>3131</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3131</TaxBasedOnInvestmentIncomeAmt>
+        <AppliedToEsTaxAmt>3200</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>3200</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>69</EsPenaltyAmt>
+        <TaxDueAmt>0</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MD</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>JEAN HONG</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8188075095</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>20555 DEVONSHIRE ST 280</AddressLine1Txt>
+          <CityNm>CHATSWORTH</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91311</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VACANT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>111 ROCKVILLE PIKE</AddressLine1Txt>
+            <CityNm>ROCKVILLE</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20850</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FLORENCE TUNG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>11733 LE HAVRE DR</AddressLine1Txt>
+            <CityNm>POTOMAC</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20854</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JEAN HONG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>20555 DEVONSHIRE ST 280</AddressLine1Txt>
+            <CityNm>CHATSWORTH</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91311</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>4194714</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>890098</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>5084812</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>5084812</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>76272</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>5008540</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>250427</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>250427</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3131</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>3131</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>247296</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>247296</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>247296</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>142270</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>142270</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>142270</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>247296</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>325722</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>421747</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>643667</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>791512</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>129214</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>2311862</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>142270</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>142270</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>105026</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>105026</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>2206836</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>220696</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>1986140</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>421747</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>643667</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>791512</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>129214</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>FLORENCE TUNG</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SID FOULGER SCHOOL - RUSSIA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>C/O 9600 BLACKWELL ROAD</AddressLine1Txt>
+            <CityNm>ROCKVILLE</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20850</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>140000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>140000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>225</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>124633</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>70075</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>194933</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>194933</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING &amp; TAX PREPARATION FEES</CategoryTxt>
+        <Amt>2000</Amt>
+        <NetInvestmentIncomeAmt>1000</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2000</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SECURITIES MERRILL LYNCH AC#02004</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1014170</BookValueAmt>
+        <EOYFMVAmt>878081</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SECURITIES MERRILL LYNCH AC#02280</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>3469675</BookValueAmt>
+        <EOYFMVAmt>3156131</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>ADJUSTMENT TO INVESTMENT ACCOUNT BASIS</Desc>
+        <Amt>4226</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>BANK AND WIRE TRANSFER FEE</CategoryTxt>
+        <Amt>615</Amt>
+        <NetInvestmentIncomeAmt>345</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>270</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MANAGEMENT FEE</CategoryTxt>
+        <Amt>34743</Amt>
+        <NetInvestmentIncomeAmt>34743</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CONSULTING FEES</CategoryTxt>
+        <Amt>0</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX PAID</CategoryTxt>
+        <Amt>531</Amt>
+        <NetInvestmentIncomeAmt>531</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

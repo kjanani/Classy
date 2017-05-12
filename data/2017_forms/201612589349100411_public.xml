@@ -1,0 +1,1205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-14T14:04:20-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>264677183</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>DZH PHILLIPS LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>135 MAIN STREET 9TH FLOOR</AddressLine1Txt>
+        <CityNm>SAN FRANCISCO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>941051815</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>941156611</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SAN FRANCISCO LADIES PROTECTION AND</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>RELIEF SOCIETY</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SANF</BusinessNameControlTxt>
+      <PhoneNum>4152020300</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+        <CityNm>SAN FRANCISCO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>941232271</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>KEN DONNELLY</PersonNm>
+      <PersonTitleTxt>CEO</PersonTitleTxt>
+      <PhoneNum>4152020300</PhoneNum>
+      <SignatureDt>2016-08-26</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JANET L HOLLAND</PreparerPersonNm>
+      <PTIN>P00176450</PTIN>
+      <PhoneNum>4157812500</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="13">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>84514760</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>300281</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>20085</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>20085</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>20085</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>2391564</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>2391564</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>2391564</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>5904294</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>23579200</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>5904294</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>205772</NetSTCapitalGainAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">7208629</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>0</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>7208629</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>15824853</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>8315943</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>9826050</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>357848</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>0</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>357848</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>4589093</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>0</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsAdjNetIncmAmt>0</OthEmplSlrsWgsAdjNetIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>4589393</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>1426770</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>0</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftAdjNetIncmAmt>0</PensionEmplBnftAdjNetIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>1426770</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">38850</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>38850</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">55075</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>55075</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">392939</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>392939</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>392939</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt>546989</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>0</DeprecAndDpltnNetInvstIncmAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>546989</DeprecAndDpltnAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">3993373</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>0</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>6661640</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>-2668267</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>11400937</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>392939</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>7601568</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>3799669</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>11400937</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>392939</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>7601568</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>3799669</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>4423916</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>7923004</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2224482</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>427182</CashBOYAmt>
+        <CashEOYAmt>106345</CashEOYAmt>
+        <CashEOYFMVAmt>106345</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>1349536</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>867930</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>867930</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>217500</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>85261</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>217500</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>217500</AcctRcvblEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>212522</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>319703</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>319703</PrepaidExpensesEOYFMVAmt>
+        <CorporateStockBOYAmt>55953895</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">52455438</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>52455438</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>22232566</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2044400001">21802915</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>21802915</CorporateBondsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>17831349</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>9136190</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>8791224</LandBOYAmt>
+        <LandEOYAmt>8695159</LandEOYAmt>
+        <LandEOYFMVAmt>8695159</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc2046600001">35095</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc2046600001">49770</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc2046600001">49770</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>89087281</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>84514760</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>84514760</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>823597</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>478854</AccountsPayableEOYAmt>
+        <DeferredRevenueBOYAmt>5417657</DeferredRevenueBOYAmt>
+        <DeferredRevenueEOYAmt>4818774</DeferredRevenueEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">1915</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">3000</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>6243169</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>5300628</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>82065238</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>78453369</UnrestrictedEOYAmt>
+        <TemporarilyRestrictedBOYAmt>278874</TemporarilyRestrictedBOYAmt>
+        <TemporarilyRestrictedEOYAmt>260763</TemporarilyRestrictedEOYAmt>
+        <PermanentlyRestrictedBOYAmt>500000</PermanentlyRestrictedBOYAmt>
+        <PermanentlyRestrictedEOYAmt>500000</PermanentlyRestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>82844112</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>79214132</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>89087281</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>84514760</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>82844112</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>4423916</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>87268028</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">8053896</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>79214132</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VARIOUS STOCKS &amp; MUTUAL FUNDS (LT)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>20339540</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>17674906</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2664634</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2664634</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>INVESTMENT PARTNERSHIPS (LT)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>3033888</GrossSalesPriceAmt>
+          <GainOrLossAmt>3033888</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3033888</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>INVESTMENT PARTNERSHIPS (ST)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>205772</GrossSalesPriceAmt>
+          <GainOrLossAmt>205772</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>205772</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>5904294</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>205772</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <ExemptOperatingFoundationsInd>X</ExemptOperatingFoundationsInd>
+        <RulingLetterDt>2004-02-03</RulingLetterDt>
+        <NotApplicableCd>N/A</NotApplicableCd>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>0</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>1</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.HERITAGESF.ORG</WebsiteAddressTxt>
+        <IndividualWithBooksNm>CONTROLLER</IndividualWithBooksNm>
+        <PhoneNum>4152020300</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>941232271</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANDREW E CARLSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CAROLYN B BARBER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CONNIE B TIRET</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID GRUBER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID H HINES</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JANE F HICKERSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JEANIE S KAYSER-JONES</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KEN DONNELLY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHIEF EXECUTIVE OFFICER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>212789</CompensationAmt>
+          <EmployeeBenefitProgramAmt>16806</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LAURA J PILZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHAIR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LESLIE L VAN HOUTEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LEWIS R GRIDLEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE-CHAIR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY O HAUSER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAMELA A TUDOR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PATRICIA T OTSTOTT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DEBORAH MARKLEY AVAKIAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY LOUISE FLEMING</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>MARLA LONG HASTINGS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA ST</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>EXECUTIVE DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>145060</CompensationAmt>
+          <EmployeeBenefitsAmt>6303</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>JIN FANG LEI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA ST</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>NURSE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>122700</CompensationAmt>
+          <EmployeeBenefitsAmt>13202</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>GALINA LEVINSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA ST</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>NURSE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>114413</CompensationAmt>
+          <EmployeeBenefitsAmt>12923</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>JONATHAN SADORRA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA ST</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR OF NURSING</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>112676</CompensationAmt>
+          <EmployeeBenefitsAmt>13436</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>CINDY CHEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3400 LAGUNA ST</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94123</ZIPCd>
+          </USAddress>
+          <TitleTxt>NURSE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>112663</CompensationAmt>
+          <EmployeeBenefitsAmt>12828</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <OtherEmployeePaidOver50kCnt>27</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>RESIDENTIAL SERVICES CARE, ASSISTED LIVING AND SKILLED NURSING CARE FOR THE ELDERLY PROVIDED THROUGH OUR LIFE CARE COMMUNITY WITH 67 RESIDENTIAL APARTMENTS, 20 ASSISTED LIVING UNITS AND A 32 BED SKILLED NURSING FACILITY. REHABILITATION, MEDICATION MANAGEMENT AND OTHER SKILLED NURSING SERVICES PROVIDED. PARTIAL SCHOLARSHIPS ARE PROVIDED TO 20% TO 25% OF THE RESIDENTS WHO ARE UNABLE TO PAY THE MONTHLY CARE FEE IN FULL. FINANCIAL SUPPORT IS PROVIDED TO ANY RESIDENT OUTLIVING THEIR FINANCIAL RESOURCES.</Description1Txt>
+        <Expenses1Amt>10433775</Expenses1Amt>
+        <Description2Txt>OVER 18,000 MEALS PER MONTH ARE PREPARED FOR DISTRIBUTION THROUGH HOME DELIVERY OR TO LOW-INCOME SENIOR MEAL SITES IN SAN FRANCISCO. [PROGRAM TERMINATED JUNE 30, 2015.]</Description2Txt>
+        <Expenses2Amt>538118</Expenses2Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>77331140</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>273609</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>577134</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>78181883</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>78181883</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1172728</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>77009155</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>3850458</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>3799669</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>3799669</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>3799669</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <PrivateOperatingFoundationsGrp>
+        <PrivateOperatingFndtnRulingDt>2004-02-03</PrivateOperatingFndtnRulingDt>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>2224482</CurrentYearAmt>
+          <Year1Amt>3128223</Year1Amt>
+          <Year2Amt>3356419</Year2Amt>
+          <Year3Amt>2205417</Year3Amt>
+          <TotalAmt>10914541</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>1890810</CurrentYearAmt>
+          <Year1Amt>2658990</Year1Amt>
+          <Year2Amt>2852956</Year2Amt>
+          <Year3Amt>1874604</Year3Amt>
+          <TotalAmt>9277360</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>3799669</CurrentYearAmt>
+          <Year1Amt>3758264</Year1Amt>
+          <Year2Amt>3437030</Year2Amt>
+          <Year3Amt>3473071</Year3Amt>
+          <TotalAmt>14468034</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriNotUsedDrtGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>0</TotalAmt>
+        </QualifyingDistriNotUsedDrtGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>3799669</CurrentYearAmt>
+          <Year1Amt>3758264</Year1Amt>
+          <Year2Amt>3437030</Year2Amt>
+          <Year3Amt>3473071</Year3Amt>
+          <TotalAmt>14468034</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <TotalAmt>0</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+        <TotalSupportGrp>
+          <CurrentYearAmt>7508910</CurrentYearAmt>
+          <Year1Amt>6789287</Year1Amt>
+          <Year2Amt>6361141</Year2Amt>
+          <Year3Amt>5861729</Year3Amt>
+          <TotalAmt>26521067</TotalAmt>
+        </TotalSupportGrp>
+        <PublicSupportType>
+          <CurrentYearAmt>7036760</CurrentYearAmt>
+          <Year1Amt>6295400</Year1Amt>
+          <Year2Amt>5909731</Year2Amt>
+          <Year3Amt>5529818</Year3Amt>
+          <TotalAmt>24771709</TotalAmt>
+        </PublicSupportType>
+        <LargestSupportFromEOGrp>
+          <CurrentYearAmt>543383</CurrentYearAmt>
+          <Year1Amt>845257</Year1Amt>
+          <Year2Amt>880148</Year2Amt>
+          <Year3Amt>811634</Year3Amt>
+          <TotalAmt>3080422</TotalAmt>
+        </LargestSupportFromEOGrp>
+        <GrossInvestmentIncomeGrp>
+          <CurrentYearAmt>2411649</CurrentYearAmt>
+          <Year1Amt>2834030</Year1Amt>
+          <Year2Amt>2776720</Year2Amt>
+          <Year3Amt>2538115</Year3Amt>
+          <TotalAmt>10560514</TotalAmt>
+        </GrossInvestmentIncomeGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <TotalGrantOrContriPdDurYrAmt>0</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <Desc>MONTHLY CARE FEES</Desc>
+          <RelatedOrExemptFunctionIncmAmt>3513277</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevPartVIIGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <Desc>ENTRANCE FEE AMORTIZATION</Desc>
+          <RelatedOrExemptFunctionIncmAmt>859883</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevPartVIIGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <Desc>PRIVATE HEALTH CENTER</Desc>
+          <RelatedOrExemptFunctionIncmAmt>1613262</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevPartVIIGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <Desc>PUBLIC NUTRITION PROGRAM</Desc>
+          <RelatedOrExemptFunctionIncmAmt>543383</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevPartVIIGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <Desc>MEDICAL SUPPORT SERVICES</Desc>
+          <RelatedOrExemptFunctionIncmAmt>62072</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevPartVIIGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <Desc>GUEST MEALS</Desc>
+          <RelatedOrExemptFunctionIncmAmt>10860</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevPartVIIGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <Desc>MEDICARE PROGRAM</Desc>
+          <RelatedOrExemptFunctionIncmAmt>605892</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevPartVIIGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>20085</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>2391564</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>5904294</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>8315943</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>7208629</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>15524572</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1A</LineNumberTxt>
+          <RelationshipStatementTxt>REVENUE IS COLLECTED FROM RESIDENTS FOR THE PROVISION OF RESIDENTIAL SERVICES, ASSISTED LIVING, SKILLED NURSING CARE, REHABILITATION SERVICES, MEDICATION MANAGEMENT AND OTHER NURSING AND HEALTH CARE SERVICES.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1A</LineNumberTxt>
+          <RelationshipStatementTxt>REVENUE IS ALSO COLLECTED FROM SELF-HELP FOR THE ELDERLY, A 501(C)(3) ORGANIZATION, TO OFFSET THE MEAL PREPARATION COST FOR THE PROVISION OF MEALS DELIVERED TO MEAL SITES SERVING LOW-INCOME SENIOR CITIZENS. [PROGRAM TERMINATED JUNE 30, 2015.]</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>WARREN W PERRY</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>952 LINCOLN BOULEVARD</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94129</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>25000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>KEN DONNELLY</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>2 CASA WAY</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94123</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>6717</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>F SCOTT AND NANCY HINDES</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 859</AddressLine1Txt>
+          <CityNm>ZEPHYR COVE</CityNm>
+          <StateAbbreviationCd>NV</StateAbbreviationCd>
+          <ZIPCd>89448</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>4</ContributorNum>
+        <ContributorPersonNm>JULIETTE SABITOU ESTATE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>44 MONTGOMERY ST SUITE 3585</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94104</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>29526</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>5</ContributorNum>
+        <ContributorPersonNm>EMMA ANN FRIED ESTATE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 4250</AddressLine1Txt>
+          <CityNm>VALLEJO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94590</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>125097</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>6</ContributorNum>
+        <ContributorPersonNm>HAROLD LEVINE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>3400 LAGUNA STREET 320P</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94123</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>55075</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>55075</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FIXED INCOME MUTUAL FUNDS</BondNm>
+        <EOYBookValueAmt>21802915</EOYBookValueAmt>
+        <EOYFMVAmt>21802915</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITIES</StockNm>
+        <EOYBookValueAmt>52455438</EOYBookValueAmt>
+        <EOYFMVAmt>52455438</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL</CategoryTxt>
+        <LegalFeesAmt>38850</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>38850</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssetsScheduleGrp>
+        <Desc>ACCOUNTS RECEIVABLE - OTHER</Desc>
+        <BOYBookValueAmt>28723</BOYBookValueAmt>
+        <EOYBookValueAmt>37407</EOYBookValueAmt>
+        <EOYFMVAmt>37407</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>CUSTODIAN FUNDS</Desc>
+        <BOYBookValueAmt>3848</BOYBookValueAmt>
+        <EOYBookValueAmt>9839</EOYBookValueAmt>
+        <EOYFMVAmt>9839</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>CEMETERY PLOTS</Desc>
+        <BOYBookValueAmt>2524</BOYBookValueAmt>
+        <EOYBookValueAmt>2524</EOYBookValueAmt>
+        <EOYFMVAmt>2524</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED LOSS ON SECURITIES CARRIED AT FMV</Desc>
+        <Amt>8053896</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>199657</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>199657</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DRUGS &amp; MEDICAL SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>112935</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>112935</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REPAIRS &amp; MAINTENANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>260771</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>260771</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FOOD - LIFE CARE</Desc>
+        <RevenueAndExpensesPerBooksAmt>463377</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>463377</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FOOD - PUBLIC NUTRITION PROGRAM</Desc>
+        <RevenueAndExpensesPerBooksAmt>233765</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>233765</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CONTRACT MAINTENANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>114668</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>114668</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MGT FEES - FOOD SERVICE</Desc>
+        <RevenueAndExpensesPerBooksAmt>50668</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>50668</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISC - FOOD SERVICE</Desc>
+        <RevenueAndExpensesPerBooksAmt>27792</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>27792</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISC - HOUSEKEEPING</Desc>
+        <RevenueAndExpensesPerBooksAmt>8295</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>8295</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISC - HEALTH CENTER</Desc>
+        <RevenueAndExpensesPerBooksAmt>67123</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>67123</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISC - GENERAL &amp; ADMINISTRATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>149509</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>149509</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISC - PUBLIC NUTRITION</Desc>
+        <RevenueAndExpensesPerBooksAmt>42770</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>42770</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SECURITY</Desc>
+        <RevenueAndExpensesPerBooksAmt>134757</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>134757</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MEDICAL SVCS - HEALTH CARE</Desc>
+        <RevenueAndExpensesPerBooksAmt>109738</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>109738</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>30805</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>30805</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CONSULTING FEES - GENERAL &amp; ADMIN</Desc>
+        <RevenueAndExpensesPerBooksAmt>175821</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>175821</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES &amp; OTHER PROFESSIONAL FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>94196</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>94196</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>UTILITIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>400495</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>400495</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>109438</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>109438</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TRANSPORTATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>44216</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>44216</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PROGRAM ACTIVITIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>114722</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>114722</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TRAVEL AND CONFERENCES</Desc>
+        <RevenueAndExpensesPerBooksAmt>45166</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>45166</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PROGRAM EXPENSE ALLOCATION TO ANI</Desc>
+        <RevenueAndExpensesPerBooksAmt>-6661640</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>-6661640</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PROGRAM EXPENSE ALLOCATION TO ANI</Desc>
+        <RevenueAndExpensesPerBooksAmt>6661640</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>6661640</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OUTSIDE SERVICES</Desc>
+        <RevenueAndExpensesPerBooksAmt>867951</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>867951</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISC - MEDICARE</Desc>
+        <RevenueAndExpensesPerBooksAmt>12065</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>12065</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TERMINATION COSTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>86568</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>86568</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>36105</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>36105</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>MONTHLY CARE FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>3513277</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>3513277</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>ENTRANCE FEE AMORTIZATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>859883</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>859883</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>PRIVATE HEALTH CENTER</Desc>
+        <RevenueAndExpensesPerBooksAmt>1613262</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>1613262</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>PUBLIC NUTRITION PROGRAM</Desc>
+        <RevenueAndExpensesPerBooksAmt>543383</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>543383</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>MEDICAL SUPPORT SERVICES</Desc>
+        <RevenueAndExpensesPerBooksAmt>62072</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>62072</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>GUEST MEALS</Desc>
+        <RevenueAndExpensesPerBooksAmt>10860</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>10860</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>MEDICARE PROGRAM</Desc>
+        <RevenueAndExpensesPerBooksAmt>605892</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>605892</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>CUSTODIAN FUNDS</Desc>
+        <BOYBookValueAmt>1915</BOYBookValueAmt>
+        <EOYBookValueAmt>3000</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MANAGEMENT</CategoryTxt>
+        <Amt>392939</Amt>
+        <NetInvestmentIncomeAmt>392939</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>392939</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributorDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>BARRETT &amp; MARGARET HINDES FOUNDATION</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>5114 PT FOSDICK DRIVE NW E</AddressLine1Txt>
+          <CityNm>GIG HARBOR</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>983351733</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+      <SubstantialContributorDetail>
+        <PersonNm>ETHYL COLLIS</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>3400 LAGUNA STREET 324M</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>941232271</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+      <SubstantialContributorDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>STUCKY SISTERS' ESTATE</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>C/O RUTH DOWNS SULLIVAN 605 MARKET</AddressLine1Txt>
+          <AddressLine2Txt>STREET 900</AddressLine2Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>941053211</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+      <SubstantialContributorDetail>
+        <PersonNm>WARREN UNNA</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>10450 LOTTSFORD ROAD COTTAGE 1214</AddressLine1Txt>
+          <CityNm>MITCHELLVILLE</CityNm>
+          <StateAbbreviationCd>MD</StateAbbreviationCd>
+          <ZIPCd>207212746</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+      <SubstantialContributorDetail>
+        <PersonNm>NANCY P WESTON</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>C/O THOMAS B WORTH 425 CALIFORNIA</AddressLine1Txt>
+          <AddressLine2Txt>STREET 25TH FLOOR</AddressLine2Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>941042212</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+      <SubstantialContributorDetail>
+        <PersonNm>EFFIE GARVIN</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>3400 LAGUNA STREET</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>941232271</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+      <SubstantialContributorDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>EMMA ANN FRIED ESTATE</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 4250</AddressLine1Txt>
+          <CityNm>VALLEJO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94590</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

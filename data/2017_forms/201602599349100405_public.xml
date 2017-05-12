@@ -1,0 +1,810 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2014v6.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-15T09:54:25-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-10-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>221624206</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>MALESARDI QUACKENBUSH SWIFT &amp; CO LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>155 NORTH DEAN STREET - SUITE 5</AddressLine1Txt>
+        <CityNm>ENGLEWOOD</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>07631</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2014-11-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>223369956</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE JOSE M GARCIA FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JOSE</BusinessNameControlTxt>
+      <PhoneNum>9733248741</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>707 EAGLE ROCK AVENUE</AddressLine1Txt>
+        <CityNm>WEST ORANGE</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>07052</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>GORDON D MEYER</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>9733248741</PhoneNum>
+      <SignatureDt>2016-09-14</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>ERICA MARTINEZ</PreparerPersonNm>
+      <PTIN>P00852340</PTIN>
+      <PhoneNum>2015674100</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2014</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="15">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>8215880</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>57720</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>57720</DividendsNetInvstIncmAmt>
+        <GrossRentsRevAndExpnssAmt>254515</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>254515</GrossRentsNetInvstIncmAmt>
+        <NetRentalIncomeOrLossAmt>195687</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>103945</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>963206</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>103945</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">17472</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>17158</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>433652</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>433338</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>65000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>20800</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>31200</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">13387</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>13387</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>0</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">17817</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>10240</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2985</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">58665</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>42665</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>16559</OtherProfFeesDsbrsChrtblAmt>
+        <InterestRevAndExpnssAmt>50</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>0</InterestNetInvstIncmAmt>
+        <InterestDsbrsChrtblAmt>0</InterestDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">13282</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>8439</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt>41900</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>41900</DeprecAndDpltnNetInvstIncmAmt>
+        <OccupancyRevAndExpnssAmt>1600</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>1280</OccupancyNetInvstIncmAmt>
+        <OccupancyDsbrsChrtblAmt>500</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>1889</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>0</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>1216</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">62065</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>52483</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>2689</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>275655</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>191194</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>55149</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>273986</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>335000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>549641</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>191194</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>390149</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-115989</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>242144</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>75620</CashBOYAmt>
+        <CashEOYAmt>41406</CashEOYAmt>
+        <CashEOYFMVAmt>41406</CashEOYFMVAmt>
+        <OtherNtsAndLoansRcvblAmt>543395</OtherNtsAndLoansRcvblAmt>
+        <OtherRcvblAllwncDbtflAcctAmt>0</OtherRcvblAllwncDbtflAcctAmt>
+        <OtherNtsAndLoansRcvblBOYAmt>66953</OtherNtsAndLoansRcvblBOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>543395</OtherNtsAndLoansRcvblEOYAmt>
+        <OtherNtsAndLoansRcvblEOYFMVAmt>543395</OtherNtsAndLoansRcvblEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>0</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc2210400001">24963</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>24963</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>3951570</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">3508881</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>4344731</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>623791</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2044400001">917831</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>917831</CorporateBondsEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>1420763</InvstLandCostOrOtherBasisAmt>
+        <InvstLandAccumDepreciationAmt>280979</InvstLandAccumDepreciationAmt>
+        <LandBldgInvestmentsBOYAmt>1784350</LandBldgInvestmentsBOYAmt>
+        <LandBldgInvestmentsEOYAmt>1139784</LandBldgInvestmentsEOYAmt>
+        <LandBldgInvestmentsEOYFMVAmt>1827521</LandBldgInvestmentsEOYFMVAmt>
+        <MortgageLoansBOYAmt>118233</MortgageLoansBOYAmt>
+        <MortgageLoansEOYAmt>94930</MortgageLoansEOYAmt>
+        <MortgageLoansEOYFMVAmt>94930</MortgageLoansEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc2046600001">431426</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc2046600001">421103</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc2046600001">421103</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>7051943</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>6692293</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>8215880</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>45738</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>30000</AccountsPayableEOYAmt>
+        <DeferredRevenueBOYAmt>16050</DeferredRevenueBOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">498364</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">394629</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>560152</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>424629</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <TemporarilyRestrictedBOYAmt>6491791</TemporarilyRestrictedBOYAmt>
+        <TemporarilyRestrictedEOYAmt>6267664</TemporarilyRestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>6491791</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6267664</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>7051943</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>6692293</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>6491791</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-115989</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>6375802</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">108138</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6267664</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-10-09</AcquiredDt>
+          <SoldDt>2015-10-23</SoldDt>
+          <GrossSalesPriceAmt>11758</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11412</CostOrOtherBasisAmt>
+          <GainOrLossAmt>346</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>346</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-03-09</AcquiredDt>
+          <SoldDt>2015-10-23</SoldDt>
+          <GrossSalesPriceAmt>271448</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>244382</CostOrOtherBasisAmt>
+          <GainOrLossAmt>27066</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>27066</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>155 E CLINTON AVE 5B</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1948-04-14</AcquiredDt>
+          <SoldDt>2015-09-02</SoldDt>
+          <GrossSalesPriceAmt>120000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>129080</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9080</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9080</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VILLAMARE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-06-17</AcquiredDt>
+          <SoldDt>2015-04-30</SoldDt>
+          <GrossSalesPriceAmt>560000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>474387</CostOrOtherBasisAmt>
+          <GainOrLossAmt>85613</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>85613</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>103945</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>1</LiableSection4942TaxInd>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>4843</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>4843</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4843</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>6858</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>6858</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>2015</OverpaymentAmt>
+        <AppliedToESTaxAmt>2015</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>0</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd referenceDocumentId="RetDoc2210600001">0</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd referenceDocumentId="RetDoc2205000001">1</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>THE FOUNDATION</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9733248741</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>707 EAGLE ROCK AVENUE</AddressLine1Txt>
+          <CityNm>WEST ORANGE</CityNm>
+          <StateAbbreviationCd>NJ</StateAbbreviationCd>
+          <ZIPCd>07052</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>1</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>1</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>0</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GORDON D MEYER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O THE FOUNDATION 707 EAGLE ROCK</AddressLine1Txt>
+            <AddressLine2Txt>AVENUE</AddressLine2Txt>
+            <CityNm>WEST ORANGE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07052</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>13000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DONALD H QUINN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O THE FOUNDATION 707 EAGLE ROCK</AddressLine1Txt>
+            <AddressLine2Txt>AVENUE</AddressLine2Txt>
+            <CityNm>WEST ORANGE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07052</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>13000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LAURA FIGUEROA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O THE FOUNDATION 707 EAGLE ROCK</AddressLine1Txt>
+            <AddressLine2Txt>AVENUE</AddressLine2Txt>
+            <CityNm>WEST ORANGE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07052</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY/TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>13000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JORGE COROMINAL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O THE FOUNDATION 707 EAGLE ROCK</AddressLine1Txt>
+            <AddressLine2Txt>AVENUE</AddressLine2Txt>
+            <CityNm>WEST ORANGE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07052</ZIPCd>
+          </USAddress>
+          <TitleTxt>ASSISTANT SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>13000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELLA GLOVER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O THE FOUNDATION 707 EAGLE ROCK</AddressLine1Txt>
+            <AddressLine2Txt>AVENUE</AddressLine2Txt>
+            <CityNm>WEST ORANGE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07052</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>13000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1524324</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>97887</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>6540725</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>8162936</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>8162936</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>122444</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>8040492</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>402025</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>402025</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4843</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>4843</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>397182</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>397182</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>397182</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>390149</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>390149</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>390149</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>397182</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>382831</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>390149</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>382831</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>7318</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>389864</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>DONALD QUINN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>707 EAGLE ROCK AVENUE</AddressLine1Txt>
+            <CityNm>WEST ORANGE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9733248741</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>LETTER INDICATING PRIMARY USE OF FUNDS AND BACKGROUND INFORMATION.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>BY OCTOBER 31ST</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MASONIC CHARITY FOUNDATION OF NEW JERSEY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>902 JACKSONVILLE ROAD</AddressLine1Txt>
+            <CityNm>BURLINGTON</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING</GrantOrContributionPurposeTxt>
+          <Amt>167000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNITY SCHOOL OF CHRISTIANITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1901 N W BLUE PARKWAY</AddressLine1Txt>
+            <CityNm>UNITY VILLAGE</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>64065</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING</GrantOrContributionPurposeTxt>
+          <Amt>134000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BOYS &amp; GIRLS CLUB OF PATERSON &amp; PASSAIC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>264 21ST AVENUE</AddressLine1Txt>
+            <CityNm>PATERSON</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHRISTIAN HEALTH CARE CENTER FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>301 SICOMAC AVENUE</AddressLine1Txt>
+            <CityNm>WYCKOFF</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07481</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DOUBLE HARVEST</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>55 SOUTH MAIN STREET</AddressLine1Txt>
+            <CityNm>OBERLIN</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44074</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EASTERN CHRISTIAN CHILDREN'S RETREAT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>700 MOUNTAIN AVENUE</AddressLine1Txt>
+            <CityNm>WYCKOFF</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07481</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ETHIOPIA'S TOMORROW INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>28 HOFFMAN STREET</AddressLine1Txt>
+            <CityNm>MAPPLEWOOD</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07040</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SOUTH EAST ASIA PRAYER CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 127</AddressLine1Txt>
+            <CityNm>OAKMONT</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15139</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STAR OF HOPE MINISTRIES INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>34 BROADWAY</AddressLine1Txt>
+            <CityNm>PATERSON</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07505</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE BAPTIST HOME SOCIETY OF NEW JERSEY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>707 EAGLE ROCK AVENUE</AddressLine1Txt>
+            <CityNm>WEST ORANGE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAMP YOUTH DEVELOPMENT PROGRAM CORP</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13-15 NORTH FIRST STREET</AddressLine1Txt>
+            <CityNm>PATERSON</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07522</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>335000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>57720</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>195687</ExclusionAmt>
+        </NetRntlIncmReDebtFincdPropGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>17158</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>103945</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>MISCELLANEOUS</Desc>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>314</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>374824</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>374824</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>17817</Amt>
+        <NetInvestmentIncomeAmt>10240</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2985</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <ExplnOfNonFilingWithAGStmt documentId="RetDoc2210600001">
+      <ExplanationTxt>THE STATE OF NEW JERSEY DOES NOT REQUIRE THE FOUNDATION TO FURNISH THEM A COPY OF FORM 990-PF SINCE IT IS NOT A REGISTERED CHARITY. THE FOUNDATION IS ONLY REQUIRED TO REGISTER WITH THE STATE IF IT RECEIVES MORE THAN $10,000 IN ANNUAL GROSS CONTRIBUTIONS.</ExplanationTxt>
+    </ExplnOfNonFilingWithAGStmt>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CORPORATE BONDS</BondNm>
+        <EOYBookValueAmt>917831</EOYBookValueAmt>
+        <EOYFMVAmt>917831</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORPORATE STOCKS</StockNm>
+        <EOYBookValueAmt>3508881</EOYBookValueAmt>
+        <EOYFMVAmt>4344731</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtObligationsBookVlEOYAmt>24963</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>24963</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>0</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>0</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL</CategoryTxt>
+        <LegalFeesAmt>13387</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>13387</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssetsScheduleGrp>
+        <Desc>PREPAID EXPENSES</Desc>
+        <BOYBookValueAmt>5852</BOYBookValueAmt>
+        <EOYBookValueAmt>34515</EOYBookValueAmt>
+        <EOYFMVAmt>34515</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>PREPAID CONTRIBUTION</Desc>
+        <BOYBookValueAmt>425574</BOYBookValueAmt>
+        <EOYBookValueAmt>386588</EOYBookValueAmt>
+        <EOYFMVAmt>386588</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED GAIN</Desc>
+        <Amt>31102</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>CHANGE IN BVG INVESTMENT</Desc>
+        <Amt>77036</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>PROPERTY EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>50390</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>50390</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1329</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>4811</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2093</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2689</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>5535</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>NOTES REC.-INTEREST INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>17158</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>17158</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>17158</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>314</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>314</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>EXCISE TAX PAYABLE</Desc>
+        <BOYBookValueAmt>1596</BOYBookValueAmt>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>SECURITY DEPOSITS</Desc>
+        <BOYBookValueAmt>2850</BOYBookValueAmt>
+        <EOYBookValueAmt>711</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>CONTRIBUTION PAYABLE</Desc>
+        <BOYBookValueAmt>493918</BOYBookValueAmt>
+        <EOYBookValueAmt>393918</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OTHER</CategoryTxt>
+        <Amt>58665</Amt>
+        <NetInvestmentIncomeAmt>42665</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>16559</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>REAL ESTATE TAXES - RENTED PROPERTY</CategoryTxt>
+        <Amt>8439</Amt>
+        <NetInvestmentIncomeAmt>8439</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>4843</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+    <TransfersToControlledEntities documentId="RetDoc2205000001">
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>BROOKVIEW GARDENS INC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>851 FRANKLIN LAKES ROAD</AddressLine1Txt>
+          <CityNm>FRANKLIN LAKES</CityNm>
+          <StateAbbreviationCd>NJ</StateAbbreviationCd>
+          <ZIPCd>07417</ZIPCd>
+        </USAddress>
+        <EIN>221460289</EIN>
+        <Desc>LOAN MADE TO BROOKVIEW GARDENS, INC. IN CONNECTION WITH SALE OF VILLAMARE PROPERTY.</Desc>
+        <Amt>521395</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>BROOKVIEW GARDENS INC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>851 FRANKLIN LAKES ROAD</AddressLine1Txt>
+          <CityNm>FRANKLIN LAKES</CityNm>
+          <StateAbbreviationCd>NJ</StateAbbreviationCd>
+          <ZIPCd>07417</ZIPCd>
+        </USAddress>
+        <EIN>221460289</EIN>
+        <Desc>RENTS DUE TO BROOKVIEW GARDENS, INC. IN CONNECTION WITH SALE OF VILLAMARE PROPERTY.</Desc>
+        <Amt>25879</Amt>
+      </TransfersToControlledEntGrp>
+      <TotalAmt>547274</TotalAmt>
+    </TransfersToControlledEntities>
+  </ReturnData>
+</Return>

@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-12T12:43:20-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>222428965</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CITRIN COOPERMAN &amp; COMPANY LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>10 FORBES ROAD WEST</AddressLine1Txt>
+        <CityNm>BRAINTREE</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>02184</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>274394359</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>WATKINS VALLS FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>WATK</BusinessNameControlTxt>
+      <PhoneNum>5084166021</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>17 FORTY ACRES DRIVE C/O PAVONIX</AddressLine1Txt>
+        <CityNm>WAYLAND</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>01778</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>WATKINS</PersonNm>
+      <PersonTitleTxt>DIRECTOR</PersonTitleTxt>
+      <PhoneNum>5084166021</PhoneNum>
+      <SignatureDt>2016-08-16</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MICHAEL HINCHEY</PreparerPersonNm>
+      <PTIN>P00451160</PTIN>
+      <PhoneNum>7813562000</PhoneNum>
+      <PreparationDt>2016-08-15</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <AddressChangeInd>X</AddressChangeInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>222366</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>16</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>16</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>6206</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>6206</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>7176</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>20173</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>7176</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>13398</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>13398</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">33</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>33</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">1558</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>1558</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>1591</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1591</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>3500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>3500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>5091</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1591</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>3500</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>8307</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>11807</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>10099</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>19058</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>19058</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>123476</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">127386</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>140551</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>72476</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2044400001">67914</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>62757</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>206051</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>214358</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>222366</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>206051</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>214358</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>206051</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>214358</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>206051</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>214358</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>206051</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>8307</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>214358</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>214358</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GS INVESTMENT GRADE CREDIT FUND INSTITUTIONAL SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-04-06</AcquiredDt>
+          <SoldDt>2015-11-02</SoldDt>
+          <GrossSalesPriceAmt>7000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7325</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-325</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-325</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GS STRATEGIC GROWTH FUND INSTITUTIONAL SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-04-06</AcquiredDt>
+          <SoldDt>2015-11-02</SoldDt>
+          <GrossSalesPriceAmt>7000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5672</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1328</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1328</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>6173</GrossSalesPriceAmt>
+          <GainOrLossAmt>6173</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6173</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>7176</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>9535</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>232306</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.041045</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>18964</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>220239</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.086106</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>11197</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>215311</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.052004</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>0</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>237938</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.000000</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>0</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>0</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.000000</DistributionYr5Rt>
+        <TotalDistributionRt>0.179155</TotalDistributionRt>
+        <AverageDistributionRt>0.035831</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>224666</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>8050</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>118</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>8168</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>3500</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>236</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>236</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>236</TaxBasedOnInvestmentIncomeAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>236</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>LILLIAN V WATKINS</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5084166021</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>17 FORTY ACRES DRIVE C/O PAVONIX</AddressLine1Txt>
+          <CityNm>WAYLAND</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>01778</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>1</UndistributedIncomePYInd>
+        <UndistributedIncomePY1Yr>2014</UndistributedIncomePY1Yr>
+        <UndistrIncmSect4942a2NotAppInd>1</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID V WATKINS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>17 FORTY ACRES DRIVE C/O PAVONIX</AddressLine1Txt>
+            <CityNm>WAYLAND</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01778</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT/DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LILLIAN V WATKINS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>17 FORTY ACRES DRIVE C/O PAVONIX</AddressLine1Txt>
+            <CityNm>WAYLAND</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01778</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER/SECRETARY/DIRECT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>TO SUPPORT NONPROFIT ORGANIZATIONS THAT HELP CHILDREN AND FAMILIES IMPACTED BY HARDSHIP OVERCOME OBSTACLES AND MEET THEIR GREATEST POTENTIAL</Description1Txt>
+        <Expenses1Amt>1000</Expenses1Amt>
+        <Description2Txt>TO SUPPORT A NONPROFIT SCHOOL BY CONTRIBUTING TO ITS GENERAL FUND; THEREBY INCREASING THE RESOURCES THEY HAVE TO SPEND ON THE STUDENT BODY.</Description2Txt>
+        <Expenses2Amt>2500</Expenses2Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>218421</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>9666</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>228087</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>228087</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>3421</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>224666</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>11233</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>11233</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>236</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>236</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>10997</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>10997</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>10997</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>3500</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>3500</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>3500</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>10997</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>4808</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>3500</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>3500</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt referenceDocumentId="RetDoc12000100081">0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>0</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>1308</Taxable2Amt>
+        <UndistributedIncomeCYAmt>10997</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>DAVID V WATKINS</ContributingManagerNm>
+        <ContributingManagerNm>LILLIAN V WATKINS</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>DAVID V WATKINS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17 FORTY ACRES DRIVE C/O PAVONIX</AddressLine1Txt>
+            <CityNm>WAYLAND</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01778</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5084166021</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>DAVE@PAVONIX.COM</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>NONE</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>LILLIAN V WATKINS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17 FORTY ACRES DRIVE C/O PAVONIX</AddressLine1Txt>
+            <CityNm>WAYLAND</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01778</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5084166021</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>DAVE@PAVONIX.COM</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>NONE</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ACTON BOXBOROUGH REGIONAL HIGH SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>36 CHARTER ROAD</AddressLine1Txt>
+            <CityNm>ACTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DONATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TASIS DORADO EDUCATIONAL FOUNDATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>11 CARR 693 URB SABANERA</AddressLine1Txt>
+            <CityNm>DORADO</CityNm>
+            <CountryCd>RQ</CountryCd>
+            <ForeignPostalCd>00646</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>NONPROFIT SCHOOL</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DONATION</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>3500</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>16</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>6206</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>7176</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>13398</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>13398</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AppliedToPriorYearElection documentId="RetDoc12000100081">
+      <ElectionDesc>PURSUANT TO REG. 53.4942(A)-3(D)(2); THE TAXPAYER IS ELECTING TO TREAT THE QUALIFYING DISTRIBUTIONS AS BEING MADE FROM UNDISTRIBUTED INCOME FROM 2011.</ElectionDesc>
+    </AppliedToPriorYearElection>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GOLDMAN SACHS INVESTMENT GRADE CREDIT FUND</BondNm>
+        <EOYBookValueAmt>67914</EOYBookValueAmt>
+        <EOYFMVAmt>62757</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GOLDMAN SACHS STRATEGIC GROWTH FUND</StockNm>
+        <EOYBookValueAmt>58878</EOYBookValueAmt>
+        <EOYFMVAmt>63297</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GOLDMAN SACHS LARGE CAP VALUE FUND</StockNm>
+        <EOYBookValueAmt>51084</EOYBookValueAmt>
+        <EOYFMVAmt>59643</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GOLDMAN SACHS STRATEGIC INTERNATIONAL EQUITY FUND</StockNm>
+        <EOYBookValueAmt>17424</EOYBookValueAmt>
+        <EOYFMVAmt>17611</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>TAX PAYMENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1558</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1558</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>33</Amt>
+        <NetInvestmentIncomeAmt>33</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-15T14:54:29-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>PROTAX GROUP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>7018 GADSDEN HWY STE 112</AddressLine1Txt>
+        <CityNm>TRUSSVILLE</CityNm>
+        <StateAbbreviationCd>AL</StateAbbreviationCd>
+        <ZIPCd>351732670</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>470912688</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Frank and Lillian Buckner Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>FRAN</BusinessNameControlTxt>
+      <PhoneNum>2054676155</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO Box 889</AddressLine1Txt>
+        <CityNm>Springville</CityNm>
+        <StateAbbreviationCd>AL</StateAbbreviationCd>
+        <ZIPCd>35146</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>EMILY BUCKNER</PersonNm>
+      <PersonTitleTxt>VICE PRESIDENT</PersonTitleTxt>
+      <PhoneNum>2054676155</PhoneNum>
+      <SignatureDt>2016-05-11</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>GREGORY T DUNN</PreparerPersonNm>
+      <PhoneNum>2052817442</PhoneNum>
+      <PreparationDt>2016-08-15</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="3">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>10411</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>5155</ContriRcvdRevAndExpnssAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>5155</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt>325</AccountingFeesRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="00000003" referenceDocumentName="OtherProfessionalFeesSchedule">186</OtherProfFeesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>511</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>4426</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>4426</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>4937</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>4426</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>218</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>10193</CashBOYAmt>
+        <CashEOYAmt>10411</CashEOYAmt>
+        <CashEOYFMVAmt>10411</CashEOYFMVAmt>
+        <TotalAssetsBOYAmt>10193</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>10411</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>10411</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>10193</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>10411</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>10193</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>10411</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>10193</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>10411</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>10193</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>218</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>10411</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>10411</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>5989</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>7696</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.778196</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>3125</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>5270</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.592979</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>10750</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>4083</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>2.632868</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>7150</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>2531</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>2.824970</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>3920</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>2064</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>1.899225</DistributionYr5Rt>
+        <TotalDistributionRt>8.728238</TotalDistributionRt>
+        <AverageDistributionRt>1.745648</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>10147</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>17713</AdjNetVlNoncharitableAssetsAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>17713</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>4426</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>AL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>www.guidestar.org</WebsiteAddressTxt>
+        <IndividualWithBooksNm>EMILY BUCKNER</IndividualWithBooksNm>
+        <PhoneNum>2054676155</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO Box 889</AddressLine1Txt>
+          <CityNm>Springville</CityNm>
+          <StateAbbreviationCd>AL</StateAbbreviationCd>
+          <ZIPCd>35146</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BYRON BUCKNER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 889</AddressLine1Txt>
+            <CityNm>Springville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35146</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RICK BUCKNER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 889</AddressLine1Txt>
+            <CityNm>Springville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35146</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EMILY BUCKNER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 889</AddressLine1Txt>
+            <CityNm>Springville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35146</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>HEATH BUCKNER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 889</AddressLine1Txt>
+            <CityNm>Springville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35146</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Aid to Indigents</Description1Txt>
+        <Expenses1Amt>4426</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>10302</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>10302</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>10302</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>155</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>10147</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>507</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>4426</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>4426</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>4426</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>3920</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>7150</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>10750</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>3125</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>5989</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>30934</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>4426</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>4426</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>35360</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>3920</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>31440</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>7150</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>10750</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>3125</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>5989</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>4426</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <TotalAmt>0</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>4426</CurrentYearAmt>
+          <Year1Amt>5989</Year1Amt>
+          <Year2Amt>3125</Year2Amt>
+          <Year3Amt>10750</Year3Amt>
+          <TotalAmt>24290</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>4426</CurrentYearAmt>
+          <Year1Amt>5989</Year1Amt>
+          <Year2Amt>3125</Year2Amt>
+          <Year3Amt>10750</Year3Amt>
+          <TotalAmt>24290</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>338</CurrentYearAmt>
+          <Year1Amt>257</Year1Amt>
+          <Year2Amt>176</Year2Amt>
+          <Year3Amt>136</Year3Amt>
+          <TotalAmt>907</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+        <TotalSupportGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalSupportGrp>
+        <PublicSupportType>
+          <TotalAmt>0</TotalAmt>
+        </PublicSupportType>
+        <LargestSupportFromEOGrp>
+          <TotalAmt>0</TotalAmt>
+        </LargestSupportFromEOGrp>
+        <GrossInvestmentIncomeGrp>
+          <TotalAmt>0</TotalAmt>
+        </GrossInvestmentIncomeGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>HEATH AND EMILY BUCKNER</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>EMILY BUCKNER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 889</AddressLine1Txt>
+            <CityNm>Springville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35146</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2054676155</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>NO FORM</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Pay Pal (You Caring)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>wwwyoucaringcom</AddressLine1Txt>
+            <CityNm>Springville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35146</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable Contribution</GrantOrContributionPurposeTxt>
+          <Amt>15</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Kiwi Crate (craft Box</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>wwwkiwicratecom</AddressLine1Txt>
+            <CityNm>Springville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35146</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Gift for Leukemia Patient</GrantOrContributionPurposeTxt>
+          <Amt>48</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Go Fund Me Website</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PaypalKWMisso</AddressLine1Txt>
+            <CityNm>Springville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35146</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Lukes-Down Syndrome</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Kilgore Memorial Funeral Home</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1750 Ashville Road</AddressLine1Txt>
+            <CityNm>Leeds</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35094</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Jason Bevill-Funeral</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>No Longer Ministry</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1167</AddressLine1Txt>
+            <CityNm>Trussville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35173</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Non-Profit</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>5k Sponsorship-Orphanage</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ROSE CLAYTON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8340 Zuber Road</AddressLine1Txt>
+            <CityNm>Springville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35146</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Non-Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Homebound-Repair Garage</GrantOrContributionPurposeTxt>
+          <Amt>960</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Tennessee Foreign Language Inst</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>227 French Landing Drive</AddressLine1Txt>
+            <CityNm>Nashville</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37228</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Non-Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>English Classes-Immigrants</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Disneyshoppingcom</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Website</AddressLine1Txt>
+            <CityNm>Springville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35146</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Non-Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Nightgown for Cancer Patient</GrantOrContributionPurposeTxt>
+          <Amt>22</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Alzheimer's Association</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>225 North Michigan Avenue F117</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>606017633</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Non-Profit</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donation</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Justice For All</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>113 N Martinson</AddressLine1Txt>
+            <CityNm>Wichita</CityNm>
+            <StateAbbreviationCd>KS</StateAbbreviationCd>
+            <ZIPCd>67203</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Non-Profit</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donation</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Foundry Ministries</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1800 4th Avenue North</AddressLine1Txt>
+            <CityNm>Bessemer</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35020</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Non-Profit</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donation</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FBC Trussville</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>128 N Chalkville Road</AddressLine1Txt>
+            <CityNm>Trussville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35173</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Non-Profit</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Samaritans Purse Shoebox</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>USPS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1430 Gadsden Highway</AddressLine1Txt>
+            <CityNm>Birmingham</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35235</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Non-Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Ship Bereavement Gift</GrantOrContributionPurposeTxt>
+          <Amt>11</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Bryant Bank</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>137 Main Street</AddressLine1Txt>
+            <CityNm>Trussville</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35173</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Non-Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Gift Cards-Thanksgiving</GrantOrContributionPurposeTxt>
+          <Amt>70</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>4426</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="00000002">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>HEATH EMILY BUCKNER</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>126 Parkway Drive</AddressLine1Txt>
+          <CityNm>Trussville</CityNm>
+          <StateAbbreviationCd>AL</StateAbbreviationCd>
+          <ZIPCd>35173</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5155</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <OtherProfessionalFeesSchedule documentId="00000003">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Bryant Bank Bank Account</CategoryTxt>
+        <Amt>36</Amt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Morgan Stanley Investment</CategoryTxt>
+        <Amt>150</Amt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

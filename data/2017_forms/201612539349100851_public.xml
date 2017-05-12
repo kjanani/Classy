@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2014v6.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-09T15:28:13-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-11-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KATHRYN P PELTIER PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>12777 JONES RD STE 155</AddressLine1Txt>
+        <CityNm>HOUSTON</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>770704624</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2014-12-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>760523208</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE VINTAGE AUTO HERITAGE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>VINT</BusinessNameControlTxt>
+      <PhoneNum>7132411020</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 61369</AddressLine1Txt>
+        <CityNm>HOUSTON</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>77208</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN F BOOKOUT JR</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>7132411020</PhoneNum>
+      <SignatureDt>2016-08-05</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>KATHRYN P PELTIER</PreparerPersonNm>
+      <PhoneNum>2814699191</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2014</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>5907228</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>0</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="00000003" referenceDocumentName="LegalFeesSchedule">4860</LegalFeesRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>5502</OccupancyRevAndExpnssAmt>
+        <OccupancyDsbrsChrtblAmt>5502</OccupancyDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="00000004" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">42171</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>41950</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>52533</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>47452</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>52533</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>47452</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-52533</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>12467</CashBOYAmt>
+        <CashEOYAmt>4934</CashEOYAmt>
+        <CashEOYFMVAmt>4934</CashEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>1500000</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="00000002" referenceDocumentName="InvestmentsOtherSchedule2">1500000</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>3006539</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt>1699499</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt>1699499</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt>2895755</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>3211966</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>3204433</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>5907228</TotalAssetsEOYFMVAmt>
+        <LoansFromOfficersBOYAmt>628055</LoansFromOfficersBOYAmt>
+        <LoansFromOfficersEOYAmt>673055</LoansFromOfficersEOYAmt>
+        <TotalLiabilitiesBOYAmt>628055</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>673055</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>2583911</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>2531378</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2583911</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2531378</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>3211966</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>3204433</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2583911</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-52533</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2531378</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2531378</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>29118</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>2718174</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.010712</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>11710</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>2464174</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.004752</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>14952</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>2215882</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.006748</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>24264</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>2621306</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.009256</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>112896</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>2116822</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.053333</DistributionYr5Rt>
+        <TotalDistributionRt>0.084801</TotalDistributionRt>
+        <AverageDistributionRt>0.016960</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>2924303</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>49596</AdjNetVlNoncharitableAssetsAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>49596</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>47452</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JOHN F BOOKOUT JR</IndividualWithBooksNm>
+        <PhoneNum>7132411020</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>910 LOUISIANA STE 5050</AddressLine1Txt>
+          <CityNm>HOUSTON</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>77002</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>true</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>true</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN F BOOKOUT JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 61369</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77208</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT/DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CAROLYN C BOOKOUT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 61369</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77208</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN F BOOKOUT III</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 61369</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77208</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT/DIREC</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BEVERLY VON KURNATOWSKI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 61369</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77208</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECY/TREAS/</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ADAIR STEVENSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 61369</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77208</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>EXPENDITURES TO PRESERVE AND DISPLAY THE OPERATING ASSETSOF THE FOUNDATION IN ITS MUSEUM.</Description1Txt>
+        <Expenses1Amt>47452</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>6453</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>2962383</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2968836</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2968836</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>44533</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2924303</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>146215</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>146215</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>146215</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>146215</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>146215</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>47452</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>47452</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>47452</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>146215</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>112896</ExcessDistributionCyovYr5Amt>
+        <TotalExcessDistributionCyovAmt>112896</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>47452</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>47452</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>98763</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>98763</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>14133</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>14133</ExcessDistriCyovFromYr5Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>JOHN F BOOKOUT JR AND CAROLYN C BOO</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <InvestmentsOtherSchedule2 documentId="00000002">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BAY POND - WELLINGTON MANAGEMENT INVESTORS (BERMUDA), LTD</CategoryOrItemTxt>
+        <BookValueAmt>1500000</BookValueAmt>
+        <EOYFMVAmt>3006539</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="00000003">
+      <LegalFeesGrp>
+        <CategoryTxt>BAKER BOTTS LLP REVIEW AGREEMENTS</CategoryTxt>
+        <LegalFeesAmt>3075</LegalFeesAmt>
+      </LegalFeesGrp>
+      <LegalFeesGrp>
+        <CategoryTxt>VINSON &amp; ELKINS LLP REVIEW AGREEMENTS</CategoryTxt>
+        <LegalFeesAmt>1785</LegalFeesAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="00000004">
+      <OtherExpensesScheduleGrp>
+        <Desc>AUTO SERVICE &amp; RESTORATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>34858</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>34858</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CONTRACT LABOR</Desc>
+        <RevenueAndExpensesPerBooksAmt>1320</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1320</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>4875</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4875</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SECURITY</Desc>
+        <RevenueAndExpensesPerBooksAmt>897</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>897</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PENALTY &amp; INTEREST FOR LATE PAYMENT OF 2012 INVESTMENT INCOME TAX</Desc>
+        <RevenueAndExpensesPerBooksAmt>221</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

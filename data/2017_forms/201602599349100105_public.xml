@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-15T09:15:31-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>810834456</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BLECKER &amp; ASSOCIATES CPA PA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>5300 W HILLSBORO BLVD STE 104</AddressLine1Txt>
+        <CityNm>COCONUT CREEK</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>330734395</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>261964753</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CARRIE AND DAVID SCHULMAN FAMILY</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CARR</BusinessNameControlTxt>
+      <PhoneNum>9549388800</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1000 CORPORATE DRIVE RM/STE 700</AddressLine1Txt>
+        <CityNm>FT LAUDERDALE</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>33334</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>STACEY S JERRY</PersonNm>
+      <PersonTitleTxt>SECRETARY</PersonTitleTxt>
+      <PhoneNum>9543388800</PhoneNum>
+      <SignatureDt>2016-09-14</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>STEVEN BLECKER</PreparerPersonNm>
+      <PTIN>P00051781</PTIN>
+      <PhoneNum>9544936500</PhoneNum>
+      <PreparationDt>2016-09-14</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="RetDoc2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>701739</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>182197</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>9236</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>9236</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>1956</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>1956</DividendsNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc6">64203</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>64203</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>257592</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>75395</TotalNetInvstIncmAmt>
+        <InterestRevAndExpnssAmt>12509</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>12509</InterestNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc5">5655</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>5655</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>18164</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>18164</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>33200</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>33200</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>51364</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>18164</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>33200</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>206228</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>57231</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>-137</CashBOYAmt>
+        <CashEOYAmt>48840</CashEOYAmt>
+        <CashEOYFMVAmt>48840</CashEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>495648</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc4">652899</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>652899</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>495511</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>701739</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>701739</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>495511</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>701739</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>495511</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>701739</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>495511</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>701739</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>495511</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>206228</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>701739</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>701739</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>47793</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>132825</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.359819</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>15000</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>210789</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.071161</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>14500</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>67925</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.213471</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>10892</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>61597</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.176827</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>12392</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>70294</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.176288</DistributionYr5Rt>
+        <TotalDistributionRt>0.997566</TotalDistributionRt>
+        <AverageDistributionRt>0.199513</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>115394</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>23023</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>572</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>23595</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>33200</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>572</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>572</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>572</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc3">X</Form2220AttachedInd>
+        <EsPenaltyAmt>14</EsPenaltyAmt>
+        <TaxDueAmt>586</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>DAVID SCHULMAN</IndividualWithBooksNm>
+        <PhoneNum>9549388800</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1000 CORPORATE DRIVE SUITE 700</AddressLine1Txt>
+          <CityNm>FT LAUDERDALE</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33334</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID SCHULMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1000 CORPORATE DRIVE SUITE 700</AddressLine1Txt>
+            <CityNm>FT LAUDERDALE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33334</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CARRIE SCHULMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1000 CORPORATE DRIVE SUITE 700</AddressLine1Txt>
+            <CityNm>FT LAUDERDALE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33334</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STACEY S JERRY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1000 CORPORATE DRIVE SUITE 700</AddressLine1Txt>
+            <CityNm>FT LAUDERDALE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33334</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TODD L SCHULMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1000 CORPORATE DRIVE SUITE 700</AddressLine1Txt>
+            <CityNm>FT LAUDERDALE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33334</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>54408</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>62743</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>117151</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>117151</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1757</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>115394</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>5770</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>5770</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>572</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>572</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>5198</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>5198</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>5198</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>33200</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>33200</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>572</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>32628</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>5198</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>8877</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>7812</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>11104</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>4461</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>41152</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>73406</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>33200</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>5198</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>28002</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>101408</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>8877</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>92531</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>7812</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>11104</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>4461</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>41152</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>28002</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>DAVID SCHULMAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 CORPORATE DRIVE SUITE 700</AddressLine1Txt>
+            <CityNm>FT LAUDERDALE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33334</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9549388800</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>NO PARTICULAR FORM OR APPLICATION IS NECESSARY. ONLY A LETTER THAT GIVES ESSENTIAL DETAILS OF THE PROJECT IS REQUIRED</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NO SUBMISSION DEADLINES</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NO RESTICTIONS OR LIMITATION EXCEPT THAT GRANTS ARE MADE EXCLUSIVELY TO BENEFIT RELIGIOUS, SCIENTIFIC, LITERARY, EDUCATIONAL OR OTHER CHARITABLE ORGANIZATIONS.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LEUKEMIA &amp; LYMPHOMA SOCIETY</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>GREATER LA CHAPTER</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6033 W CENTURY BLVD</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90045</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MARCH OF DIMES</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>LA CHAPTER</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>700 N BRAND BLVD</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91203</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FLIPANY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1777 N DIXIE HWY</AddressLine1Txt>
+            <CityNm>FT LAUDERDALE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33305</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VOICES FOR CHILDREN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10097 CLEARY BLVD</AddressLine1Txt>
+            <CityNm>PLANTATION</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33324</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN HEART ASSOC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7272 GREENVILLE AVE</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75231</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HELPING ISRAEL FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9100 SOUTH DADELEND BLVD</AddressLine1Txt>
+            <CityNm>MIAMI</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33156</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JEWISH FAMILY SERVICES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 S PINE ISLAND RD</AddressLine1Txt>
+            <CityNm>PLANTATION</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33324</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MEMORIAL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3329 JOHNSON STREET</AddressLine1Txt>
+            <CityNm>HOLLYWOOD</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33021</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>1200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIONAL MS SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3201 W COMMERCIAL BLVD</AddressLine1Txt>
+            <CityNm>FT LAUDERDALE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33309</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHABAD OF PLANTATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10165 CLEARY BLVD</AddressLine1Txt>
+            <CityNm>PLANTATION</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33324</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SIMCHA CONNECTION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1700 JOHN F KENNEDY CSWY</AddressLine1Txt>
+            <CityNm>N BAY VILLAGE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33141</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>33200</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>9236</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1956</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>TRUCK PARTNERS K1</Desc>
+          <RelatedOrExemptFunctionIncmAmt>8656</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>TACAM LLC K1</Desc>
+          <RelatedOrExemptFunctionIncmAmt>42919</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>UNREALIZED APPRECIATION</Desc>
+          <RelatedOrExemptFunctionIncmAmt>12628</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>11192</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>64203</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>75395</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>CARRIE AND DAVID SCHULMAN</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>1000 CORPORATE DRIVE</AddressLine1Txt>
+          <AddressLine2Txt>SUITE 700</AddressLine2Txt>
+          <CityNm>FT LAUDERDALE</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33334</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>182197</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <InvestmentsOtherSchedule2 documentId="RetDoc4">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PARTNERSHIP INTEREST TACAM LLC</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>276561</BookValueAmt>
+        <EOYFMVAmt>276561</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PARTNERSHIP INTEREST TRUCK CAP PTNRS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>268310</BookValueAmt>
+        <EOYFMVAmt>268310</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AEQUITAS CAPITAL</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>108028</BookValueAmt>
+        <EOYFMVAmt>108028</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PASS THRU FROM LP</Desc>
+        <RevenueAndExpensesPerBooksAmt>1282</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1282</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TRUCK CAPITAL PTNRS K1</Desc>
+        <RevenueAndExpensesPerBooksAmt>4081</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>4081</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FOREIGN TAX</Desc>
+        <RevenueAndExpensesPerBooksAmt>272</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>272</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>20</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>20</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc6">
+      <OtherIncomeDetail>
+        <Desc>TRUCK PARTNERS K1</Desc>
+        <RevenueAndExpensesPerBooksAmt>8656</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>8656</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>TACAM LLC K1</Desc>
+        <RevenueAndExpensesPerBooksAmt>42919</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>42919</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>UNREALIZED APPRECIATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>12628</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>12628</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

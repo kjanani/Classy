@@ -1,0 +1,879 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-22T17:09:55-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>912007475</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Brighton Jones LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2030 1ST Ave 3rd Floor</AddressLine1Txt>
+        <CityNm>Seattle</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98121</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>931283900</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>M Lowell Edwards Foundation</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O Union Bank NA</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MLOW</BusinessNameControlTxt>
+      <PhoneNum>5032252935</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO Box 3121</AddressLine1Txt>
+        <CityNm>Portland</CityNm>
+        <StateAbbreviationCd>OR</StateAbbreviationCd>
+        <ZIPCd>97208</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>BRUCE EDWARDS</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <PhoneNum>5032252935</PhoneNum>
+      <SignatureDt>2016-08-22</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Mark C Jansa CPA</PreparerPersonNm>
+      <PTIN>P01053834</PTIN>
+      <PhoneNum>2062585000</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1635955</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>32340</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>32340</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-3170</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>104756</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>29170</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>32340</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">2800</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1400</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1400</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">21899</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>21899</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">328</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>173</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">135</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>25</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>25162</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>23497</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>1400</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>90000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>90000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>115162</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>23497</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>91400</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-85992</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>8843</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>34592</CashBOYAmt>
+        <CashEOYAmt>21082</CashEOYAmt>
+        <CashEOYFMVAmt>21082</CashEOYFMVAmt>
+        <AcctRcvblAmt>6</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>1255</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>6</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>6</AcctRcvblEOYFMVAmt>
+        <CorporateStockBOYAmt>1065332</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">994121</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1614867</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>1101179</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1015209</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1635955</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>1101179</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1015209</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1101179</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1015209</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1101179</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1015209</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1101179</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-85992</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc2049700001">28</OtherIncreasesAmt>
+        <SubtotalAmt>1015215</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">6</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1015209</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Medtronic PLC - .4 shs</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-27</AcquiredDt>
+          <SoldDt>2015-02-10</SoldDt>
+          <GrossSalesPriceAmt>29</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>30</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Chemours Co - 56 shs</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-03-13</AcquiredDt>
+          <SoldDt>2015-07-22</SoldDt>
+          <GrossSalesPriceAmt>669</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>665</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Fluor Corp (New) - 130 shs</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-01-28</AcquiredDt>
+          <SoldDt>2015-07-31</SoldDt>
+          <GrossSalesPriceAmt>6198</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5498</CostOrOtherBasisAmt>
+          <GainOrLossAmt>700</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>700</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Google Inc Com C - .0494 shs</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-03-13</AcquiredDt>
+          <SoldDt>2015-05-06</SoldDt>
+          <GrossSalesPriceAmt>28</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>29</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Grainger W W Inc - 60 shs</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-03-13</AcquiredDt>
+          <SoldDt>2015-12-23</SoldDt>
+          <GrossSalesPriceAmt>12298</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14862</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2564</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2564</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Kraft Foods Group Inc - 83 shs</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2007-06-07</AcquiredDt>
+          <SoldDt>2015-07-06</SoldDt>
+          <GrossSalesPriceAmt>7399</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6030</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1369</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1369</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Pimco All Asset All Authority - 539.629 shs</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-02-07</AcquiredDt>
+          <SoldDt>2015-12-23</SoldDt>
+          <GrossSalesPriceAmt>4258</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5979</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1721</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1721</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Qualcomm Inc - 160 shs</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-07-05</AcquiredDt>
+          <SoldDt>2015-12-23</SoldDt>
+          <GrossSalesPriceAmt>7852</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9059</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1207</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1207</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Vngrd Total Intl Stk Index Adm - 1866.445 shs</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2007-06-07</AcquiredDt>
+          <SoldDt>2015-12-23</SoldDt>
+          <GrossSalesPriceAmt>45728</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>60040</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-14312</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-14312</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Covidien PLC - 150 shs</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2007-06-07</AcquiredDt>
+          <SoldDt>2015-01-30</SoldDt>
+          <GrossSalesPriceAmt>16007</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5734</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10273</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10273</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gains Dividends</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>4290</GrossSalesPriceAmt>
+          <GainOrLossAmt>4290</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4290</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-3170</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>64000</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1682262</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.038044</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>81776</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>1532971</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.053345</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>10755</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1293586</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.008314</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>63707</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1257244</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.050672</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>761</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1167202</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.000652</DistributionYr5Rt>
+        <TotalDistributionRt>0.151027</TotalDistributionRt>
+        <AverageDistributionRt>0.030205</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1711384</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>51692</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>88</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>51780</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>91400</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>88</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>88</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>88</TaxBasedOnInvestmentIncomeAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>88</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OR</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>Brenda Gandy CO Union Bank NA</IndividualWithBooksNm>
+        <PhoneNum>5032252935</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO Box 3121</AddressLine1Txt>
+          <CityNm>Portland</CityNm>
+          <StateAbbreviationCd>OR</StateAbbreviationCd>
+          <ZIPCd>97208</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CYNTHIA EDWARDS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1717 SW Park Avenue PHB</AddressLine1Txt>
+            <CityNm>PORTLAND</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97201</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TERESA EDWARDS ALLEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>747 NW WINTERGREEN DRIVE</AddressLine1Txt>
+            <CityNm>MCMINNVILLE</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97128</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CRAIG ALLEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>747 NW WINTERGREEN DRIVE</AddressLine1Txt>
+            <CityNm>MCMINNVILLE</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97128</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MILES R EDWARDS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5256 WEST DORADO CT</AddressLine1Txt>
+            <CityNm>LITTLETON</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80123</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NANCY E EDWARDS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5256 WEST DORADO CT</AddressLine1Txt>
+            <CityNm>LITTLETON</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80123</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRUCE DAVID EDWARDS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5343 SW BANCROFT ST</AddressLine1Txt>
+            <CityNm>PORTLAND</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97221</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KAREN YOUNG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5343 SW BANCROFT ST</AddressLine1Txt>
+            <CityNm>PORTLAND</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97221</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LESLIE ANN EDWARDS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1127 CRYSTAL VIEW HEIGHTS</AddressLine1Txt>
+            <CityNm>NEVADA CITY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95959</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID SCHWENDEMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1127 CRYSTAL VIEW HEIGHTS</AddressLine1Txt>
+            <CityNm>NEVADA CITY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95959</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1703363</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>34083</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1737446</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1737446</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>26062</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1711384</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>85569</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>85569</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>88</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>88</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>85481</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>85481</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>85481</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>91400</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>91400</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>88</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>91312</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>85481</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr2Amt>5149</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>5149</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>91400</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>85481</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>5919</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>11068</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>11068</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>5149</ExcessFromYear2Amt>
+        <ExcessFromCurrentYearAmt>5919</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN ASSOC OF UNIVERSITY WOMEN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 326</AddressLine1Txt>
+            <CityNm>GRass Valley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95945</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Bates College</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2 Andrews Rd</AddressLine1Txt>
+            <CityNm>Lewiston</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04240</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT/NAMED SCHOLARS PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Bridlemile Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6663 SW Beaverton Hillsdale Hwy 331</AddressLine1Txt>
+            <CityNm>Portland</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97225</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Catlin Gabel School</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8825 SW Barnes Road</AddressLine1Txt>
+            <CityNm>PORTLAND</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97225</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Colorado Center for the Blind</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2233 West Shepperd Ave</AddressLine1Txt>
+            <CityNm>Littleton</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80120</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Nevada Joint Union High School District Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1707</AddressLine1Txt>
+            <CityNm>Grass Valley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95945</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Oregon Health &amp; Science University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3181 SW Sam Jackson Park Rd</AddressLine1Txt>
+            <CityNm>pORTLAND</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97239</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Saturday Academy</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5000 N Williamette Blvd</AddressLine1Txt>
+            <CityNm>PoRTLAND</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97203</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Salvation Army</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 765</AddressLine1Txt>
+            <CityNm>McMinnville</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97128</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>West Sylvan Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8111 SW West Slope Drive</AddressLine1Txt>
+            <CityNm>Portland</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97225</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Horizons at Colorado Academy</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3800 South Pierce Street</AddressLine1Txt>
+            <CityNm>Denver</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80235</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Newby Elementary School PTA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1125 NW 2nd Street</AddressLine1Txt>
+            <CityNm>McMinnville</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97128</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Food Bank of Nevada County</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>578 Sutton Way 187</AddressLine1Txt>
+            <CityNm>Grass Valley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95945</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>McMinnville School District</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1500 NE Baker Street</AddressLine1Txt>
+            <CityNm>McMinnville</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97128</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>See Ya Later Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1281</AddressLine1Txt>
+            <CityNm>McMinnville</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97128</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Willamette University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>900 State Street</AddressLine1Txt>
+            <CityNm>Salem</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Oregon Food Bank</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7900 NE 33rd Drive</AddressLine1Txt>
+            <CityNm>Portland</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97211</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Partnership with Native Americans</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>16415 Addison Rd Suite 200</AddressLine1Txt>
+            <CityNm>Addison</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>750013210</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>90000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>32340</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-3170</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>29170</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>29170</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>2800</Amt>
+        <NetInvestmentIncomeAmt>1400</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1400</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORPORATE STOCKS</StockNm>
+        <EOYBookValueAmt>994121</EOYBookValueAmt>
+        <EOYFMVAmt>1614867</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>ACCOUNTS RECEIVABLE</Desc>
+        <Amt>6</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>Oregon Department of Justice</Desc>
+        <RevenueAndExpensesPerBooksAmt>135</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>25</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreasesDetail>
+        <Desc>Other</Desc>
+        <Amt>28</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CUSTODIAN AND MGMT FEES</CategoryTxt>
+        <Amt>21899</Amt>
+        <NetInvestmentIncomeAmt>21899</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>173</Amt>
+        <NetInvestmentIncomeAmt>173</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Federal Tax Payment</CategoryTxt>
+        <Amt>155</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

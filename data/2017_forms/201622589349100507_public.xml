@@ -1,0 +1,918 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-14T13:33:27-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Foundation Source</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>One Hollow Ln Ste 212</AddressLine1Txt>
+        <CityNm>Lake Success</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11042</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>461252608</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Efrusy Family Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% Foundation Source</InCareOfNm>
+      <BusinessNameControlTxt>EFRU</BusinessNameControlTxt>
+      <PhoneNum>8008391754</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>Foundation Source 501 Silverside Rd</AddressLine1Txt>
+        <CityNm>Wilmington</CityNm>
+        <StateAbbreviationCd>DE</StateAbbreviationCd>
+        <ZIPCd>198091377</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>KEVIN EFRUSY</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <PhoneNum>8008391754</PhoneNum>
+      <SignatureDt>2016-08-31</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Jeffrey D Haskell</PreparerPersonNm>
+      <PTIN>P01345770</PTIN>
+      <PhoneNum>8008391754</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>22378388</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>484397</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>1414</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>1414</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>106788</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>106788</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>1678621</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>5533017</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>2816053</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>2271220</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>2924255</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">8766</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>8766</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">35900</TaxesRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>3258</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>3258</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">52099</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>52099</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>100023</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>8766</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>55357</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>811814</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>811814</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>911837</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>8766</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>867171</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>1359383</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>2915489</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>5320280</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>2430872</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>2430872</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>12330</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>7203</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>12330</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>12330</AcctRcvblEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>752693</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvGovtObligSch">1052693</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>1050448</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>5595805</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">4936781</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>8390013</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>6001360</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestCorpBondsSch">10604048</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>10494725</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>17677341</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>19036724</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>22378388</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>17677341</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>19036724</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>17677341</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>19036724</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>17677341</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>19036724</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>17677341</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>1359383</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>19036724</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>19036724</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly-traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>5533017</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2716964</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2816053</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2816053</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>2816053</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>416183</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>16210365</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.025674</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>3900</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>11411059</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.000342</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>0</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>3151374</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.0</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>0</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>0</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.0</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>0</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>0</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.0</DistributionYr5Rt>
+        <TotalDistributionRt>0.026016</TotalDistributionRt>
+        <AverageDistributionRt>0.008672</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>21314694</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>184841</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>29155</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>213996</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>867171</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>29155</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>29155</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>29155</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>44563</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>44563</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <OverpaymentAmt>15408</OverpaymentAmt>
+        <AppliedToESTaxAmt>15408</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>DE</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Foundation Source</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8008391754</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>501 Silverside Road Suite 123</AddressLine1Txt>
+          <CityNm>Wilmington</CityNm>
+          <StateAbbreviationCd>DE</StateAbbreviationCd>
+          <ZIPCd>198091377</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Kevin Efrusy</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>Foundation Source 501 Silverside Rd</AddressLine1Txt>
+            <CityNm>Wilmington</CityNm>
+            <StateAbbreviationCd>DE</StateAbbreviationCd>
+            <ZIPCd>198091377</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman / Treas</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Molly Efrusy</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>Foundation Source 501 Silverside Rd</AddressLine1Txt>
+            <CityNm>Wilmington</CityNm>
+            <StateAbbreviationCd>DE</StateAbbreviationCd>
+            <ZIPCd>198091377</ZIPCd>
+          </USAddress>
+          <TitleTxt>Pres / Dir / Sec</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Foundation Source</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>55 Walls Drive</AddressLine1Txt>
+            <CityNm>Fairfield</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06824</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Administrative</ServiceTypeTxt>
+          <CompensationAmt>51324</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>16813552</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>4825731</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>21639283</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>21639283</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>324589</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>21314694</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1065735</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1065735</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>29155</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>29155</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1036580</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1036580</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1036580</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>867171</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>867171</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>29155</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>838016</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1036580</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>743974</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2013</PriorYear1Yr>
+        <PriorYear2Yr>2012</PriorYear2Yr>
+        <PriorYear3Yr>2011</PriorYear3Yr>
+        <QualifyingDistributionsAmt>867171</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>743974</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>123197</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>913383</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>0</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AFRICAN LEADERSHIP FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 7408</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10150</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>African Leadership Academy Student Sponsorship Fund</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ASANTE AFRICA FOUNDATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1334 CARLTON PL</AddressLine1Txt>
+            <CityNm>LIVERMORE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94550</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHALLENGE SUCCESS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>289 KINGS MOUNTAIN RD</AddressLine1Txt>
+            <CityNm>WOODSIDE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94062</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHARITIES AID FOUNDATION AMERICA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1800 DIAGONAL RD STE 150</AddressLine1Txt>
+            <CityNm>ALEXANDRIA</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22314</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Kronendal Music Academy in Hout Bay, South Africa</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EASTSIDE COLLEGE PREPARATORY SCHOOL INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1041 MYRTLE ST</AddressLine1Txt>
+            <CityNm>E PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship Fund for incoming non-boarding 6th grader</GrantOrContributionPurposeTxt>
+          <Amt>19000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FIRELIGHT FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>740 FRONT ST STE 380</AddressLine1Txt>
+            <CityNm>SANTA CRUZ</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95060</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>21000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FUTURE PROJECT INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>636 BROADWAY</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10012</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HELP MALAWI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>30799 PINE TREE RD BOX 327</AddressLine1Txt>
+            <CityNm>PEPPER PIKE</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44124</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CITW-Malawi Program</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KENYAN KIDS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9812 SHELBYVILLE RD STE 1</AddressLine1Txt>
+            <CityNm>LOUISVILLE</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>40223</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>School Uniform Project</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>L E A D INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1266 W PACES FERRY RD STE 429</AddressLine1Txt>
+            <CityNm>ATLANTA</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30327</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NURU INTERNATIONAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5405 ALTON PKWY STE A-474</AddressLine1Txt>
+            <CityNm>IRVINE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PAD FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>776 MOUTAIN BLVD NO STE 20</AddressLine1Txt>
+            <CityNm>WATCHUNG</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07069</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PALO ALTO PARTNERS IN EDUCATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1557</AddressLine1Txt>
+            <CityNm>PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PARK CITY EDUCATION FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 681422</AddressLine1Txt>
+            <CityNm>PARK CITY</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84068</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PURSUIT OF EXCELLENCE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1795 HAMILTON AVE</AddressLine1Txt>
+            <CityNm>PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STANFORD UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 20466</AddressLine1Txt>
+            <CityNm>STANFORD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94309</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Hasso Plattner Institute of Design</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STANFORD UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 20466</AddressLine1Txt>
+            <CityNm>STANFORD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94309</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Haas Center for Public Service - Cardinal Service Initiative</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SUNDANCE INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 684429</AddressLine1Txt>
+            <CityNm>PARK CITY</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84068</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Sundance circle Program</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY CLUB OF PALO ALTO SCHOLARSHIP FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3277 MIRANDA AVE</AddressLine1Txt>
+            <CityNm>PALO ALTO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94304</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General &amp; Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIV OF CA BERKELEY FDN - SCHOOL OF PUBLIC HEALTH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 UNIVERSITY HALL 7360</AddressLine1Txt>
+            <CityNm>BERKELEY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Global health work Program</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YOUNG MENS CHRISTIAN ASSOCIATION SILICON VALLEY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>80 SARATOGA AVE</AddressLine1Txt>
+            <CityNm>SANTA CLARA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95051</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Palo Alto Family YMCA 2015 Annual Campaign</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Palo Alto Partners in Education</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1557</AddressLine1Txt>
+            <CityNm>Palo Alto</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To print cards for an event in support of a new school</GrantOrContributionPurposeTxt>
+          <Amt>864</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>811814</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1414</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>106788</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>1678621</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>1786823</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1786823</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>Efrusy Living Trust</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>c/o Kevin Efrusy 243 Tennyson Ave</AddressLine1Txt>
+          <CityNm>Palo Alto</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94301</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>484397</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>ZILLOW INC CL A Z-OLD, 6485 sh.</NoncashPropertyDesc>
+        <FairMarketValueAmt>484397</FairMarketValueAmt>
+        <ReceivedDt>2015-08-14</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpBondsSchedule documentId="InvestCorpBondsSch">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ABBEY NATL TREAS SVCS PLC - 1.</BondNm>
+        <EOYBookValueAmt>175000</EOYBookValueAmt>
+        <EOYFMVAmt>175159</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMERICAN EXPRESS CR CORP - 2.8</BondNm>
+        <EOYBookValueAmt>356146</EOYBookValueAmt>
+        <EOYFMVAmt>354459</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AUTOZONE - 1.300% - 01/13/2017</BondNm>
+        <EOYBookValueAmt>399920</EOYBookValueAmt>
+        <EOYFMVAmt>399468</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANK AMER FDG - 6.500% - 08/01</BondNm>
+        <EOYBookValueAmt>343758</EOYBookValueAmt>
+        <EOYFMVAmt>339626</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BEST BUY INC NT - 3.750% - 03/</BondNm>
+        <EOYBookValueAmt>253438</EOYBookValueAmt>
+        <EOYFMVAmt>250900</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CAPITAL ONE FINL CORP - 6.150%</BondNm>
+        <EOYBookValueAmt>600075</EOYBookValueAmt>
+        <EOYFMVAmt>592809</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CITIGROUP INC - 0.551% - 06/09</BondNm>
+        <EOYBookValueAmt>597719</EOYBookValueAmt>
+        <EOYFMVAmt>598229</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CNOOC FIN - 1.125% - 05/09/201</BondNm>
+        <EOYBookValueAmt>199862</EOYBookValueAmt>
+        <EOYFMVAmt>199664</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DAIMLER AG - 1.125% - 03/10/20</BondNm>
+        <EOYBookValueAmt>224404</EOYBookValueAmt>
+        <EOYFMVAmt>223292</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DIRECTV HLDGS LLC DIRECTV - 2.</BondNm>
+        <EOYBookValueAmt>359821</EOYBookValueAmt>
+        <EOYFMVAmt>352818</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DUKE ENERGY - 0.000% - 04/03/2</BondNm>
+        <EOYBookValueAmt>200000</EOYBookValueAmt>
+        <EOYFMVAmt>199336</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EBAY INC - 1.350% - 07/15/2017</BondNm>
+        <EOYBookValueAmt>298476</EOYBookValueAmt>
+        <EOYFMVAmt>297627</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EXPRESS SCRIPTS INC - 3.125% -</BondNm>
+        <EOYBookValueAmt>304047</EOYBookValueAmt>
+        <EOYFMVAmt>302001</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EXXON MOBIL - 0.921% - 03/15/2</BondNm>
+        <EOYBookValueAmt>350000</EOYBookValueAmt>
+        <EOYFMVAmt>349598</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FORD - 3.984% - 06/15/2016</BondNm>
+        <EOYBookValueAmt>229707</EOYBookValueAmt>
+        <EOYFMVAmt>227498</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FORD MOTOR CREDIT - 4.207% - 0</BondNm>
+        <EOYBookValueAmt>373590</EOYBookValueAmt>
+        <EOYFMVAmt>352804</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GE CAP CORP EMTN - 1.250% - 11</BondNm>
+        <EOYBookValueAmt>350200</EOYBookValueAmt>
+        <EOYFMVAmt>350565</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL MOTORS - 2.750% - 05/1</BondNm>
+        <EOYBookValueAmt>608118</EOYBookValueAmt>
+        <EOYFMVAmt>601751</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GLENCORE FDG - 1.700% - 05/27/</BondNm>
+        <EOYBookValueAmt>351456</EOYBookValueAmt>
+        <EOYFMVAmt>346500</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HCP INC MTN - 6.700% - 01/30/2</BondNm>
+        <EOYBookValueAmt>275900</EOYBookValueAmt>
+        <EOYFMVAmt>271843</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>JPMORGAN CHASE &amp; CO - 3.450% -</BondNm>
+        <EOYBookValueAmt>517745</EOYBookValueAmt>
+        <EOYFMVAmt>513131</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>KELLOGG CO - 1.875% - 11/17/20</BondNm>
+        <EOYBookValueAmt>302613</EOYBookValueAmt>
+        <EOYFMVAmt>301963</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MCKESSON CORP BOND - 1.292% -</BondNm>
+        <EOYBookValueAmt>349716</EOYBookValueAmt>
+        <EOYFMVAmt>349017</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PEPSICO INC NOTE - 1.000% - 10</BondNm>
+        <EOYBookValueAmt>374209</EOYBookValueAmt>
+        <EOYFMVAmt>373046</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PNC FUNDING CORP - 2.700% - 09</BondNm>
+        <EOYBookValueAmt>553938</EOYBookValueAmt>
+        <EOYFMVAmt>550352</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>THERMO FISHER SCIENTIFIC NT -</BondNm>
+        <EOYBookValueAmt>102782</EOYBookValueAmt>
+        <EOYFMVAmt>100548</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TRANSCANADA PIPELINES LIMITED</BondNm>
+        <EOYBookValueAmt>575115</EOYBookValueAmt>
+        <EOYFMVAmt>574005</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VALE OVERSEAS LIMITED NOTE - 6</BondNm>
+        <EOYBookValueAmt>325500</EOYBookValueAmt>
+        <EOYFMVAmt>299865</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VERIZON COMMUNICATIONS SR NT -</BondNm>
+        <EOYBookValueAmt>400000</EOYBookValueAmt>
+        <EOYFMVAmt>398316</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WHIRLPOOL CORP - 1.350% - 03/0</BondNm>
+        <EOYBookValueAmt>250793</EOYBookValueAmt>
+        <EOYFMVAmt>248535</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALPHABET INC CL A</StockNm>
+        <EOYBookValueAmt>809242</EOYBookValueAmt>
+        <EOYFMVAmt>1195023</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALPHABET INC CL C</StockNm>
+        <EOYBookValueAmt>804142</EOYBookValueAmt>
+        <EOYFMVAmt>1168675</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FACEBOOK INC</StockNm>
+        <EOYBookValueAmt>1819038</EOYBookValueAmt>
+        <EOYFMVAmt>4710642</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TESLA MOTORS INC</StockNm>
+        <EOYBookValueAmt>707506</EOYBookValueAmt>
+        <EOYFMVAmt>816034</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TWITTER INC</StockNm>
+        <EOYBookValueAmt>796853</EOYBookValueAmt>
+        <EOYFMVAmt>499639</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvGovtObligSch">
+      <USGovtObligationsBookVlEOYAmt>752693</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>750124</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>300000</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>300324</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>Administrative Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>51324</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>51324</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>State or Local Filing Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>25</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>25</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FOUNDATION DUES &amp; MEMBERSHIPS</Desc>
+        <RevenueAndExpensesPerBooksAmt>750</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>750</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Investment Management Services</CategoryTxt>
+        <Amt>8766</Amt>
+        <NetInvestmentIncomeAmt>8766</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>990-PF Estimated Tax for 2015</CategoryTxt>
+        <Amt>35900</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

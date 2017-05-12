@@ -1,0 +1,906 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-09T07:20:28-07:00</ReturnTs>
+    <TaxPeriodEndDt>2016-04-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CHARLES I ZUCKER</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>14 PENN PLZ STE 1800</AddressLine1Txt>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>101221800</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-05-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>462849664</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE PHILIP AND JANET SHAPIRO FAMILY</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION INC</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>PHIL</BusinessNameControlTxt>
+      <PhoneNum>5164888800</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1979 MARCUS AVENUE</AddressLine1Txt>
+        <CityNm>LAKE SUCCESS</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11042</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>PHILIP J SHAPIRO</PersonNm>
+      <PersonTitleTxt>Director</PersonTitleTxt>
+      <SignatureDt>2016-09-09</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Charles I Zucker CPA</PreparerPersonNm>
+      <PTIN>P01049991</PTIN>
+      <PhoneNum>2129569700</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1755574</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>105</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>105</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>105</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>13192</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>13192</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>13192</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-74599</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1238957</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>-61302</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>13297</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>13297</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">4500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>4500</AccountingFeesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">11741</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>11741</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>16241</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>16241</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>79610</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>79610</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>95851</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>16241</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>79610</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-157153</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>13297</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>135856</CashBOYAmt>
+        <CashEOYAmt>1091819</CashEOYAmt>
+        <CashEOYFMVAmt>1091819</CashEOYFMVAmt>
+        <AcctRcvblAmt>90</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>500</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>90</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>90</AcctRcvblEOYFMVAmt>
+        <CorporateStockBOYAmt>1777221</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>663665</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>663665</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>1913577</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1755574</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1755574</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>1913577</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1755574</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1913577</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1755574</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1913577</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1755574</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1913577</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-157153</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1756424</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">850</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1755574</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20000 JPM PLUS DXJ</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-03-31</AcquiredDt>
+          <SoldDt>2016-01-29</SoldDt>
+          <GrossSalesPriceAmt>179794</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>200000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-20206</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-20206</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>40000 JPM PLUS SX5E</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-27</AcquiredDt>
+          <SoldDt>2016-02-03</SoldDt>
+          <GrossSalesPriceAmt>316794</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>400000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-83206</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-83206</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10000 HSNC XLE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-27</AcquiredDt>
+          <SoldDt>2016-03-22</SoldDt>
+          <GrossSalesPriceAmt>77594</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-22406</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-22406</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10000 RBC PLUS XLF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-04-24</AcquiredDt>
+          <SoldDt>2016-04-19</SoldDt>
+          <GrossSalesPriceAmt>96394</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3606</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3606</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1685 SPDR TRUST SERIES 1</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-05</AcquiredDt>
+          <SoldDt>2015-05-28</SoldDt>
+          <GrossSalesPriceAmt>357892</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>339902</CostOrOtherBasisAmt>
+          <GainOrLossAmt>17990</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>17990</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>260 AIR PROD &amp; CHEM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-06</AcquiredDt>
+          <SoldDt>2015-06-15</SoldDt>
+          <GrossSalesPriceAmt>37474</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28934</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8540</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8540</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>308 PPG INDUSTRIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-06</AcquiredDt>
+          <SoldDt>2015-06-15</SoldDt>
+          <GrossSalesPriceAmt>35654</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28847</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6807</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6807</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>265 BECTON &amp; DICKINSON</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-06</AcquiredDt>
+          <SoldDt>2016-04-20</SoldDt>
+          <GrossSalesPriceAmt>42109</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28941</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13168</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13168</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>309 CHUBB CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-06</AcquiredDt>
+          <SoldDt>2015-07-01</SoldDt>
+          <GrossSalesPriceAmt>39262</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28972</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10290</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10290</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>352 PEPSICO</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-06</AcquiredDt>
+          <SoldDt>2015-09-14</SoldDt>
+          <GrossSalesPriceAmt>32088</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28986</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3102</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3102</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>372 WALMART STORES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-06</AcquiredDt>
+          <SoldDt>2015-09-14</SoldDt>
+          <GrossSalesPriceAmt>23902</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28974</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5072</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5072</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-74599</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-89028</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>384</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>384</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>384</OverpaymentAmt>
+        <AppliedToESTaxAmt>384</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>PHILIP J SHAPIRO</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5164888800</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1979 MARCUS AVENUE STE 200</AddressLine1Txt>
+          <CityNm>LAKE SUCCESS</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>11042</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PHILIP J SHAPIRO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>18 OLD WHEATLEY RD</AddressLine1Txt>
+            <CityNm>BROOKVILLE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11545</ZIPCd>
+          </USAddress>
+          <TitleTxt>President &amp; CEO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JANET SHAPIRO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>18 OLD WHEATLEY RD</AddressLine1Txt>
+            <CityNm>BROOKVILLE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11545</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BROOKE F SHAPIRO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>301 EAST 47TH STREET 8-B</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOSHUA M SHAPIRO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>301 EAST 47TH STREET 11-B</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>79610</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>79610</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>79610</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>10500</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>72050</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>82550</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>79610</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>79610</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>162160</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>162160</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>10500</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>72050</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>79610</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>PHILIP J SHAPIRO</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UJA FEDERATION OF NEW YORK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6900 Jericho Tpke</AddressLine1Txt>
+            <CityNm>SYOSSET</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11791</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF THEIR PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN CANCER SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>132 WEST 32ND ST</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>6100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>US HOLOCAUST MUSEUM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 RAOUL WALLENBERG PLACE SW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT EDUCATIONAL PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HOFSTRA SCHOOL OF LAW</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 HOFSTRA UNIVERSITY</AddressLine1Txt>
+            <CityNm>HEMPSTEAD</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11549</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUING EDUCATIONAL PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MB SHAPIRO JNF SCHOLARSHIP FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>C/O JEWISH NATIONAL FUND 42 EAST 69</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10021</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE FUNDS FOR SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AUTISM SPEAKS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>152 WEST 57TH 52ND FLR</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT RESEARCH INTO AUTISM CAUSES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SUNY MARITIME COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6 PENNYFIELD AVE</AddressLine1Txt>
+            <CityNm>BRONX</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10465</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPPORT MARITIME EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FND FOR INOVATIONS IN MEDICAL EDUCT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>225 HILLCREST AVENUE</AddressLine1Txt>
+            <CityNm>UPPER BROOKVILLE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11771</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOR RESEARCH IN MEDICAL EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MICHAEL J FOX FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>498 7TH AVE 18TH FLR</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RESEARCH FOR PARKINSON DISEASE</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WOUNDED WARRIOR PROJECT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4899 BELFORT RD STE 300</AddressLine1Txt>
+            <CityNm>JACKSONVILLE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32256</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROGRAMS AND SERVICE FOR RETURNED WARRIORS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COLUMBIA COLLEGE FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>622 WEST 113TH STREET</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS FOR NEEDY STUDENTS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BIRTHRIGHT ISRAEL FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>33 EAST 33RD ST 7TH FLR</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ECUCATION OF JEWISH STUDENTS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NORTHWELL HEALTH SYSTEMS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>125 COMMUNITY DRIVE</AddressLine1Txt>
+            <CityNm>GREAT NECK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11021</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT LOCAL HOSPITAL</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATIONAL MARITIM HISTORICA SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5 JOHN WALSH BLVD PO 68</AddressLine1Txt>
+            <CityNm>PEEKSKILL</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10566</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PRESERVATION OF MARITIME HISTORY</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNITED SEAMANS SERVICE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>104 BROADWAY</AddressLine1Txt>
+            <CityNm>JERSEY CITY</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF MEN AND WOMEN WHO ARE THE BACKBONE OF DEFENSE AND COMMERCE IN THE MARITIME SERVICE</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN FRIENDS OF MOGEN DAVID</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3300 PGA BLVD SUITE 970</AddressLine1Txt>
+            <CityNm>PALM BEACH GARDENS</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33410</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT PARAMEDIC SERVICES</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JEWISH COMMUNAL FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>575 MADISON AVE STE 703</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE FOR NEEDY JEWISH INDIVIDUALS</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BROOKVILLE PARK FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>25 ROLLING DRIVE</AddressLine1Txt>
+            <CityNm>BROOKVILLE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11545</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PRESERVATION OF PUBLIC PARK</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN FRIENDS OF HEBREW UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 WEST CYPRESS CREEK RD STE 865</AddressLine1Txt>
+            <CityNm>FT LAUDERDALE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33309</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION OF JEWISH CHILDREN</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COAST GUARD FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>394 TUAGWOND ROAD</AddressLine1Txt>
+            <CityNm>STONINGTON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06378</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROTECTION OF COASTAL US WATERS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THIRTEEN ASSOCIATES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>825 8TH AVENUE</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF PBS BROADCASTING</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LANTOS FOUNDATION FOR HUMAN RIGHTS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6 DIXON AVENUE ste 100</AddressLine1Txt>
+            <CityNm>CONCORD</CityNm>
+            <StateAbbreviationCd>NH</StateAbbreviationCd>
+            <ZIPCd>03331</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FIGHT FOR HUMAN RIGHTS</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERCIAN HEART ASSOCIATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>125 E BETHPAGE ROAD</AddressLine1Txt>
+            <CityNm>PLAINVIEW</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11803</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OF HEART DISEASE RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WHITNEY MUSEUM OF AMERICAN ART</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>99 GANSEVOORT ST</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10014</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>THE PRESERVATION OF AMERICAN CULTURE &amp; ART</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ASPCA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>424 EAST 92ND ST</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION OF PUBLIC FOR ANIMAL PROTECTION</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HILLEL INTERNATIONAL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 8TH STREET</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOR NEEDY JEWISH INDIVIDUALS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ADL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>605 THIRD AVENUE</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10158</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>O EDUCATE AGAINST ANTI SEMITISM</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LICADD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1025 OLD COUNTRY ROAD</AddressLine1Txt>
+            <CityNm>WESTBURY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11590</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COUNSELING ON DURG &amp; ALCOHOL DEPENDENCE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SPECIAL OLYMPICS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>504 BALLTOWN RD</AddressLine1Txt>
+            <CityNm>SCHENECTADY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12304</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUNDING NEEDY SPECIAL OLYMPIC INDIVUALS</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MARCH OF DIMES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 5041</AddressLine1Txt>
+            <CityNm>WHITE PLAINS</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUING POLIO RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>METROPOLITAN MUSEUM OF ART</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 FIFTH AVENUE</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10028</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO CONTINUE ACQUISITIONS</GrantOrContributionPurposeTxt>
+          <Amt>910</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ISLAND HARVEST</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>400 MARCUS BLVD</AddressLine1Txt>
+            <CityNm>HAUPPAGE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11788</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE FOOD FOR NEEDY INDIVIDUALS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHILDRENS MEDICAL FUND OF NY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 ROBBINS LANE</AddressLine1Txt>
+            <CityNm>SYOSSET</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11791</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOR THEIR BUILDING FUND</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SOUTHERN POVERY LAW CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>400 WASHINGTON AVE</AddressLine1Txt>
+            <CityNm>MOMTGOMERY</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>36104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE LEGAL SERVICE TO INDIGENT INDIVIDUALS</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEAMANS CHURCH INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 BROADWAY FLR 26</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SERVICES FOR US MERCHANT MARINES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DANA FARBER CANCER IMSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 BROOKLINE PLACE WEST 6TH FLR</AddressLine1Txt>
+            <CityNm>BROOKLINE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02445</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUING CANCER RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>79610</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <UnrelatedBusinessTaxblIncmAmt>105</UnrelatedBusinessTaxblIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <UnrelatedBusinessTaxblIncmAmt>13192</UnrelatedBusinessTaxblIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>-74599</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>13297</UnrelatedBusinessTaxblIncmAmt>
+          <RelatedOrExemptFunctionIncmAmt>-74599</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>-61302</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <AccountingFeesDetail>
+        <Amt>4500</Amt>
+        <NetInvestmentIncomeAmt>4500</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherDecreasesDetail>
+        <Desc>EXCISE TAX</Desc>
+        <Amt>850</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT ADVISORY FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>10868</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>10868</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER</Desc>
+        <RevenueAndExpensesPerBooksAmt>873</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>873</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

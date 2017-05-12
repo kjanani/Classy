@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-15T10:09:40-05:00</ReturnTs>
+    <TaxPeriodEndDt>2016-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>731619390</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>DENNEY &amp; COMPANY CPA'S PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>111 NW 11TH ST</AddressLine1Txt>
+        <CityNm>GUYMON</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>73942</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>730722424</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>TEXAS COUNTY MEMORIAL FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>TEXA</BusinessNameControlTxt>
+      <PhoneNum>5803386561</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>P O BOX 1228</AddressLine1Txt>
+        <CityNm>GUYMON</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>73942</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>KARI MONTGOMERY</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>5803386561</PhoneNum>
+      <SignatureDt>2016-07-28</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>D MICHAEL DENNEY</PreparerPersonNm>
+      <PTIN>P00121293</PTIN>
+      <PhoneNum>5803380354</PhoneNum>
+      <PreparationDt>2016-07-28</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>4427</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>4427</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>4427</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>4331</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>4331</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>4331</DividendsAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc5">2389</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>2039</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>2389</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>11147</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>10797</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>11147</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">2278</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2278</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>2278</AccountingFeesAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc6">4593</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>4593</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>4593</OtherProfFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc7">235</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>235</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>235</TaxesAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc4">105</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>105</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>105</OtherExpensesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>7211</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>7211</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>7211</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>7211</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>7211</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>7211</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>0</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>3936</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>3586</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>3936</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <USGovernmentObligationsBOYAmt>570128</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt>574063</USGovernmentObligationsEOYAmt>
+        <TotalAssetsBOYAmt>570128</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>574063</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>570128</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>574063</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>570128</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>574063</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>570128</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>574063</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>570128</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>3936</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>574064</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc3">1</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>574063</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <NetVlNoncharitableAssetsYr1Amt>633350</NetVlNoncharitableAssetsYr1Amt>
+        <AdjustedQlfyDistriYr2Amt>10000</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>559097</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.017886</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>299935</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>563891</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.531902</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>38799</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>774534</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.050093</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>38320</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>781235</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.049051</DistributionYr5Rt>
+        <TotalDistributionRt>0.648932</TotalDistributionRt>
+        <AverageDistributionRt>0.162233</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>626260</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>101600</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>36</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>101636</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>0</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>72</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>72</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>72</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>72</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OK</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>KARI MONTGOMERY</IndividualWithBooksNm>
+        <PhoneNum>5803386561</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 1228</AddressLine1Txt>
+          <CityNm>GUYMON</CityNm>
+          <StateAbbreviationCd>OK</StateAbbreviationCd>
+          <ZIPCd>73942</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DIANE ROBERTS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 1181</AddressLine1Txt>
+            <CityNm>GUYMON</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73942</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NANCY CHILDRESS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1200 RIMROCK DRIVE</AddressLine1Txt>
+            <CityNm>GUYMON</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73942</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHARLES BUTLER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>BOX 1159</AddressLine1Txt>
+            <CityNm>HOOKER</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73945</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID PETTY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 1187</AddressLine1Txt>
+            <CityNm>GUYMON</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73942</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JIM WEBSTER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 1228</AddressLine1Txt>
+            <CityNm>GUYMON</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73942</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RODNEY SEAWRIGHT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 427</AddressLine1Txt>
+            <CityNm>HOOKER</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73945</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CARRIE LOU DRAPER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6213 VILLAGE LANE</AddressLine1Txt>
+            <CityNm>GUYMON</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73942</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FRANCIS SCHNEWEIS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1006 NE 3RD</AddressLine1Txt>
+            <CityNm>GUYMON</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73942</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBERT LAMAR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>RT 1 BOX 115C</AddressLine1Txt>
+            <CityNm>GUYMON</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73942</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KARI MONTGOMERY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 1228</AddressLine1Txt>
+            <CityNm>GUYMON</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73942</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>635797</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>635797</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>635797</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>9537</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>626260</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>31313</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>31313</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>72</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>72</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>31241</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>31241</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>31241</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>0</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>0</QualifyingDistributionsAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>31241</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr3Amt>183743</ExcessDistributionCyovYr3Amt>
+        <TotalExcessDistributionCyovAmt>183743</TotalExcessDistributionCyovAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>31241</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>31241</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>152502</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>152502</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>152502</ExcessFromYear3Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>4427</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>4331</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>2039</RelatedOrExemptFunctionIncmAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>PASTURE RENT</Desc>
+          <RelatedOrExemptFunctionIncmAmt>350</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>11147</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>11147</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <Amt>2278</Amt>
+        <NetInvestmentIncomeAmt>2278</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2278</AdjustedNetIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc3">
+      <OtherDecreasesDetail>
+        <Desc>ROUNDING</Desc>
+        <Amt>1</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>105</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>105</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>105</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc5">
+      <OtherIncomeDetail>
+        <RevenueAndExpensesPerBooksAmt>2039</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2039</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2039</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>PASTURE RENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>350</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>350</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>TRUSTEE FEES</CategoryTxt>
+        <Amt>4593</Amt>
+        <NetInvestmentIncomeAmt>4593</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>4593</AdjustedNetIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <TaxesDetail>
+        <CategoryTxt>OIL &amp; PRODUCTION TAXES</CategoryTxt>
+        <Amt>143</Amt>
+        <NetInvestmentIncomeAmt>143</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>143</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PROPERTY TAXES</CategoryTxt>
+        <Amt>42</Amt>
+        <NetInvestmentIncomeAmt>42</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>42</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAX</CategoryTxt>
+        <Amt>50</Amt>
+        <NetInvestmentIncomeAmt>50</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>50</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

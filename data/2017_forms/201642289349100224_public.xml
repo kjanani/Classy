@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-15T08:55:38-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>391382307</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>THE PERLSON GROUP SC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>6025 NORTH GREEN BAY AVENUE</AddressLine1Txt>
+        <CityNm>GLENDALE</CityNm>
+        <StateAbbreviationCd>WI</StateAbbreviationCd>
+        <ZIPCd>532093811</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>391866937</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>RICHARD R &amp; MARY P PAUTZ LIFE-LONG</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>LEARNING FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>RICH</BusinessNameControlTxt>
+      <PhoneNum>2624398979</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>18710 FOLLETT DRIVE</AddressLine1Txt>
+        <CityNm>BROOKFIELD</CityNm>
+        <StateAbbreviationCd>WI</StateAbbreviationCd>
+        <ZIPCd>53045</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MARY PAUTZ</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>2624398979</PhoneNum>
+      <SignatureDt>2016-08-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>KAY M GNAT-SCHAEFER</PreparerPersonNm>
+      <PTIN>P00646001</PTIN>
+      <PhoneNum>4143511040</PhoneNum>
+      <PreparationDt>2016-08-15</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>474138</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>45189</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>1</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>1</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>1</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>3060</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>3060</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>3060</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>1597</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1597</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>1597</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>49847</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>4658</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>3061</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">425</AccountingFeesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc6">12004</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>12429</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>17813</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>17813</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>30242</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>17813</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>19605</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>4658</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>3061</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>5908</CashBOYAmt>
+        <CashEOYAmt>22407</CashEOYAmt>
+        <CashEOYFMVAmt>22407</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>5329</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>8435</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>8435</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>69696</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">69696</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>393296</CorporateStockEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>50000</InvstLandCostOrOtherBasisAmt>
+        <InvstLandAccumDepreciationAmt>50000</InvstLandAccumDepreciationAmt>
+        <LandBldgInvestmentsEOYFMVAmt>50000</LandBldgInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc5">7713</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc5">7713</OtherAssetsEOYAmt>
+        <TotalAssetsBOYAmt>88646</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>108251</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>474138</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>88646</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>108251</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>88646</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>108251</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>88646</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>108251</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>88646</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>19605</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>108251</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>108251</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>1597</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>11020</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>734810</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.014997</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>5000</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>265230</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.018852</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>7750</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>179599</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.043152</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>11350</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>288167</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.039387</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>7382</AdjustedQlfyDistriYr5Amt>
+        <TotalDistributionRt>0.116388</TotalDistributionRt>
+        <AverageDistributionRt>0.029097</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>395970</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>11522</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>47</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>11569</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>17813</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>47</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>47</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>47</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>47</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>WI</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>MARY PAUTZ</IndividualWithBooksNm>
+        <PhoneNum>2624398979</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>18710 FOLLETT DRIVE</AddressLine1Txt>
+          <AddressLine2Txt>18710 FOLLETT DRIVE</AddressLine2Txt>
+          <CityNm>BROOKFIELD</CityNm>
+          <StateAbbreviationCd>WI</StateAbbreviationCd>
+          <ZIPCd>53045</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY PAUTZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10721 CROOKED RIVER ROAD</AddressLine1Txt>
+            <CityNm>BONITA SPRINGS</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34135</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>16 BENEFIT CONCERTS</Description1Txt>
+        <Description2Txt>ON GOING DISTRIBUTION OF GRIEF MATERIAL, MUSIC EDUCATION LETTERS AND CHILDREN'S BOOKS.</Description2Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>390000</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>5000</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>7000</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>402000</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>402000</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>6030</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>395970</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>19799</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>19799</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>47</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>47</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>19752</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>19752</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>19752</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>17813</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>17813</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>47</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>17766</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>19752</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>17157</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>17813</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>17157</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>656</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>19096</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALLIANCE FOR FAIR FOOD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 509</AddressLine1Txt>
+            <CityNm>IMMOKALEE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34143</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CASH DONATION</GrantOrContributionPurposeTxt>
+          <Amt>600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COALITION OF IMMOKALEE WORKERS</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>MR LUCAS BENITEZ</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 603</AddressLine1Txt>
+            <CityNm>IMMOKALEE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34143</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CASH DONATION</GrantOrContributionPurposeTxt>
+          <Amt>5083</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SCHOOL SISTERS OF ST FRANCIS</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>S MARY DIEZ</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>S LAYTON BLVD</AddressLine1Txt>
+            <CityNm>MILWAUKEE</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53215</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CASH DONATION</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BENETVISION</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>JOAN CHITTESTER FUND FOR PRISONERS</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>355 EAST NINTH STREET</AddressLine1Txt>
+            <CityNm>ERIE</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16503</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CASH DONATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CYSTIC FIBROSIS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20875 CROSSROADS CIRCLE</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 350</AddressLine2Txt>
+            <CityNm>WAUKESHA</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53186</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CASH DONATION</GrantOrContributionPurposeTxt>
+          <Amt>3130</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FGCU FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10501 FGCU BLVD SOUTH</AddressLine1Txt>
+            <CityNm>FORT MYERS</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33965</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CASH DONATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HAITI PARTNERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2865</AddressLine1Txt>
+            <CityNm>VERO BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32961</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CASH DONATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOUSE OF PRAYER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17880 CYPRESS CREEK ROAD</AddressLine1Txt>
+            <CityNm>ALVA</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33920</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CASH DONATION</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MACC FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10000 W INNOVATION DRIVE</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 135</AddressLine2Txt>
+            <CityNm>MILWAUKEE</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53226</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CASH DONATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YOUTHAITI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6973 N RANGE LINE ROAD</AddressLine1Txt>
+            <CityNm>GLENDALE</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53209</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CASH DONATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>17813</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>1</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>3060</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>1597</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>4658</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>4658</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>INDIRECT ACCOUNTING FEES</CategoryTxt>
+        <Amt>425</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>166 SHS DUKE ENERGY</StockNm>
+        <EOYBookValueAmt>3632</EOYBookValueAmt>
+        <EOYFMVAmt>3926</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 SHS DUKE REALTY</StockNm>
+        <EOYBookValueAmt>9304</EOYBookValueAmt>
+        <EOYFMVAmt>8408</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 SHS PUBLIC STORAGE</StockNm>
+        <EOYBookValueAmt>6313</EOYBookValueAmt>
+        <EOYFMVAmt>49540</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>80 SHS ROBOTIC VISIONS</StockNm>
+        <EOYBookValueAmt>7925</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>450 SHS CELGENE</StockNm>
+        <EOYBookValueAmt>5125</EOYBookValueAmt>
+        <EOYFMVAmt>215568</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>566 SHS MGE ENERGY, INC.</StockNm>
+        <EOYBookValueAmt>12397</EOYBookValueAmt>
+        <EOYFMVAmt>39394</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>629.257 SHS FIDELITY FUND</StockNm>
+        <EOYBookValueAmt>25000</EOYBookValueAmt>
+        <EOYFMVAmt>27867</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 SHS INGERSAL RAND</StockNm>
+        <EOYFMVAmt>30678</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 SHS WABCO</StockNm>
+        <EOYFMVAmt>11445</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>68 SHS ALLEGION</StockNm>
+        <EOYFMVAmt>4483</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>83 SHS SPECTRA</StockNm>
+        <EOYFMVAmt>1987</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsLandSchedule2 documentId="RetDoc4">
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>PIANO</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>50000</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>50000</AccumulatedDepreciationAmt>
+        <EOYFMVAmt>50000</EOYFMVAmt>
+      </InvestmentLandGrp>
+    </InvestmentsLandSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc5">
+      <OtherAssetsScheduleGrp>
+        <Desc>GRIEF BOOKS &amp; CD'S</Desc>
+        <BOYBookValueAmt>1076</BOYBookValueAmt>
+        <EOYBookValueAmt>1076</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>CHILDREN'S BOOKS</Desc>
+        <BOYBookValueAmt>1922</BOYBookValueAmt>
+        <EOYBookValueAmt>1922</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>INSTRUMENTS</Desc>
+        <BOYBookValueAmt>111</BOYBookValueAmt>
+        <EOYBookValueAmt>111</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>CHAIRS, GLASSES &amp; DISHES</Desc>
+        <BOYBookValueAmt>205</BOYBookValueAmt>
+        <EOYBookValueAmt>205</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>DIGITAL CAMERA</Desc>
+        <BOYBookValueAmt>479</BOYBookValueAmt>
+        <EOYBookValueAmt>479</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>HUMIDIFIER</Desc>
+        <BOYBookValueAmt>148</BOYBookValueAmt>
+        <EOYBookValueAmt>148</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>PORTABLE PA SERVICE</Desc>
+        <BOYBookValueAmt>371</BOYBookValueAmt>
+        <EOYBookValueAmt>371</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>PUNCH BOWL</Desc>
+        <BOYBookValueAmt>27</BOYBookValueAmt>
+        <EOYBookValueAmt>27</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>NEW DVD'S</Desc>
+        <BOYBookValueAmt>210</BOYBookValueAmt>
+        <EOYBookValueAmt>210</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>NEW MAC COMPUTER</Desc>
+        <BOYBookValueAmt>1592</BOYBookValueAmt>
+        <EOYBookValueAmt>1592</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>NEW BOOKS</Desc>
+        <BOYBookValueAmt>135</BOYBookValueAmt>
+        <EOYBookValueAmt>135</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>NEW DVD'S</Desc>
+        <BOYBookValueAmt>78</BOYBookValueAmt>
+        <EOYBookValueAmt>78</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>CHILDREN'S BOOKS</Desc>
+        <BOYBookValueAmt>1000</BOYBookValueAmt>
+        <EOYBookValueAmt>1000</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>CASSETTE TAPES</Desc>
+        <BOYBookValueAmt>50</BOYBookValueAmt>
+        <EOYBookValueAmt>50</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>NEW CD'S DVD'S</Desc>
+        <BOYBookValueAmt>309</BOYBookValueAmt>
+        <EOYBookValueAmt>309</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES FOR CONCERTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>495</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FOOD &amp; BEVERAGE FOR CONCERTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>866</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>HONORARIA CONCERT</Desc>
+        <RevenueAndExpensesPerBooksAmt>8000</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PIANO TUNING</Desc>
+        <RevenueAndExpensesPerBooksAmt>708</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>67</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BOOKS, DVD'S, CD'S</Desc>
+        <RevenueAndExpensesPerBooksAmt>127</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>24</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TRAVEL</Desc>
+        <RevenueAndExpensesPerBooksAmt>1620</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TAXES</Desc>
+        <RevenueAndExpensesPerBooksAmt>97</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-12T06:48:40-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BEHAR REID MELTON BROWN &amp; TAYLOR</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2821 HARLEY CT</AddressLine1Txt>
+        <CityNm>COLUMBUS</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>31909</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>205801944</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE SHELBY AND WANDA AMOS FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SHEL</BusinessNameControlTxt>
+      <PhoneNum>7065634524</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4245 MILGEN ROAD</AddressLine1Txt>
+        <CityNm>COLUMBUS</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>31907</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN SHELBY AMOS II</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2016-09-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Karen Melton</PreparerPersonNm>
+      <PTIN>P00005168</PTIN>
+      <PhoneNum>7065764900</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>20500</ContriRcvdRevAndExpnssAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">-1772</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>18728</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">30</TaxesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>30</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>34000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>34000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>34030</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>34000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-15302</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>18292</CashBOYAmt>
+        <CashEOYAmt>4762</CashEOYAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">-2444</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">-4216</OtherAssetsEOYAmt>
+        <TotalAssetsBOYAmt>15848</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>546</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>15848</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>546</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>15848</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>546</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>15848</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>546</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>15848</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-15302</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>546</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>546</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>WANDA AMOS</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>7065750707</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4245 MILGEN ROAD</AddressLine1Txt>
+          <CityNm>COLUMBUS</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>31907</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN SHELBY AMOS II</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 5365</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31906</ZIPCd>
+          </USAddress>
+          <TitleTxt>Executive Dir.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WANDA J AMOS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 5365</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31906</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary/Treas</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>34000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>34000</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>34000</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>191721</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>93461</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>119331</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>102330</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>41370</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>548213</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>34000</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>34000</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>582213</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>191721</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>390492</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>93461</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>119331</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>102330</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>41370</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>34000</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>THE SHELBY WANDA AMOS FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4245 MILGEN ROAD</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31907</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>7065634524</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>REQUEST BY LETTER INCLUDING ANY INFORMATION REQUESTOR DEEMS NECESSARY</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>N/A</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GIRLS INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3096</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31903</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CHILDREN'S CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHILDREN'S MIRACLE NETWORK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 790</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31902</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CHILDREN'S CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CLINT TAYLOR FAMILY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1831 5TH AVENUE</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31904</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>HEALTHCARE CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COLUMBUS HIGH SCHOOL ROBOTICS TEAM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1100 5TH AVENUE</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>VARIOUS CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TEEN CHALLENGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2300 MANCHESTER EXPY</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31904</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>HEALTHCARE CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CSU FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>18 W 11TH STREET</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>HOUSING OPPORTUNITIES AND REVITALIZATION</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALZHEIMERS ASSOCIATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5900 RIVER ROAD 301</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31904</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>HEALTHCARE CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RYAN RAVEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6501 VETERANS PARKWAY</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31909</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>HEALTHCARE CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DAVIS ENDOWMENT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 790</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31902</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>HEALTHCARE CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHERRI BAILEY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>233 12TH STREET 710</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>HEALTHCARE CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>11000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MS GA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>233 12TH STREET</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CHILDREN'S SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COMMUNITY FOUNATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>233 12TH STREET</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CHILDREN'S SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>METHODIST CHILDRENS HOME</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1275 K STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>HEALTHCARE CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JEREMY WILLIAMS FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1275 K STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MEDICAL FUNDRAISER</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNITED MITOCHONDRIAL DISEASE FOUNDA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1776</AddressLine1Txt>
+            <CityNm>FORTSON</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31808</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>HEALTHCARE CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAMARITANS PURSE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>VARIOUS</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CHECK VOIDED FROM PRIOR YEAR</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>YOUNG LIFE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4900 MILGEN ROAD</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31907</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ANIMAL CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FEEDING THE VALLEY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 VISTORY DRIVE</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>VETERANS CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VALLEY INTERFAITH PROMISE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 381</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31902</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>HEALTHCARE CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CIFK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>UNKNOWN</AddressLine1Txt>
+            <CityNm>PHENIX CITY</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>36867</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MEDICAL FUNDRAISER</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>OPEN DOOR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2807 MUSTANG DRIVE</AddressLine1Txt>
+            <CityNm>INGLESIDE</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78362</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CHILDRENS CHARITY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BROOKSTONE FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>UNKNOWN</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31904</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MEDICAL FUNDRAISER</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>34000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <UnrelatedBusinessTaxblIncmAmt>1772</UnrelatedBusinessTaxblIncmAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>-1772</UnrelatedBusinessTaxblIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>-1772</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>NATIONAL UNDERWRITERSSHELBY AMOS</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>4245 MILGEN ROAD</AddressLine1Txt>
+          <CityNm>COLUMBUS</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>31907</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>DANIEL AMOS FAMILY FOUNDATION</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 5346</AddressLine1Txt>
+          <CityNm>COLUMBUS</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>31906</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherAssetsScheduleGrp>
+        <Desc>INVESTMENT IN QB, LLC</Desc>
+        <BOYBookValueAmt>-2444</BOYBookValueAmt>
+        <EOYBookValueAmt>-4216</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherIncomeDetail>
+        <Desc>Other Investment Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>-1772</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <CategoryTxt>ANNUAL REGISTRATION</CategoryTxt>
+        <Amt>30</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

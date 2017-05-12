@@ -1,0 +1,1580 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-07T09:55:47-07:00</ReturnTs>
+    <TaxPeriodEndDt>2016-04-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Incorvaia &amp; Associates</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>380 N Broadway Suite 408</AddressLine1Txt>
+        <CityNm>Jericho</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>117532109</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-05-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>136107416</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Sol &amp; Hilda Furst Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SOL&amp;</BusinessNameControlTxt>
+      <PhoneNum>6314990627</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>6080 Jericho Turnpike</AddressLine1Txt>
+        <CityNm>Commack</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11725</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Gerald Furst</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2016-09-07</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>ANTHONY C INCORVAIA</PreparerPersonNm>
+      <PTIN>P00373110</PTIN>
+      <PhoneNum>5169427600</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1177384</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>5</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>5</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>5</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>33558</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>33558</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>33558</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>219353</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>253150</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>219353</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>252916</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>252916</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>33563</TotalAdjNetIncmAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>22950</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>9180</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>13770</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">3900</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1560</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2340</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">891</TaxesRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>13618</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>5447</OccupancyNetInvstIncmAmt>
+        <OccupancyDsbrsChrtblAmt>8171</OccupancyDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">18659</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>7464</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>11195</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>60018</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>23651</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>35476</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>64254</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>46504</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>124272</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>23651</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>81980</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>128644</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>229265</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>33563</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>47324</CashBOYAmt>
+        <CashEOYAmt>50542</CashEOYAmt>
+        <CorporateStockBOYAmt>171491</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>266579</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1149944</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">30338</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>27440</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>7092</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>7092</LandBldgEquipAccumDeprecAmt>
+        <TotalAssetsBOYAmt>218815</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>347459</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1177384</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>218815</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>347459</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>218815</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>347459</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>218815</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>347459</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>218815</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>128644</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>347459</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>347459</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5000 EXELIS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1984-12-18</AcquiredDt>
+          <SoldDt>2015-05-29</SoldDt>
+          <GrossSalesPriceAmt>123725</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4998</CostOrOtherBasisAmt>
+          <GainOrLossAmt>118727</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>118727</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000 OMNICARE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1993-04-15</AcquiredDt>
+          <SoldDt>2015-08-18</SoldDt>
+          <GrossSalesPriceAmt>98000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3732</CostOrOtherBasisAmt>
+          <GainOrLossAmt>94268</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>94268</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 HALCON RESOURCES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-05-24</AcquiredDt>
+          <SoldDt>2015-12-17</SoldDt>
+          <GrossSalesPriceAmt>109</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2875</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2766</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2766</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>400 SCHULMBERGER</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-08-24</AcquiredDt>
+          <SoldDt>2016-04-26</SoldDt>
+          <GrossSalesPriceAmt>31316</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>22192</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9124</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9124</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>219353</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>100387</AdjustedQlfyDistriYr1Amt>
+        <AdjustedQlfyDistriYr2Amt>102870</AdjustedQlfyDistriYr2Amt>
+        <AdjustedQlfyDistriYr3Amt>105960</AdjustedQlfyDistriYr3Amt>
+        <AdjustedQlfyDistriYr4Amt>96525</AdjustedQlfyDistriYr4Amt>
+        <AdjustedQlfyDistriYr5Amt>113054</AdjustedQlfyDistriYr5Amt>
+        <NetInvestmentIncomePctAmt>2293</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>2293</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>81980</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>2293</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2293</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2293</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>20</EsPenaltyAmt>
+        <TaxDueAmt>2313</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Gerald Furst</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6314990627</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>6080 Jericho Turnpike - Suite 208</AddressLine1Txt>
+          <CityNm>Commack</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>11725</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Gerald Furst</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>160 Country Club Drive</AddressLine1Txt>
+            <CityNm>Commack</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>117254460</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Violet Furst</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>160 Country Club Drive</AddressLine1Txt>
+            <CityNm>Commack</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>117254460</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Ronald Furst</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>250 Cedrus Avenue</AddressLine1Txt>
+            <CityNm>E Northport</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11731</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <TaxBasedOnInvestmentIncomeAmt>2293</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2293</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>2293</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>2293</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>81980</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>81980</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>2293</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>79687</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>114184</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>97633</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>107003</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>104622</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>101278</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>524720</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>81980</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>81980</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>606700</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>114184</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>492516</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>97633</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>107003</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>104622</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>101278</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>81980</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Gurwin Jewish Geriatric Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>66 Hauppauge Rd</AddressLine1Txt>
+            <CityNm>Commack</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11725</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Priv Foun</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Rehabilitation of patients, facility and general services for elderly and patients who are ill.</GrantOrContributionPurposeTxt>
+          <Amt>27200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Shelter Rock Jewish Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>272 Shelter Rock Road</AddressLine1Txt>
+            <CityNm>Roslyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11576</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Public Ch</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education of children and adults on Judaism, general good doings of charity for those in need.</GrantOrContributionPurposeTxt>
+          <Amt>4784</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Jewish Theological Seminary</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3080 Broadway</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education on Jewish tradition, Jewish lives, and Jewish communities.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Yeshiva Karlin Stolin</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1818 54th St</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11204</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Pre-school to 12th grade education for males, jewish awareness, general good doings of charity for those in need.</GrantOrContributionPurposeTxt>
+          <Amt>655</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Rav Tov International Jewish Rescue</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11 Harrison Ave</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11211</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution provided funding for programs that aid Jewish Americans with legal assistance, environmental and health consultation, housing, planning and development, and job training.</GrantOrContributionPurposeTxt>
+          <Amt>550</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Smile Train</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>41 Madison Ave 28th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Priv Foun</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Provided cleft surgery for one child.</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Yeshiva of South Shore</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1170 William Street</AddressLine1Txt>
+            <CityNm>Hewlett</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11557</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Pre-school to 12th grade education for males, jewish awareness, general good doings of charity for those in need.</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Wall Street Synagogue</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>47 Beekman Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10038</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education of children and adults on Judaism, general good doings of charity for those in need.</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Aish Hatorah</RecipientPersonNm>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>One Western Wall Plaza - POB 14149</AddressLine1Txt>
+            <CityNm>Old City</CityNm>
+            <ProvinceOrStateNm>Jerusalem</ProvinceOrStateNm>
+            <CountryCd>IS</CountryCd>
+            <ForeignPostalCd>91141</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Underwrite an Aish.com feature article</GrantOrContributionPurposeTxt>
+          <Amt>180</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Cancer Society</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>250 Williams Street NW</AddressLine1Txt>
+            <CityNm>Atlanta</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Provide funds for Cancer research.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>United States Holocaust Memorial Mu</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 Raoul wallenberg Place SW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Educate new generations about the dangers of indifference and the importance of standing up to hate and Holocaust denial in our world today.</GrantOrContributionPurposeTxt>
+          <Amt>180</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>North American Conference on Ethiop</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>255 West 36th Street Suite 701</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Feed a child for a year in the Ethiopia school lunch program.</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Jewish National Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>42 East 69th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10021</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Provide funds to secure an indoor recreational center in Sderot, Israel.</GrantOrContributionPurposeTxt>
+          <Amt>125</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Mount Vernon Ladies' Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 110</AddressLine1Txt>
+            <CityNm>Mount Vernon</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contributions are used to address the most pressing library needs.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>United Negro College Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8260 Willow Oaks Corporate Drive</AddressLine1Txt>
+            <CityNm>Fairfax</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22031</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Provides scholarships to students attending its member colleges as well as to those going elsewhere.</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Lung Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1301 Pennsylvania Ave NW Suite 800</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fund research for lung diseases.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Society For Yad Vashem</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 Fifth Avenue 42nd Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Provide essential funds for the Societys programs and operations</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Boy Scouts of America</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1325 W Walnut Hill Lane</AddressLine1Txt>
+            <CityNm>Irving</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75015</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Provide funding which makes a direct and positive impact on your community by teaching positive values and leadership skills to youth.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Boys Town Jerusalem</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 Penn Plaza Suite 6250</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10119</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Provide scholarships to students with economically disadvantaged backgrounds.</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Chamah</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>27 William St Suite 613</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Provide funds for vital humanitarian and educational programs for Jewish Russians.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Commack Volunteer Fire Department</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6309 Jericho Turnpike</AddressLine1Txt>
+            <CityNm>Commack</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11725</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funds used to maintain the firehouse.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Etz Chaim Torah Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1778 45th Street</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11204</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education of children, jewish awareness, general good doings of charity for those in need.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Finca International</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1101 14th Street NW 7th Floor</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Provides 2 new village bank clients with microloans.</GrantOrContributionPurposeTxt>
+          <Amt>75</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Jewish War Veterans</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1811 R Street NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Provides funding for upkeep of the National Museum of American Jewish Military History.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Mifal Germilas Chasodim</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>536 E 5th Street</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11218</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education of children, jewish awareness, general good doings of charity for those in need.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>New York Bar Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 Elk Street</AddressLine1Txt>
+            <CityNm>Albany</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12207</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Priv Foun</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funds used to support law-related programs of legal services organizations, nonprofits, bar associations and other organizations throughout New York State</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ORT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>274 Madison Ave - Room 1106</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Provides vocational training and education to Jewish communities.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>United Charity Institution of Jerus</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1778 45th Street</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11204</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education of children, jewish awareness, general good doings of charity for those in need.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Hadassah</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 West 58th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funds used to advocate issues of importance to women and to the American Jewish community.</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>National Museum of American Jewish</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 South Independence Mall East</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution helps the National Museum of American Jewish History to present high quality programs and activities interpreting the American Jewish experience to the community.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Smithsonian Institution</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 37012 SI Building</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20013</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution helps keep the Smithsonians museum doors open to everyone, free of charge.</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Alzheimer's Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>225 N Michigan Ave Fl 17</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution helps fight Alzheimer's disease through vital research and essential support programs and services.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Associates Ben-Gurion Uni</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1430 Broadway 803</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution used to support students and faculty.</GrantOrContributionPurposeTxt>
+          <Amt>180</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Heart Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7272 Greenville Avenue</AddressLine1Txt>
+            <CityNm>Dallas</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75231</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution provides funding for cardiovascular disease research.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Jewish Committee</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>165 East 56th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution helps support Israel's quest for peace and security.</GrantOrContributionPurposeTxt>
+          <Amt>175</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The American Jewish Historical Soci</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15 West 16th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution provides funding for daily operations.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The American Parkinson Disease Asso</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>135 Parkinson Avenue</AddressLine1Txt>
+            <CityNm>Staten Island</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10305</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution helps fight Parkinson's disease through vital research and essential support programs and services.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Arthritis Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 Walt Whitman Rd 2</AddressLine1Txt>
+            <CityNm>Melville</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11747</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution helps fight Arthritis through research and support programs and services.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Society for the Prevent AS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>424 East 92nd Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10128</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution used for purchasing medical supplies for animals.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CancerCare</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20 Crossways Park Dr N 110</AddressLine1Txt>
+            <CityNm>Woodbury</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11797</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution helps provide professional counseling, support groups, financial assistance, educational workshops, and publications, for anyone affected by cancer.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Coalition to Salute America's Heroe</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12 Godfrey Place</AddressLine1Txt>
+            <CityNm>Wilton</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06897</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution provides direct financial relief and support services to thousands of disabled American veterans from the wars in Iraq and Afghanistan.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Covenant House</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>460 West 41st Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution provides the essential, life-saving services our kids will need to get off the streets for good.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Diskin Orphan Home</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1533 44th Street</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11219</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution used for the maintenance of kitchen, educational staff and building costs; to orphans and their families.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Federation of Protestant Welfare Ag</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>281 Park Avenue South</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution provides individual grants for emergency needs through its participation in the New York Times Neediest Cases fund.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Habitat for Humanity</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>111 John Street 23rd Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10038</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution used to purchase construction materials and supplies.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Hebrew Academy of Cleveland</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1860 South Taylor Road</AddressLine1Txt>
+            <CityNm>Cleveland Heights</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44118</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education of children, jewish awareness, general good doings of charity for those in need.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Helen Keller International</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>352 Park Avenue South 12th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution used to fight and treat preventable blindness and malnutrition.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Hillel</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 Eighth Street NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution used to enrich the lives of Jewish undergraduate and graduate students so that they may enrich the Jewish people and the world.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Humane Society of the United States</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2100 L Street NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution helps provide direct care for thousands of animals at our sanctuaries and rescue facilities, wildlife rehabilitation centers, and mobile veterinary clinics.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JBI International</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>110 East 30th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution used to provide Hebrew and Yiddish language materials for the blind.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>League of Women Voters</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1730 M Street NW Suite 1000</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution provides fundng for research, publications and forums on public policy issues and disseminates information and training that helps citizens be thoughtfully engaged in the democratic process.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Lifeline for the Old</RecipientPersonNm>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>PO Box 28</AddressLine1Txt>
+            <CityNm>Jerusalem</CityNm>
+            <ProvinceOrStateNm>Jerusalem</ProvinceOrStateNm>
+            <CountryCd>IS</CountryCd>
+            <ForeignPostalCd>91000</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution helps provide monthly bus passes that give the elderly access to all of Jerusalem.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Lighthouse International</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>111 East 59th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution used to provide critically needed vision and rehabilitation services to help people of all ages overcome the challenges of vision loss.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>March of Dimes</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1275 Mamaroneck Avenue</AddressLine1Txt>
+            <CityNm>White Plains</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10605</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution used to improve the health of babies by preventing birth defects and infant mortality.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Memorial Sloan Kettering Cancer Cen</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>650 Commack Road</AddressLine1Txt>
+            <CityNm>Commack</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11725</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution helps provide funding for Cancer research and treatment.</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Museum at Eldridge Street</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12 Eldridge Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Helps present the culture, history and traditions of the great wave of Jewish immigrants.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>National Jewish Health</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1400 Jackson Street</AddressLine1Txt>
+            <CityNm>Denver</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80206</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution used to heal, to discover and to educate as a preeminent health care institution.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>National Multiple Sclerosis Society</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>733 Third Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution provides funding cutting-edge research, driving change through advocacy, facilitating professional education, and providing programs and services that help people with MS.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>National Trust for Historic Preserv</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1785 Massachusetts Avenue NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Priv Foun</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution provides funding for leadership, education, advocacy, and resources to save America's diverse historic places and revitalize our communities.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Prostate Cancer Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1250 Fourth Street</AddressLine1Txt>
+            <CityNm>Santa Monica</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution used to fund prostate-cancer research.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Salvation Army</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>615 Slaters Lane PO Box 269</AddressLine1Txt>
+            <CityNm>Alexandria</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22313</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution helps feed starving children and families through recovery.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Simon Wiesenthal Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1399 South Roxbury Drive</AddressLine1Txt>
+            <CityNm>Los Angeles</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90035</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contributions used to promote human rights and dignity, stands with Israel, defends the safety of Jews worldwide.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Special Olympics</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1133 Nineteenth Street NW 12th Fl</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Provided funding for US Special Olympic team.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St Francis Hospital Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>490 Blue Hills Avenue</AddressLine1Txt>
+            <CityNm>Hartford</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Priv Foun</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution provides financial assistance for transportation, housing and day care needs during a newborns stay.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Suffolk County Police Athletic Leag</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>30 Yaphank Avenue</AddressLine1Txt>
+            <CityNm>Yaphank</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11980</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution helps build friendships between law enforcement officers and children within the community and is based on the conviction that young people.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Telshe Yeshiva</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>28400 Euclid Avenue</AddressLine1Txt>
+            <CityNm>Wickliffe</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44092</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education of children, jewish awareness, general good doings of charity for those in need.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Planetary Society</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>65 North Catalina Avenue</AddressLine1Txt>
+            <CityNm>Pasadena</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution funds education about public in space exploration through advocacy, projects, and education.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Vietnam Veterans Memorial Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2600 Virginia Ave NW Suite 104</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution used to promote healing and to educate about the impact of the Vietnam War.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Winthrop-University Hospital</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>259 1st Street</AddressLine1Txt>
+            <CityNm>Mineola</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donations used to fund patient care.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>World Jewish Congress</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 Madison Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donations used for political advocacy on behalf of nearly 100 member nations against the de-legitimization of Israel, burgeoning anti-Semitism and the increasing nuclear threat of Iran.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Jewish Academy of Suffolk County</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>178 Cedar Rd 1</AddressLine1Txt>
+            <CityNm>East Northport</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11731</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education of children, jewish awareness, general good doings of charity for those in need.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>B'nai B'rith International</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1120 20th Street NW Suite 300N</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>The education of children, Jewish awareness and general good doings of charity for those in need.</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Bikur Cholim</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>25 Robert Pitt Drive Suite 100</AddressLine1Txt>
+            <CityNm>Monsey</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10925</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donations used to fund patient care.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>North Shore Animal League America</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>25 Davis Avenue</AddressLine1Txt>
+            <CityNm>Port Washington</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11050</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To rescue, rehabilitate and promote adoption of animals.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>New York City Rescue Mission</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>90 Lafayette Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10013</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide food, shelter and clothing for the needy of NYC.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Feeding America</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>35 East Wacker Drive Suite 2000</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide food for the poor.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>House of Sages</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>283 East Broadway</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide social and welfare services to the poor in lower Manhattan.</GrantOrContributionPurposeTxt>
+          <Amt>75</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>First Step Addiction Recovery</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4579 Northgate Court</AddressLine1Txt>
+            <CityNm>Sarasota</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34234</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide addiction recovery and counseling services.</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Doctors Without Borders</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 7th Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide emergency medical care to victims of armed conflict world wide.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>National Center for Learning Disabi</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>381 Park Avenue South Suite 1401</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide help for people with learning disabilities.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Coalition for the Homeless</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>129 Fulton Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10038</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide food shelter clothing to the homeless.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HIAS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 Seventh Avenue 16th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To promote Jewish awareness and provide help to refugees to reunite families and build new lives.</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Jewish Foundation for the Righteous</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>305 Seventh Avenue 19th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide financial support to non-Jews who rescued Jews during the Holocaust and preserve their legacy through education.</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JUPITER MEDICAL CENTER FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1210 SOUTH OLD DIXIE HWY BLDG E1002</AddressLine1Txt>
+            <CityNm>JUPITER</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33458</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide medical aide</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LOGGERHEAD MARINELIFE CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>14200 US HWY 1</AddressLine1Txt>
+            <CityNm>JUNO BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33408</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide aide to marine life</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COUSTEAU SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4 EAST 27TH STREET PO BOX 20321</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide aid to marine life</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE JESTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 817</AddressLine1Txt>
+            <CityNm>PALOS VERDES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90274</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to aid in mission</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN RED CROSS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2025 EAST STREET NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to provide aid to disaster victims</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Macular Degeneration Found</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 515</AddressLine1Txt>
+            <CityNm>NORTHAMPTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to provide aid to vicitims of macular degeneration</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ANTI-DEFAMATION LEAGUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>605 3RD AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10158</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to support in fight atainst defamation</GrantOrContributionPurposeTxt>
+          <Amt>125</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BIRTHRIGH ISRAEL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>224 E 12TH ST</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10021</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to provide support to israel birthright</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DRUG POLICY ALLIANCE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>131 WEST 33RD ST 15TH FLOOR</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to fight drug abuse</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>46504</TotalGrantOrContriPdDurYrAmt>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>United Jewish Appeal</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 30 Old Chelsea Station</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10013</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Pub Char</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education of children, jewish awareness, general good doings of charity for those in need.</GrantOrContributionPurposeTxt>
+          <Amt>17750</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <TotalGrantOrContriApprvFutAmt>17750</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>5</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>33558</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>219353</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>33563</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>219353</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>252916</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>3900</Amt>
+        <NetInvestmentIncomeAmt>1560</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2340</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>1000 BLACKSTONE GROUP LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>30338</BookValueAmt>
+        <EOYFMVAmt>27440</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Furniture and Fixtures</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>7092</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>7092</AccumulatedDepreciationAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank service charges</Desc>
+        <RevenueAndExpensesPerBooksAmt>75</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>30</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>45</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Business Insurance</Desc>
+        <RevenueAndExpensesPerBooksAmt>2792</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1117</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1675</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Disability Insurance</Desc>
+        <RevenueAndExpensesPerBooksAmt>60</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>24</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>36</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Dues &amp; subscription</Desc>
+        <RevenueAndExpensesPerBooksAmt>1531</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>612</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>919</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EMA FEE - MERRILL LYNCH</Desc>
+        <RevenueAndExpensesPerBooksAmt>150</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>60</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>90</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>250</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>100</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>150</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office expense</Desc>
+        <RevenueAndExpensesPerBooksAmt>5607</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2243</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3364</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office supplies</Desc>
+        <RevenueAndExpensesPerBooksAmt>3272</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1309</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1963</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Payroll taxes</Desc>
+        <RevenueAndExpensesPerBooksAmt>2019</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>808</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1211</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Telephone</Desc>
+        <RevenueAndExpensesPerBooksAmt>2300</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>920</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1380</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Worker's Compensation</Desc>
+        <RevenueAndExpensesPerBooksAmt>603</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>241</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>362</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <CategoryTxt>Federal tax</CategoryTxt>
+        <Amt>891</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

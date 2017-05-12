@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-23T02:32:38-00:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>TRACIE L TEDRICK PA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3101 SAWGRASS VILLAGE CIRCLE</AddressLine1Txt>
+        <CityNm>PONTE VEDRA BEACH</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>32082</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>306313703</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE BENZ FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BENZ</BusinessNameControlTxt>
+      <PhoneNum>9042238709</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>675 BEACH AVENUE</AddressLine1Txt>
+        <CityNm>ATLANTIC BEACH</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>32233</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JAMES BENZ</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <SignatureDt>2016-08-23</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>TRACIE L TEDRICK</PreparerPersonNm>
+      <PhoneNum>9042735011</PhoneNum>
+      <PreparationDt>2016-08-23</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="990PF" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>218181</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>59395</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>11</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>11</InterestOnSavNetInvstIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>59406</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>11</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="990PF:76">740</AccountingFeesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>740</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>55953</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>55953</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>56693</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>55953</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>2713</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>11</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>87657</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>79929</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>79929</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>185640</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="990PF:89">194631</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>138252</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>273297</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>274560</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>218181</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>273297</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>274560</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>273297</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>274560</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>273297</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>274560</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>273297</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>2713</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>276010</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="990PF:133">1450</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>274560</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>45254</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsAmt>240181</NetVlNoncharitableAssetsAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>0</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>55953</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JAMES BENZ</IndividualWithBooksNm>
+        <PhoneNum>9042238709</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>675 BEACH AVENUE</AddressLine1Txt>
+          <CityNm>ATLANTIC BEACH</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>32233</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMES BENZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>675 BEACH AVE</AddressLine1Txt>
+            <CityNm>ATLANTIC BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32233</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>002.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CATHERINE BENZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>675 BEACH AVE</AddressLine1Txt>
+            <CityNm>ATLANTIC BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32233</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>002.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>243839</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>243839</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>243839</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt referenceDocumentId="990PF:177">3658</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>240181</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>12009</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>12009</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>12009</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>12009</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>12009</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt referenceDocumentId="990PF:178">55953</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>55953</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>55953</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>12009</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>33065</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>33065</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>55953</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>12009</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>43944</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>77009</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>77009</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>33065</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>43944</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>JAMES AND CATHERINE BENZ</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BAPTIST HEALTH FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>841 PRUDENTIAL DRIVE</AddressLine1Txt>
+            <CityNm>JACKSONVILLE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32207</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>20650</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIV OF TENNESSEE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1551 LAKELOUDOUN BLVD</AddressLine1Txt>
+            <CityNm>KNOXVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37996</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>28303</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PANCREATIC CANCER ACTION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1500 ROSECRANS AVE</AddressLine1Txt>
+            <CityNm>MANHATTAN BEACH</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90266</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALS ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 40244</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37204</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALZHEIMERS ASSOCATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2185 WEST ST RD 434</AddressLine1Txt>
+            <CityNm>LONGWOOD</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32779</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BEAM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>850 6TH AVE S</AddressLine1Txt>
+            <CityNm>JACKSONVILLE BCH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32250</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WOUNDED WARRIOR PROJECT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4899 BELFORT RD</AddressLine1Txt>
+            <CityNm>JACKSONVILLE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32256</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>55953</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>11</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>11</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>11</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="990B" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>JAMES AND CATHERINE BENZ</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>675 BEACH AVENUE</AddressLine1Txt>
+          <CityNm>ATLANTIC BEACH</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>32233</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>59395</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>1100 SHS GENESSEE WYOMING STOCK</NoncashPropertyDesc>
+        <FairMarketValueAmt>59395</FairMarketValueAmt>
+        <ReceivedDt>2015-12-30</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="990PF:76" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION</CategoryTxt>
+        <Amt>740</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GeneralExplanationAttachment documentId="990PF:123" softwareId="15000290" softwareVersionNum="15.3.0.0"></GeneralExplanationAttachment>
+    <InvestmentsCorpStockSchedule documentId="990PF:89" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2000 shares of GENESEE WYOMING</StockNm>
+        <EOYBookValueAmt>194631</EOYBookValueAmt>
+        <EOYFMVAmt>138252</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="990PF:133" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <OtherDecreasesDetail>
+        <Desc>DIFFERENCE IN BOOK VS FMV OF STOCK DONATED TO OTHER CHARITIES IN 2015</Desc>
+        <Amt>1450</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <TaxesSchedule documentId="990PF:78" softwareId="15000290" softwareVersionNum="15.3.0.0"></TaxesSchedule>
+  </ReturnData>
+</Return>

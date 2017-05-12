@@ -1,0 +1,716 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-15T17:25:17-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BKD LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>211 N ROBINSON AVE STE 600</AddressLine1Txt>
+        <CityNm>OKLAHOMA CITY</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>731029421</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>432065394</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>MASSEY FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% JOHN MASSEY</InCareOfNm>
+      <BusinessNameControlTxt>MASS</BusinessNameControlTxt>
+      <PhoneNum>5809242211</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1400 W MAIN ST</AddressLine1Txt>
+        <CityNm>DURANT</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>74701</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN MASSEY</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>5809242211</PhoneNum>
+      <SignatureDt>2016-05-11</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>TODD J PEFFERMAN</PreparerPersonNm>
+      <PTIN>P00425159</PTIN>
+      <PhoneNum>4056062580</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>7863776</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>2260282</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>5230</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>5230</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>109786</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>109786</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>13927</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>16595</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>13942</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">63650</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>2452875</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>128958</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">4079</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">4327</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>2326</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>8406</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>2326</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>326470</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>326470</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>334876</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>2326</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>326470</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>2117999</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>126632</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>1410006</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>3420471</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>3420471</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>254790</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvGovtObligSch">257328</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>255253</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>2443778</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">2726557</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>4188052</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>4108574</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>6404356</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>7863776</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>4108574</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>6404356</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>4108574</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6404356</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>4108574</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>6404356</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>4108574</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>2117999</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSch">177783</OtherIncreasesAmt>
+        <SubtotalAmt>6404356</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6404356</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIRST UNITED 142-000 LT NONCOVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>10546</GrossSalesPriceAmt>
+          <GainOrLossAmt>10546</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10546</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIRST UNITED 620-000 LT NONCOVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>5175</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2653</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2522</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2522</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIRST UNITED 140-000 ST NONCOVERED</PropertyDesc>
+          <GrossSalesPriceAmt>837</GrossSalesPriceAmt>
+          <GainOrLossAmt>837</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>837</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>0.8 SHARES OF COMMERCE BANCSHARES, INC.</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2015-12-14</SoldDt>
+          <GrossSalesPriceAmt>37</GrossSalesPriceAmt>
+          <GainOrLossAmt>37</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>37</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>13942</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>1518541</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>7413366</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.204838</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>336160</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>5449250</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.061689</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>431714</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>4891277</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.088262</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>245268</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>4773514</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.051381</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>173280</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>4112925</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.042131</DistributionYr5Rt>
+        <TotalDistributionRt>0.448301</TotalDistributionRt>
+        <AverageDistributionRt>0.08966</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>6745257</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>604780</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>1266</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>606046</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>326470</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2533</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2533</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2533</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>2935</EstimatedPlusOvpmtIncmTxAmt>
+        <AppliedToEsTaxAmt>5000</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>7935</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>5402</OverpaymentAmt>
+        <AppliedToESTaxAmt>4107</AppliedToESTaxAmt>
+        <RefundAmt>1295</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>true</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OK</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>JOHN MASSEY</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5809242211</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1400 W MAIN ST</AddressLine1Txt>
+          <CityNm>DURANT</CityNm>
+          <StateAbbreviationCd>OK</StateAbbreviationCd>
+          <ZIPCd>74701</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>true</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN L MASSEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1400 W MAIN ST</AddressLine1Txt>
+            <CityNm>DURANT</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74701</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GREGORY L MASSEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1400 W MAIN ST</AddressLine1Txt>
+            <CityNm>DURANT</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74701</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEVE BURRAGE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1400 W MAIN ST</AddressLine1Txt>
+            <CityNm>DURANT</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74701</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY FRANK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1400 W MAIN ST</AddressLine1Txt>
+            <CityNm>DURANT</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74701</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>4432741</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>2415236</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>6847977</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>6847977</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>102720</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>6745257</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>337263</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>337263</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2533</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2533</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>334730</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>334730</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>334730</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>326470</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>326470</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>326470</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>334730</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2013</PriorYear1Yr>
+        <PriorYear2Yr>2012</PriorYear2Yr>
+        <PriorYear3Yr>2011</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr4Amt>7443</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>188258</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>65353</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>1150341</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>1411395</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>326470</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>326470</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>8260</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>8260</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>1403135</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>1403135</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>187441</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>65353</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>1150341</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>JOHN MASSEY</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FIRST BAPTIST CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4824 WEST HWY 70</AddressLine1Txt>
+            <CityNm>DURANT</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NOT APPLICABLE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE DONATION</GrantOrContributionPurposeTxt>
+          <Amt>110000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SOSU FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1405 N 4TH PMB 4187</AddressLine1Txt>
+            <CityNm>DURANT</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NOT APPLICABLE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE DONATION</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FELLOWSHIP OF CHRISTIAN ATHLETES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8701 LEEDS ROAD</AddressLine1Txt>
+            <CityNm>KANSAS CITY</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>64129</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NOT APPLICABLE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WEST AFRICA FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3621 POTTSBORO ROAD 150</AddressLine1Txt>
+            <CityNm>DENISON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75020</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NOT APPLICABLE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OK HERITAGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1400 CLASSEN DRIVE</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NOT APPLICABLE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BAPTIST HOME FOR GIRLS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3800 NORTH MAY AVENUE</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NOT APPLICABLE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OSU FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>400 SOUTH MONROE</AddressLine1Txt>
+            <CityNm>STILLWATER</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74074</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NOT APPLICABLE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUILDING FUND</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DURANT PUBLIC SCHOOLS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>950 GERLACH DRIVE</AddressLine1Txt>
+            <CityNm>DURANT</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NOT APPLICABLE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PRIDE OF DURANT BOOSTER CLUB GENERAL BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>2720</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BOSWELL PUBLIC SCHOOLS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>604 SEVENTH STREET</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 839</AddressLine2Txt>
+            <CityNm>BOSWELL</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74727</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NOT APPLICABLE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BAPTIST GENERAL CONVENTION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2800 N MAY AVENUE</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NOT APPLICABLE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FALLS CREEK CAMP</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2800 NORTH MAY AVENUE</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NOT APPLICABLE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OKLAHOMA HISTORICAL SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 NAZIH ZUHDI DRIVE</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NOT APPLICABLE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>326470</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>5230</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>109786</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>13942</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER INCOME</Desc>
+          <BusinessCd>523920</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>964</UnrelatedBusinessTaxblIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>ONEOK PARTNERS</Desc>
+          <BusinessCd>523920</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>-2099</UnrelatedBusinessTaxblIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>INCOME TAX REFUNDS</Desc>
+          <BusinessCd>522100</BusinessCd>
+          <RelatedOrExemptFunctionIncmAmt>64785</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>-1135</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>128958</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>64785</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>192608</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>JOHN MICHAEL MASSEY</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO Box 130</AddressLine1Txt>
+          <CityNm>Durant</CityNm>
+          <StateAbbreviationCd>OK</StateAbbreviationCd>
+          <ZIPCd>747020130</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>600000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>GREG L MASSEY</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO Box 130</AddressLine1Txt>
+          <CityNm>Durant</CityNm>
+          <StateAbbreviationCd>OK</StateAbbreviationCd>
+          <ZIPCd>747020130</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>1075300</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>FIRST UNITED BANK TRUST CO</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 130</AddressLine1Txt>
+          <CityNm>DURANT</CityNm>
+          <StateAbbreviationCd>OK</StateAbbreviationCd>
+          <ZIPCd>747020130</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>584982</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BOKF STOCK</StockNm>
+        <EOYBookValueAmt>841767</EOYBookValueAmt>
+        <EOYFMVAmt>913484</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PENN WEST ENERGY STOCK</StockNm>
+        <EOYBookValueAmt>113515</EOYBookValueAmt>
+        <EOYFMVAmt>3901</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MUTUAL FUNDS</StockNm>
+        <EOYBookValueAmt>334036</EOYBookValueAmt>
+        <EOYFMVAmt>535598</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ONEOK STOCK</StockNm>
+        <EOYBookValueAmt>31358</EOYBookValueAmt>
+        <EOYFMVAmt>118676</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ONEOK PARTNERS STOCK</StockNm>
+        <EOYBookValueAmt>829</EOYBookValueAmt>
+        <EOYFMVAmt>57036</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CONTINENTAL STOCK</StockNm>
+        <EOYBookValueAmt>25000</EOYBookValueAmt>
+        <EOYFMVAmt>11720</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHURCH AND DWIGHT STOCK</StockNm>
+        <EOYBookValueAmt>21114</EOYBookValueAmt>
+        <EOYFMVAmt>28021</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JP MORGAN STOCK</StockNm>
+        <EOYBookValueAmt>150042</EOYBookValueAmt>
+        <EOYFMVAmt>189957</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COMMERCE STOCK</StockNm>
+        <EOYBookValueAmt>1208896</EOYBookValueAmt>
+        <EOYFMVAmt>2329659</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvGovtObligSch">
+      <USGovtObligationsBookVlEOYAmt>257328</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>255253</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADMINISTRATION FEES &amp; EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2326</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2326</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISC. EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2000</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>NON-DEDUCTIBLE K-1 EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>OTHER INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>964</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>ONEOK PARTNERS</Desc>
+        <RevenueAndExpensesPerBooksAmt>-2099</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>INCOME TAX REFUNDS</Desc>
+        <RevenueAndExpensesPerBooksAmt>64785</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSch">
+      <OtherIncreasesDetail>
+        <Desc>ASSET ACCOUNT CORRECTION (NO TAX EFFECT)</Desc>
+        <Amt>177783</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>INCOME TAXES</CategoryTxt>
+        <Amt>4079</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

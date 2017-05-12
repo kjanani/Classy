@@ -1,0 +1,3274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-14T07:22:27-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>041617630</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>MEYER REGAN &amp; WILNER LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>111 DURFEE STREET</AddressLine1Txt>
+        <CityNm>FALL RIVER</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>027202126</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>043442439</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THOMAS A RODGERS JR FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>THOM</BusinessNameControlTxt>
+      <PhoneNum>5086796452</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 2509</AddressLine1Txt>
+        <CityNm>FALL RIVER</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>02722</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>THOMAS A RODGERS IV</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <PhoneNum>5086796452</PhoneNum>
+      <SignatureDt>2016-09-14</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JAMES BJORGE</PreparerPersonNm>
+      <PTIN>P01213165</PTIN>
+      <PhoneNum>5086796451</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="13">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>28171651</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>829992</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>792613</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>130177</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>7541643</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>130177</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">3663</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>3663</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>963832</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>926453</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>93250</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>74000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>11694</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>0</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>0</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">90</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>90</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">28451</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>31732</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">1421</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>0</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>1421</OtherProfFeesDsbrsChrtblAmt>
+        <InterestRevAndExpnssAmt>10</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>10</InterestNetInvstIncmAmt>
+        <InterestDsbrsChrtblAmt>0</InterestDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">21647</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>7951</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <OccupancyRevAndExpnssAmt>12000</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>0</OccupancyNetInvstIncmAmt>
+        <OccupancyDsbrsChrtblAmt>12000</OccupancyDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">253457</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>243320</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>9887</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>422020</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>251281</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>129130</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1360300</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1360300</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1782320</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>251281</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1489430</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-818488</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>675172</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>852441</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>520309</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>520309</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>3489</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>3910</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>3910</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>1316617</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc2210400001">750866</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>750866</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>22441670</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">23684037</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>23684037</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>2684393</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2044400001">2115188</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>2115188</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>2571407</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">1097341</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1097341</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>29870017</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>28171651</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>28171651</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>26759</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>23478</AccountsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">12009</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">9898</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>38768</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>33376</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>29831249</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>28138275</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>29831249</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>28138275</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>29870017</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>28171651</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>29831249</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-818488</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>29012761</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">874486</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>28138275</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>7500583</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7411466</CostOrOtherBasisAmt>
+          <GainOrLossAmt>89117</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>89117</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>41060</GrossSalesPriceAmt>
+          <GainOrLossAmt>41060</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>41060</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>130177</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>1546164</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>30431169</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.050809</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>1525717</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>29430788</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.051841</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>1311235</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>26742788</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.049031</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>984041</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>26294309</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.037424</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>876622</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>23474596</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.037343</DistributionYr5Rt>
+        <TotalDistributionRt>0.226448</TotalDistributionRt>
+        <AverageDistributionRt>0.045290</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>29084181</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>1317223</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>6752</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>1323975</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>1489430</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>6752</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>6752</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>6752</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>10474</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>10474</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>3722</OverpaymentAmt>
+        <AppliedToESTaxAmt>3722</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>RI</OrgReportOrRegisterStateCd>
+        <OrgReportOrRegisterStateCd>MA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>NONE</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>THE FOUNDATION</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5086796452</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 2509 111 DURFEE ST</AddressLine1Txt>
+          <CityNm>FALL RIVER</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02722</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>1</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>THOMAS A RODGERS III DEC'D 11115</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1027 SEAPOWET AVENUE</AddressLine1Txt>
+            <CityNm>TIVERTON</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02878</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>19250</CompensationAmt>
+          <EmployeeBenefitProgramAmt>10446</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MYRON WILNER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>786 MADISON STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>20.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>74000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBERT STOICO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>907 RAYMOND CT</AddressLine1Txt>
+            <CityNm>MARCO ISLAND</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34145</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SARAH MCNEILL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 206</AddressLine1Txt>
+            <CityNm>NEWPORT</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02840</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>29065922</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>461165</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>29527087</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>29527087</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>442906</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>29084181</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1454209</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1454209</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>6752</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>6752</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1447457</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>1447457</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>1447457</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>1489430</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>1489430</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>6752</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>1482678</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1447457</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>1076940</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>1489430</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>1076940</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>412490</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>1034967</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>THOMAS A RODGERS III DEC'D 11115</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>THE RODGERS FAMILY FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>111 DURFEE STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02722</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5086796452</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>WRITTEN REQUEST STATING NATURE OF ORGANIZATION AND INTENDED USE OF FUNDS</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>A WISH COME TRUE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1010 WARWICK AVENUE</AddressLine1Txt>
+            <CityNm>WARWICK</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02888</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO GRANT A WISH IN THE GREATER FALL RIVER COMMUNITY</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN RED CROSS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>315 PLEASANT STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02723</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT IN GREATER FALL RIVER AREA</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BRISTOL COMMUNITY COLLEGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>777 ELSBREE STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>WRITING COMPUTER LABS</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CARE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>151 ELLIS ST NE</AddressLine1Txt>
+            <CityNm>ATLANTA</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CATHOLIC CHARITIES APPEAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1470</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02722</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CATHOLIC RELIEF SERVICES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>228 WEST LEXINGTRON STREET</AddressLine1Txt>
+            <CityNm>BALTIMORE</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHILD &amp; FAMILY SERVICES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>66 TROY STREET SUITE 4 5</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHRISTIAN APPALACHIAN PROJECT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 511</AddressLine1Txt>
+            <CityNm>LANCASTER</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>40444</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CITIZENS SCHOLARSHIP FUND AMERICAN DREAM CHALLENGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>624 FLORENCE STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DANA-FARBER CANCER INSTITUTE INC JIMMY FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 BROOKLINE PLACE WEST FL 6</AddressLine1Txt>
+            <CityNm>BROOKLINE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02445</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DIMAN BENGAL EDUCATION FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>251 STONEHAVEN ROAD</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02723</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RENOVATION OF SCIENCE DEPSRTMENTS PHYSICS LAB</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EASTER SEALS RHODE ISLAND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>213 ROBINSON ST</AddressLine1Txt>
+            <CityNm>WAKEFIELD</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02879</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT OF THE PEDIATRIC OUTPATIENT PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FALL RIVER HISTORICAL SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>451 ROCK STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STRUCTURAL MAINTENANCE AND LIBRARY AND ARCHIVES SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>45300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FAMILY SERVICE ASSOC OF GR F R</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>151 ROCK STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DEVELOPMENT OF FACILITIES IMPROVEMENT PROPOSAL-PHASE VIII</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GREATER FR ART ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>80 BELMONT STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUILDING IMPROVEMENTS</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GREATER FR COMMUNITY FOOD PANTRY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>78 BRAMBIE WAY</AddressLine1Txt>
+            <CityNm>TIVERTON</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02878</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GREATER FR SYMPHONY SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 9034</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HERALD NEWS CHRISTMAS FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>207 POCASSET ST</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOR BENEFIT OF PROGRAMS AT SALVATION ARMY AND CITIZENS FOR CITIZENS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOPE FUNDS FOR CANCER RESEARCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>226 BELLEVUE AVENUE</AddressLine1Txt>
+            <CityNm>NEWPORT</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02840</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOR CANCER RESEARCH FOR SUPPORT OF YOUNG SCIENTISTS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JUNIOR ACHIEVEMENT OF SOUTHERN MA INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>227 UNION ST SUITE 703</AddressLine1Txt>
+            <CityNm>NEW BEDFORD</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02740</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KATIE BROWN EDUCATIONAL PROGRAM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 PURCHASE ST SUITE 5</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT IN THE FALL RIVER AREA</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LITTLE FLOWER HOME INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>304 HOOPER STREET</AddressLine1Txt>
+            <CityNm>TIVERTON</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02878</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LLOYD CENTER FOR THE ENVIRONMENT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>430 POTOMSKA ROAD</AddressLine1Txt>
+            <CityNm>DARTMOUTH</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02748</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CLIMATE SCIENCE LEARNING PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MARINE MUSEUM OF FR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>70 WATER STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02721</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MEETING STREET SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 EDDY STREET</AddressLine1Txt>
+            <CityNm>PROVIDENCE</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02905</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NARRAGANSETT COUNCIL BOY SCOUTS OF AMERICA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 14777</AddressLine1Txt>
+            <CityNm>EAST PROVIDENCE</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02914</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCOUT REACH PROGRAM FOR THE FALL RIVER AREA</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NARROWS CENTER FOR THE ARTS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>16 ANAWAN STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02721</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIVITY PREPARATORY SCHOOL OF NEW BEDFORD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>66 SPRING STREET</AddressLine1Txt>
+            <CityNm>NEW BEDFORD</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02740</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SPONSORSHIPS FOR TWO STUDENTS AND A TEACHER AND THE GENERAL SUPPORT OF THE SCHOOL</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NAVAL WAR COLLEGE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>686 CUSHING ROAD</AddressLine1Txt>
+            <CityNm>NEWPORT</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02841</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEW BEDFORD'S WOMEN'S CENTER (OUR SISTERS PLACE)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 4236</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02723</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT FOR OUR SISTERS PLACE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEWPORT HOSPITAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11 FRIENDSHIP STREET</AddressLine1Txt>
+            <CityNm>NEWPORT</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02840</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NORMAN BIRD SANCTUARY TRUST</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>583 THIRD BEACH ROAD</AddressLine1Txt>
+            <CityNm>MIDDLETOWN</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02842</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OUR LADY OF GUADALUPE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2 ACHUSHNET AVE</AddressLine1Txt>
+            <CityNm>NEW BEDFORD</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02744</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ESOL PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PEOPLE INCORPORATED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4 SOUTH MAIN STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02721</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EARLY INTERVENTION FOR THE PHYSICALLY HANDICAPPED</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>POLICE ATHLETIC LEAGUE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>31 FRANKLIN STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PRIESTS RETIREMENT FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1697 E MAIN ROAD</AddressLine1Txt>
+            <CityNm>PORTSMOUTH</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02871</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PROJECT HOPE THE PEOPLE TO PEOPLE HEALTH FOUNDATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>255 CARTER HALL LANE</AddressLine1Txt>
+            <CityNm>MILLWOOD</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22646</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>R I COMMUNITY FOOD BANK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 NIANTIC AVENUE</AddressLine1Txt>
+            <CityNm>PROVIDENCE</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02907</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ROBERT POTTER LEAGUE FOR ANIMALS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 412</AddressLine1Txt>
+            <CityNm>NEWPORT</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02840</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ROMAN CATHOLIC BISHOP FALL RIVER ST VINCENT'S HOME CORPORATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2425 HIGHLAND AVENUE</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SALVATION ARMY-FALL RIVER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>290 BEDFORD STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02722</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT IN THE FALL RIVER AREA</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SALVE REGINA UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 OCHRE POINT AVENUE</AddressLine1Txt>
+            <CityNm>NEWPORT</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02840</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ESTABLISH A DOCTOR OF NURSING PRACTICE PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAN MIGUEL EDUCATION CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>525 BRANCH AVE</AddressLine1Txt>
+            <CityNm>PROVIDENCE</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02904</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAVE THE BAY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 BAY VIEW AVENUE</AddressLine1Txt>
+            <CityNm>PROVIDENCE</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02905</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EXPLORE THE BAY EDUCATION PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEAMENS CHURCH INSTITUTE OF NEWPORT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>18 MARKET SQUARE</AddressLine1Txt>
+            <CityNm>NEWPORT</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02840</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SOCIETY FOR HUMAN ADVANCEMENT THROUGH REHABILITATION ENGINEERING FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>UNIV OF MASSACHUSETTS DARTMOUTH</AddressLine1Txt>
+            <CityNm>DARTMOUTH</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02747</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SOUTHCOAST VISITING NURSES ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 MILL ROAD</AddressLine1Txt>
+            <CityNm>FAIRHAVEN</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02719</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT IN THE FALL RIVER AREA</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST MARY'S EDUCATON FUNDDIOCESE OF FALL RIVER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1470</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02722</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GRANT TO ST. MARY'S EDUCATION FUND TO BE APPLIED TO RESIDENTS OF THE GREATER FALL RIVER AREA</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST PHILOMENA SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>324 CORYS LANE</AddressLine1Txt>
+            <CityNm>PORTSMOUTH</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02871</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STEPPINGSTONE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>522 NORTH MAIN STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PURCHASE NEW DINING ROOM FURNITURE</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STRIVING ARTISTS THEATRE COMPANY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1311 BROUGHTON DRIVE</AddressLine1Txt>
+            <CityNm>BEVERLY</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01915</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TASHIRAT FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 920</AddressLine1Txt>
+            <CityNm>FORKED RIVER</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08731</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT TOWARD THE NEW SCHOOL</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE HOME FOR AGED IN FALL RIVER INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1168 HIGHLAND AVENUE</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>REHABILITATION CAPITAL CAMPAIGN</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THOMAS CHEW MEMORIAL BOYS AND GIRLS CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 5155</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02723</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOR THE RODGERS TEEN CENTER PROGRAM BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TIVERTON LAND TRUST</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 167</AddressLine1Txt>
+            <CityNm>TIVERTON</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02878</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNITED WAY OF GREATER FR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>84 NORTH MAIN STREET</AddressLine1Txt>
+            <CityNm>FALL RIVER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02720</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>125000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WESTPORT LAND CONSERVATION TRUST</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3975</AddressLine1Txt>
+            <CityNm>WESTPORT</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02790</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WESTPORT SHELLFISH GIFT FUND TOWN OF WESTPORT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>816 MAIN ROAD</AddressLine1Txt>
+            <CityNm>WESTPORT</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02790</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO BE USED FOR THE QUAHOG TRANSPLANT PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1360300</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>829992</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>3663</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>130177</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>963832</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>963832</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING &amp; ADMINISTRATIVE</CategoryTxt>
+        <Amt>28451</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>31732</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AIR LEASE CORP 3.375% CALLABLE 12/16/2018 @ 100.00 DUE 01/15/2019</BondNm>
+        <EOYBookValueAmt>35720</EOYBookValueAmt>
+        <EOYFMVAmt>35720</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMERICAN EXPRESS CREDIT</BondNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AUTOZONE INC 2.500% MATURES 04/15/21</BondNm>
+        <EOYBookValueAmt>29431</EOYBookValueAmt>
+        <EOYFMVAmt>29431</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANK OF AMERICA CORP 05/25/32</BondNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BOTTLING GROUP LLC 5.125% DUE 01/15/19</BondNm>
+        <EOYBookValueAmt>33567</EOYBookValueAmt>
+        <EOYFMVAmt>33567</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CITIGROUP INC 2.5% DUE 09/26/18</BondNm>
+        <EOYBookValueAmt>30459</EOYBookValueAmt>
+        <EOYFMVAmt>30459</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CVS HEALTH CORP 2.800% DUE 07/20/20</BondNm>
+        <EOYBookValueAmt>50851</EOYBookValueAmt>
+        <EOYFMVAmt>50851</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DIRECTV HOLDINGS/FING 3.950% DUE 01/15/25</BondNm>
+        <EOYBookValueAmt>60242</EOYBookValueAmt>
+        <EOYFMVAmt>60242</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ESC LEHMAN BROS HLDGS INC 6.625</BondNm>
+        <EOYBookValueAmt>2581</EOYBookValueAmt>
+        <EOYFMVAmt>2581</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ESC LEHMAN BROS HLDGS INC 8%</BondNm>
+        <EOYBookValueAmt>20808</EOYBookValueAmt>
+        <EOYFMVAmt>20808</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EUROPEAN BK RECON &amp; DEV 6.000% MATURES 03/03/16</BondNm>
+        <EOYBookValueAmt>5548</EOYBookValueAmt>
+        <EOYFMVAmt>5548</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FORD MOTOR CRED 3.984% DUE 06/15/2016 @ 100.00</BondNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL MOTORS FINL CO</BondNm>
+        <EOYBookValueAmt>75687</EOYBookValueAmt>
+        <EOYFMVAmt>75687</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HCP IN 6.7% MATURES 01/30/18</BondNm>
+        <EOYBookValueAmt>33459</EOYBookValueAmt>
+        <EOYFMVAmt>33459</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INT'L BANK FOR REC &amp; DEV 1.875% DUE 05/12/2016 @ 100.00</BondNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTER-AMERICAN DEVEL BK 6.0% 02-01-16</BondNm>
+        <EOYBookValueAmt>26522</EOYBookValueAmt>
+        <EOYFMVAmt>26522</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTERNL BANK FOR RECONSTRUCN &amp; 6.000% DUE 07/23/2015 @ 100.00</BondNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTL BANK FOR RECONSTRUCTION &amp; 4.625% DUE 11/17/2015 @ 100.00</BondNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTL BK RECON &amp; DEVELOP 4.000% MATURES 08/16/18 @ 100.00</BondNm>
+        <EOYBookValueAmt>14702</EOYBookValueAmt>
+        <EOYFMVAmt>14702</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>KELLOGG COMPANY 1.875% MATURES 11/17/16</BondNm>
+        <EOYBookValueAmt>35309</EOYBookValueAmt>
+        <EOYFMVAmt>35309</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LORILLARD TOBACC 2.300% DUE 08/21/2017 @ 100.00</BondNm>
+        <EOYBookValueAmt>76207</EOYBookValueAmt>
+        <EOYFMVAmt>76207</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>METHANEX CORP 3.250% MATURES 07/20/20</BondNm>
+        <EOYBookValueAmt>19115</EOYBookValueAmt>
+        <EOYFMVAmt>19115</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>METLIFE INC 6.817% MATURES 08/15/18</BondNm>
+        <EOYBookValueAmt>28798</EOYBookValueAmt>
+        <EOYFMVAmt>28798</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PENN VA CORP B/E 7.25%</BondNm>
+        <EOYBookValueAmt>13500</EOYBookValueAmt>
+        <EOYFMVAmt>13500</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PENNEY JC CORP INC 5.75%</BondNm>
+        <EOYBookValueAmt>275250</EOYBookValueAmt>
+        <EOYFMVAmt>275250</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PIONEER STRATEGIC INCOME-Y</BondNm>
+        <EOYBookValueAmt>453871</EOYBookValueAmt>
+        <EOYFMVAmt>453871</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>REGIONS FINL GLOBAL 2.000% CALLABLE 04/15/2018 @ 100.00 DUE 05/15/2018</BondNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>RYDER SYSTEMS INC 2.875% DUE 09/01/20</BondNm>
+        <EOYBookValueAmt>29941</EOYBookValueAmt>
+        <EOYFMVAmt>29941</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SLM CORP MTN BOOK 7.25% 11-01-16</BondNm>
+        <EOYBookValueAmt>620460</EOYBookValueAmt>
+        <EOYFMVAmt>620460</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SYNCHRONEY FINANCIAL 3.0% DUE 08/15/19</BondNm>
+        <EOYBookValueAmt>50498</EOYBookValueAmt>
+        <EOYFMVAmt>50498</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TCW EMERGING MARKETS INCOME CL I MF</BondNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TELEFONICA EMIS 3.992% DUE 02/16/2016 @ 100.00</BondNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>THE BOEING COMPANY 1.650% DUE 10/30/20</BondNm>
+        <EOYBookValueAmt>34351</EOYBookValueAmt>
+        <EOYFMVAmt>34351</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VALE OVERSEAS LIMITED 4.375% DYE 01/11/22</BondNm>
+        <EOYBookValueAmt>58311</EOYBookValueAmt>
+        <EOYFMVAmt>58311</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VALE OVERSEAS SR UNSGLOBAL 6.25%6.250% DUE 01/23/2017 @ 100.00</BondNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>3 M CO</StockNm>
+        <EOYBookValueAmt>26362</EOYBookValueAmt>
+        <EOYFMVAmt>26362</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ACCENTURE PLC IRELAND CL A (ACN)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ACE LTD (ACE)</StockNm>
+        <EOYBookValueAmt>33302</EOYBookValueAmt>
+        <EOYFMVAmt>33302</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ADVANCED SEMICNDCTR ENG SP ADR (ASX)</StockNm>
+        <EOYBookValueAmt>6543</EOYBookValueAmt>
+        <EOYFMVAmt>6543</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ADVANTAGE BANK DEPOSIT</StockNm>
+        <EOYBookValueAmt>314667</EOYBookValueAmt>
+        <EOYFMVAmt>314667</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AEROJET ROCKETDYNE HLDGS INC</StockNm>
+        <EOYBookValueAmt>15660</EOYBookValueAmt>
+        <EOYFMVAmt>15660</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AIA GROUP LTD, HONG (AAIGF)</StockNm>
+        <EOYBookValueAmt>8057</EOYBookValueAmt>
+        <EOYFMVAmt>8057</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALPHABET INC CL A (GOOGL)</StockNm>
+        <EOYBookValueAmt>105809</EOYBookValueAmt>
+        <EOYFMVAmt>105809</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALPINE TOTAL DYNAMIC DIVID FD COM</StockNm>
+        <EOYBookValueAmt>23808</EOYBookValueAmt>
+        <EOYFMVAmt>23808</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALTRIA GROUP INC (MO)</StockNm>
+        <EOYBookValueAmt>33762</EOYBookValueAmt>
+        <EOYFMVAmt>33762</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMBASE CORP</StockNm>
+        <EOYBookValueAmt>56000</EOYBookValueAmt>
+        <EOYFMVAmt>56000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMBEV S A SPONSORED ADR (ABEV)</StockNm>
+        <EOYBookValueAmt>2944</EOYBookValueAmt>
+        <EOYFMVAmt>2944</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMEC FOSTER WHEELER PLC SPONSORED ADR</StockNm>
+        <EOYBookValueAmt>32200</EOYBookValueAmt>
+        <EOYFMVAmt>32200</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMERICAN AIRLS GROUP INC</StockNm>
+        <EOYBookValueAmt>127050</EOYBookValueAmt>
+        <EOYFMVAmt>127050</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMERICAN BILTRITE INC</StockNm>
+        <EOYBookValueAmt>29704</EOYBookValueAmt>
+        <EOYFMVAmt>29704</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMERICAN EUROPACIFIC GROWTH F-2</StockNm>
+        <EOYBookValueAmt>527735</EOYBookValueAmt>
+        <EOYFMVAmt>527735</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMERICAN RLTY CAP PPTYS INC REIT</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMETEK INC NEW (AME)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AON PLC</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ARCELIK ANONIM SIRKETI ADR (ACKAY)</StockNm>
+        <EOYBookValueAmt>4244</EOYBookValueAmt>
+        <EOYFMVAmt>4244</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ASCENDAS INDIA TRUST (ACNDF)</StockNm>
+        <EOYBookValueAmt>4800</EOYBookValueAmt>
+        <EOYFMVAmt>4800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ASIAN PAY TELEVISI UNITS (APTTF)</StockNm>
+        <EOYBookValueAmt>2851</EOYBookValueAmt>
+        <EOYFMVAmt>2851</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ASSECO POLAND S.A. (ASOZF)</StockNm>
+        <EOYBookValueAmt>2877</EOYBookValueAmt>
+        <EOYFMVAmt>2877</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ASTRAZENECA PLC ADS (AZN)</StockNm>
+        <EOYBookValueAmt>20031</EOYBookValueAmt>
+        <EOYFMVAmt>20031</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AT&amp;T INC (T) 1,000</StockNm>
+        <EOYBookValueAmt>34410</EOYBookValueAmt>
+        <EOYFMVAmt>34410</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AT&amp;T INC (7,000)</StockNm>
+        <EOYBookValueAmt>309690</EOYBookValueAmt>
+        <EOYFMVAmt>309690</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AUTODESK INC DELAWARE (ADSK)</StockNm>
+        <EOYBookValueAmt>87435</EOYBookValueAmt>
+        <EOYFMVAmt>87435</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AXIATA GROUP BERHAD (AGBZZ)</StockNm>
+        <EOYBookValueAmt>1866</EOYBookValueAmt>
+        <EOYFMVAmt>1866</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BANK OF POLSKA KASA OPIEKI SHS (BKPKZ)</StockNm>
+        <EOYBookValueAmt>2907</EOYBookValueAmt>
+        <EOYFMVAmt>2907</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BAOXIN AUTO GROUP LIMITED (BAOXF)</StockNm>
+        <EOYBookValueAmt>4919</EOYBookValueAmt>
+        <EOYFMVAmt>4919</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BB&amp;T CORP DEP SHS REPSRT 1 5.625% 8/01/17</StockNm>
+        <EOYBookValueAmt>104437</EOYBookValueAmt>
+        <EOYFMVAmt>104437</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BCE INC NEW COM</StockNm>
+        <EOYBookValueAmt>24717</EOYBookValueAmt>
+        <EOYFMVAmt>24717</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BIDVEST (BDVSF)</StockNm>
+        <EOYBookValueAmt>4554</EOYBookValueAmt>
+        <EOYFMVAmt>4554</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BLACKROCK HI YIELD BD PTF INST (BHYIX)</StockNm>
+        <EOYBookValueAmt>363368</EOYBookValueAmt>
+        <EOYFMVAmt>363368</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BLACKROCK RES &amp; COMM STRAT TR CLOSED END</StockNm>
+        <EOYBookValueAmt>40321</EOYBookValueAmt>
+        <EOYFMVAmt>40321</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BOEING CO</StockNm>
+        <EOYBookValueAmt>16628</EOYBookValueAmt>
+        <EOYFMVAmt>16628</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BROOKLINE BANCORP</StockNm>
+        <EOYBookValueAmt>333500</EOYBookValueAmt>
+        <EOYFMVAmt>333500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CAMBRIDGE BANCORP</StockNm>
+        <EOYBookValueAmt>654120</EOYBookValueAmt>
+        <EOYFMVAmt>654120</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CARTER BK &amp; TR MARTINSVILLE VA</StockNm>
+        <EOYBookValueAmt>67500</EOYBookValueAmt>
+        <EOYFMVAmt>67500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CATHAY PACIFIC AIRWAYS HK.20 (CPCAF)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CELGENE CORP (CELG)</StockNm>
+        <EOYBookValueAmt>106347</EOYBookValueAmt>
+        <EOYFMVAmt>106347</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CELLDEX THERAPEUTICS INC NEW</StockNm>
+        <EOYBookValueAmt>15680</EOYBookValueAmt>
+        <EOYFMVAmt>15680</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CEMEX SAB DE CV SPON ADR</StockNm>
+        <EOYBookValueAmt>86892</EOYBookValueAmt>
+        <EOYFMVAmt>86892</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHEMUNG FINANCIAL CORP</StockNm>
+        <EOYBookValueAmt>357500</EOYBookValueAmt>
+        <EOYFMVAmt>357500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHEVRON CORPORATION</StockNm>
+        <EOYBookValueAmt>34635</EOYBookValueAmt>
+        <EOYFMVAmt>34635</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHINA EVERBRIGHT LTD HKD 1 ORD (CEVIF)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHINA MERCHANTS HLDGS INTL ORD (CMHHF)</StockNm>
+        <EOYBookValueAmt>4055</EOYBookValueAmt>
+        <EOYFMVAmt>4055</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHINA MOBILE LTD (CHL)</StockNm>
+        <EOYBookValueAmt>4506</EOYBookValueAmt>
+        <EOYFMVAmt>4506</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CISCO SYSTEMS INC</StockNm>
+        <EOYBookValueAmt>31228</EOYBookValueAmt>
+        <EOYFMVAmt>31228</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CIT GROUP INC COM NEW 8,000</StockNm>
+        <EOYBookValueAmt>317600</EOYBookValueAmt>
+        <EOYFMVAmt>317600</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CITIGROUP INC COM NEW 2,000</StockNm>
+        <EOYBookValueAmt>103500</EOYBookValueAmt>
+        <EOYFMVAmt>103500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CITIZENS FINL GROUP INC</StockNm>
+        <EOYBookValueAmt>52380</EOYBookValueAmt>
+        <EOYFMVAmt>52380</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CK HUTCHISON HLDGS LTD (CKHUF)</StockNm>
+        <EOYBookValueAmt>2564</EOYBookValueAmt>
+        <EOYFMVAmt>2564</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CLIFTON BANCORP INC</StockNm>
+        <EOYBookValueAmt>143400</EOYBookValueAmt>
+        <EOYFMVAmt>143400</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CNB FINANCIAL CORP PENNSYLVANIA</StockNm>
+        <EOYBookValueAmt>180300</EOYBookValueAmt>
+        <EOYFMVAmt>180300</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CNOOC LTD (CEHOHF)</StockNm>
+        <EOYBookValueAmt>3176</EOYBookValueAmt>
+        <EOYFMVAmt>3176</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CNOOC LTD ADS (CEO)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COLUMBIA ACORN EMERGING MKTS Z (CEFXZ)</StockNm>
+        <EOYBookValueAmt>144694</EOYBookValueAmt>
+        <EOYFMVAmt>144694</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CONOCOPHILLIPS</StockNm>
+        <EOYBookValueAmt>29181</EOYBookValueAmt>
+        <EOYFMVAmt>29181</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORNING INC (GLW)</StockNm>
+        <EOYBookValueAmt>10785</EOYBookValueAmt>
+        <EOYFMVAmt>10785</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COVANTA HLDG CORP.</StockNm>
+        <EOYBookValueAmt>46470</EOYBookValueAmt>
+        <EOYFMVAmt>46470</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CRIMSON WINE GROUP LTD</StockNm>
+        <EOYBookValueAmt>140800</EOYBookValueAmt>
+        <EOYFMVAmt>140800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DANAHER CORPORATION (DHR)</StockNm>
+        <EOYBookValueAmt>49969</EOYBookValueAmt>
+        <EOYFMVAmt>49969</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DELPHI AUTOMOTIVE PLC (DLPH)</StockNm>
+        <EOYBookValueAmt>63783</EOYBookValueAmt>
+        <EOYFMVAmt>63783</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DIAGEO PLC SPONS ADR NEW</StockNm>
+        <EOYBookValueAmt>26177</EOYBookValueAmt>
+        <EOYFMVAmt>26177</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DIAMOND OFFSHORE DRILLING INC COM</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DU PONT E I DENEMOURS &amp; CO</StockNm>
+        <EOYBookValueAmt>35298</EOYBookValueAmt>
+        <EOYFMVAmt>35298</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DUNKIN BRANDS GROUP INC</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EATON VANCE LTD DURATION INCOME FD</StockNm>
+        <EOYBookValueAmt>127600</EOYBookValueAmt>
+        <EOYFMVAmt>127600</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EATON VANCE RISK MNGD DIV EQTY</StockNm>
+        <EOYBookValueAmt>81280</EOYBookValueAmt>
+        <EOYFMVAmt>81280</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EATON VANCE SR FLTG RATE FD (EFR)</StockNm>
+        <EOYBookValueAmt>277885</EOYBookValueAmt>
+        <EOYFMVAmt>277885</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EATON VANCE TAX MNG GLB DV EQT</StockNm>
+        <EOYBookValueAmt>66375</EOYBookValueAmt>
+        <EOYFMVAmt>66375</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EATON VANCE TX MGD DIV EQ INCM</StockNm>
+        <EOYBookValueAmt>112000</EOYBookValueAmt>
+        <EOYFMVAmt>112000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ELBIT SYSTEMS LTD (ESLT)</StockNm>
+        <EOYBookValueAmt>8833</EOYBookValueAmt>
+        <EOYFMVAmt>8833</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ELI LILLY &amp; CO</StockNm>
+        <EOYBookValueAmt>22750</EOYBookValueAmt>
+        <EOYFMVAmt>22750</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ERSTE GROUP BANK AG ORD (EBKOF)</StockNm>
+        <EOYBookValueAmt>7851</EOYBookValueAmt>
+        <EOYFMVAmt>7851</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ESCALERA RES CO</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EXXON MOBIL CORP (XOM)</StockNm>
+        <EOYBookValueAmt>21047</EOYBookValueAmt>
+        <EOYFMVAmt>21047</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FACEBOOK INC CL-A (FB)</StockNm>
+        <EOYBookValueAmt>96078</EOYBookValueAmt>
+        <EOYFMVAmt>96078</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIBRA UNO ADMINISTRACION SA (FBASF)</StockNm>
+        <EOYBookValueAmt>5024</EOYBookValueAmt>
+        <EOYFMVAmt>5024</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY FLOATING RATE H/INC</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIFTH STR FIN CORP 6.125% 4/30/28</StockNm>
+        <EOYBookValueAmt>95080</EOYBookValueAmt>
+        <EOYFMVAmt>95080</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FINANCIAL INSTITUTIONS INC</StockNm>
+        <EOYBookValueAmt>840000</EOYBookValueAmt>
+        <EOYFMVAmt>840000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIRST EAGLE FUNDS INC OVERSEAS FD CL I</StockNm>
+        <EOYBookValueAmt>559870</EOYBookValueAmt>
+        <EOYFMVAmt>559870</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FORD OTOMOTIV SANAYI A S ADR (FOVSY)</StockNm>
+        <EOYBookValueAmt>5460</EOYBookValueAmt>
+        <EOYFMVAmt>5460</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GENERAL ELECTRIC CO</StockNm>
+        <EOYBookValueAmt>36757</EOYBookValueAmt>
+        <EOYFMVAmt>36757</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GENERAL ELECTRIC CO 5,061</StockNm>
+        <EOYBookValueAmt>157650</EOYBookValueAmt>
+        <EOYFMVAmt>157650</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GENERAL MTRS CO</StockNm>
+        <EOYBookValueAmt>204060</EOYBookValueAmt>
+        <EOYFMVAmt>204060</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GENUINE PARTS CO COM</StockNm>
+        <EOYBookValueAmt>27914</EOYBookValueAmt>
+        <EOYFMVAmt>27914</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GOLDMAN SACHS LOC EMG MK-I</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GREAT WALL MOTOR COMPANY SHS H (GWLLF)</StockNm>
+        <EOYBookValueAmt>2377</EOYBookValueAmt>
+        <EOYFMVAmt>2377</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GREATVIEW ASEPTIC PACKAGING (GRVWF)</StockNm>
+        <EOYBookValueAmt>3093</EOYBookValueAmt>
+        <EOYFMVAmt>3093</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GRUPO FIN SANTANDER-ADR B (BSMX)</StockNm>
+        <EOYBookValueAmt>2341</EOYBookValueAmt>
+        <EOYFMVAmt>2341</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GSV CAP CORP</StockNm>
+        <EOYBookValueAmt>74960</EOYBookValueAmt>
+        <EOYFMVAmt>74960</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HALYARD HEALTH INC (HYH)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HANGER INC COM NEW</StockNm>
+        <EOYBookValueAmt>41125</EOYBookValueAmt>
+        <EOYFMVAmt>41125</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HCP INC REIT</StockNm>
+        <EOYBookValueAmt>28106</EOYBookValueAmt>
+        <EOYFMVAmt>28106</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HEALTH CARE REIT INC COM</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HELLENIC TELECOM ORG S A (HLTOF)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HERCULES TECH GROWTH CAP INC</StockNm>
+        <EOYBookValueAmt>121900</EOYBookValueAmt>
+        <EOYFMVAmt>121900</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HIMAX TECHNOLOGIES INC SPONSORED ADR</StockNm>
+        <EOYBookValueAmt>16400</EOYBookValueAmt>
+        <EOYFMVAmt>16400</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HOLOGIC INC (HOLX)</StockNm>
+        <EOYBookValueAmt>72621</EOYBookValueAmt>
+        <EOYFMVAmt>72621</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HOMEFED CORP</StockNm>
+        <EOYBookValueAmt>187275</EOYBookValueAmt>
+        <EOYFMVAmt>187275</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HOSPIRA INC (HSP)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HOSPITALITY PROPERTIES REIT TRUST</StockNm>
+        <EOYBookValueAmt>130750</EOYBookValueAmt>
+        <EOYFMVAmt>130750</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HPC MILLENNIUM INTL LTD CL D</StockNm>
+        <EOYBookValueAmt>290392</EOYBookValueAmt>
+        <EOYFMVAmt>290392</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HPC TRICADIA CS II CL D</StockNm>
+        <EOYBookValueAmt>183556</EOYBookValueAmt>
+        <EOYFMVAmt>183556</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HSBC HOLDINGS PLC ADR</StockNm>
+        <EOYBookValueAmt>22498</EOYBookValueAmt>
+        <EOYFMVAmt>22498</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HUTCHISON PORT HOLDINGS (HCTPF)</StockNm>
+        <EOYBookValueAmt>3525</EOYBookValueAmt>
+        <EOYFMVAmt>3525</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ICICI BANK LTD (IBN)</StockNm>
+        <EOYBookValueAmt>7125</EOYBookValueAmt>
+        <EOYFMVAmt>7125</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IMS HEALTH HOLDINGS INC (IMS)</StockNm>
+        <EOYBookValueAmt>72972</EOYBookValueAmt>
+        <EOYFMVAmt>72972</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INDUSTRIAS PENOLES SA (IPOAF)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INTEL CORP</StockNm>
+        <EOYBookValueAmt>22565</EOYBookValueAmt>
+        <EOYFMVAmt>22565</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INTOUCH HLDGS PUB CO LTD (SHNVF)</StockNm>
+        <EOYBookValueAmt>1734</EOYBookValueAmt>
+        <EOYFMVAmt>1734</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESTORS HERITAGE CAP CORP</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IPG PHOTONICS CORP</StockNm>
+        <EOYBookValueAmt>89160</EOYBookValueAmt>
+        <EOYFMVAmt>89160</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES COHEN &amp; STEERS REALTY</StockNm>
+        <EOYBookValueAmt>104202</EOYBookValueAmt>
+        <EOYFMVAmt>104202</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES MSCI EAFE ETF (EFA)</StockNm>
+        <EOYBookValueAmt>251674</EOYBookValueAmt>
+        <EOYFMVAmt>251674</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES MSCI JAPAN ETF (EWJ)</StockNm>
+        <EOYBookValueAmt>231431</EOYBookValueAmt>
+        <EOYFMVAmt>231431</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES MSCI SOUTHKOREA CP ETF (EWY)</StockNm>
+        <EOYBookValueAmt>7947</EOYBookValueAmt>
+        <EOYFMVAmt>7947</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES RUSSELL 1000 VALUE</StockNm>
+        <EOYBookValueAmt>729546</EOYBookValueAmt>
+        <EOYFMVAmt>729546</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES RUSSELL 2000 INDEX FUND</StockNm>
+        <EOYBookValueAmt>144717</EOYBookValueAmt>
+        <EOYFMVAmt>144717</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES RUSSELL MIDCAP ETF</StockNm>
+        <EOYBookValueAmt>408459</EOYBookValueAmt>
+        <EOYFMVAmt>408459</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES RUSSELL MIDCAP INDEX FUND</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES S&amp;P PREF STK</StockNm>
+        <EOYBookValueAmt>202797</EOYBookValueAmt>
+        <EOYFMVAmt>202797</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES TR RUSSELL 1000 GROWTH INDEX</StockNm>
+        <EOYBookValueAmt>733168</EOYBookValueAmt>
+        <EOYFMVAmt>733168</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOHNSON &amp; JOHNSON</StockNm>
+        <EOYBookValueAmt>36979</EOYBookValueAmt>
+        <EOYFMVAmt>36979</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JONES LANG LASALLE INC (JLL)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JPMORGAN CHASE &amp; CO</StockNm>
+        <EOYBookValueAmt>34005</EOYBookValueAmt>
+        <EOYFMVAmt>34005</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JSC MMC NORILSK NICKEL ADR (NILSY)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KIMBERLY CLARK CORP</StockNm>
+        <EOYBookValueAmt>29279</EOYBookValueAmt>
+        <EOYFMVAmt>29279</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KINDER MORGAN INCORP (KMI)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KOMERCNI BANKA A S (KMERF)</StockNm>
+        <EOYBookValueAmt>5970</EOYBookValueAmt>
+        <EOYFMVAmt>5970</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KOREA EQUITY FD INC</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LENOVO GROUP LIMITID HKD.025 (LNVGF)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MADISON SQUARE GARDEN CL A (MSG)</StockNm>
+        <EOYBookValueAmt>47246</EOYBookValueAmt>
+        <EOYFMVAmt>47246</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MAJOR CINEPLEX GRP PUB CO LTD (MCGRF)</StockNm>
+        <EOYBookValueAmt>3125</EOYBookValueAmt>
+        <EOYFMVAmt>3125</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MANKIND CORP</StockNm>
+        <EOYBookValueAmt>10875</EOYBookValueAmt>
+        <EOYFMVAmt>10875</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MARKWEST ENGY PTNRS LP (MWE)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MATTHEWS ASIA DIVIDEND INV</StockNm>
+        <EOYBookValueAmt>270038</EOYBookValueAmt>
+        <EOYFMVAmt>270038</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MEDICAL PPTYS TRUST INC REIT</StockNm>
+        <EOYBookValueAmt>115100</EOYBookValueAmt>
+        <EOYFMVAmt>115100</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MERCK &amp; CO INC NEW 4,300</StockNm>
+        <EOYBookValueAmt>227126</EOYBookValueAmt>
+        <EOYFMVAmt>227126</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MERCK &amp; CO INC NEW COM (MRK)</StockNm>
+        <EOYBookValueAmt>32220</EOYBookValueAmt>
+        <EOYFMVAmt>32220</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>METLIFE INC</StockNm>
+        <EOYBookValueAmt>26274</EOYBookValueAmt>
+        <EOYFMVAmt>26274</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MICROSOFT CORP</StockNm>
+        <EOYBookValueAmt>34675</EOYBookValueAmt>
+        <EOYFMVAmt>34675</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MIDDLESEX WATER COMPANY</StockNm>
+        <EOYBookValueAmt>530800</EOYBookValueAmt>
+        <EOYFMVAmt>530800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MMC NORILSK NICKL PJSC SPS ADR (NILSY)</StockNm>
+        <EOYBookValueAmt>2920</EOYBookValueAmt>
+        <EOYFMVAmt>2920</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MMI HOLDINGS LTD (MMKKZ)</StockNm>
+        <EOYBookValueAmt>1682</EOYBookValueAmt>
+        <EOYFMVAmt>1682</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MOBILE TELESYSTEMS PJSC (MBT)</StockNm>
+        <EOYBookValueAmt>2039</EOYBookValueAmt>
+        <EOYFMVAmt>2039</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MONARCH CEM CO</StockNm>
+        <EOYBookValueAmt>67255</EOYBookValueAmt>
+        <EOYFMVAmt>67255</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MONDELEZ INTL INC</StockNm>
+        <EOYBookValueAmt>44840</EOYBookValueAmt>
+        <EOYFMVAmt>44840</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MPLX LP COM UNIT REP LTD (MPLX)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MTN GROUP LTD (MTNOF)</StockNm>
+        <EOYBookValueAmt>1801</EOYBookValueAmt>
+        <EOYFMVAmt>1801</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MUELLER WTR PRODS INC COM</StockNm>
+        <EOYBookValueAmt>64500</EOYBookValueAmt>
+        <EOYFMVAmt>64500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MYLAN N V SHS EURO</StockNm>
+        <EOYBookValueAmt>108140</EOYBookValueAmt>
+        <EOYFMVAmt>108140</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NAGCORP LTD (NGCRF)</StockNm>
+        <EOYBookValueAmt>3793</EOYBookValueAmt>
+        <EOYFMVAmt>3793</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NAMPAK LTD (NPKAF)</StockNm>
+        <EOYBookValueAmt>3031</EOYBookValueAmt>
+        <EOYFMVAmt>3031</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NAUGATUCK VY FINL CORP</StockNm>
+        <EOYBookValueAmt>32850</EOYBookValueAmt>
+        <EOYFMVAmt>32850</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NAVIOS MARITIME HOLDINGS</StockNm>
+        <EOYBookValueAmt>17500</EOYBookValueAmt>
+        <EOYFMVAmt>17500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NESTLES S A SPONSORED ARD</StockNm>
+        <EOYBookValueAmt>74420</EOYBookValueAmt>
+        <EOYFMVAmt>74420</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NEW MTN FIN CORP</StockNm>
+        <EOYBookValueAmt>65100</EOYBookValueAmt>
+        <EOYFMVAmt>65100</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NEXTERA ENERGY INC COM</StockNm>
+        <EOYBookValueAmt>34284</EOYBookValueAmt>
+        <EOYFMVAmt>34284</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NIELSEN HOLDINGS NV</StockNm>
+        <EOYBookValueAmt>75073</EOYBookValueAmt>
+        <EOYFMVAmt>75073</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NIMBLE STORAGE INC</StockNm>
+        <EOYBookValueAmt>36800</EOYBookValueAmt>
+        <EOYFMVAmt>36800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NUVEEN BUILD AMER BD FD COM SHS</StockNm>
+        <EOYBookValueAmt>200900</EOYBookValueAmt>
+        <EOYFMVAmt>200900</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NUVEEN CR STRATEGIES INCM FD</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>OFS CAP CORP</StockNm>
+        <EOYBookValueAmt>45920</EOYBookValueAmt>
+        <EOYFMVAmt>45920</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>OPAP SA (GRKZF)</StockNm>
+        <EOYBookValueAmt>3872</EOYBookValueAmt>
+        <EOYFMVAmt>3872</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PACIFIC RUBIALES ENERGY CO NEW (PEGFF)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PEOPLES UNITED FINANCIAL INC</StockNm>
+        <EOYBookValueAmt>492575</EOYBookValueAmt>
+        <EOYFMVAmt>492575</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PERRIGO CO</StockNm>
+        <EOYBookValueAmt>202580</EOYBookValueAmt>
+        <EOYFMVAmt>202580</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PETROCHINA CO LTD ADR (PTR)</StockNm>
+        <EOYBookValueAmt>1312</EOYBookValueAmt>
+        <EOYFMVAmt>1312</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PFIZER INC</StockNm>
+        <EOYBookValueAmt>31312</EOYBookValueAmt>
+        <EOYFMVAmt>31312</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PFIZER INC 8,800</StockNm>
+        <EOYBookValueAmt>284064</EOYBookValueAmt>
+        <EOYFMVAmt>284064</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PHILIP MORRIS INTL</StockNm>
+        <EOYBookValueAmt>32966</EOYBookValueAmt>
+        <EOYFMVAmt>32966</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PHILIPPINE LG DIST TEL SPN ADR (PHI)</StockNm>
+        <EOYBookValueAmt>1069</EOYBookValueAmt>
+        <EOYFMVAmt>1069</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PING AN INSURANCE GP CO-H ORD (PIAIF)</StockNm>
+        <EOYBookValueAmt>3440</EOYBookValueAmt>
+        <EOYFMVAmt>3440</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PJSC LUKOIL SPONSORED ADR (LUKOY)</StockNm>
+        <EOYBookValueAmt>3249</EOYBookValueAmt>
+        <EOYFMVAmt>3249</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>POWERSZECHNY ZAKLAD UBEZPIECZEN (PZUPZ)</StockNm>
+        <EOYBookValueAmt>1723</EOYBookValueAmt>
+        <EOYFMVAmt>1723</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PREMIER FINANCIAL BANCORP</StockNm>
+        <EOYBookValueAmt>641160</EOYBookValueAmt>
+        <EOYFMVAmt>641160</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PROTHENA CORP PLC</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PRUDENTIAL GLB SHT DUR HG YLD CLOSED END</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PT GUDANG GARAM IDR 500 (GGNPF)</StockNm>
+        <EOYBookValueAmt>5027</EOYBookValueAmt>
+        <EOYFMVAmt>5027</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PT PERUSAHAAN GAS NEGARA (PPAAF)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PT TELEKOMUNIKASI INDONESIA (TLK)</StockNm>
+        <EOYBookValueAmt>3774</EOYBookValueAmt>
+        <EOYFMVAmt>3774</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RAYONIER ADVANCED MATLS INC</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RAYONIER INC REIT</StockNm>
+        <EOYBookValueAmt>111000</EOYBookValueAmt>
+        <EOYFMVAmt>111000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RAYTHEON COMPANY</StockNm>
+        <EOYBookValueAmt>35491</EOYBookValueAmt>
+        <EOYFMVAmt>35491</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RELIGARE HEALTH TR (RLGHF)</StockNm>
+        <EOYBookValueAmt>6584</EOYBookValueAmt>
+        <EOYFMVAmt>6584</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RE OPP CAP INTL FUND II LP</StockNm>
+        <EOYBookValueAmt>543512</EOYBookValueAmt>
+        <EOYFMVAmt>543512</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RESOURCE CAP CORP REIT</StockNm>
+        <EOYBookValueAmt>47850</EOYBookValueAmt>
+        <EOYFMVAmt>47850</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RIVERVIEW GLBL MACRO (CAY)</StockNm>
+        <EOYBookValueAmt>249962</EOYBookValueAmt>
+        <EOYFMVAmt>249962</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RIVERVIEW STRAT OPP I OFF</StockNm>
+        <EOYBookValueAmt>315783</EOYBookValueAmt>
+        <EOYFMVAmt>315783</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RIVERVIEW STRAT OPP I OFF CPV</StockNm>
+        <EOYBookValueAmt>100232</EOYBookValueAmt>
+        <EOYFMVAmt>100232</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RMR GROUP INC CL A</StockNm>
+        <EOYBookValueAmt>1196</EOYBookValueAmt>
+        <EOYFMVAmt>1196</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ROBERT HALF INT (RHI)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ROYAL DUTCH SHELL PLC CL B (RDS'B)</StockNm>
+        <EOYBookValueAmt>26703</EOYBookValueAmt>
+        <EOYFMVAmt>26703</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SABMILLER PLC (SBMRF)</StockNm>
+        <EOYBookValueAmt>3599</EOYBookValueAmt>
+        <EOYFMVAmt>3599</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SAMSUNG ELECTRS LTD</StockNm>
+        <EOYBookValueAmt>53729</EOYBookValueAmt>
+        <EOYFMVAmt>53729</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SANDS CHINA LTD (SCHYF)</StockNm>
+        <EOYBookValueAmt>3597</EOYBookValueAmt>
+        <EOYFMVAmt>3597</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SBT BANCORP INC</StockNm>
+        <EOYBookValueAmt>399735</EOYBookValueAmt>
+        <EOYFMVAmt>399735</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SCHLUMBERGER LTD</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SCRIPPS NETWORKS INTERAC CL A (SNI)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEARS ROEBUCK ACCEP CORP NT 7% 7/15/42</StockNm>
+        <EOYBookValueAmt>16450</EOYBookValueAmt>
+        <EOYFMVAmt>16450</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEI DAILY INCOME TR MM PORT #32</StockNm>
+        <EOYBookValueAmt>252089</EOYBookValueAmt>
+        <EOYFMVAmt>252089</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEI SIMT HIGH YIELD BOND CL A 59</StockNm>
+        <EOYBookValueAmt>25076</EOYBookValueAmt>
+        <EOYFMVAmt>25076</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SENSATA TECHNOLOGIES HLDG NV</StockNm>
+        <EOYBookValueAmt>46060</EOYBookValueAmt>
+        <EOYFMVAmt>46060</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SHELL MIDSTREAM PARTNERS LP (SHLX)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SHERWIN WILLIAMS CO</StockNm>
+        <EOYBookValueAmt>51920</EOYBookValueAmt>
+        <EOYFMVAmt>51920</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SI FINL GROUP INC</StockNm>
+        <EOYBookValueAmt>409500</EOYBookValueAmt>
+        <EOYFMVAmt>409500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SILICON MOTION TECH CORP ADR (SIMO)</StockNm>
+        <EOYBookValueAmt>1882</EOYBookValueAmt>
+        <EOYFMVAmt>1882</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SILICON PREC IND LTD SP ADR (SPIL)</StockNm>
+        <EOYBookValueAmt>1263</EOYBookValueAmt>
+        <EOYFMVAmt>1263</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SINGAPORE AIRPORT TERMINAL (SPASF)</StockNm>
+        <EOYBookValueAmt>3936</EOYBookValueAmt>
+        <EOYFMVAmt>3936</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SJM HOLDINGS LIMITED (SJMHF)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR BARCAP SHRT TERM HI YIELD (SJNK)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR BARCLAYS S/T HIGH YIELD BD ETF</StockNm>
+        <EOYBookValueAmt>100962</EOYBookValueAmt>
+        <EOYFMVAmt>100962</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR DB INTL GOV INFL-PROT</StockNm>
+        <EOYBookValueAmt>49856</EOYBookValueAmt>
+        <EOYFMVAmt>49856</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR DJ WILSHIRE INTL REAL ESTATE</StockNm>
+        <EOYBookValueAmt>45379</EOYBookValueAmt>
+        <EOYFMVAmt>45379</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR S&amp;P INTER DVD</StockNm>
+        <EOYBookValueAmt>101081</EOYBookValueAmt>
+        <EOYFMVAmt>101081</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPRD GOLD TR GOLD SHS (GLD)</StockNm>
+        <EOYBookValueAmt>55600</EOYBookValueAmt>
+        <EOYFMVAmt>55600</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STANLEY BLACK &amp; DECKER INC</StockNm>
+        <EOYBookValueAmt>50590</EOYBookValueAmt>
+        <EOYFMVAmt>50590</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STATE STR CORP DEP SHS REPSRT1 5.25% 12/31/49</StockNm>
+        <EOYBookValueAmt>52400</EOYBookValueAmt>
+        <EOYFMVAmt>52400</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STERICYCLE INC (SRCL)</StockNm>
+        <EOYBookValueAmt>64039</EOYBookValueAmt>
+        <EOYFMVAmt>64039</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SUNNY OPTICAL TECH (SNPTF)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SUNOCO LOGISTICS PART (SXL)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SYMANTEC CORP (SYMC)</StockNm>
+        <EOYBookValueAmt>21630</EOYBookValueAmt>
+        <EOYFMVAmt>21630</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SYNCHRONEY FINL</StockNm>
+        <EOYBookValueAmt>29984</EOYBookValueAmt>
+        <EOYFMVAmt>29984</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>T ROWE PRICE INTL BOND FUND</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>T-ROWE PRICE GROUP INC</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TAIWAN SMCNDCTR MFG CO LTD ADR (TSM)</StockNm>
+        <EOYBookValueAmt>7963</EOYBookValueAmt>
+        <EOYFMVAmt>7963</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TARGA RESOURCES CP (TRGP)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TATA MOTORS LTD (TTM)</StockNm>
+        <EOYBookValueAmt>3124</EOYBookValueAmt>
+        <EOYFMVAmt>3124</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TEGNA INC</StockNm>
+        <EOYBookValueAmt>38280</EOYBookValueAmt>
+        <EOYFMVAmt>38280</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TELEFONICA BRASIL SA SPON ADR (VIV)</StockNm>
+        <EOYBookValueAmt>2709</EOYBookValueAmt>
+        <EOYFMVAmt>2709</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TELEVISION BROADCASTS LTD ORD (TVBCF)</StockNm>
+        <EOYBookValueAmt>1858</EOYBookValueAmt>
+        <EOYFMVAmt>1858</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TEVA PHARMACEUTICALS ADR (TEVA)</StockNm>
+        <EOYBookValueAmt>3938</EOYBookValueAmt>
+        <EOYFMVAmt>3938</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TF ADMINISTRADORA INDUSTRIAL (BMMPZ)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>THERAVANCE BIOPHARMA INC</StockNm>
+        <EOYBookValueAmt>81950</EOYBookValueAmt>
+        <EOYFMVAmt>81950</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>THERAVANCE INC</StockNm>
+        <EOYBookValueAmt>52700</EOYBookValueAmt>
+        <EOYFMVAmt>52700</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TICC CAPITAL CORP</StockNm>
+        <EOYBookValueAmt>15200</EOYBookValueAmt>
+        <EOYFMVAmt>15200</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TIDELANDS RTY TR B UNIT BEN INT</StockNm>
+        <EOYBookValueAmt>30744</EOYBookValueAmt>
+        <EOYFMVAmt>30744</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TOOTSIE ROLL INDS INC</StockNm>
+        <EOYBookValueAmt>325377</EOYBookValueAmt>
+        <EOYFMVAmt>325377</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TOWERS WATSON &amp; CO CL A (TW)</StockNm>
+        <EOYBookValueAmt>75406</EOYBookValueAmt>
+        <EOYFMVAmt>75406</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TRAVELERS COMPANIES INC COM (TRV)</StockNm>
+        <EOYBookValueAmt>27651</EOYBookValueAmt>
+        <EOYFMVAmt>27651</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TRIMBLE NAV LTD (TRIMB)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TRINITY INDS INC</StockNm>
+        <EOYBookValueAmt>96080</EOYBookValueAmt>
+        <EOYFMVAmt>96080</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TRONX LTD SHS CL A</StockNm>
+        <EOYBookValueAmt>35972</EOYBookValueAmt>
+        <EOYFMVAmt>35972</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TWENTY-FIRST CENTURY FOX CL A</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UNILEVER NV NY SH NEW (UN)</StockNm>
+        <EOYBookValueAmt>31840</EOYBookValueAmt>
+        <EOYFMVAmt>31840</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UNITED CONTL HLDGS INC</StockNm>
+        <EOYBookValueAmt>57300</EOYBookValueAmt>
+        <EOYFMVAmt>57300</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UNITED PARCEL SER INC CL-B (UPS)</StockNm>
+        <EOYBookValueAmt>58412</EOYBookValueAmt>
+        <EOYFMVAmt>58412</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UNITED RENTALS INC</StockNm>
+        <EOYBookValueAmt>72540</EOYBookValueAmt>
+        <EOYFMVAmt>72540</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>USA TECHNOLOGIES INC COM</StockNm>
+        <EOYBookValueAmt>77000</EOYBookValueAmt>
+        <EOYFMVAmt>77000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VALLEY NATIONAL BANCORP</StockNm>
+        <EOYBookValueAmt>137900</EOYBookValueAmt>
+        <EOYFMVAmt>137900</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VALUE PARTNERS GROUP LIMITED (VPGLF)</StockNm>
+        <EOYBookValueAmt>6079</EOYBookValueAmt>
+        <EOYFMVAmt>6079</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD EMERGING MARKETS</StockNm>
+        <EOYBookValueAmt>75069</EOYBookValueAmt>
+        <EOYFMVAmt>75069</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD ENERGY ETF</StockNm>
+        <EOYBookValueAmt>18286</EOYBookValueAmt>
+        <EOYFMVAmt>18286</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD EUROPEAN ETF</StockNm>
+        <EOYBookValueAmt>69084</EOYBookValueAmt>
+        <EOYFMVAmt>69084</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD FTSE DEVELOPED MARKETS</StockNm>
+        <EOYBookValueAmt>312120</EOYBookValueAmt>
+        <EOYFMVAmt>312120</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD FTSE EMERGING MARKETS</StockNm>
+        <EOYBookValueAmt>93224</EOYBookValueAmt>
+        <EOYFMVAmt>93224</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD HIGH YIELD CORP ADM</StockNm>
+        <EOYBookValueAmt>200101</EOYBookValueAmt>
+        <EOYFMVAmt>200101</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD INFLAT PROTECTED</StockNm>
+        <EOYBookValueAmt>99919</EOYBookValueAmt>
+        <EOYFMVAmt>99919</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD INTM TERM CORP-ADM #571</StockNm>
+        <EOYBookValueAmt>200075</EOYBookValueAmt>
+        <EOYFMVAmt>200075</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD INTER TERM CORP BOND ETF</StockNm>
+        <EOYBookValueAmt>50454</EOYBookValueAmt>
+        <EOYFMVAmt>50454</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD INTRM BND INDX-ADM</StockNm>
+        <EOYBookValueAmt>99329</EOYBookValueAmt>
+        <EOYFMVAmt>99329</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD PREC METAL &amp; MI-INV</StockNm>
+        <EOYBookValueAmt>16303</EOYBookValueAmt>
+        <EOYFMVAmt>16303</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD SHORT TERM CORP BOND ETF</StockNm>
+        <EOYBookValueAmt>98738</EOYBookValueAmt>
+        <EOYFMVAmt>98738</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD SMALL CAP VALUE ETF</StockNm>
+        <EOYBookValueAmt>96301</EOYBookValueAmt>
+        <EOYFMVAmt>96301</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD TOTAL BOND MARKET ETF</StockNm>
+        <EOYBookValueAmt>50071</EOYBookValueAmt>
+        <EOYFMVAmt>50071</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD TOTAL INTL BND ADM</StockNm>
+        <EOYBookValueAmt>74769</EOYBookValueAmt>
+        <EOYFMVAmt>74769</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VEREIT INC REIT</StockNm>
+        <EOYBookValueAmt>39600</EOYBookValueAmt>
+        <EOYFMVAmt>39600</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VIPSHOP HLDGS LTD ADS (VIPS)</StockNm>
+        <EOYBookValueAmt>81389</EOYBookValueAmt>
+        <EOYFMVAmt>81389</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VODAFONE GROUP PLC SP ADR</StockNm>
+        <EOYBookValueAmt>21550</EOYBookValueAmt>
+        <EOYFMVAmt>21550</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WABTEC (WAB)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WALGREENS BOOTS ALLIANCE INC</StockNm>
+        <EOYBookValueAmt>425775</EOYBookValueAmt>
+        <EOYFMVAmt>425775</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO &amp; CO. NEW (WFC)</StockNm>
+        <EOYBookValueAmt>33160</EOYBookValueAmt>
+        <EOYFMVAmt>33160</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLTOWER INC. (HCN)</StockNm>
+        <EOYBookValueAmt>28573</EOYBookValueAmt>
+        <EOYFMVAmt>28573</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WESTERN ASSET HIGH INCM OPP FD</StockNm>
+        <EOYBookValueAmt>23450</EOYBookValueAmt>
+        <EOYFMVAmt>23450</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WESTFIELD FINANCIAL INC NEW</StockNm>
+        <EOYBookValueAmt>126000</EOYBookValueAmt>
+        <EOYFMVAmt>126000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WEYERHAEUSER CO REIT</StockNm>
+        <EOYBookValueAmt>59960</EOYBookValueAmt>
+        <EOYFMVAmt>59960</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WHEELER REAL ESTATE INVT TR REIT</StockNm>
+        <EOYBookValueAmt>9650</EOYBookValueAmt>
+        <EOYFMVAmt>9650</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WILLIAMS CO INC (WMB)</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WISDOMTREE EMG MKTS EQ INCOME</StockNm>
+        <EOYBookValueAmt>42398</EOYBookValueAmt>
+        <EOYFMVAmt>42398</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WISDOMTREE TRUST JAPAN HEDGE EQ (DXJ)</StockNm>
+        <EOYBookValueAmt>223106</EOYBookValueAmt>
+        <EOYFMVAmt>223106</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WYNN RESORTS LTD (WYNN)</StockNm>
+        <EOYBookValueAmt>67529</EOYBookValueAmt>
+        <EOYFMVAmt>67529</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>YUM BRANDS INC</StockNm>
+        <EOYBookValueAmt>73050</EOYBookValueAmt>
+        <EOYFMVAmt>73050</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtObligationsBookVlEOYAmt>401137</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>401137</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>349729</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>349729</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ACCESS MIDSTREAM PARTNERS L P (ACMP)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AIP GLOBAL MACRO FUND (CAYMAN) LP VALUATION DATE: 12/31/2013</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AIP STRAT OFF FUND I OFFSHORE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AUSTRALIA GOVERNMENT BOND 4.750% DUE 10/21/2015 @ 100.00</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>19146</BookValueAmt>
+        <EOYFMVAmt>19146</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BOARDWALK PIPELINE PARTNERS LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>25960</BookValueAmt>
+        <EOYFMVAmt>25960</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BUCKEYE PARTNERS LP (BPL)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CANADIAN T-BILL 0.000% DUE 04/07/16 @ 99.794</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>25144</BookValueAmt>
+        <EOYFMVAmt>25144</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CANADIAN TREASURY BILL 0.000% DUE 02/13/2014 @ 100.00</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CIBANCO SA INSTIT CBFI (CBAOF)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>5538</BookValueAmt>
+        <EOYFMVAmt>5538</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DEUTSCHE X-TRACKERS MSCI EAF (DBEF)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>265652</BookValueAmt>
+        <EOYFMVAmt>265652</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DOMINION MIDSTREAM PARTNERS LP (DM)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ENLINK MIDSTREAM PARTNERS LP (ENLK)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ENTERPRISE PROD PRTNRS LP (EPD)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>EQT MIDSTREAM PTRNRS LP (EQM)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>HONG KONG GOVERNMENT 0.440% MATURES 06/19/17</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>6461</BookValueAmt>
+        <EOYFMVAmt>6461</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ITAU UNIBANCO MULTIPLE ADR (ITUB)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>2708</BookValueAmt>
+        <EOYFMVAmt>2708</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MAGELLAN MIDSTREAM PARTNERS LP (MMP)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MEMORIAL PRODTN PARTNERS LP COM U REP LTD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MORGAN STANLEY HEDGEPREMIER/MILLENNIUM INTERNATIONAL LTDADVISORY VALUATION D</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MORGAN STANLEY HEDGEPREMIER/TRICADIA CREDIT STRATEGIES OFFSHORE VALUATION DA</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MP SECURITIZED CREDIT OFFSHORE FUNDMP SECURITIZED CREDIT OFFSHOR VALUATION D</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>259581</BookValueAmt>
+        <EOYFMVAmt>259581</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>NEW ZEALAND GOVT 4.500% DUE 02/15/2016 @ 100.00</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>10503</BookValueAmt>
+        <EOYFMVAmt>10503</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>NORWEGIAN T-BILL 0.000% DUE 09/17/2014 @ 100.00</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>18042</BookValueAmt>
+        <EOYFMVAmt>18042</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ONEOK PARTNERS LP (OKS)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PHILLIPS 66 PARTNERS LP (PSXP)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PIMCO COMMODITY RL RET STR P CL P MF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>114761</BookValueAmt>
+        <EOYFMVAmt>114761</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PIMCO HIGH YIELD FUND - D</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>25245</BookValueAmt>
+        <EOYFMVAmt>25245</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PLAINS ALL AMERICAN PIPLIN LP (PAA)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PLAINS GP HLDGS LP SHS A REP (PAGP)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>REAL ESTATE OPPORTUNITY FUND II LP COMMITMENT: $&lt;500000.00&gt;CONTRIBUTIONS TO</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SALIENT MLP TOTAL RETURN</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>280506</BookValueAmt>
+        <EOYFMVAmt>280506</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SINGAPORE GOVERNMENT BOND 1.125% DUE 04/01/2016 @ 100.00</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>24757</BookValueAmt>
+        <EOYFMVAmt>24757</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SPECTRA ENERGY PARTNERS LP (SEP)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SWEDEN GOVERNMENT</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>TARGA RES PTNRS LP REP UTS (NGLS)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>TC PIPELINES LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>TESORO LOGISTICS LP (TLLP)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>TRONOX INC WARRANT</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>2800</BookValueAmt>
+        <EOYFMVAmt>2800</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>UNITED KINGDOM TREASURY 1.750% MATURES 01/22/17</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>10537</BookValueAmt>
+        <EOYFMVAmt>10537</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VALLEY NATL BANCORP WARRANT</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>WESTERN GAS EQ PRTNRS (WGP)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>WESTERN GAS PARTNERS LP (WES)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>WILLIAMS PARTNERS LTD (WPZ)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL</CategoryTxt>
+        <LegalFeesAmt>90</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>90</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED LOSS ON INVESTMENTS</Desc>
+        <Amt>874486</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>SUPPLIES, POSTAGE, ETC.</Desc>
+        <RevenueAndExpensesPerBooksAmt>6750</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>6750</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2914</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2914</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES, LICENSES, FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>270</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>20</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>243320</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>243320</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>203</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>203</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>PARTNERSHIP INCOME/LOSS</Desc>
+        <RevenueAndExpensesPerBooksAmt>-1742</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-1742</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>-1742</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>OPPENHEIMER - ROYALTIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>5405</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>5405</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>5405</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>CALL OPTIONS</Desc>
+        <BOYBookValueAmt>12009</BOYBookValueAmt>
+        <EOYBookValueAmt>9898</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PAYROLL FEE</CategoryTxt>
+        <Amt>1421</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1421</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX ON DIVIDENDS</CategoryTxt>
+        <Amt>7951</Amt>
+        <NetInvestmentIncomeAmt>7951</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAX</CategoryTxt>
+        <Amt>13696</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

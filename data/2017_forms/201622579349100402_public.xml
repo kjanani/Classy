@@ -1,0 +1,1378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-13T06:54:01-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>MAHLUM GOODHART PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>204 E MAIN STREET</AddressLine1Txt>
+        <CityNm>MANDAN</CityNm>
+        <StateAbbreviationCd>ND</StateAbbreviationCd>
+        <ZIPCd>58554</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>456012703</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE TOM AND FRANCES LEACH FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>TOMA</BusinessNameControlTxt>
+      <PhoneNum>7012550479</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1720 BURNT BOAT DRIVE</AddressLine1Txt>
+        <CityNm>BISMARCK</CityNm>
+        <StateAbbreviationCd>ND</StateAbbreviationCd>
+        <ZIPCd>58502</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>BRIAN BJELLA</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2016-09-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Rhonda Mahlum</PreparerPersonNm>
+      <PTIN>P00086535</PTIN>
+      <PhoneNum>7016639345</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="13">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>18885918</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>4181</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>4181</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>4181</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>403435</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>403435</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>403435</DividendsAdjNetIncmAmt>
+        <GrossRentsRevAndExpnssAmt>140635</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>140635</GrossRentsNetInvstIncmAmt>
+        <GrossRentsAdjNetIncmAmt>140635</GrossRentsAdjNetIncmAmt>
+        <NetRentalIncomeOrLossAmt>123374</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>1362444</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>7450723</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>1362444</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">386299</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>308045</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>2296994</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>2218740</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>548251</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>33000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>6600</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>26400</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>25200</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>5040</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>20160</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>756</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>151</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>605</PensionEmplBnftDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">6875</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1375</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>5500</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">114587</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>114587</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">15087</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>2512</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>1542</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">218</DeprecAndDpltnRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>15771</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>3154</OccupancyNetInvstIncmAmt>
+        <OccupancyDsbrsChrtblAmt>12617</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>20581</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>3082</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>17499</TravConfMeetingDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>3955</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubNetInvstIncmAmt>791</PrintingAndPubNetInvstIncmAmt>
+        <PrintingAndPubDsbrsChrtblAmt>3164</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">22972</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>18259</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>4713</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>259002</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>155551</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>92200</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>750000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>750000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1009002</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>155551</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>842200</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>1287992</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>2063189</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>548251</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>64413</CashBOYAmt>
+        <CashEOYAmt>17349</CashEOYAmt>
+        <CashEOYFMVAmt>17349</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>105961</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>343752</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>343752</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>11838836</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">9915723</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>12557559</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>1508037</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedule">4016136</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>4233993</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>452730</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">964793</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1732265</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>15569</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>14563</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>746</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">1006</LandEOYAmt>
+        <LandEOYFMVAmt>1000</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">100</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">101</OtherAssetsEOYAmt>
+        <TotalAssetsBOYAmt>13970823</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>15258860</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>18885918</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">738</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">783</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>738</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>783</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>13970085</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>15258077</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>13970085</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>15258077</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>13970823</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>15258860</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>13970085</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>1287992</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>15258077</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>15258077</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>US BANK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2015-06-30</SoldDt>
+          <GrossSalesPriceAmt>2172064</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2199649</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-27585</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-27585</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>US BANK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2015-06-30</SoldDt>
+          <GrossSalesPriceAmt>1939</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1067</CostOrOtherBasisAmt>
+          <GainOrLossAmt>872</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>872</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>US BANK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>1217289</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1179146</CostOrOtherBasisAmt>
+          <GainOrLossAmt>38143</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>38143</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>US BANK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>45595</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>42973</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2622</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2622</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>COMMONFUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-06-01</AcquiredDt>
+          <SoldDt>2015-05-31</SoldDt>
+          <GrossSalesPriceAmt>4000000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2665444</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1334556</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1334556</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>US BANK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>13612</GrossSalesPriceAmt>
+          <GainOrLossAmt>13612</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13612</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>IDR K-1 NET LONG-TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>224</GrossSalesPriceAmt>
+          <GainOrLossAmt>224</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>224</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>1362444</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-26713</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>873149</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>19917270</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.04384</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>744750</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>17804280</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.04183</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>556654</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>15013933</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.03708</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>613954</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>14112926</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.04350</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>470578</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>13163443</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.03575</DistributionYr5Rt>
+        <TotalDistributionRt>0.201997</TotalDistributionRt>
+        <AverageDistributionRt>0.040399</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>19328153</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>780838</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>20632</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>801470</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>842200</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>20632</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>20632</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>20632</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>11076</EstimatedPlusOvpmtIncmTxAmt>
+        <AppliedToEsTaxAmt>11500</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>22576</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>221</EsPenaltyAmt>
+        <OverpaymentAmt>1723</OverpaymentAmt>
+        <AppliedToESTaxAmt>1723</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>ND</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.LEACHFOUNDATION.ORG</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>TAMI HELMERS</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>7012550479</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1720 BURNT BOAT ROAD</AddressLine1Txt>
+          <CityNm>BISMARCK</CityNm>
+          <StateAbbreviationCd>ND</StateAbbreviationCd>
+          <ZIPCd>58501</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FRANK BAVENDICK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 313</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>585020313</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRIAN BJELLA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2798</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>585022798</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WILLIAM DANIEL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>304 EAST ROSSER SUITE 200</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TODD STEINWAND</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>400 E BROADWAY AVE</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECR/TREAS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN ROSWICK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 761</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAUL SCHLEISMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12600 MARION LANE WEST 103</AddressLine1Txt>
+            <CityNm>MINNETONKA</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55305</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DON CLEMENT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1526 GALLEON PLACE</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58504</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>US BANK NATIONAL ASSN TRUSTEE</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 0634</AddressLine1Txt>
+            <CityNm>MILWAUKEE</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53201</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>INVESTMENT ADVISOR</ServiceTypeTxt>
+          <CompensationAmt>78140</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>18402017</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>386822</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>833651</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>19622490</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>19622490</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>294337</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>19328153</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>966408</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>966408</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>20632</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>20632</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>945776</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>945776</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>945776</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>842200</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>842200</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>20632</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>821568</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>945776</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>387842</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>842200</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>387842</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>454358</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>491418</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>THE TOM AND FRANCES LEACH FOUNDATIO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1136</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>585021136</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>7012550479</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>APPLICANTS SUBMIT LETTER PROPOSALS INDICATING FUND UTILIZATION IF GRANTED. THE LEACH FOUNDATION PROVIDES GRANT APPLICATION FORMS PRESCRIBED BY THE IRS.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>JUNE 30</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>GRANTS ARE GIVEN ONLY TO ORGANIZATIONS WITH 501(C)(3) STATUS. PREFERENCE IS GIVEN TO ORGANIZATIONS IN THE UPPER MIDWEST.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ABUSED ADULT RESOURCE CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 5003</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ASSISTANCE FOR WOMEN/FAMILIES OF DOMESTIC VIOLENCE/SEXUAL ASSAULT.</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BIG BROTHERSBIG SISTERS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>600 SOUTH 2ND STREET SUITE 8</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58504</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MENTOR MATCH PROGRAM WILL PLACE CHILDREN AT-RISK FROM SINGLE PARENT HOMES WITH SCREENED CARING ADULT VOLUNTEERS. VOLUNTEERS ARE PROFESSIONALLY- SUPPORTED ROLE MODELS FOR 20 CHILDREN AT-RISK. FUNDING NEEDED FOR A SOCIAL/STAFF WORKERS TIME REQUIRED TO COMPLETE EACH MENTOR MATCH AND ALL THE NECESSARY CASEWORK EVALUATIONS.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BISMARCK-MANDAN CIVIC CHORUS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2566</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNDERWITE SALARY OF DIRECTOR WITH FIVE PERFORMANCES SCHEDULED FOR THE CURRENT CONCERT SEASON.</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BISMARCK-MANDAN ORCHESTRAL ASSOCIAT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2031</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE 2015-2016 SEASON WHICH INCLUDES SIX SUBSCRIPTION CONCERTS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BISMARCK ART GALLERIES ASSOCIATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>422 EAST FRONT AVENUE</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58504</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SPONSORSHIP OF EXHIBITS AND STUDENT EXHIBITS FOR BISMARCK PUBLIC HIGH SCHOOLS.</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BISMARCK MEALS ON WHEELS INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2132</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUNDS COVER A PART-TIME PERSON TO COORDINATE PROGRAM &amp; OVERSEE MEAL DELIVERY BY VOLUNTEERS. THIS GROUP DOES NOT RECEIVE ANY FEDERAL FUNDS FOR MEALS, THEY SERVE ANYONE IN NEED. PROVIDE MEALS 5 DAYS A WEEK FOR ELDERLY OR HANDICAPPED PERSONS.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BISMARCK STATE COLLEGE FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 5587</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TOM AND FRANCES LEACH MEMORIAL MUSIC SCHOLARSHIP AWARDED FOR OUTSTANDING STUDENT PARTICIPATION, PERFORMANCE, AND DEVELOPMENT OF MUSIC EDUCATION.</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BOY SCOUTS OF AMERICA NORTHERN LIGH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>301 S 7TH STREET</AddressLine1Txt>
+            <CityNm>FARGO</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BISMARCK COUNCIL SERVICE CENTER SERVES NEEDS OF LOCAL SCOUT PROGRAMS IN BISMARCK - MANDAN AND SURROUNDING AREA.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CENTRAL DAKOTA CHILDREN'S CHOIR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1810 SCHAFER ST STE 4</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ELEMENTARY CONCERT SERIES FOR 2ND &amp; 3RD GRADE STUDENTS IN BURLEIGH &amp; MORTON COUNTIES.THE ANNUAL EVENT DRAWS 1,600 STUDENTS AND EDUCATORS TOGETHER FOR THE SPRING CONCERT.</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CENTRAL DAKOTA HUMANE SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2090 37TH ST N</AddressLine1Txt>
+            <CityNm>MANDAN</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58554</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPITAL IMPROVEMENTS FOR A NEW SHELTER TO PROVIDE A SAFE AND PROPER ENVIRONMENT FOR THE ANIMALS AND THE PEOPLE THAT CARE FOR THEM.</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHARLES HALL YOUTH SERVICES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1995</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>IMPACT CREATIVE ARTS PROGRAM FOR SHELTERED AT-RISK YOUTH. PROVIDE A MENTORING PROGRAM WITH LOCAL ARTISTS TO DEVELOP SKILLS AND EXPLORE THE WORLD IN A DIFFERENT MEDIUM.</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FELLOWSHIP OF CHRISTIAN ATHLETES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 961</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS COSTS IN ND - WORK WITH YOUTH IN THE AREA OF SPORTS TO ENCOURAGE, EQUIP, AND EMPOWER COACHES AND ATHLETS TO MAKE AN IMPACT THROUGH CORE VALUES OF INTEGRITY, SERVICE, AND TEAMWORK.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GATEWAY TO SCIENCE CENTER INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1810 SCHAFER ST STE 1</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>WORK MENTORSHIP PROGRAM - CENTER PROVIDES HANDS-ON SCIENCE EDUCATION PRESENTED TO PUBLIC BY HIGH SCHOOL AND COLLEGE STUDENTS WHO SHARE INTERACTIVE EXHIBITS AND DISPLAYS. STUDENTS IN THE PROGRAM RECEIVE PART-TIME WORKING OPPORTUNITIES TO LEARN BASIC WORK SKILLS FROM TRAINED STAFF MEMBERS.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GIRL SCOUTSDAKOTA HORIZONS - ND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1421 S 12TH ST</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58504</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT OUTREACH EFFORTS TO RURAL COMMUNITIES AND SUPPORT TRAINING FOR ADULT VOLUNTEERS.</GrantOrContributionPurposeTxt>
+          <Amt>6500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF JAMESTOWN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6000 COLLEGE LANE</AddressLine1Txt>
+            <CityNm>JAMESTOWN</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58405</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUED SUPPORT OF EXISTING JC TOM AND FRANCES LEACH FOUNDATION SCHOLARSHIP FUND WITH CASH AWARDS MADE ON ANNUAL BASIS TO A STUDENT WHO WILL ACHIEVE A DEGREE DURING THE AWARD YEAR. FOR ARTS, HUMANITIES, OR NURSING STUDENTS.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GOLDEN AGE CLUB MANDAN ND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 267</AddressLine1Txt>
+            <CityNm>MANDAN</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58554</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT CONGREGATE &amp; HOME-DELIVERED MEALS TO KEEP SENIORS IN GOOD HEALTH AND PROVIDE SOCIAL ACTIVITIES.</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MISSOURI SLOPE AREAWIDE UNITED WAY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2111</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT FOR THE KIDS BACKPACK PROGRAM WHICH PROVIDES AT-RISK SCHOOL AGE YOUTH WITH FOOD FOR TIMES WHEN THEY ARE NOT AT SCHOOL.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ND FFA FOUNDATION INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>309 NORTH MANDAN STREET</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FFA LEADERSHIP DEVELOPMENT CONFERENCE FOR "GREENHANDS" - A MOTIVATIONAL AND LEADERSHIP PROGRAM FOR 1ST YEAR FFA MEMBERS STRESSING LEADERSHIP - CITIZENSHIP DEVELOPMENT, GOAL SETTING, DEALING WITH PEER PRESSURE, PERSONAL VALUES, AND CAREERS.</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PRIDE INDUSTRIES INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 4086</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SPONSOR CELEBRATION OF TREES FUNDRAISER TO COVER SPECIAL NEEDS OR ITEMS AND EVENTS THAT ARE NOT FUNDED BY STATE FOR NEEDY UNPRVILEGED YOUTH/ADULTS.</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RUTH MEIERS HOSPITALITY HOUSE INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2092</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPITAL IMPROVEMENTS FOR THE "STONE SOUP KITCHEN" PROGRAM UPGRADES TO MEET HEALTH AND BUILDING REGULATIONS AND INCREASE THE ABILITY TO SERVE MEALS.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NORTH DAKOTA SADD INC B-M CHAPTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO 743</AddressLine1Txt>
+            <CityNm>HILLSBORO</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58045</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE GENERAL OPERATIONS OF THE BISMARCK-MANDAN CHAPTER. THIS PROGRAM EMPOWERS YOUTH TO ADDRESS IMPORTANT ISSUES IN THEIR LIVES SUCH AS ALCOHOL/DRUG/TOBACCO USE, IMPAIRED DRIVING, SUICIDE, AND SEXUAL BEHAVIOR WITH POSITIVE WAYS TO HELP THEM MAKE BETTER CHOICES AND DECISIONS.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SALVATION ARMY OF BISMARCK MANDAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>601 S WASHINGTON</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58504</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATION OF THE AFTER-SCHOOL PROGRAM AT THE COMMUNITY CENTER WITH GYM ACTIVITIES, TUTORING, COMPUTER LAB AND OTHER SERVICES WHICH MAY NOT BE AVAILABLE TO PARTICIPANTS BASED ON ECONOMIC RESTRAINTS.</GrantOrContributionPurposeTxt>
+          <Amt>12000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THEO ART SCHOOL OF BISMARCK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1810 SCHAFER ST STE 5</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EXPANDING ART EDUCATION PROGRAMS THROUGHOUT THE CITY BY OFFERING THEM IN CONJUNCTION WITH THE BISMARCK PARKS AFTER SCHOOL PROGRAMS. FUNDS ALLOW STUDENTS WHO OTHERWISE COULDN'T AFFORD TO ATTEND CLASSES TO PARTICIPATE.</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VOLUNTEER CAREGIVER EXCHANGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>600 S 2ND ST STE 8</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58504</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONAL COSTS TO PROMOTE THE SERVICES TO THE COMMUNITY SO MORE SENIORS HAVE THE ADVANTAGE OF ACCESS TO ASSISTANCE WHILE MAINTAINING THEIR RESIDENCES.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BISMARCK YOUNG LIFE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>917 1/2 N 11TH STREET</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING BUDGET FOR YOUTH MINISTRY PROGRAMS. TRAIN STAFF AND VOLUNTEER LEADERS TO BE POSITIVE MENTORS AND ROLE MODELS.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHILD'S HOPE LEARNING CENTER INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2921 N 19TH STREET</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATION COSTS FOR THE SCHOOL YEAR 'EXPANDED HOURS' PROGRAM. FUNDING IS USED TO DEFRAY SALARY BUDGET FOR HIRING/RETAINING OF QUALIFIED DIRECT SERVICE PERSONNEL FOR SPECIALIZED AYCARE OF CHILDREN 0-12 WITH MULTIPLE MENTAL OR PHYSICAL CHALLENGES, CHILDREN CONSIDERED AS AT-RISK ALONG WITH THEIR SIBLINGS.</GrantOrContributionPurposeTxt>
+          <Amt>14000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HEARTVIEW FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 E BROADWAY AVE</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPITAL IMPROVEMENT FOR A 7,000 SQUARE FOOT ADDITION TO PROVIDE AN ADDITIONAL 16-BED INPATIENT CARE FACILITY.</GrantOrContributionPurposeTxt>
+          <Amt>32000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MAKE A WISH OF NORTH DAKOTA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1102 43RD ST SW STE 3</AddressLine1Txt>
+            <CityNm>FARGO</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ADOPT A WISH PROGRAM - GRANT ONE CHILD'S WISH IN ND; ORGANIZATION GRANTS WISHES OF CHILDREN WITH LIFE-THREATENING MEDICAL CONDITIONS GIVING THEM HOPE AND JOY.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THEODORE ROOSEVELT MEDORA FOUNDATIO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1696</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONSTRUCTION OF A LIFE SKILLS CENTER IN MEDORA TO CENTRALIZE EMPLOYEE TRAINING AND EDUCATION, EMPLOYEE DINING, GENERAL STORAGE, AND LAUNDRY.</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TURTLE MOUNTAIN COMMUNITY COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 340</AddressLine1Txt>
+            <CityNm>BELCOURT</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58316</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDENT SCHOLARSHIP FOR STUDENTS IN NEED OF FINANCIAL ASSISTANCE.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF JAMESTOWN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6000 COLLEGE LANE</AddressLine1Txt>
+            <CityNm>JAMESTOWN</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58405</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPITAL FUNDING ON A CLASSROOM IN SCIENCE LABORATORY BUILDING.4TH PMT ON 5 YR PLEDGE.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SANFORD LEACH KIDNEY DIALYSIS CTR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 NORTH 7TH ST</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPITAL IMPROVEMENT, KIDNEY DIALYSIS CENTER EXPANSION, ADD 8 STATIONS FOR DIALYSIS. FINAL PMT OF 5 YR PLEDGE.</GrantOrContributionPurposeTxt>
+          <Amt>45000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FARM RESCUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1100</AddressLine1Txt>
+            <CityNm>JAMESTOWN</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58402</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUNDING TO OFFSET OPERATIONAL COSTS ASSOCIATED WITH VOLUNTEER WORK FORCE AS THEY ASSIST FAMILIES OUTSIDE THEIR HOME AREAS. PROVIDE PLANTING, HARVESTING, AND HAYING ASSISTANCE TO FARM FAMILIES THAT HAVE EXPERIENCED A MAJOR INJURY, ILLNESS OR NATURAL DISASTER.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ND REGIONAL TEEN CHALLENGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1143</AddressLine1Txt>
+            <CityNm>MANDAN</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58554</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT CAPITAL IMPROVEMENTS AT FACILITY FOR ADDICTS WHO WANT TO ACHIEVE A DRUG-FREE LIFE.</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SCOTTISH RITE SPEECH THERAPY CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1009 BASIN AVE</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58504</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT HEARING AND SPEECH SERVICES FOR CHILDREN.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ND REGIONAL TEEN CHALLENGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1143</AddressLine1Txt>
+            <CityNm>MANDAN</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58554</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUTURE COMMITMENT: SUPPORT CAPITAL IMPROVEMENTS AT FACILITY FOR ADDICTS WHO WANT TO ACHIEVE A DRUG-FREE LIFE. 1 PAYMENT REMAINING ON PLEDGE.</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SLEEPY HOLLOW SUMMER THEATER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 675</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ADDITIONAL FUNDING FOR STAGE/SOUND PROJECT. 3RD OF 5 PAYMENTS.</GrantOrContributionPurposeTxt>
+          <Amt>31250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SLEEPY HOLLOW SUMMER THEATER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 675</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUTURE COMMITMENT ADDITIONAL FUNDING FOR STAGE/SOUND PROJECT. 1 PAYMENT OF 5 REMAINING.</GrantOrContributionPurposeTxt>
+          <Amt>31250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SPECIAL OLYMPICS ND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2616 S 26TH ST</AddressLine1Txt>
+            <CityNm>GRAND FORKS</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OFFSET TRAVEL COSTS FOR THE PARTICIPANTS WHO TRAVEL TO BISMARCK-MANDAN FOR ONE OF THE STATE EVENTS.</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>STATE HISTORICAL SOCIETY OF ND FDN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1976</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUND A FILM ABOUT TOM &amp; FRANCES LEACH IN A DOCUMENTARY "FATHER OF NORTH DAKOTA PETROLEUM INDUSTRY" AND SPONSOR CONSTRUCTION OF GREAT PLAINS THEATER INSIDE THE ND HERITAGE CENTER.</GrantOrContributionPurposeTxt>
+          <Amt>120000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>STATE HISTORICAL SOCIETY OF ND FDN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1976</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUND A FILM ABOUT TOM &amp; FRANCES LEACH IN A DOCUMENTARY "FATHER OF NORTH DAKOTA PETROLEUM INDUSTRY" AND SPONSOR CONSTRUCTION OF GREAT PLAINS THEATER INSIDE THE ND HERITAGE CENTER. THIRD OF 5 PAYMENTS.</GrantOrContributionPurposeTxt>
+          <Amt>240000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BISMARCK-MANDAN CHAMBER FDN-PLAY GR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1640 BURNT BOAT DR</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58503</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONSTRUCTION OF A UNIVERSAL PLAYGROUND FOR CHILDREN AND ADULTS WITH PHYSICAL LIMIATIONS IN MANDAN, ND. SECOND OF 5 PAYMENTS.</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THEODORE ROOSEVELT MEDORA FDN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1696</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONSTRUCTION OF A LIFE SKILLS CENTER IN MEDORA TO CENTRALIZE EMPLOYEE TRAINING AND EDUCATION, EMPLOYEE DINING, GENERAL STORAGE, AND LAUNDRY. SECOND OF 5 PAYMENTS.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE YMCA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1608 N WASHINGTON ST</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONSTRUCTION OF A FACILITY IN MANDAN. SECOND OF 5 PAYMENTS.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE YMCA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1608 N WASHINGTON ST</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONSTRUCTION OF A FACILITY IN MANDAN. FUTURE PAYMENTS FOR 3 YEARS.</GrantOrContributionPurposeTxt>
+          <Amt>300000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BISMARCK-MANDAN CHAMBER FDN-PLAYGRO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1640 BURNT BOAT DR</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58503</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONSTRUCTION OF A UNIVERSAL PLAYGROUND FOR CHILDREN AND ADULTS WITH PHYSICAL LIMIATIONS IN MANDAN, ND. PLEDGED FOR NEXT 3 YEARS.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ND SAFETY COUNCIL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1640 BURNT BOAT DR</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58503</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT CONSTRUCTION OF A CENTER FOR SAFETY EDUCATION. FUTURE PAYMENTS OVER 4 YEARS. PENDING APPROVAL OF REDESIGN OF PROJECT.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNITED TRIBES TECHNICAL COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3315 UNIVERSITY DRIVE</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58504</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT FOR MAKING SCHOLAR PROGRAM AT THE COLLEGE.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF MARY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7500 UNIVERSITY DRIVE</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58504</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONSTRUCTION OF A NEW STUDENT LIVING AREA. FIRST PAYMENT ON 10 YEAR PLEDGE.</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WELCOME HOUSE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1406 2ND ST NW SUITE 200</AddressLine1Txt>
+            <CityNm>MANDAN</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58554</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PURCHASE COMPUTER EQUIPMENT FOR THE TEMPORARY HOMELESS SHELTER.</GrantOrContributionPurposeTxt>
+          <Amt>7250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MINOT STATE UNIVERSITY DIV OF SPEC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 UNIVERSITY AVE W</AddressLine1Txt>
+            <CityNm>MINOT</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT FRANCES V. LEACH SCHOLARSHIP FOR A STUDENT PURSUING A DEGREE IN SPECIAL EDUCATION.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>INTERNATIONAL MUSIC CAMP</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>111 11TH AVE SW SUITE 3</AddressLine1Txt>
+            <CityNm>MINOT</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>REPAIRS TO BUILDINGS AND FACILITIES AT THE INTERNATIONAL MUSIC CAMP AT THE PEACE GARDENS.</GrantOrContributionPurposeTxt>
+          <Amt>5500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HEARTVIEW FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 E BROADWAY</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58503</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EXPANSION OF THE FACILITIES INCLUDING PURCHASE OF A BUILDING. PROVIDES TREATMENT OPTIONS FOR ADDICTION. SECOND OF 5 PAYMENTS.</GrantOrContributionPurposeTxt>
+          <Amt>96000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF MARY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7500 UNIVERSITY DRIVE</AddressLine1Txt>
+            <CityNm>BISMARCK</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58504</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONSTRUCTION OF A NEW STUDENT LIVING AREA. PAYMENTS THRU 2024.</GrantOrContributionPurposeTxt>
+          <Amt>720000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>2587250</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>4181</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>403435</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>123374</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>1362220</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>224</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>TAX-EXEMPT INTEREST</Desc>
+          <ExclusionCd>14</ExclusionCd>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>THOMAS W. LEACH TRUST</Desc>
+          <ExclusionCd>15</ExclusionCd>
+          <ExclusionAmt>386299</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>2279509</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>224</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>2279733</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>6875</Amt>
+        <NetInvestmentIncomeAmt>1375</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>5500</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BASYX OFFICE CHAIR</PropertyDesc>
+        <AcquiredDt>2008-10-17</AcquiredDt>
+        <CostOrOtherBasisAmt>320</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>299</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0714</Rt>
+        <CurrentYearExpenseAmt>21</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>HP COMPUTER</PropertyDesc>
+        <AcquiredDt>2014-10-09</AcquiredDt>
+        <CostOrOtherBasisAmt>744</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>19</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.2000</Rt>
+        <CurrentYearExpenseAmt>149</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CANON SCANNER</PropertyDesc>
+        <AcquiredDt>2015-01-14</AcquiredDt>
+        <CostOrOtherBasisAmt>478</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.1000</Rt>
+        <CurrentYearExpenseAmt>48</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FIXED INCOME HELD AT US BANK</BondNm>
+        <EOYBookValueAmt>4016136</EOYBookValueAmt>
+        <EOYFMVAmt>4233993</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COMMONFUNDS</StockNm>
+        <EOYBookValueAmt>6052724</EOYBookValueAmt>
+        <EOYFMVAmt>8508421</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITIES HELD AT US BANK</StockNm>
+        <EOYBookValueAmt>3862999</EOYBookValueAmt>
+        <EOYFMVAmt>4049138</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>OIL &amp; GAS PROPERTIES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>100206</BookValueAmt>
+        <EOYFMVAmt>832651</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>REAL ESTATE INV HELD AT US BANK</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>864587</BookValueAmt>
+        <EOYFMVAmt>899614</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Furniture and Fixtures</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>12341</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>11335</AccumulatedDepreciationAmt>
+        <BookValueAmt>1006</BookValueAmt>
+        <EOYFMVAmt>1000</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Improvements</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>3228</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>3228</AccumulatedDepreciationAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherAssetsScheduleGrp>
+        <Desc>DEPOSIT - KOPP PROPERTY</Desc>
+        <BOYBookValueAmt>100</BOYBookValueAmt>
+        <EOYBookValueAmt>100</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>Rounding</Desc>
+        <EOYBookValueAmt>1</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>5711</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>998</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4713</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Rental Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>17261</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>17261</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherIncomeDetail>
+        <Desc>THOMAS W. LEACH TRUST</Desc>
+        <RevenueAndExpensesPerBooksAmt>386299</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherLiabilitiesDetail>
+        <Desc>PAYROLL LIABILITIES</Desc>
+        <BOYBookValueAmt>738</BOYBookValueAmt>
+        <EOYBookValueAmt>783</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>APPRAISAL</CategoryTxt>
+        <Amt>1750</Amt>
+        <NetInvestmentIncomeAmt>1750</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MANAGEMENT FEES</CategoryTxt>
+        <Amt>112837</Amt>
+        <NetInvestmentIncomeAmt>112837</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>2126</Amt>
+        <NetInvestmentIncomeAmt>2126</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAXES</CategoryTxt>
+        <Amt>1928</Amt>
+        <NetInvestmentIncomeAmt>386</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1542</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>TAX ON INVESTMENT INCOME</CategoryTxt>
+        <Amt>11033</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

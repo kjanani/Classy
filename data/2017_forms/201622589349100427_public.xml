@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-14T17:59:31-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>471055259</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CONDER KLETCHKA &amp; ASSOCIATES PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2201 CIVIC CIR STE 418</AddressLine1Txt>
+        <CityNm>AMARILLO</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>791091842</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>200548629</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CT HERRING CHARITABLE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CTHE</BusinessNameControlTxt>
+      <PhoneNum>8066777000</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 50488</AddressLine1Txt>
+        <CityNm>AMARILLO</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>79159</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>C C BURGESS</PersonNm>
+      <PersonTitleTxt>CHAIRMAN</PersonTitleTxt>
+      <PhoneNum>8066777000</PhoneNum>
+      <SignatureDt>2016-08-10</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DOUG CONDER</PreparerPersonNm>
+      <PTIN>P01314751</PTIN>
+      <PhoneNum>8066228233</PhoneNum>
+      <PreparationDt>2016-09-14</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2758628</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>2500</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>4190</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>4190</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>4190</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>53173</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>53173</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>53173</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc4">59275</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1085937</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>10917</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc9">2136</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>4998</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>2136</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>121274</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>73278</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>59499</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc3">1200</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>600</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc10">43386</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>26347</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc11">2968</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1784</TaxesNetInvstIncmAmt>
+        <DeprecAndDpltnRevAndExpnssAmt>750</DeprecAndDpltnRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>48304</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>28731</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>147602</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>147602</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>195906</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>28731</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>147602</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-74632</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>44547</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>59499</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>129592</CashBOYAmt>
+        <CashEOYAmt>112191</CashEOYAmt>
+        <CashEOYFMVAmt>112191</CashEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>315017</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc6">396387</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>390990</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>2321363</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">2173079</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>2149748</CorporateStockEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc7">1</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc7">1</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc7">105699</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>2765973</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2681658</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2758628</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>2765973</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>2681658</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2765973</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2681658</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2765973</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2681658</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2765973</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-74632</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2691341</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc8">9683</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2681658</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>10917</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>145292</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>2937176</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.049467</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>131457</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>2820163</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.046613</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>132008</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>2554411</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.051678</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>198007</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>2484664</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.079692</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>85037</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>2366936</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.035927</DistributionYr5Rt>
+        <TotalDistributionRt>0.263377</TotalDistributionRt>
+        <AverageDistributionRt>0.052675</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>2828929</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>149014</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>445</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>149459</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>147602</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>891</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>891</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>891</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc2">X</Form2220AttachedInd>
+        <EsPenaltyAmt>21</EsPenaltyAmt>
+        <TaxDueAmt>912</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>TERRY WRIGHT</IndividualWithBooksNm>
+        <PhoneNum>8066777000</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 50488</AddressLine1Txt>
+          <CityNm>AMARILLO</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>79105</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>C C BURGESS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 50488</AddressLine1Txt>
+            <CityNm>AMARILLO</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>79159</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2645418</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>120892</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>105699</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2872009</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2872009</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>43080</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2828929</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>141446</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>141446</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>891</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>891</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>140555</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>140555</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>140555</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>147602</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>147602</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>147602</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>140555</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>8293</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>147602</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>8293</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>139309</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>1246</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST ANDREWS EPISCOPAL CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 50488</AddressLine1Txt>
+            <CityNm>AMARILLO</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>79159</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SPONSORSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>1900</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CATHOLIC DIOCESE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1800 N SPRING</AddressLine1Txt>
+            <CityNm>AMARILLO</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>79107</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CATHOLIC EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>145702</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>147602</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>4190</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>53173</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>15</ExclusionCd>
+          <ExclusionAmt>4998</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>59270</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>5</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>NON-TAXABLE DISTRIBUTIONS</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1622</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>AMERIGAS PARTNERS K-1 LOSS</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>-4484</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>118769</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>5</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>118774</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>1200</Amt>
+        <NetInvestmentIncomeAmt>600</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc4">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE ATTACHED - HERRING BANK 13587</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>161018</GrossSalesPriceAmt>
+        <BasisAmt>163073</BasisAmt>
+        <TotalNetAmt>-2055</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE ATTACHED - HERRING BANK 13587</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>183332</GrossSalesPriceAmt>
+        <BasisAmt>184020</BasisAmt>
+        <TotalNetAmt>-688</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE ATTACHED - HERRING BANK 13587</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>340611</GrossSalesPriceAmt>
+        <BasisAmt>306827</BasisAmt>
+        <TotalNetAmt>33784</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE ATTACHED - HERRING BANK 13587</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>88908</GrossSalesPriceAmt>
+        <BasisAmt>94747</BasisAmt>
+        <TotalNetAmt>-5839</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE ATTACHED - HERRING BANK 23587</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>92763</GrossSalesPriceAmt>
+        <BasisAmt>77707</BasisAmt>
+        <TotalNetAmt>15056</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE ATTACHED - HERRING BANK 23587</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1308</GrossSalesPriceAmt>
+        <BasisAmt>1921</BasisAmt>
+        <TotalNetAmt>-613</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE ATTACHED - HERRING BANK 3587</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>11357</GrossSalesPriceAmt>
+        <BasisAmt>11567</BasisAmt>
+        <TotalNetAmt>-210</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE ATTACHED - HERRING BANK 3587</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>19700</GrossSalesPriceAmt>
+        <BasisAmt>11123</BasisAmt>
+        <TotalNetAmt>8577</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>M &amp; N - HIGH YIELD BOND SERIES S</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <GrossSalesPriceAmt>4691</GrossSalesPriceAmt>
+        <BasisAmt>4853</BasisAmt>
+        <TotalNetAmt>-162</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>M &amp; N - GLOBAL FIXED INCOME SER S</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <GrossSalesPriceAmt>1280</GrossSalesPriceAmt>
+        <BasisAmt>1360</BasisAmt>
+        <TotalNetAmt>-80</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>M &amp; N - HIGH YIELD BOND SERIES S</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <GrossSalesPriceAmt>10723</GrossSalesPriceAmt>
+        <BasisAmt>11094</BasisAmt>
+        <TotalNetAmt>-371</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>M &amp; N - GLOBAL FIXED INCOME SER S</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <GrossSalesPriceAmt>53798</GrossSalesPriceAmt>
+        <BasisAmt>57176</BasisAmt>
+        <TotalNetAmt>-3378</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>M &amp; N - DYNAMIC OPPORTUNITES</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>7454</GrossSalesPriceAmt>
+        <BasisAmt>7687</BasisAmt>
+        <TotalNetAmt>-233</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>M &amp; N - HIGH YIELD BOND SERIES S</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <GrossSalesPriceAmt>8609</GrossSalesPriceAmt>
+        <BasisAmt>8827</BasisAmt>
+        <TotalNetAmt>-218</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>M &amp; N - UNCONSTRAINED BOND CL S</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>44983</GrossSalesPriceAmt>
+        <BasisAmt>44150</BasisAmt>
+        <TotalNetAmt>833</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>M &amp; N - HIGH YIELD BOND SERIES S</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <GrossSalesPriceAmt>36655</GrossSalesPriceAmt>
+        <BasisAmt>35520</BasisAmt>
+        <TotalNetAmt>1135</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>M &amp; N - REAL ESTATE SERIES S</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>7650</GrossSalesPriceAmt>
+        <BasisAmt>5010</BasisAmt>
+        <TotalNetAmt>2640</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMERIGAS PARTNERS SEC 1231 - K-1</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>175</GrossSalesPriceAmt>
+        <TotalNetAmt>175</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CASH IN LIEU</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-05</SoldDt>
+        <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+        <TotalNetAmt>5</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MUTUAL FUNDS</StockNm>
+        <EOYBookValueAmt>642331</EOYBookValueAmt>
+        <EOYFMVAmt>587850</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COMMON STOCKS</StockNm>
+        <EOYBookValueAmt>1397163</EOYBookValueAmt>
+        <EOYFMVAmt>1419787</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>REAL ESTATE INV TRUSTS</StockNm>
+        <EOYBookValueAmt>85931</EOYBookValueAmt>
+        <EOYFMVAmt>104414</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MUTUAL FUNDS</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MASTER LIMITED PARTNERSHIPS</StockNm>
+        <EOYBookValueAmt>47654</EOYBookValueAmt>
+        <EOYFMVAmt>37697</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc6">
+      <USGovtObligationsBookVlEOYAmt>396387</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>390990</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherAssetsSchedule documentId="RetDoc7">
+      <OtherAssetsScheduleGrp>
+        <Desc>MINERAL INTEREST</Desc>
+        <BOYBookValueAmt>1</BOYBookValueAmt>
+        <EOYBookValueAmt>1</EOYBookValueAmt>
+        <EOYFMVAmt>105699</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc8">
+      <OtherDecreasesDetail>
+        <Desc>TIMING DIFFERENCES</Desc>
+        <Amt>9683</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc9">
+      <OtherIncomeDetail>
+        <Desc>ROYALTIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>4998</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>4998</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>4998</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>NON-TAXABLE DISTRIBUTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1622</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>1622</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>AMERIGAS PARTNERS K-1 LOSS</Desc>
+        <RevenueAndExpensesPerBooksAmt>-4484</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>-4484</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc10">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>FIDUCIARY FEES</CategoryTxt>
+        <Amt>26452</Amt>
+        <NetInvestmentIncomeAmt>9413</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>MANNING &amp; NAPIER FEES</CategoryTxt>
+        <Amt>16934</Amt>
+        <NetInvestmentIncomeAmt>16934</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc11">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>1214</Amt>
+        <NetInvestmentIncomeAmt>1214</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PRODUCTION TAXES</CategoryTxt>
+        <Amt>230</Amt>
+        <NetInvestmentIncomeAmt>230</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>AD VALOREM TAX</CategoryTxt>
+        <Amt>340</Amt>
+        <NetInvestmentIncomeAmt>340</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>INCOME TAX</CategoryTxt>
+        <Amt>1184</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

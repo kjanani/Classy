@@ -1,0 +1,910 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-15T14:19:35-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>382029668</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>GEORGE JOHNSON &amp; COMPANY</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1200 BUHL BUILDING 535 GRISWOLD</AddressLine1Txt>
+        <CityNm>DETROIT</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>482263689</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>381358386</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>LUELLA HANNAN MEMORIAL FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>LUEL</BusinessNameControlTxt>
+      <PhoneNum>3138331300</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+        <CityNm>DETROIT</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>482011300</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>VINCENT TILFORD</PersonNm>
+      <PersonTitleTxt>EXECUTIVE DIRECTOR</PersonTitleTxt>
+      <PhoneNum>3138331300</PhoneNum>
+      <SignatureDt>2016-09-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MICHAEL R NICHOLAS</PreparerPersonNm>
+      <PTIN>P00966144</PTIN>
+      <PhoneNum>3139652655</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="13">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>15227929</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>40132</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>370124</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>370124</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>370124</DividendsAdjNetIncmAmt>
+        <GrossRentsRevAndExpnssAmt>255772</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>255772</GrossRentsNetInvstIncmAmt>
+        <GrossRentsAdjNetIncmAmt>255772</GrossRentsAdjNetIncmAmt>
+        <NetRentalIncomeOrLossAmt>138944</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>359233</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>9298257</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>359233</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>359233</NetSTCapitalGainAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">1625026</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>0</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>1625026</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>2650287</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>985129</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>2610155</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>87346</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>0</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>87346</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>1462992</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>0</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsAdjNetIncmAmt>0</OthEmplSlrsWgsAdjNetIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>1462992</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>98991</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>0</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftAdjNetIncmAmt>0</PensionEmplBnftAdjNetIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>98991</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">13866</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>13866</LegalFeesDsbrsChrtblAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">546042</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>79082</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>79082</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>466960</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">94336</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>0</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>94336</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc2203000001">101433</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>40573</DeprecAndDpltnNetInvstIncmAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>40573</DeprecAndDpltnAdjNetIncmAmt>
+        <OccupancyRevAndExpnssAmt>136992</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>54797</OccupancyNetInvstIncmAmt>
+        <OccupancyAdjNetIncmAmt>54797</OccupancyAdjNetIncmAmt>
+        <OccupancyDsbrsChrtblAmt>82195</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>24371</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>0</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingAdjNetIncmAmt>0</TravConfMeetingAdjNetIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>24371</TravConfMeetingDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>22522</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubNetInvstIncmAmt>0</PrintingAndPubNetInvstIncmAmt>
+        <PrintingAndPubAdjNetIncmAmt>0</PrintingAndPubAdjNetIncmAmt>
+        <PrintingAndPubDsbrsChrtblAmt>22522</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">355654</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>21458</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>21458</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>334196</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>2944545</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>195910</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>195910</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2687775</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>2944545</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>195910</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>195910</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>2687775</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-294258</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>789219</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2414245</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>764228</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>781334</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>781334</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>203878</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>265614</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>203878</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>203878</AcctRcvblEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>21234</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>43954</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>43954</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>1162062</USGovernmentObligationsBOYAmt>
+        <CorporateStockBOYAmt>10886089</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">1589409</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1589409</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>2150915</CorporateBondsBOYAmt>
+        <OtherInvestmentsBOYAmt>0</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">11732290</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>11732290</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>4439251</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>3562187</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>961595</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc2059000001">877064</LandEOYAmt>
+        <LandEOYFMVAmt>877064</LandEOYFMVAmt>
+        <TotalAssetsBOYAmt>16211737</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>15227929</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>15227929</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>119334</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>213196</AccountsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">758345</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">744709</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>877679</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>957905</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>15305996</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>14237881</UnrestrictedEOYAmt>
+        <TemporarilyRestrictedBOYAmt>28062</TemporarilyRestrictedBOYAmt>
+        <TemporarilyRestrictedEOYAmt>32143</TemporarilyRestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>15334058</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>14270024</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>16211737</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>15227929</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>15334058</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-294258</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>15039800</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">769776</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>14270024</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED INVESTMENTS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>9298257</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8939024</CostOrOtherBasisAmt>
+          <GainOrLossAmt>359233</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>359233</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>359233</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>359233</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <ExemptOperatingFoundationsInd>X</ExemptOperatingFoundationsInd>
+        <RulingLetterDt>1997-03-12</RulingLetterDt>
+        <NotApplicableCd>N/A</NotApplicableCd>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>0</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MI</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>1</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.HANNAN.ORG</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>VINCENT TILFORD</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3138331300</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+          <CityNm>DETROIT</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>482011300</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VINCENT TILFORD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </USAddress>
+          <TitleTxt>EXECUTIVE DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>87346</CompensationAmt>
+          <EmployeeBenefitProgramAmt>5600</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>N CHARLES ANDERSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RUTH DUNKLE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SANDRA BULGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE-PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FREDDIE G BURTON JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARCIA BAUM</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KATHLEEN GRAHAM</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RANDALL CHARLTON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY NEFF</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BEN ROBINSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRENDA BALL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE 1ST FLOOR</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>BRENDA CARNEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR OF SOCIAL W</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>65512</CompensationAmt>
+          <EmployeeBenefitsAmt>4992</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SOUTHWEST SOLUTIONS</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>1920 25TH STREET</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482161435</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>PROPERTY MANAGEMENT</ServiceTypeTxt>
+          <CompensationAmt>129735</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <PersonNm>SANDRA BULGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>17706 STONEBROOK DRIVE</AddressLine1Txt>
+            <CityNm>NORTHVILLE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>481684329</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>CONSULTANT</ServiceTypeTxt>
+          <CompensationAmt>70000</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>CORPORATE FACTS</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>51248 PLYMOUTH VALLEY DRIVE</AddressLine1Txt>
+            <CityNm>PLYMOUTH</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>481706370</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>ACCOUNTING</ServiceTypeTxt>
+          <CompensationAmt>66000</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>OPERATION OF A SENIOR SERVICE CENTER AND THE CONDUCT OF PROGRAMS FOR SENIORS PURSUANT TO INTERNAL REVENUE SERVICE RULING DATED MARCH 12, 1997</Description1Txt>
+        <Expenses1Amt>2408850</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>13823232</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>460482</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>14283714</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>14283714</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>214256</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>14069458</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>703473</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>2687775</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>2687775</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>2687775</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <PrivateOperatingFoundationsGrp>
+        <PrivateOperatingFndtnRulingDt>1997-03-12</PrivateOperatingFndtnRulingDt>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>703473</CurrentYearAmt>
+          <Year1Amt>739181</Year1Amt>
+          <Year2Amt>706966</Year2Amt>
+          <Year3Amt>693030</Year3Amt>
+          <TotalAmt>2842650</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>597952</CurrentYearAmt>
+          <Year1Amt>628304</Year1Amt>
+          <Year2Amt>600921</Year2Amt>
+          <Year3Amt>589076</Year3Amt>
+          <TotalAmt>2416253</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>2687775</CurrentYearAmt>
+          <Year1Amt>2629031</Year1Amt>
+          <Year2Amt>2261908</Year2Amt>
+          <Year3Amt>1709195</Year3Amt>
+          <TotalAmt>9287909</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriNotUsedDrtGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>0</TotalAmt>
+        </QualifyingDistriNotUsedDrtGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>2687775</CurrentYearAmt>
+          <Year1Amt>2629031</Year1Amt>
+          <Year2Amt>2261908</Year2Amt>
+          <Year3Amt>1709195</Year3Amt>
+          <TotalAmt>9287909</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>468982</CurrentYearAmt>
+          <Year1Amt>492787</Year1Amt>
+          <Year2Amt>471311</Year2Amt>
+          <Year3Amt>462020</Year3Amt>
+          <TotalAmt>1895100</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+        <TotalSupportGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalSupportGrp>
+        <PublicSupportType>
+          <TotalAmt>0</TotalAmt>
+        </PublicSupportType>
+        <LargestSupportFromEOGrp>
+          <TotalAmt>0</TotalAmt>
+        </LargestSupportFromEOGrp>
+        <GrossInvestmentIncomeGrp>
+          <TotalAmt>0</TotalAmt>
+        </GrossInvestmentIncomeGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>VINCENT TILFORD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4750 WOODWARD AVENUE</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>482011300</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3138331300</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>COMPLETION OF APPLICATION PROVIDED, INCLUDING AGES AND NAMES OF GRANDCHILDREN UNDER APPLICANTS' CARE</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>AWARD IS LIMITED TO SENIORS WHO CARE FOR THEIR GRANDCHILDREN</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <TotalGrantOrContriPdDurYrAmt>0</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>370124</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <RelatedOrExemptFunctionIncmAmt>138944</RelatedOrExemptFunctionIncmAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>359233</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>CONTRACT REVENUE</Desc>
+          <RelatedOrExemptFunctionIncmAmt>181243</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>MISCELLANEOUS INCOME</Desc>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>85956</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>REGISTRATION FEES</Desc>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>8024</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>SERVICE REVENUE</Desc>
+          <RelatedOrExemptFunctionIncmAmt>1349803</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>823337</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>1669990</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>2493327</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>5B</LineNumberTxt>
+          <RelationshipStatementTxt>PROVIDING SPACE TO SOCIAL SERVICE AGENCIES TO HELP PERFORM SERVICES FOR ELDERLY</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>11A</LineNumberTxt>
+          <RelationshipStatementTxt>PROVIDING SERVICE COORDINATION SERVICES AND IMPROVING THE QUALITY OF LIFE FOR ELDERLY ADULTS IN INDEPENDENT LIVING FACILITIES</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>11D</LineNumberTxt>
+          <RelationshipStatementTxt>PROVIDING SERVICE COORDINATION SERVICES TO VARIOUS HOUSING DEVELOPMENTS</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>AMERICAN HOUSE FOUNDATION</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>87 EAST FERRY</AddressLine1Txt>
+          <CityNm>DETROIT</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>482023801</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>9000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>THE CHARLTON FOUNDATION</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>433 CLOVERLY ROAD</AddressLine1Txt>
+          <CityNm>GROSSE POINTE FARMS</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>482363205</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>STATE OF MICHIGAN</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>300 NORTH WASHINGTON SQUARE</AddressLine1Txt>
+          <CityNm>LANSING</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>489331244</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND</PropertyDesc>
+        <CostOrOtherBasisAmt>238219</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>L</ComputationMethodTxt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING IMPROVEMENTS</PropertyDesc>
+        <CostOrOtherBasisAmt>3793519</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3202247</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.000000000000</Rt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>EQUIPMENT AND VEHICLES</PropertyDesc>
+        <CostOrOtherBasisAmt>407513</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>359940</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.000000000000</Rt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PUBLICLY-TRADED STOCKS</StockNm>
+        <EOYBookValueAmt>1589409</EOYBookValueAmt>
+        <EOYFMVAmt>1589409</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD VALUE ETF INDEX FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>2909612</BookValueAmt>
+        <EOYFMVAmt>2909612</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD GROWTH ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>3067756</BookValueAmt>
+        <EOYFMVAmt>3067756</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BLACKROCK GLOBAL ALLOCATION I FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>654217</BookValueAmt>
+        <EOYFMVAmt>654217</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FIRST EAGLE GLOBAL I FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>670224</BookValueAmt>
+        <EOYFMVAmt>670224</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>IVA WORLDWIDE I FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>646713</BookValueAmt>
+        <EOYFMVAmt>646713</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>WELLS FARGO ASSET ALLOCATION I FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>654558</BookValueAmt>
+        <EOYFMVAmt>654558</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>WESTERN ASSET CORE BOND I FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>3129210</BookValueAmt>
+        <EOYFMVAmt>3129210</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc2059000001">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>LAND</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>238219</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+        <BookValueAmt>238219</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>BUILDING IMPROVEMENTS</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>3793519</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>3202247</AccumulatedDepreciationAmt>
+        <BookValueAmt>591272</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>EQUIPMENT AND VEHICLES</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>407513</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>359940</AccumulatedDepreciationAmt>
+        <BookValueAmt>47573</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>13866</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>13866</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED LOSS ON INVESTMENTS</Desc>
+        <Amt>768748</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>PENSION-RELATED COSTS OTHER THAN NET PERIODIC PENSION COST</Desc>
+        <Amt>1028</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>163427</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>163427</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REPAIRS AND MAINTENANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>65577</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>65577</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EMERGENCY NEEDS PROGRAM EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>20280</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>20280</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>38236</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>38236</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>30694</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>30694</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>15982</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>15982</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PARKING</Desc>
+        <RevenueAndExpensesPerBooksAmt>21458</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>21458</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>21458</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>CONTRACT REVENUE</Desc>
+        <RevenueAndExpensesPerBooksAmt>181243</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>181243</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>MISCELLANEOUS INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>85956</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>85956</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>REGISTRATION FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>8024</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>8024</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>SERVICE REVENUE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1349803</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>1349803</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>LIABILITY FOR PENSION AND POSTRETIREMENT BENEFITS</Desc>
+        <BOYBookValueAmt>758345</BOYBookValueAmt>
+        <EOYBookValueAmt>744709</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CUSTODIAL FEES</CategoryTxt>
+        <Amt>79082</Amt>
+        <NetInvestmentIncomeAmt>79082</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>79082</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OTHER PROFESSIONAL FEES</CategoryTxt>
+        <Amt>466960</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>466960</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAXES</CategoryTxt>
+        <Amt>94336</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>94336</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

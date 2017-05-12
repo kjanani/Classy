@@ -1,0 +1,931 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2014v6.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-13T15:01:20-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-10-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>MARCUM LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>ONE SE THIRD AVENUE SUITE 1100</AddressLine1Txt>
+        <CityNm>MIAMI</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>33131</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2014-11-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>222578686</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Silpe Foundation</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>c/o Gimco USA</BusinessNameLine2Txt>
+      </BusinessName>
+      <InCareOfNm>% GIMCO USA</InCareOfNm>
+      <BusinessNameControlTxt>SILP</BusinessNameControlTxt>
+      <PhoneNum>5615864600</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>255 South Ocean Boulevard</AddressLine1Txt>
+        <CityNm>Manalapan</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>33462</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DON SILPE</PersonNm>
+      <PersonTitleTxt>OFFICER</PersonTitleTxt>
+      <PhoneNum>3059959600</PhoneNum>
+      <SignatureDt>2016-09-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Shaun Blogg</PreparerPersonNm>
+      <PTIN>P00306714</PTIN>
+      <PhoneNum>3059959600</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2014</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1044782</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>195</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>195</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>25232</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>25232</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>53625</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>181708</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>53625</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">86</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>79138</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>79052</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">1600</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">2234</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>737</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">17319</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>17319</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>21153</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>18056</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>90902</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>90902</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>112055</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>18056</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>90902</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-32917</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>60996</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>14190</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>1506</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>1506</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>694022</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">672506</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1043276</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>708212</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>674012</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1044782</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>2583</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>1300</AccountsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>2583</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>1300</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>705629</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>672712</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>705629</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>672712</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>708212</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>674012</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>705629</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-32917</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>672712</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>672712</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NEUBERGER BERMAN #4045 SEE ATTACHED</PropertyDesc>
+          <GrossSalesPriceAmt>109065</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>93451</CostOrOtherBasisAmt>
+          <GainOrLossAmt>15614</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>15614</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NEUBERGER BERMAN #4045 SEE ATTACHED</PropertyDesc>
+          <GrossSalesPriceAmt>72628</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>34632</CostOrOtherBasisAmt>
+          <GainOrLossAmt>37996</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>37996</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>53625</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>70294</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1207149</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.058231</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>138175</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>1153781</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.119758</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>87137</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1094886</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.079585</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>120252</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1139193</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.105559</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>189430</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1198083</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.158111</DistributionYr5Rt>
+        <TotalDistributionRt>0.521244</TotalDistributionRt>
+        <AverageDistributionRt>0.104249</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1095496</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>114204</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>610</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>114814</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>90902</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1220</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1220</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1220</TaxBasedOnInvestmentIncomeAmt>
+        <AppliedToEsTaxAmt>1300</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>1300</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>28</EsPenaltyAmt>
+        <OverpaymentAmt>52</OverpaymentAmt>
+        <AppliedToESTaxAmt>52</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd referenceDocumentId="BinaryAttach">false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd referenceDocumentId="BinaryAttach">false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd referenceDocumentId="BinaryAttach">false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>NONE</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>GIMCO USA</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5615864600</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>828 WEST LANTANA ROAD</AddressLine1Txt>
+          <CityNm>LANTANA</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>334621509</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DONALD SILPE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>255 South Ocean Boulevard</AddressLine1Txt>
+            <CityNm>Manalapan</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33462</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT,TREASURER,DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LINDA SILPE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>255 South Ocean Boulevard</AddressLine1Txt>
+            <CityNm>Manalapan</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33462</ZIPCd>
+          </USAddress>
+          <TitleTxt>VP, SECRETARY &amp; DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JENNIFER SILPE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>255 South Ocean Boulevard</AddressLine1Txt>
+            <CityNm>Manalapan</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33462</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1097402</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>14777</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1112179</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1112179</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>16683</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1095496</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>54775</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>54775</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1220</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1220</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>53555</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>53555</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>53555</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>90902</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>90902</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>90902</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>53555</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2012</PriorYear1Yr>
+        <PriorYear2Yr>2011</PriorYear2Yr>
+        <PriorYear3Yr>2010</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>129953</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>63892</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>33817</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>80570</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>12520</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>320752</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>90902</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>53555</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>37347</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>358099</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>129953</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>228146</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>63892</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>33817</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>80570</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>12520</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>37347</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>DONALD SILPE</ContributingManagerNm>
+        <ContributingManagerNm>LINDA SILPE</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARMONY ART CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1700 PARKER AVENUE</AddressLine1Txt>
+            <CityNm>WEST PALM BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ENABLE ARMORY ART CENTER TO INSPIRE THE CREATION AND EXPERIENCE OF ART.</GrantOrContributionPurposeTxt>
+          <Amt>19500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HARTFORD STAGE COMPANY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 CHURCH STREET</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06013</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ENABLE HARTFORD TO CREATE HIGH QUALITY, PROFESSIONAL, INNOVATIVE THEATRE OF CONSISTENT ARTISTIC AND CULTURAL SIGNIFICANCE.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MOUNTS BOTANICAL GARDEN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>559 NORTH MILITARY TRAIL</AddressLine1Txt>
+            <CityNm>WEST PALM BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33415</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ENABLE MOUNTS BOTANICAL TO PROMOTE GARDENS AND GARDENING UNIQUE TO THE SUBTROPICS AND PROVIDING OPPORTUNITIES FOR PEOPLE TO LEARN THE ART, SCIENCE AND JOY OF GARDENING.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PALM BEACH DRAMAWORKS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>201 Clematis St</AddressLine1Txt>
+            <CityNm>WEST PALM BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To enable Palm Beach Drama to engage and entertain audiences with provocative and timeless productions that personally impacts each individual.</GrantOrContributionPurposeTxt>
+          <Amt>4950</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SCHOOL OF ARTS FOUNDATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 552</AddressLine1Txt>
+            <CityNm>WEST PALM BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>334020552</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To enhance the arts and academic programs at the internationally recognized Alexander W. Dreyfoos School of the Arts and provide for curriculum enhancements that cannot be funded through the School District.</GrantOrContributionPurposeTxt>
+          <Amt>10010</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KRAVIS CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>701 OKEECHOBEE BLVD</AddressLine1Txt>
+            <CityNm>WEST PALM BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to enhance the quality of life in Palm Beach County.</GrantOrContributionPurposeTxt>
+          <Amt>12500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>METROPOLITAN MUSEUM OF ART</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 FIFTH AVENUE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10028</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to allow the museum to be located in the City of New York and encouraging and developing the study of the fine arts.</GrantOrContributionPurposeTxt>
+          <Amt>510</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WILDLIFE CONSERVATION FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2300 SOUTHERN BOULEVARD</AddressLine1Txt>
+            <CityNm>BRONX</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10460</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To enable WCF to save wildlife and wild places worldwide through science, conservation action, education, and inspiring people to value nature.</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Duncan Theatre</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4200 Congress Ave</AddressLine1Txt>
+            <CityNm>LAKE WORTH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33461</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To allow the theatre to continue its long history of presenting outstanding performing arts experiences.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JEWISH FEDERATION OF HARTFORD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 BLOOMFIELD AVENUE</AddressLine1Txt>
+            <CityNm>WEST HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06117</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To enable the Jewish Federation to carry out its mission to care for the neediest, bring jewish values to life through education and unique learning experiences, and supporting israel and jewish communities overseas.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE ACTOR'S FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>729 7TH AVENUE</AddressLine1Txt>
+            <AddressLine2Txt>10th FLOOR</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To help the fund provide programs and services for those who are in need, crisis, or transition who are or have been professionals in the performing arts and entertainment.</GrantOrContributionPurposeTxt>
+          <Amt>2600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE JEWISH MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1109 FIFTH AVENUE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10128</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ENABLE THE MUSEUM to maintains a unique collection of nearly 30,000 works of fine art and broadcast media, as well as educate the public.</GrantOrContributionPurposeTxt>
+          <Amt>552</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE PLAYWRIGHT CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2301 EAST FRANKLIN</AddressLine1Txt>
+            <CityNm>MINNEAPOLIS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55406</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ENABLE THE PLAYWRIGHT CENTER to support playwrights and promote new plays to production at theaters across the country.</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CULTURAL COUNCIL OF PB COUNTY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>601 LAKE AVENUE</AddressLine1Txt>
+            <CityNm>LAKE WORTH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33460</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To help The Cultural Councils advocacy efforts cover public policy and funding issues locally, state-wide and nationally, speaking on behalf of the cultural industry and its impact on issues and people.</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF HARTFORD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 BLOOMFIELD AVE</AddressLine1Txt>
+            <CityNm>WEST HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06117</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To enable The University of Hartford to provide a robust, distinctive educational experience for its more than 5,000 undergraduate and 1,600 graduate students.</GrantOrContributionPurposeTxt>
+          <Amt>12000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Academy for Teachers</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 W 90th St</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ENABLE THE ACADEMY TO BRING TEACHERS AND CREATIVE MINDS TOGETHER for educational experiences for its more than 5,000 undergraduate and 1,600 graduate students.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Ann Norton Sculptural Gardens</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2051 S Flagler Dr</AddressLine1Txt>
+            <CityNm>West Palm Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO HELP THE FOUNDATION preserve and conserve the historically significant art studio, the sculpture gardens, and the architecture.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Cornell University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 25842</AddressLine1Txt>
+            <CityNm>Lehigh Valley</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>18003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To help make a difference in the lives of students, faculty, and the communities where they embody Cornell's mission of creating knowledge with a public purpose.</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Emergency Medical Assistance</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 33552</AddressLine1Txt>
+            <CityNm>Palm Beach Gardens</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33420</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To enable EMA to improve lives by helping to provide funding for abortions for women and girls who are faced with an unintended or problem pregnancy which they cannot afford to terminate.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Healthnetwork Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>33 River Street</AddressLine1Txt>
+            <CityNm>Chagrin Falls</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To improve medicine for all by connecting CEOs and business leaders with leading hospitals and their doctors to provide the best access to world class care and increase philanthropic funding for medical research.</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Manalapan Police Department</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>600 S Ocean Blvd</AddressLine1Txt>
+            <CityNm>Manalapan</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33462</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To enable The members of the Manalapan Police Department to provide the highest level of service to the community.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The New York Botanical Garden</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2900 Southern Blvd</AddressLine1Txt>
+            <CityNm>Bronx</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10458</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To help the Garden pursue its mission through its role as a museum of living plant collections arranged in gardens and landscapes across its National Historic Landmark site.</GrantOrContributionPurposeTxt>
+          <Amt>125</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Hudson Opera House</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>210 W 101st St</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To help the Hudson Opera House inspire and promote the arts and play a pivotal role in the cultural and economic advancement of the region</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CONNECTICUT FOUNDATION FOR DENTAL OUTREACH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>835 West Queen Street</AddressLine1Txt>
+            <CityNm>SOUTHINGTON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06489</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To enable The Connecticut Foundation for Dental Outreach provide charitable dental care to the underserved and building awareness of the importance of oral healthcare to create a healthier community.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EL SOL JUPITER NEIGHBORHOOD RESOURCE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>106 MILITARY TRAIL</AddressLine1Txt>
+            <CityNm>JUPITER</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33458</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to improve the quality of life of all residents of the Town of Jupiter by providing services to those in need, especially day laborers and their families.</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GOOD SAMARITAN HEALTH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3600 NW SAMARITAN DRIVE</AddressLine1Txt>
+            <CityNm>CORVALLIS</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97330</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ENABLE GOOD SAMARITAN HEALTH SERVICES TO enhance community health and achieve high value through quality services across a continuum of care.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST VINCENT DEPAUL HOLY SPIRIT CATHOLIC CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7667 EAST 109TH AVENUE</AddressLine1Txt>
+            <CityNm>CROWN POINT</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46307</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ENABLE ST. VINCENT DEPAUL TO HELP THOSE AROUND THEM WHO ARE IN NEED.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>J TURNER MOORE MEMORIAL LIBRARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1330 LANDS END ROAD</AddressLine1Txt>
+            <CityNm>MANALAPAN</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33462</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO HELP The Library provide access to knowledge, information, and works of the imagination through a range of resources and services.</GrantOrContributionPurposeTxt>
+          <Amt>65</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JEWISH THEOLOGICAL SEMINARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3080 BROADWAY</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ENABLE a preeminent institution of Jewish higher education that integrates rigorous academic scholarship and teaching with a commitment to strengthening Jewish tradition, Jewish lives, and Jewish communities.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JOSEPH &amp; MARILYN GABRIELE SCHOLARSHIP</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>942 HOPMEADOW ST</AddressLine1Txt>
+            <CityNm>SIMSBURY</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06070</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ENABLE The Joseph and Marilyn Gabriele Scholarship Fund TO offer needs-based scholarships to students at St.Mary's School.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MAD (MUSEUM OF ARTS &amp; DESIGN)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2 COLUMBUS CIRCLE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ENABLE the Museum of Arts and Design (MAD) to collect, display, and interpret objects that document contemporary and historic innovation in craft, art, and design.</GrantOrContributionPurposeTxt>
+          <Amt>140</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MDA (EVERYDAY HEROES GALA)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1201 BROAD STREET</AddressLine1Txt>
+            <CityNm>CHATTANOOGA</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37402</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO HELP WITH THE FIGHT AGAINST ALS.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NORTON MUSEUM OF ARTS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1451 S OLIVE AVENUE</AddressLine1Txt>
+            <CityNm>WEST PALM BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to provide outstanding special exhibitions, programming, and education outreach</GrantOrContributionPurposeTxt>
+          <Amt>2650</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WPBT2</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 610002</AddressLine1Txt>
+            <CityNm>MIAMI</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33261</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST WPBT2 entertain, enlighten, and educate.</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE DAN FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 123</AddressLine1Txt>
+            <CityNm>CITY</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>12345</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO HELP THE DAN FOUNDATION</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>90902</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp />
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>25427</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>53625</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>AIG LITIGATION</Desc>
+          <ExclusionAmt>86</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>79138</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>79138</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION FEES</CategoryTxt>
+        <Amt>1600</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NEUBERGER &amp; BERMAN</StockNm>
+        <EOYBookValueAmt>672506</EOYBookValueAmt>
+        <EOYFMVAmt>1043276</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>17319</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>17319</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>AIG LITIGATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>86</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>737</Amt>
+        <NetInvestmentIncomeAmt>737</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>1497</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

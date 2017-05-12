@@ -1,0 +1,1429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-15T13:21:04-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>382095735</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>VANDERWAL SPRATTO &amp; RICHARDS PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>475 WATER STREET</AddressLine1Txt>
+        <CityNm>MANISTEE</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>49660</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>383182232</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BELLWETHER FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BELL</BusinessNameControlTxt>
+      <PhoneNum>2319249230</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 475</AddressLine1Txt>
+        <CityNm>FREMONT</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>49412</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DANIELLE MERRILL</PersonNm>
+      <PersonTitleTxt>PRESIDENT &amp; DIRECTOR</PersonTitleTxt>
+      <PhoneNum>2319249230</PhoneNum>
+      <SignatureDt>2016-08-19</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DAVID L RICHARDS CPA</PreparerPersonNm>
+      <PTIN>P00149025</PTIN>
+      <PhoneNum>2317236275</PhoneNum>
+      <PreparationDt>2016-09-15</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="16">
+    <IRS990PF documentId="RetDoc3">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2584188</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>540499</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>18</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>18</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>18</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>20333</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>20333</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>20333</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc6">3241</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>28116</GrossSalesPriceAmt>
+        <GrossSalesLessRetAndAllwncAmt>2470</GrossSalesLessRetAndAllwncAmt>
+        <CostOfGoodsSoldAmt>2230</CostOfGoodsSoldAmt>
+        <GrossProfitRevAndExpnssAmt referenceDocumentId="RetDoc17">240</GrossProfitRevAndExpnssAmt>
+        <GrossProfitAdjNetIncmAmt>240</GrossProfitAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc14">20929</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>20929</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>585260</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>20351</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>41520</TotalAdjNetIncmAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>250398</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>250398</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>16029</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>16029</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc9">11485</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>5742</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>5743</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc4">6765</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>3382</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>3383</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc16">6424</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>6358</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>66</OtherProfFeesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc5">70289</DeprecAndDpltnRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc12">144400</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>144400</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>505790</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>15482</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>420019</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>505790</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>15482</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>420019</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>79470</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>4869</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>41520</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>7114</CashBOYAmt>
+        <CashEOYAmt>36861</CashEOYAmt>
+        <CashEOYFMVAmt>36860</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>615842</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>89058</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>661714</SavAndTempCashInvstEOYFMVAmt>
+        <InventoriesBOYAmt>11943</InventoriesBOYAmt>
+        <InventoriesEOYAmt>15425</InventoriesEOYAmt>
+        <InventoriesEOYFMVAmt>15425</InventoriesEOYFMVAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc7">572656</CorporateStockEOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>2397170</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>527441</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>1845837</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc8">1869729</LandEOYAmt>
+        <LandEOYFMVAmt>1870189</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc10">303</OtherAssetsBOYAmt>
+        <TotalAssetsBOYAmt>2481039</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2583729</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2584188</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>5125</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>13983</AccountsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc15">10610</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc15">13663</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>15735</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>27646</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>2461458</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>2551737</UnrestrictedEOYAmt>
+        <TemporarilyRestrictedBOYAmt>3846</TemporarilyRestrictedBOYAmt>
+        <TemporarilyRestrictedEOYAmt>4346</TemporarilyRestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2465304</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2556083</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2481039</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2583729</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2465304</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>79470</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc13">106084</OtherIncreasesAmt>
+        <SubtotalAmt>2650858</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc11">94775</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2556083</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>413347</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>2443630</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.169153</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>402206</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>2425338</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.165835</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>323893</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>2385345</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.135785</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>324172</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>2416188</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.134167</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>331040</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>2419548</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.136819</DistributionYr5Rt>
+        <TotalDistributionRt>0.741759</TotalDistributionRt>
+        <AverageDistributionRt>0.148352</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>2557836</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>379460</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>49</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>379509</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>420019</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>49</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>49</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>49</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>49</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MI</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>true</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <WebsiteAddressTxt>WWW.BELLWETHERHARBOR.ORG</WebsiteAddressTxt>
+        <IndividualWithBooksNm>DANIELLE S MERRILL</IndividualWithBooksNm>
+        <PhoneNum>2319244293</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 170</AddressLine1Txt>
+          <CityNm>FREMONT</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>49412</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>true</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DANIELLE MERRILL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 475</AddressLine1Txt>
+            <CityNm>FREMONT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49412</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT &amp;</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CATHERINE OBITS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4894 BROOKSIDE LANE</AddressLine1Txt>
+            <CityNm>FREMONT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49412</ZIPCd>
+          </USAddress>
+          <TitleTxt>V. P. &amp; TREA</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CATHERINE OBITS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4894 BROOKSIDE LANE</AddressLine1Txt>
+            <CityNm>FREMONT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49412</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SUSAN MEYERS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>111 LYON ST NW</AddressLine1Txt>
+            <CityNm>GRAND RAPIDS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49503</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>HOLLY MERRILL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3750 SUNRISE LANE</AddressLine1Txt>
+            <CityNm>KEY WEST</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33040</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SHERRIE HARRIS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>715 S LUCE</AddressLine1Txt>
+            <CityNm>FREMONT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49412</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>OPERATING A SHELTER FOR HOMELESS AND INJURED ANIMALS HELPING ANIMALS AND PEOPLE MAKE A CONNECTION, THROUGH EDUCATION, TRAINING AND ADOPTION. WITH A FOCUS ON BUILDING STRONG, HEALTHY RELATIONSHIPS BETWEEN HUMANS AND ANIMALS, THE SHELTER WILL PROVIDE TRAINING OPPORTUNITIES AND FACILITIES FOR USE BY COMMUNITY GROUPS AND INDIVIDUALS.</Description1Txt>
+        <Expenses1Amt>419952</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>570589</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>118063</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>1908136</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2596788</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2596788</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>38952</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2557836</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>127892</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>420019</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>420019</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>49</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>419970</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <QualifyingDistributionsAmt>420019</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>420019</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>420019</TotalCorpusAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <PrivateOperatingFndtnRulingDt>2004-05-31</PrivateOperatingFndtnRulingDt>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>41520</CurrentYearAmt>
+          <Year1Amt>43574</Year1Amt>
+          <Year2Amt>37324</Year2Amt>
+          <Year3Amt>43631</Year3Amt>
+          <TotalAmt>166049</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>35292</CurrentYearAmt>
+          <Year1Amt>37038</Year1Amt>
+          <Year2Amt>31725</Year2Amt>
+          <Year3Amt>37086</Year3Amt>
+          <TotalAmt>141141</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>420019</CurrentYearAmt>
+          <Year1Amt>413491</Year1Amt>
+          <Year2Amt>402206</Year2Amt>
+          <Year3Amt>323893</Year3Amt>
+          <TotalAmt>1559609</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>420019</CurrentYearAmt>
+          <Year1Amt>413491</Year1Amt>
+          <Year2Amt>402206</Year2Amt>
+          <Year3Amt>323893</Year3Amt>
+          <TotalAmt>1559609</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>85261</CurrentYearAmt>
+          <Year1Amt>81455</Year1Amt>
+          <Year2Amt>80845</Year2Amt>
+          <Year3Amt>79511</Year3Amt>
+          <TotalAmt>327072</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>DANIELLE S MERRILL</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>18</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>20333</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>3241</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <GrossProfitLossSlsOfInvntryGrp>
+          <ExclusionCd>3</ExclusionCd>
+          <ExclusionAmt>240</ExclusionAmt>
+        </GrossProfitLossSlsOfInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>PET ADOPTION INCOME</Desc>
+          <ExclusionCd>3</ExclusionCd>
+          <ExclusionAmt>5000</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>FUNDRAISING SPECIAL EVENTS</Desc>
+          <ExclusionCd>3</ExclusionCd>
+          <ExclusionAmt>11611</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER SHELTER PROGRAM INCOME</Desc>
+          <ExclusionCd>3</ExclusionCd>
+          <ExclusionAmt>4318</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>41520</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>3241</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>44761</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>DANIELLE S MERRILL</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 170</AddressLine1Txt>
+          <CityNm>FREMONT</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>49412</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>327346</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>DOROTHY SCOTT MERRILL</BusinessNameLine1Txt>
+          <BusinessNameLine2Txt>CHARITABLE INCOME TRUST</BusinessNameLine2Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>C/O HOLLY MERRILL</AddressLine1Txt>
+          <AddressLine2Txt>3750 SUNRISE LANE</AddressLine2Txt>
+          <CityNm>KEY WEST</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33040</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>100000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>ROBERT SHURMUR TRUST</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 396</AddressLine1Txt>
+          <CityNm>NEWAYGO</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>49337</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>84632</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>LAWN MOWER</NoncashPropertyDesc>
+        <FairMarketValueAmt>12346</FairMarketValueAmt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc4">
+      <AccountingFeesDetail>
+        <CategoryTxt>INDIRECT ACCOUNTING FEES</CategoryTxt>
+        <Amt>6765</Amt>
+        <NetInvestmentIncomeAmt>3382</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3383</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc5">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>STAINLESS STEEL ANIMAL KENNEL</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>11148</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>11148</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MAYTAG COMMERCIAL WASHER</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>5814</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>5814</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MAYTAG COMMERCIAL DRYER</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>2471</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2471</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MAYTAG STACK WASHER/DRYER</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1050</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1050</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>DEXTER COMMERCIAL STACK</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>6000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>6000</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>STEELCASE WOOD ARMCHAIR</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1170</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1170</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FOLDING COAT RACK</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1358</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1358</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>RAPID EYE SECURITY SURVEILLANCE</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>5924</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>5924</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>OFFICE DESK SYSTEM &amp; CHAIR</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>2098</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2098</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>EPS SECURITY SYSTEM</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>2771</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2771</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>AMANA REFRIDGERATOR</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1053</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1053</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>OFFICE DESK SYSTEM</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>2294</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2294</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>RECEPTION DESK</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>9131</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>9131</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>4 SNYDER 2D/2D</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>11610</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>11610</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SHORE-LINE CEILING SURGERY</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1411</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1411</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SNYDER DRYING UNIT</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>2393</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2393</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>OFFICE TELEPHONE EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>23655</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>23655</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ENCORE L-20 FLOOR WASHING</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>5387</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>5387</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>WINDSOR CARPET EXTRACTOR</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1792</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1792</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SATELLITE DISH SYSTEM</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1236</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1236</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SET OF INTERERIOR ROOM SIGNS</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1331</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1331</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>STEELCASE MAX STACKER CHAIRS</PropertyDesc>
+        <AcquiredDt>2002-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>3835</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3835</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ADOPT-A-FRIEND SHELTER SO</PropertyDesc>
+        <AcquiredDt>2005-05-03</AcquiredDt>
+        <CostOrOtherBasisAmt>1950</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1950</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>DELL LAPTOP</PropertyDesc>
+        <AcquiredDt>2007-12-17</AcquiredDt>
+        <CostOrOtherBasisAmt>1580</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1580</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>HONDA EM5000SX GENERATOR</PropertyDesc>
+        <AcquiredDt>2009-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>2699</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>900</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>3.0000</LifeRt>
+        <CurrentYearExpenseAmt>900</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND</PropertyDesc>
+        <AcquiredDt>2009-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>110000</CostOrOtherBasisAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>DELL COMPUTER WORKSTATION</PropertyDesc>
+        <AcquiredDt>2008-02-15</AcquiredDt>
+        <CostOrOtherBasisAmt>1025</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1025</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>DELL COMPUTER WORKSTATION</PropertyDesc>
+        <AcquiredDt>2008-02-15</AcquiredDt>
+        <CostOrOtherBasisAmt>1025</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1025</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>DELL COMPUTER WORKSTATION</PropertyDesc>
+        <AcquiredDt>2008-02-15</AcquiredDt>
+        <CostOrOtherBasisAmt>1025</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1025</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>WALL MOUNTED MIRRORS</PropertyDesc>
+        <AcquiredDt>2003-03-28</AcquiredDt>
+        <CostOrOtherBasisAmt>1100</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1100</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>DELL SERVER</PropertyDesc>
+        <AcquiredDt>2008-02-15</AcquiredDt>
+        <CostOrOtherBasisAmt>3098</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3098</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ADDITIONAL FENCE</PropertyDesc>
+        <AcquiredDt>2009-07-31</AcquiredDt>
+        <CostOrOtherBasisAmt>635</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>344</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>63</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MICROSCOPE</PropertyDesc>
+        <AcquiredDt>2007-09-14</AcquiredDt>
+        <CostOrOtherBasisAmt>1206</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1206</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>1997 CAR MATE TRAILER</PropertyDesc>
+        <AcquiredDt>2011-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1025</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>718</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>205</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>STAINLESS STEEL CAT KENNEL</PropertyDesc>
+        <AcquiredDt>2006-09-30</AcquiredDt>
+        <CostOrOtherBasisAmt>2382</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1965</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>238</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>RUG RACK</PropertyDesc>
+        <AcquiredDt>2007-08-31</AcquiredDt>
+        <CostOrOtherBasisAmt>1772</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1772</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>AUTOCLAVE</PropertyDesc>
+        <AcquiredDt>2007-11-14</AcquiredDt>
+        <CostOrOtherBasisAmt>2555</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2555</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FENCING</PropertyDesc>
+        <AcquiredDt>2003-08-02</AcquiredDt>
+        <CostOrOtherBasisAmt>6632</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>6632</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPRESSORS FOR A/C 1</PropertyDesc>
+        <AcquiredDt>2008-10-30</AcquiredDt>
+        <CostOrOtherBasisAmt>4128</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2546</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>412</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IRRIGATION SYSTEM</PropertyDesc>
+        <AcquiredDt>2008-06-05</AcquiredDt>
+        <CostOrOtherBasisAmt>4223</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2780</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>422</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COPIER</PropertyDesc>
+        <AcquiredDt>2006-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>4446</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3557</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>444</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LIFT STATION PUMP</PropertyDesc>
+        <AcquiredDt>2011-12-01</AcquiredDt>
+        <CostOrOtherBasisAmt>3210</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1414</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+        <CurrentYearExpenseAmt>458</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>TAG MACHINE</PropertyDesc>
+        <AcquiredDt>2011-03-01</AcquiredDt>
+        <CostOrOtherBasisAmt>2845</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2181</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>569</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>AGILITY EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2011-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>2882</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2017</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>577</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ACCOUSTIC PANELS</PropertyDesc>
+        <AcquiredDt>2003-06-05</AcquiredDt>
+        <CostOrOtherBasisAmt>13834</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>13834</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>STATUE IN ENTRY</PropertyDesc>
+        <AcquiredDt>2003-12-10</AcquiredDt>
+        <CostOrOtherBasisAmt>13125</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>7273</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>20.0000</LifeRt>
+        <CurrentYearExpenseAmt>657</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COURTYARD &amp; DRAINS</PropertyDesc>
+        <AcquiredDt>2007-09-30</AcquiredDt>
+        <CostOrOtherBasisAmt>12455</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>6020</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>830</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SECURITY CAMERA UPGRADE</PropertyDesc>
+        <AcquiredDt>2011-03-01</AcquiredDt>
+        <CostOrOtherBasisAmt>7181</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>5505</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>1437</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SHELTER INSULLATION</PropertyDesc>
+        <AcquiredDt>2011-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>15000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>5625</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>1500</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>YEATON GENERATOR</PropertyDesc>
+        <AcquiredDt>2012-09-21</AcquiredDt>
+        <CostOrOtherBasisAmt>15970</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3593</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>1597</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>2001 KUBOTA TRACTOR</PropertyDesc>
+        <AcquiredDt>2010-05-20</AcquiredDt>
+        <CostOrOtherBasisAmt>18800</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>8617</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>1880</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>PERIMETER FENCE</PropertyDesc>
+        <AcquiredDt>2008-04-21</AcquiredDt>
+        <CostOrOtherBasisAmt>19227</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>12818</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>1923</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>WATER HEATER</PropertyDesc>
+        <AcquiredDt>2008-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>24800</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>16120</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>2480</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ANIMAL SHELTER BUILDING</PropertyDesc>
+        <AcquiredDt>2009-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>1890000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>236250</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>40.0000</LifeRt>
+        <CurrentYearExpenseAmt>47250</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>2002 GMC ENVOY</PropertyDesc>
+        <AcquiredDt>2013-08-26</AcquiredDt>
+        <CostOrOtherBasisAmt>7800</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2600</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>4.0000</LifeRt>
+        <CurrentYearExpenseAmt>325</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>OPTIPLEX 3020 COMPUTER</PropertyDesc>
+        <AcquiredDt>2014-04-18</AcquiredDt>
+        <CostOrOtherBasisAmt>1175</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>157</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>235</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPRESSOR AHU 3</PropertyDesc>
+        <AcquiredDt>2015-09-01</AcquiredDt>
+        <CostOrOtherBasisAmt>4650</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>155</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>STORAGE BUILDING</PropertyDesc>
+        <AcquiredDt>2015-09-15</AcquiredDt>
+        <CostOrOtherBasisAmt>55652</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>40.0000</LifeRt>
+        <CurrentYearExpenseAmt>464</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER WORK STATION</PropertyDesc>
+        <AcquiredDt>2015-08-15</AcquiredDt>
+        <CostOrOtherBasisAmt>1150</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>96</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MOWER WITH VACCUM &amp; DUMP CART</PropertyDesc>
+        <AcquiredDt>2015-05-01</AcquiredDt>
+        <CostOrOtherBasisAmt>12346</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+        <CurrentYearExpenseAmt>1176</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER WORK STATION</PropertyDesc>
+        <AcquiredDt>2015-08-15</AcquiredDt>
+        <CostOrOtherBasisAmt>1150</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>96</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER WORK STATION</PropertyDesc>
+        <AcquiredDt>2015-08-15</AcquiredDt>
+        <CostOrOtherBasisAmt>1150</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>96</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAPTOP</PropertyDesc>
+        <AcquiredDt>2015-08-15</AcquiredDt>
+        <CostOrOtherBasisAmt>1500</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>125</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MEMORIAL GARDEN</PropertyDesc>
+        <AcquiredDt>2015-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>4829</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>322</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>GRAND CARAVAN</PropertyDesc>
+        <AcquiredDt>2015-03-01</AcquiredDt>
+        <CostOrOtherBasisAmt>20000</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>3333</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>DEVLOPEMENT COORD. COMPUTER</PropertyDesc>
+        <AcquiredDt>2015-12-08</AcquiredDt>
+        <CostOrOtherBasisAmt>1459</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>24</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc6">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DELL LAPTOP</AssetDesc>
+        <AcquiredDt>2007-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-09</SoldDt>
+        <BasisAmt>1580</BasisAmt>
+        <AccumulatedDepreciationAmt>1580</AccumulatedDepreciationAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DELL COMPUTER WORKSTATION</AssetDesc>
+        <AcquiredDt>2008-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-09</SoldDt>
+        <BasisAmt>1025</BasisAmt>
+        <AccumulatedDepreciationAmt>1025</AccumulatedDepreciationAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DELL COMPUTER WORKSTATION</AssetDesc>
+        <AcquiredDt>2008-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-09</SoldDt>
+        <BasisAmt>1025</BasisAmt>
+        <AccumulatedDepreciationAmt>1025</AccumulatedDepreciationAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DELL COMPUTER WORKSTATION</AssetDesc>
+        <AcquiredDt>2008-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-09</SoldDt>
+        <BasisAmt>1025</BasisAmt>
+        <AccumulatedDepreciationAmt>1025</AccumulatedDepreciationAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>2002 GMC ENVOY</AssetDesc>
+        <AcquiredDt>2013-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-03</SoldDt>
+        <GrossSalesPriceAmt>5000</GrossSalesPriceAmt>
+        <BasisAmt>7800</BasisAmt>
+        <TotalNetAmt>125</TotalNetAmt>
+        <AccumulatedDepreciationAmt>2925</AccumulatedDepreciationAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SP500 CLIRN ISSUER BAC</AssetDesc>
+        <AcquiredDt>2013-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <GrossSalesPriceAmt>23116</GrossSalesPriceAmt>
+        <BasisAmt>20000</BasisAmt>
+        <TotalNetAmt>3116</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc7">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AUTOMATIC DATA PROC</StockNm>
+        <EOYBookValueAmt>9234</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BAXALTA INC</StockNm>
+        <EOYBookValueAmt>4176</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BAXTER INTERNATIONAL INC</StockNm>
+        <EOYBookValueAmt>4082</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CDK GLOBAL INC</StockNm>
+        <EOYBookValueAmt>1709</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHEMOURS CO SHS</StockNm>
+        <EOYBookValueAmt>123</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CSX CORP</StockNm>
+        <EOYBookValueAmt>7448</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DU PONT E</StockNm>
+        <EOYBookValueAmt>7792</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EMERSON ELECTRIC CO</StockNm>
+        <EOYBookValueAmt>6266</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EXXON MOBIL CORP</StockNm>
+        <EOYBookValueAmt>6548</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GENL DYNAMICS CORP</StockNm>
+        <EOYBookValueAmt>9478</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GENUINE PARTS CO</StockNm>
+        <EOYBookValueAmt>8331</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOHNSON AND JOHNSON</StockNm>
+        <EOYBookValueAmt>8834</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LINEAR TECHNOLOGY CORP</StockNm>
+        <EOYBookValueAmt>8282</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MCDONALDS CORP</StockNm>
+        <EOYBookValueAmt>9806</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NORFOLK SOUTHERN CORP</StockNm>
+        <EOYBookValueAmt>6767</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NORTHROP GRUMMAN CORP</StockNm>
+        <EOYBookValueAmt>14538</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PAYCHEX INC</StockNm>
+        <EOYBookValueAmt>10631</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PROCTOR &amp; GAMBLE CO</StockNm>
+        <EOYBookValueAmt>7941</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RAYTHEON CO DELAWARE</StockNm>
+        <EOYBookValueAmt>10212</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UNITED TECHS CORP</StockNm>
+        <EOYBookValueAmt>7205</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WAL-MART STORES INC</StockNm>
+        <EOYBookValueAmt>6314</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>3M COMPANY</StockNm>
+        <EOYBookValueAmt>9942</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BLACKROCK GLOBAL</StockNm>
+        <EOYBookValueAmt>51748</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DOUBLELINE TOTAL RETURN</StockNm>
+        <EOYBookValueAmt>63319</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIRST EAGLE</StockNm>
+        <EOYBookValueAmt>57321</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GOTHAM ABSOLUTE RETURN</StockNm>
+        <EOYBookValueAmt>35970</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MAINSTAY EPOCH GLOBAL</StockNm>
+        <EOYBookValueAmt>54999</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MAINSTAY MARKETFIELD</StockNm>
+        <EOYBookValueAmt>43531</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TCW EMERGING</StockNm>
+        <EOYBookValueAmt>37446</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO ABSOLUTE</StockNm>
+        <EOYBookValueAmt>23135</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WESTWOOD INCOME</StockNm>
+        <EOYBookValueAmt>39528</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="RetDoc8">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>BUILDING</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1945652</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>283964</AccumulatedDepreciationAmt>
+        <BookValueAmt>1661688</BookValueAmt>
+        <EOYFMVAmt>1661688</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>BUILDING IMPROVEMENTS</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>48578</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>28838</AccumulatedDepreciationAmt>
+        <BookValueAmt>19740</BookValueAmt>
+        <EOYFMVAmt>19740</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>LAND IMPROVEMENTS</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>21506</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>10374</AccumulatedDepreciationAmt>
+        <BookValueAmt>11132</BookValueAmt>
+        <EOYFMVAmt>11132</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>FURNITURE &amp; EQUIPMENT</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>212309</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>173275</AccumulatedDepreciationAmt>
+        <BookValueAmt>39034</BookValueAmt>
+        <EOYFMVAmt>39033</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>FENCING</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>26493</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>21780</AccumulatedDepreciationAmt>
+        <BookValueAmt>4713</BookValueAmt>
+        <EOYFMVAmt>4714</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>VEHICLE</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>20000</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>3333</AccumulatedDepreciationAmt>
+        <BookValueAmt>16667</BookValueAmt>
+        <EOYFMVAmt>17126</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>COMPUTERS AND SOFTWARE</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>12632</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>5877</AccumulatedDepreciationAmt>
+        <BookValueAmt>6755</BookValueAmt>
+        <EOYFMVAmt>6756</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>LAND</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>110000</CostOrOtherBasisAmt>
+        <BookValueAmt>110000</BookValueAmt>
+        <EOYFMVAmt>110000</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="RetDoc9">
+      <LegalFeesGrp>
+        <CategoryTxt>INDIRECT LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>11485</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>5742</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>5743</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc10">
+      <OtherAssetsScheduleGrp>
+        <Desc>PREPAID EXPENSES</Desc>
+        <BOYBookValueAmt>303</BOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc11">
+      <OtherDecreasesDetail>
+        <Desc>DONATED LABOR &amp; MATERIALS</Desc>
+        <Amt>56084</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED LOSS ON INVESTMENTS</Desc>
+        <Amt>38691</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc12">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ANIMAL CARE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>47831</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>47831</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>11597</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>11597</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BUILDING &amp; GROUNDS MAINTENANC</Desc>
+        <RevenueAndExpensesPerBooksAmt>21739</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>21739</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>1845</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1845</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER MISCELLANEOUS EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1618</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1618</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>VEHICLE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2305</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2305</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>UTILITIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>39474</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>39474</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>8467</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>8467</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EDUCATION/TRAINING</Desc>
+        <RevenueAndExpensesPerBooksAmt>121</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>121</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>4137</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4137</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SPECIAL EVENTS/FUNDRAISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>5266</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>5266</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc14">
+      <OtherIncomeDetail>
+        <Desc>PET ADOPTION INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>5000</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>5000</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>FUNDRAISING SPECIAL EVENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>11611</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>11611</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>OTHER SHELTER PROGRAM INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>4318</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>4318</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc13">
+      <OtherIncreasesDetail>
+        <Desc>DONATED LABOR &amp; MATERIALS</Desc>
+        <Amt>56084</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>DONATED ED SALARY</Desc>
+        <Amt>50000</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc15">
+      <OtherLiabilitiesDetail>
+        <Desc>SPAY/NEUTER DEPOSITS</Desc>
+        <BOYBookValueAmt>150</BOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>ACCRUED WAGES</Desc>
+        <BOYBookValueAmt>6637</BOYBookValueAmt>
+        <EOYBookValueAmt>8449</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>ACCRUED PAYROLL TAXES</Desc>
+        <BOYBookValueAmt>3823</BOYBookValueAmt>
+        <EOYBookValueAmt>4754</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>ACCRUED SALES TAX</Desc>
+        <EOYBookValueAmt>460</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc16">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OTHER PROFESSIONAL FEES</CategoryTxt>
+        <Amt>6424</Amt>
+        <NetInvestmentIncomeAmt>6358</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>66</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <SalesOfInventoryList documentId="RetDoc17">
+      <InventorySaleGrp>
+        <CategoryTxt>RETAIL SALES</CategoryTxt>
+        <GrossSalesAmt>2470</GrossSalesAmt>
+        <CostOfGoodsSoldAmt>2230</CostOfGoodsSoldAmt>
+        <NetAmt>240</NetAmt>
+      </InventorySaleGrp>
+    </SalesOfInventoryList>
+  </ReturnData>
+</Return>

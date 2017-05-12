@@ -1,0 +1,991 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-13T13:17:27-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>MICHAEL F SCARLETT CPA PLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>5250 VIRGINIA WAY SUITE 220</AddressLine1Txt>
+        <CityNm>BRENTWOOD</CityNm>
+        <StateAbbreviationCd>TN</StateAbbreviationCd>
+        <ZIPCd>37027</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>626195897</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>TOBY S WILT FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% DIVERSIFIED TRUST COMPANY</InCareOfNm>
+      <BusinessNameControlTxt>TOBY</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>3102 WEST END AVE Suite 600</AddressLine1Txt>
+        <CityNm>NASHVILLE</CityNm>
+        <StateAbbreviationCd>TN</StateAbbreviationCd>
+        <ZIPCd>37203</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>FRANK BENTON DIVERSIFIED TRUST CO</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>6153867302</PhoneNum>
+      <SignatureDt>2016-09-07</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MICHAEL F SCARLETT</PreparerPersonNm>
+      <PTIN>P00829725</PTIN>
+      <PhoneNum>6153774877</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF">
+      <AddressChangeInd>X</AddressChangeInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2231608</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>12472</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>12347</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>45157</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>45157</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-38648</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>512435</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">18920</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>18920</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>37901</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>76424</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">2890</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1445</AccountingFeesChrtblPrpsAmt>
+        <InterestRevAndExpnssAmt>955</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>955</InterestNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">9019</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1596</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">19968</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>26181</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>32832</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>28732</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>1445</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>145150</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>145150</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>177982</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>28732</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>146595</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-140081</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>47692</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>175865</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>110895</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>110895</SavAndTempCashInvstEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>2210260</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">2135149</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>2120713</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>2386125</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2246044</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2231608</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>2386125</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>2246044</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2386125</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2246044</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2386125</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2246044</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2386125</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-140081</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2246044</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2246044</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PIMCO ALL ASSET FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-09-29</AcquiredDt>
+          <SoldDt>2015-01-26</SoldDt>
+          <GrossSalesPriceAmt>3344</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3500</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-156</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-156</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD EXTENDED MARKET</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-11-05</AcquiredDt>
+          <SoldDt>2015-06-29</SoldDt>
+          <GrossSalesPriceAmt>15000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14181</CostOrOtherBasisAmt>
+          <GainOrLossAmt>819</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>819</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD SPECIALIZED PORT</PropertyDesc>
+          <AcquiredDt>2014-11-03</AcquiredDt>
+          <SoldDt>2015-10-29</SoldDt>
+          <GrossSalesPriceAmt>19782</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19701</CostOrOtherBasisAmt>
+          <GainOrLossAmt>81</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>81</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>JP MORGAN CHASE &amp; CO</PropertyDesc>
+          <AcquiredDt>2013-03-27</AcquiredDt>
+          <SoldDt>2015-06-29</SoldDt>
+          <GrossSalesPriceAmt>70315</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>78963</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-8648</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-8648</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>LEGG MASON BW GLOBAL</PropertyDesc>
+          <AcquiredDt>2013-06-28</AcquiredDt>
+          <SoldDt>2015-04-29</SoldDt>
+          <GrossSalesPriceAmt>6000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6039</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-39</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-39</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>LOOMIS SAYLES SENIOR FLOATING</PropertyDesc>
+          <AcquiredDt>2013-07-01</AcquiredDt>
+          <SoldDt>2015-04-29</SoldDt>
+          <GrossSalesPriceAmt>18800</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19202</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-402</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-402</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>LOOMIS SAYLES SENIOR FLOATING</PropertyDesc>
+          <AcquiredDt>2013-07-01</AcquiredDt>
+          <SoldDt>2015-10-29</SoldDt>
+          <GrossSalesPriceAmt>2500</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2651</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-151</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-151</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PIMCO ALL ASSET FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2015-01-26</SoldDt>
+          <GrossSalesPriceAmt>228666</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>244099</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-15433</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-15433</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD 500 INDEX FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-11-05</AcquiredDt>
+          <SoldDt>2015-11-27</SoldDt>
+          <GrossSalesPriceAmt>19000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18358</CostOrOtherBasisAmt>
+          <GainOrLossAmt>642</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>642</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>DTC MULTI STRATEGY FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-12-31</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>80750</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>82025</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1275</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1275</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CORE FIXED INCOME FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>9400</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9358</CostOrOtherBasisAmt>
+          <GainOrLossAmt>42</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>42</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>INTERNATIONAL EQUITY FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2005-08-31</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>27500</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28037</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-537</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-537</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SHORT DURATION FIXED INCOME</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-05-30</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>8750</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8910</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-160</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-160</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SHORT TERM CAPITAL GAINS K-1S</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2015-12-31</SoldDt>
+          <CostOrOtherBasisAmt>16059</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-16059</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-16059</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>LONG TERM CAPITAL GAINS K-1S</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>2412</GrossSalesPriceAmt>
+          <GainOrLossAmt>2412</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2412</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>LITIGATIN PROCEEDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>80</GrossSalesPriceAmt>
+          <GainOrLossAmt>80</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>80</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>LONG TERM CAPITAL GAIN DISTRIB</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>136</GrossSalesPriceAmt>
+          <GainOrLossAmt>136</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>136</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-38648</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>128175</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>2491114</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.051453</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>163000</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>2427347</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.067152</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>253334</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>2397804</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.105653</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>137775</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>2391952</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.057599</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>125863</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>2229810</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.056446</DistributionYr5Rt>
+        <TotalDistributionRt>0.338303</TotalDistributionRt>
+        <AverageDistributionRt>0.067661</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>2350484</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>159036</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>477</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>159513</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>146595</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>954</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>954</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>954</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>6000</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>6000</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>5046</OverpaymentAmt>
+        <AppliedToESTaxAmt>1200</AppliedToESTaxAmt>
+        <RefundAmt>3846</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TN</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>DIVERSIFIED TRUST COMPANY</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6153867302</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>6075 POPLAR AVENUE SUITE 900</AddressLine1Txt>
+          <CityNm>MEMPHIS</CityNm>
+          <StateAbbreviationCd>TN</StateAbbreviationCd>
+          <ZIPCd>38119</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TOBY S WILT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3102 WEST END AVE STE 600</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37203</ZIPCd>
+          </USAddress>
+          <TitleTxt>COMM. MBR.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2246777</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>139501</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2386278</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2386278</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>35794</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2350484</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>117524</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>117524</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>954</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>954</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>116570</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>116570</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>116570</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>146595</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>146595</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>146595</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>116570</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2013</PriorYear1Yr>
+        <PriorYear2Yr>2012</PriorYear2Yr>
+        <PriorYear3Yr>2011</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>16267</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>21378</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>138226</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>45999</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>9431</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>231301</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>146595</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>116570</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>30025</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>261326</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>16267</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>245059</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>21378</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>138226</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>45999</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>9431</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>30025</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NA</ContributingManagerNm>
+        <ShareholderManagerNm>NA</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>TOBY WILT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 50879</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>372050879</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>6153834330</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>BY LETTER REQUEST SPECIFYING THE APPLICANT'S QUALIFICATIONS/STATUS</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NO SPECIAL RESTRICTIONS; PROPOSED APPLICANT SHOULD BE A QUALIFIED ORGANIZATION RECOGNIZED UNDER IRC SECTION 501 (C)(3).</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ENSWORTH SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>211 ENSWORTH AVE</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37205</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHEEKWOOD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1200 FORREST PARK DRIVE</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37205</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CUMBERLAND HEIGHTS TREATMENT CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8283 RIVER RD PIKE</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37209</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EPISCOPAL HIGH SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1200 N QUAKER LANE</AddressLine1Txt>
+            <CityNm>ALEXANDRIA</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FOLDS OF HONOR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5800 N PATRIOT DR</AddressLine1Txt>
+            <CityNm>OWASSO</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74055</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FAITH FAMILY MEDICAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>326 21ST AVE N</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37203</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF WARNER PARK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 VAUGHN ROAD</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37221</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>11000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HEALTH NETWORK FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>33 RIVER ST 3</AddressLine1Txt>
+            <CityNm>CHAGRIN FALLS</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LEADERSHIP NASHVILLE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>414 UNION STREET</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37219</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPITANT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MONTEREY PENINSULA FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 LOWER RAGSDALE DR</AddressLine1Txt>
+            <CityNm>MONTEREY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93940</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MENDING HEARTS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4305 ALBION ST</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37209</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NASHVILLE SPORTS COUNCIL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>414 UNION STREET 1910</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37219</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE HUNDRED CLUB OF NASHVILLE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 190428</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37219</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MONTGOMERY BELL ACADEMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4001 HARDING PIKE</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37205</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIONAL FOOTBALL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>433 E LAS COLINAS BLVD 1130</AddressLine1Txt>
+            <CityNm>IRVING</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75039</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SADDLE UP</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1549 OLD HILLSBORO RD</AddressLine1Txt>
+            <CityNm>FRANKLIN</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37069</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST GEORGE'S EPISCOPAL CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4715 HARDING PIKE</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37205</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TENNESSEE GOLF FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>400 FRANKLIN ROAD</AddressLine1Txt>
+            <CityNm>FRANKLIN</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37069</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TRINITY EPISCOPAL CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>615 6TH AVE S</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37219</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARIABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VANDERBILT UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2201 WEST END AVE</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37235</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>6500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNITED WAY OF MID TENNESSEE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>250 VENTURE CIRCLE</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37228</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MISCELLANEOUS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5100 MISCELLANEOUS</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37205</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PEBBLE BEACH COMPANY FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1767</AddressLine1Txt>
+            <CityNm>PEBBLE BEACH</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93953</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>6200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COMMUNITY FOUNDATION OF WESTERN NC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4 VANDERBILT PARK DR 300</AddressLine1Txt>
+            <CityNm>ASHVILLE</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28803</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MOUNTAIN MISSION SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1760 EDGEWATER DR</AddressLine1Txt>
+            <CityNm>GRUNDY</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>24614</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MUSIC CITY BOWL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>414 UNION STREET 1910</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37219</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NASHVILLE BALLET</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3630 REDMON STREET</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37209</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>AID RECIPIENT'S CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>145150</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>12472</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>45157</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-38648</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER INVESTMENT INCOME</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>18920</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>37901</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>37901</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION FEES</CategoryTxt>
+        <Amt>2890</Amt>
+        <DisbursementsCharitablePrpsAmt>1445</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CORE FIXED INCOME TRUST FD</CategoryOrItemTxt>
+        <BookValueAmt>123627</BookValueAmt>
+        <EOYFMVAmt>145817</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BROAD BASED CONSUMER CREDIT</CategoryOrItemTxt>
+        <BookValueAmt>255012</BookValueAmt>
+        <EOYFMVAmt>250000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DTC PRIVATE EQUITY V LP</CategoryOrItemTxt>
+        <BookValueAmt>57736</BookValueAmt>
+        <EOYFMVAmt>65000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>INTERNATIONAL EQ COM TR FUND</CategoryOrItemTxt>
+        <BookValueAmt>374119</BookValueAmt>
+        <EOYFMVAmt>411096</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>EQUITY OPPORTUNITY FUND</CategoryOrItemTxt>
+        <BookValueAmt>157407</BookValueAmt>
+        <EOYFMVAmt>138377</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SHORT DURATION FUND</CategoryOrItemTxt>
+        <BookValueAmt>121478</BookValueAmt>
+        <EOYFMVAmt>118890</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MULTI STRATEGY FUND</CategoryOrItemTxt>
+        <BookValueAmt>450488</BookValueAmt>
+        <EOYFMVAmt>435680</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>OTHER SECURITIES</CategoryOrItemTxt>
+        <BookValueAmt>595282</BookValueAmt>
+        <EOYFMVAmt>555853</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>DTC ADMIN FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>14103</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>14103</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER PORTFOLIO DEDUCTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>2171</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2171</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>NON-DEDUCTIBLE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>-6213</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>K-1 PORTFOLIO DEDUCTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>9907</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>9907</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>OTHER INVESTMENT INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>18920</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>18920</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES PAID</CategoryTxt>
+        <Amt>1596</Amt>
+        <NetInvestmentIncomeAmt>1596</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL INCOME TAXES</CategoryTxt>
+        <Amt>7423</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

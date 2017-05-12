@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-15T11:49:16-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>J DAVID SCHUMPERT CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO BOX 405</AddressLine1Txt>
+        <CityNm>WALTERS</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>735720405</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>453420354</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Give It Away Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>GIVE</BusinessNameControlTxt>
+      <PhoneNum>4056238021</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>P O Box 130</AddressLine1Txt>
+        <CityNm>Anadarko</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>73005</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>CHASE BURNS</PersonNm>
+      <PersonTitleTxt>CHAIRMAN</PersonTitleTxt>
+      <PhoneNum>4056238021</PhoneNum>
+      <SignatureDt>2016-04-26</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>J DAVID SCHUMPERT</PreparerPersonNm>
+      <PhoneNum>5808753378</PhoneNum>
+      <PreparationDt>2016-08-15</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>14935</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>914</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>914</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>914</DividendsAdjNetIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="00000003" referenceDocumentName="OtherIncomeSchedule2">-42501</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>-42501</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>-42501</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>-41587</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>-41587</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>-41587</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt>700</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesAdjNetIncmAmt>700</AccountingFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="00000004" referenceDocumentName="TaxesSchedule">1058</TaxesRevAndExpnssAmt>
+        <TaxesAdjNetIncmAmt>1058</TaxesAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="00000002" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">80</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>80</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>80</OtherExpensesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>1838</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>80</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>1838</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>805451</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>805451</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>807289</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>80</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>1838</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>805451</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-848876</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>87</CashBOYAmt>
+        <CashEOYAmt>11203</CashEOYAmt>
+        <CashEOYFMVAmt>11203</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>817491</SavAndTempCashInvstBOYAmt>
+        <OtherInvestmentsBOYAmt>62214</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>19713</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>3732</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>879792</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>30916</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>14935</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>879792</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>30916</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>879792</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>30916</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>879792</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>30916</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>879792</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-848876</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>30916</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>30916</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>1034429</AdjustedQlfyDistriYr1Amt>
+        <DistributionYr1Rt>0.000000</DistributionYr1Rt>
+        <NetVlNoncharitableAssetsYr2Amt>1825253</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.000000</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>186864</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1865904</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.100147</DistributionYr3Rt>
+        <NetVlNoncharitableAssetsYr4Amt>1970000</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.000000</DistributionYr4Rt>
+        <TotalDistributionRt>0.100147</TotalDistributionRt>
+        <AverageDistributionRt>0.025037</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>23904</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>598</AdjNetVlNoncharitableAssetsAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>598</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>805451</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OK</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>true</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>false</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>CHASE BURNS</IndividualWithBooksNm>
+        <PhoneNum>4056238021</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>P O Box 130</AddressLine1Txt>
+          <CityNm>Anadarko</CityNm>
+          <StateAbbreviationCd>OK</StateAbbreviationCd>
+          <ZIPCd>730050130</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHASE BURNS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>P O Box 130</AddressLine1Txt>
+            <CityNm>Anadarko</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73005</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KRISTIN BURNS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>P O Box 130</AddressLine1Txt>
+            <CityNm>Anadarko</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73005</ZIPCd>
+          </USAddress>
+          <TitleTxt>Sec/Treas</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANDY TURNER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>P O Box 250</AddressLine1Txt>
+            <CityNm>Hinton</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73047</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JEREMY SECHRIST</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>P O Box 242</AddressLine1Txt>
+            <CityNm>Mountain View</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73062</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEVE PECK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>Rt 2 Box 1A</AddressLine1Txt>
+            <CityNm>Anadarko</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73005</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RICHARD MCDONALD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>908 Riviera</AddressLine1Txt>
+            <CityNm>Norman</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73072</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Funding local projects for communities in central Oklahoma.Water parks and other community projects for rural communitiesthat cannot otherwise fund these types of improvements.</Description1Txt>
+        <Expenses1Amt>805451</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>1013</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>23255</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>24268</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>24268</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>364</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>23904</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1195</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1195</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>1195</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1195</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1195</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>805451</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>805451</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>805451</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1195</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr3Amt>2929</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr1Amt>1035460</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>1038389</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>805451</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>1195</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>804256</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>1842645</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>1842645</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>2929</ExcessFromYear3Amt>
+        <ExcessFromYear1Amt>1035460</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>804256</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>CHASE BURNS</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>CHASE BURNS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O Box 130</AddressLine1Txt>
+            <CityNm>Anadarko</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>4056238021</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>WRITTEN FORM STATING HISTORY AND PURPOSE</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Communities Foundation of Oklahoma</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2932 NW 122nd Street</AddressLine1Txt>
+            <CityNm>Oklahoma City</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73120</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Community support</GrantOrContributionPurposeTxt>
+          <Amt>805451</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>805451</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>914</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>914</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>914</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <OtherExpensesSchedule documentId="00000002">
+      <OtherExpensesScheduleGrp>
+        <Desc>Investment Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>80</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>80</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>80</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="00000003">
+      <OtherIncomeDetail>
+        <Desc>Sophrosyne Technololy Partners, Ltd</Desc>
+        <RevenueAndExpensesPerBooksAmt>-42501</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-42501</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>-42501</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="00000004">
+      <TaxesDetail>
+        <CategoryTxt>Excise Tax</CategoryTxt>
+        <Amt>1058</Amt>
+        <AdjustedNetIncomeAmt>1058</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

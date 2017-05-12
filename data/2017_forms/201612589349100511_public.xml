@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-14T14:34:15-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>TANTON AND COMPANY LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>37 WEST 57TH STREET 5TH FLOOR</AddressLine1Txt>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>100193411</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>133936569</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE TLK FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% JANET MULLIGAN</InCareOfNm>
+      <BusinessNameControlTxt>TLKF</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>C/O TANTON CO 37 W 57TH ST 5TH FL</AddressLine1Txt>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10019</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOSHUA KAUFTHAL</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>2125831100</PhoneNum>
+      <SignatureDt>2016-05-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>A</PreparerPersonNm>
+      <PTIN>P00850378</PTIN>
+      <PhoneNum>2125831100</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>448177</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>8754</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>8754</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>45041</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>135250</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>45041</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>53795</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>53795</TotalNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">1000</TaxesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>1000</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>73800</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>73800</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>74800</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>73800</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-21005</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>53795</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>78232</CashBOYAmt>
+        <CashEOYAmt>68047</CashEOYAmt>
+        <CashEOYFMVAmt>68047</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>283528</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">276306</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>380130</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>361760</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>344353</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>448177</TotalAssetsEOYFMVAmt>
+        <GrantsPayableEOYAmt>3600</GrantsPayableEOYAmt>
+        <TotalLiabilitiesEOYAmt>3600</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>361760</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>340753</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>361760</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>340753</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>361760</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>344353</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>361760</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-21005</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>340755</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSch">2</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>340753</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>600 SHS CLEANESE CORP</PropertyDesc>
+          <AcquiredDt>2011-09-27</AcquiredDt>
+          <SoldDt>2015-04-22</SoldDt>
+          <GrossSalesPriceAmt>38685</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>24190</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14495</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14495</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1200 SHS HORSEHEAD HLDG CORP</PropertyDesc>
+          <AcquiredDt>2015-08-04</AcquiredDt>
+          <SoldDt>2015-09-17</SoldDt>
+          <GrossSalesPriceAmt>7165</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9660</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2495</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2495</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1500 SHS FLEXTRONICS INTL</PropertyDesc>
+          <AcquiredDt>2007-08-03</AcquiredDt>
+          <SoldDt>2015-12-08</SoldDt>
+          <GrossSalesPriceAmt>16776</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16800</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-24</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-24</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHS AVERY DENNISON</PropertyDesc>
+          <AcquiredDt>2014-09-19</AcquiredDt>
+          <SoldDt>2015-12-08</SoldDt>
+          <GrossSalesPriceAmt>32506</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>24206</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8300</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8300</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>170 SHS HOME DEPOT INC</PropertyDesc>
+          <AcquiredDt>2006-06-06</AcquiredDt>
+          <SoldDt>2015-12-08</SoldDt>
+          <GrossSalesPriceAmt>22704</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6065</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16639</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16639</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>250 SHS TIME WARNER INC</PropertyDesc>
+          <AcquiredDt>2008-05-21</AcquiredDt>
+          <SoldDt>2015-12-08</SoldDt>
+          <GrossSalesPriceAmt>17414</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9288</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8126</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8126</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>45041</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>165857</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>581709</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.28512</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>90876</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>596671</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.152305</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>40651</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>542852</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.074884</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>17632</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>535482</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.032927</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>21180</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>491204</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.043119</DistributionYr5Rt>
+        <TotalDistributionRt>0.588355</TotalDistributionRt>
+        <AverageDistributionRt>0.117671</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>494866</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>58231</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>538</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>58769</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>73800</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>538</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>538</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>538</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>569</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>569</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <OverpaymentAmt>31</OverpaymentAmt>
+        <AppliedToESTaxAmt>31</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd referenceDocumentId="BinaryAttach BinaryAttachN1">false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd referenceDocumentId="BinaryAttach BinaryAttachN1">false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd referenceDocumentId="BinaryAttach BinaryAttachN1">false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NJ</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>n/a</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>JANET MULLIGAN</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2125831100</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>37 WEST 57TH STREET</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10019</ZIPCd>
+        </LocationOfBooksUSAddress>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RelyingCurrentNtcDsstrAsst1Ind>X</RelyingCurrentNtcDsstrAsst1Ind>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LINDA KAUFTHAL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O TANTON CO</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOSHUA KAUFTHAL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O TANTON CO</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.5</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID KAUFTHAL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O TANTON CO</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>444069</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>58333</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>502402</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>502402</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>7536</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>494866</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>24743</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>24743</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>538</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>538</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>24205</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>24205</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>24205</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>73800</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>73800</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>538</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>73262</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>24205</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2013</PriorYear1Yr>
+        <PriorYear2Yr>2012</PriorYear2Yr>
+        <PriorYear3Yr>2011</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr3Amt>0</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>50714</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>138126</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>188840</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>73800</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>24205</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>49595</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>238435</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>238435</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>0</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>50714</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>138126</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>49595</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEE STATEMENT ATTACHED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>C/O TANTON CO</AddressLine1Txt>
+            <AddressLine2Txt>37 WEST 57TH STREET</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>73800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>73800</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp />
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>8754</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>45041</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>MISC INCOME</Desc>
+          <ExclusionCd>01</ExclusionCd>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>53795</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>53795</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>TANTON AND COMPANY LLP</CategoryTxt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VARIOUS PUBLICLY TRADED SEC.</StockNm>
+        <EOYBookValueAmt>276306</EOYBookValueAmt>
+        <EOYFMVAmt>380130</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSch">
+      <OtherDecreasesDetail>
+        <Desc>ROUNDING</Desc>
+        <Amt>2</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>NJ FILING FEES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>MISC INCOME</Desc>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>FEDERAL REFUND</Desc>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>US TREASURY</CategoryTxt>
+        <Amt>1000</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

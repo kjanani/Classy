@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-12T07:02:20-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BATES COUGHTRY REISS LLP CPAS</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2601 SATURN ST STE 210</AddressLine1Txt>
+        <CityNm>BREA</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>928216702</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>453850225</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>R C BAKER FOUNDATION</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>A CA NONPROFIT PUBLIC BENEFIT CORP</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>RCBA</BusinessNameControlTxt>
+      <PhoneNum>7606323600</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>330 ENCINITAS BLVD</AddressLine1Txt>
+        <CityNm>ENCINITAS</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92024</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>FRANK LAURENCE SCOTT JR</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2016-09-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DAVID L BATES CPA</PreparerPersonNm>
+      <PTIN>P00021086</PTIN>
+      <PhoneNum>7148712422</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="14">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>20591689</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>300000</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>107</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>107</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>107</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>318081</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>318081</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>318081</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>108541</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>12754297</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>108541</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">289</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>727018</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>426729</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>318188</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>199284</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>199284</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>199284</CompOfcrDirTrstAdjNetIncmAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>28345</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>28345</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">6075</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>6075</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">1381</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesDsbrsChrtblAmt>1381</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">12507</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>12507</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">6555</DeprecAndDpltnRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>11335</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>10202</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>1133</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">13076</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>13076</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>278558</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>209486</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>199284</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>62517</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>770069</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>770069</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1048627</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>209486</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>199284</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>832586</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-321609</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>217243</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>118904</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>533132</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>913441</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>913441</SavAndTempCashInvstEOYFMVAmt>
+        <OtherNtsAndLoansRcvblAmt>750000</OtherNtsAndLoansRcvblAmt>
+        <OtherNtsAndLoansRcvblBOYAmt>750000</OtherNtsAndLoansRcvblBOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>750000</OtherNtsAndLoansRcvblEOYAmt>
+        <OtherNtsAndLoansRcvblEOYFMVAmt>750000</OtherNtsAndLoansRcvblEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>596284</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvestmentsGovtObligationsSche">382934</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>376625</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>1149420</CorporateStockBOYAmt>
+        <CorporateBondsBOYAmt>1908365</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedule">595235</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>612709</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>15340963</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">17357089</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>17900743</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>65542</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>27371</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>44726</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">38171</LandEOYAmt>
+        <LandEOYFMVAmt>38171</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">9995</OtherAssetsBOYAmt>
+        <TotalAssetsBOYAmt>20332885</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>20036870</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>20591689</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">2082</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">37236</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>2082</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>37236</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>20706598</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>20321243</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>-375795</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>-321609</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>20330803</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>19999634</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>20332885</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>20036870</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>20330803</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-321609</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>20009194</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">9560</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>19999634</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DISTRI-4012 GLOVIATA-LT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-31</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>156429</GrossSalesPriceAmt>
+          <GainOrLossAmt>156429</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>156429</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GLOVISTA INVESTMENTS-#4012-CAP/LOSS-ST</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2015-12-01</SoldDt>
+          <GrossSalesPriceAmt>3786806</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4099808</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-313002</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-313002</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GLOVISTA INVESTMENTS-#4012-CAP GAIN-LT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-07-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>2063770</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2010803</CostOrOtherBasisAmt>
+          <GainOrLossAmt>52967</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>52967</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GLOVISTA INVESTMENTS-#4012-CAP GAIN-ST</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2015-12-12</SoldDt>
+          <GrossSalesPriceAmt>603761</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>597206</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6555</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6555</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GLOVISTA INVESTMENTS-#4012-CAP GAIN-LT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-07-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>5705152</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5437939</CostOrOtherBasisAmt>
+          <GainOrLossAmt>267213</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>267213</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>HAYMAN CAPITAL FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-07-01</AcquiredDt>
+          <SoldDt>2015-09-15</SoldDt>
+          <GrossSalesPriceAmt>438379</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>500000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-61621</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-61621</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>108541</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-150018</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>4345</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>4345</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4345</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>11760</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>11760</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <OverpaymentAmt>7415</OverpaymentAmt>
+        <AppliedToESTaxAmt>4360</AppliedToESTaxAmt>
+        <RefundAmt>3055</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>F LAURENCE SCOTT</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>7606323600</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>330 ENCINITAS BLVD SUITE 101</AddressLine1Txt>
+          <CityNm>ENCINITAS</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92024</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>F LAURENCE SCOTT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>330 ENCINITAS BLVD SUITE 101</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>88000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DENNIS CRONIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>330 ENCINITAS BLVD SUITE 101</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>8000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMES BENEDICT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>330 ENCINITAS BLVD SUITE 101</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>8000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMES MCMILLAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>330 ENCINITAS BLVD SUITE</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>8000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GLOVISTA INVESTMENTS LLC</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>ONE EVERTRUST PLAZA</AddressLine1Txt>
+            <CityNm>JERSEY CITY</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07302</ZIPCd>
+          </USAddress>
+          <TitleTxt>CORPORATE TRUST</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>66526</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KELLEY INVESTMENTS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1445 RESEARCH BLVD STE 530</AddressLine1Txt>
+            <CityNm>ROCKVILLE</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20850</ZIPCd>
+          </USAddress>
+          <TitleTxt>CORPORATE TRUST</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4758</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRIAN SCOTT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>330 ENCINITAS BLVD 101</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>8000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DICKRAN SEMERDJIAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>330 ENCINITAS BLVD 101</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>8000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>19640077</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>913441</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>38171</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>20591689</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>20591689</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>308875</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>20282814</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1014141</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1014141</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4345</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>4345</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1009796</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1009796</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1009796</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>832586</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>832586</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>832586</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1009796</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>21851</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>123626</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr2Amt>21519</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>166996</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>832586</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>832586</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>166996</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>166996</ExcessDistributionCyovAppCYAmt>
+        <UndistributedIncomeCYAmt>10214</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>FRANK LAURENCE SCOTT JR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>330 ENCINITAS BLVD 101</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>920243723</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>7606323600</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>WE RESPOND ONLY TO WRITTEN REQUESTS ONLY, SPECIAL FORM REQUIRED.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>MAY 1, OCTOBER 1.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>SEE MULTILINE 1</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VARIOUS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>VARIOUS</AddressLine1Txt>
+            <CityNm>VARIOUS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92821</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FURTHERANCE OF ORGANIZATIONS OBJECTIVES</GrantOrContributionPurposeTxt>
+          <Amt>752936</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHALLENGED ATHLETE FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>VARIOUS</AddressLine1Txt>
+            <CityNm>VARIOUS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92821</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GAVE BIKES FOR CHALLENGED ATHLETES</GrantOrContributionPurposeTxt>
+          <Amt>17133</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>770069</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>107</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>318081</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>108541</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>CLASSACTION PROCEEDS</Desc>
+          <RelatedOrExemptFunctionIncmAmt>289</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>427018</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>427018</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>CONTINUED ABILITY TO SUPPORT WORTHY CHARITABLE ORGANIZATIONS</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>BATES COUGHTRY REISS</CategoryTxt>
+        <Amt>6075</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>6075</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE AND FIXTURES</PropertyDesc>
+        <AcquiredDt>2012-01-17</AcquiredDt>
+        <CostOrOtherBasisAmt>16201</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>4725</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>1620</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>NEW OFFICE BUILDOUT</PropertyDesc>
+        <AcquiredDt>2011-10-26</AcquiredDt>
+        <CostOrOtherBasisAmt>30791</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>9750</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>3079</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2011-08-04</AcquiredDt>
+        <CostOrOtherBasisAmt>18558</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>6341</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>1856</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <GeneralExplanationAttachment documentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <GeneralExplanationGrp>
+        <FormAndLineReferenceDesc>General Explanation Supplemental Information for Form 990-PF</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>R. C. BAKER FOUNDATION A CALIFORNIA NONPROFIT PUBLIC BENEFIT CORPORATION 330 ENCINITAS BLVD., STE 101 ENCINITAS, CALIFORNIA 92014 DISTRIBUTION OF INCOME CALLENDER YEAR 2015 ORGANIZATION AMOUNT ========================================================================== AccesSurf 2,500.00Adventure Cycling Association 4,500.00After-School All Stars 10,000.00All the Arts for all the Kids Foundation 35,000.00 Amigos de los Ninos 2,500.00Angles Foster Family Network 21,000.00 ARC San Diego Foundation 1,000.00Baker Memorial Museum 17,000.00Bayside Community Center 200.00 Bells of Freedom 3,000.00Boys &amp; Girls Club of San Dieguito 31,076.34Camp Erin San Diego 1,350.00Cancer for College 37,500.00Center for Sutton Movement Writing 3,000.00Century Club of San Diego 29,200.00Challenged Athletes Foundation 86,615.00Children's Lifeline International 600.00City Artworks 1,750.00Coalinga-Huron Library 1,500.00Crohns &amp; Colitis Foundation of America 1,500.00Cystic Fibrosis Foundation 54,500.00Del Mar Community Connections 750.00Del Mar Village Association 740.00Don Diego Fund 900.00Drive 4 the Cure 1,000.00 Ecke Family YMCA 6,000.00Encinitas Community Resource Center 27,970.00Friends of the children's Museum 2,500.00Fullerton Elks Lodge No. 1993 2,500.00Fullerton Family YMCA 5,000.00Girls Inc. of San Diego County 450.00Girls on the Run of San Diego 1,500.00Harvey Mudd College 50,000.00Heritage Dance Foundation 4,700.00 Jackie Robinson Family YMCA 5,000.00JSerra Catholic High School 5,000.00Kingsley House 8,000.00Leukemia &amp; Lymphoma Society 200.00Make a Wish Foundation 5,000.00Marine Corp Association &amp; Foundation 400.00Monarch School 30,250.00National Multiple Scierosis Society 3,800.00Natural High 5,000.00New Direction for Women 2,500.00New Orleans Jazz &amp; Heritage Foundation 9,200.00Northwest Stars for the Mentally Disabled 2,500.00OneOC 2,500.00Operation Game On 2,500.00Pacific Club IMPACT Foundation 20,000.00Pathways of Hope 5,000.00Patient Safety Movement Foundation 1,000.00 PIH Foundation 78,000.00Project Access 1,000.00R.C. Marburger, Jr. Scholarship Fun d 5,000.00Rob Machado Foundation 5,000.00San Diego Food Bank 750.00San Diego Foundation 2,334.90San Diego Junior Lifeguards Foundation 2,400.00San Dieguito Heritage Museum 200.00SDPOA 5,000.00SDSU 2,015.00SDSU Aztec Club 7,500.00Skills Foundation 2,500.00Social Service Auxiliary of San Diego 5,685.00Speech and Language Development Center 5,000.00Switchfoot Bro-Am Foundation 1,560.00Tender Loving Canines Assistance Dogs 2,500.00The Barnes Center 8,200.00UCSD Cycling Team 2,500.00U.C.San Diego Foundation 1,540.00University of California-Irvine 15,000.00USC College Jimmy Gaunti Memorial Fund 5,000.00USO San Diego 5,000.00Velo Youth 5,300.00 Vets 360 12,500.00Words Alive 2,500.00YMCA of Greater Whittier 5,500.00Yorba Linda/Placentia YMCA 5,000.00 -------------- Total 752,936.24 ==============</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+    </GeneralExplanationAttachment>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GLOVISTA INVESTMENTS</BondNm>
+        <EOYBookValueAmt>595235</EOYBookValueAmt>
+        <EOYFMVAmt>612709</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationsSche" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <USGovtObligationsBookVlEOYAmt>199702</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>196396</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>183232</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>180229</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ALTEGRIS MILLENNIUM FUND, LTD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>932554</BookValueAmt>
+        <EOYFMVAmt>1309311</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GLOVISTA INVESTMENTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>5679390</BookValueAmt>
+        <EOYFMVAmt>5234859</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ALTEGRIS MULTI-STRATEGY FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1717294</BookValueAmt>
+        <EOYFMVAmt>2091707</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ALTEGRIS HAYMAN FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>500000</BookValueAmt>
+        <EOYFMVAmt>520000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ALTEGRIS HOLDING ACCOUNT</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1</BookValueAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ALTEGRIS VISIUM ACCOUNT</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1117959</BookValueAmt>
+        <EOYFMVAmt>1237642</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GLOVISTA INVESTMENTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>6500201</BookValueAmt>
+        <EOYFMVAmt>6607934</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ALTEGRIS THIRD POINT FUND, LTD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>438379</BookValueAmt>
+        <EOYFMVAmt>424193</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GLOVISTA-ASSET BACKED SERCURITIES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>471312</BookValueAmt>
+        <EOYFMVAmt>475097</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Furniture and Fixtures</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>16201</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>6345</AccumulatedDepreciationAmt>
+        <BookValueAmt>9856</BookValueAmt>
+        <EOYFMVAmt>9856</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Machinery and Equipment</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>18550</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>8197</AccumulatedDepreciationAmt>
+        <BookValueAmt>10353</BookValueAmt>
+        <EOYFMVAmt>10353</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Improvements</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>30791</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>12829</AccumulatedDepreciationAmt>
+        <BookValueAmt>17962</BookValueAmt>
+        <EOYFMVAmt>17962</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherDecreasesDetail>
+        <Desc>CURRENT YEARS TAX PAID</Desc>
+        <Amt>9491</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>PENALTIES</Desc>
+        <Amt>69</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>526</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>526</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1397</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1397</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>565</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>565</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER BUSINESS EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>6411</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>6411</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>4177</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4177</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherIncomeDetail>
+        <Desc>CLASSACTION PROCEEDS</Desc>
+        <RevenueAndExpensesPerBooksAmt>289</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherLiabilitiesDetail>
+        <Desc>DUE CREDIT CARDS</Desc>
+        <BOYBookValueAmt>2082</BOYBookValueAmt>
+        <EOYBookValueAmt>37236</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>ADP-PAYROLL FEES</CategoryTxt>
+        <Amt>1381</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1381</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <CategoryTxt>FRANCHISE TAX BOARD</CategoryTxt>
+        <Amt>810</Amt>
+        <DisbursementsCharitablePrpsAmt>810</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>OTHER TAXES</CategoryTxt>
+        <Amt>2765</Amt>
+        <DisbursementsCharitablePrpsAmt>2765</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAXES</CategoryTxt>
+        <Amt>8932</Amt>
+        <DisbursementsCharitablePrpsAmt>8932</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

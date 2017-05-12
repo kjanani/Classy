@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-25T14:09:09-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>364148408</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CANMANN &amp; CHAIKEN</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>111 WEST WASHINGTON SUITE 823</AddressLine1Txt>
+        <CityNm>CHICAGO</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60602</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>364516769</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>LATKIN FAMILY FOUNDATION</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>HENRY L LATKIN</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>LATK</BusinessNameControlTxt>
+      <PhoneNum>3123467988</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>117 N JEFFERSON RM/STE 306</AddressLine1Txt>
+        <CityNm>CHICAGO</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60661</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>HENRY L LATKIN</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>3123467988</PhoneNum>
+      <SignatureDt>2016-08-25</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DAVID L CANMANN</PreparerPersonNm>
+      <PTIN>P00288650</PTIN>
+      <PhoneNum>3129779125</PhoneNum>
+      <PreparationDt>2016-08-25</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>902306</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>18522</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>18522</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">183101</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>448273</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>18161</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>201623</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>36683</TotalNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc8">4594</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>4594</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc9">300</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>300</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc7">12</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>12</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>4906</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>4906</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>54000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>54000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>58906</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>4906</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>54000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>142717</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>31777</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>76105</CashBOYAmt>
+        <CashEOYAmt>20291</CashEOYAmt>
+        <CashEOYFMVAmt>20291</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>208470</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>68723</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>68723</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>359044</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">591262</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>580725</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>117096</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc4">220687</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>220687</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>9411</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc6">11880</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>11880</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>770126</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>912843</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>902306</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>770126</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>912843</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>770126</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>912843</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>770126</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>912843</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>770126</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>142717</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>912843</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>912843</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>18161</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>38200</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>880977</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.043361</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>29870</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>564405</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.052923</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>30951</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>548695</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.056408</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>22000</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>549056</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.040069</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>22364</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>474371</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.047145</DistributionYr5Rt>
+        <TotalDistributionRt>0.239906</TotalDistributionRt>
+        <AverageDistributionRt>0.047981</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>885515</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>42488</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>318</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>42806</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>54000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>318</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>318</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>318</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>318</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>HAYMARKET117@YAHOO.COM</WebsiteAddressTxt>
+        <IndividualWithBooksNm>HENRY LATKIN</IndividualWithBooksNm>
+        <PhoneNum>3123467988</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>117 N JEFFERSON</AddressLine1Txt>
+          <AddressLine2Txt>SUITE 306</AddressLine2Txt>
+          <CityNm>CHICAGO</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60661</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="RetDoc2">DAVID CANMANN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>117 N JEFFERSON</AddressLine1Txt>
+            <AddressLine2Txt>117 N JEFFERSON</AddressLine2Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60661</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="RetDoc2">HENRY L LATKIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>117 N JEFFERSON</AddressLine1Txt>
+            <AddressLine2Txt>117 N JEFFERSON 306 CHICAGO</AddressLine2Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60661</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="RetDoc2">DARCY PIZEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>117 N JEFFERSON</AddressLine1Txt>
+            <AddressLine2Txt>117 N JEFFERSON 306</AddressLine2Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60661</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>580000</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>88000</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>231000</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>899000</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>899000</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>13485</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>885515</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>44276</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>44276</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>318</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>318</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>43958</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>43958</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>43958</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>54000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>54000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>318</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>53682</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>43958</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>30121</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>54000</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>30121</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>23879</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>20079</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VARIOUS 501C3</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>117 N JEFFERSON 306</AddressLine1Txt>
+            <AddressLine2Txt>117 N JEFFERSON 306</AddressLine2Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60661</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>501(C)(3)</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PAID</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE - UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>54000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>54000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>18522</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>183101</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>201623</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>201623</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <CompensationExplanation documentId="RetDoc2">
+      <CompensationExplanationGrp>
+        <PersonNm>HENRY L LATKIN</PersonNm>
+        <ShortExplanationTxt>ALSO A DIRECTOR</ShortExplanationTxt>
+      </CompensationExplanationGrp>
+    </CompensationExplanation>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SHORT TERM TRADES AT PEOPLES UNITED</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>90681</GrossSalesPriceAmt>
+        <BasisAmt>98439</BasisAmt>
+        <TotalNetAmt>-7758</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LONG TERM TRADES AT PEOPLES UNITED</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>35916</GrossSalesPriceAmt>
+        <BasisAmt>35754</BasisAmt>
+        <TotalNetAmt>162</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LONG TERM 28% TRADES AT PEOPLES UNIT</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1635</GrossSalesPriceAmt>
+        <BasisAmt>1774</BasisAmt>
+        <TotalNetAmt>-139</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LONG TERM TRADES PEOPLES UNITED</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>301868</GrossSalesPriceAmt>
+        <BasisAmt>129205</BasisAmt>
+        <TotalNetAmt>172663</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LONG TERM TRADES MISC PEOPLES UNITED</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>12</GrossSalesPriceAmt>
+        <TotalNetAmt>12</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SEE ATTACHMENT IN .PDF FOR TRADES</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FIXED INCOME AT PEOPLES UNITED BANK</BondNm>
+        <EOYBookValueAmt>220687</EOYBookValueAmt>
+        <EOYFMVAmt>220687</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITIES AT PEOPLES UNITED BANK</StockNm>
+        <EOYBookValueAmt>591262</EOYBookValueAmt>
+        <EOYFMVAmt>580725</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc6">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>REAL ASSETS AT PEOPLES UNITED BANK</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>11880</BookValueAmt>
+        <EOYFMVAmt>11880</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <RevenueAndExpensesPerBooksAmt>12</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>12</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc8">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INDIRECT OTHER PROFESSIONAL FEES</CategoryTxt>
+        <Amt>4594</Amt>
+        <NetInvestmentIncomeAmt>4594</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc9">
+      <TaxesDetail>
+        <CategoryTxt>INDIRECT TAXES/LICENSES</CategoryTxt>
+        <Amt>300</Amt>
+        <NetInvestmentIncomeAmt>300</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

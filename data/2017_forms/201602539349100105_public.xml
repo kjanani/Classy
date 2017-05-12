@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-09T11:07:11-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>203365763</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CORBETT &amp; ROBBINS LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>325 E SHORE DR SUITE 110</AddressLine1Txt>
+        <CityNm>EAGLE</CityNm>
+        <StateAbbreviationCd>ID</StateAbbreviationCd>
+        <ZIPCd>836166584</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>026170948</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>JERRY R JUNKINS FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JERR</BusinessNameControlTxt>
+      <PhoneNum>2089391995</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>9436 MEADOWBROOK DRIVE</AddressLine1Txt>
+        <CityNm>DALLAS</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>75220</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MARILYN JO JUNKINS</PersonNm>
+      <PersonTitleTxt>PRESIDENT/TREASURER</PersonTitleTxt>
+      <SignatureDt>2016-09-08</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>PETER ROBBINS</PreparerPersonNm>
+      <PTIN>P00076468</PTIN>
+      <PhoneNum>2089391995</PhoneNum>
+      <PreparationDt>2016-09-07</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>315395</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>12</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>12</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>8221</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>8221</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-1601</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>62313</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>6632</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>8233</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">2350</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2350</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc4">4047</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>4047</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc5">138</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>138</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>6535</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>6535</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>220000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>220000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>226535</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>6535</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>220000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-219903</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>1698</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>283493</CashBOYAmt>
+        <CashEOYAmt>122301</CashEOYAmt>
+        <CashEOYFMVAmt>122301</CashEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>265344</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc3">201429</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>193094</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>548837</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>323730</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>315395</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>5204</AccountsPayableBOYAmt>
+        <TotalLiabilitiesBOYAmt>5204</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>500000</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>500000</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>43633</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>-176270</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>543633</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>323730</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>548837</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>323730</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>543633</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-219903</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>323730</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>323730</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2400 SH DOUBLELINE OPPORTUNISTIC FD</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2015-11-06</SoldDt>
+          <GrossSalesPriceAmt>60397</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>63914</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3517</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3517</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAIN DISTRIBUTIONS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>1916</GrossSalesPriceAmt>
+          <GainOrLossAmt>1916</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1916</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-1601</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>70000</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>540999</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.129390</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>22500</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>383033</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.058742</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>164975</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>546825</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.301696</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>80000</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>499669</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.160106</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>355747</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>640140</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.555733</DistributionYr5Rt>
+        <TotalDistributionRt>1.205667</TotalDistributionRt>
+        <AverageDistributionRt>0.241133</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>377536</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>91036</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>17</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>91053</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>220000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>17</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>17</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>17</TaxBasedOnInvestmentIncomeAmt>
+        <AppliedToEsTaxAmt>450</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>450</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>433</OverpaymentAmt>
+        <AppliedToESTaxAmt>433</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>PETER ROBBINS</IndividualWithBooksNm>
+        <PhoneNum>2089391995</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>325 E SHORE DRIVE SUITE 110</AddressLine1Txt>
+          <CityNm>EAGLE</CityNm>
+          <StateAbbreviationCd>ID</StateAbbreviationCd>
+          <ZIPCd>83616</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARILYN JO JUNKINS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9436 MEADOWBROOK DRIVE</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75220</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT/TR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KIRSTEN JUNKINS KERRIGAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5558 EDLEN DRIVE</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75220</ZIPCd>
+          </USAddress>
+          <TitleTxt>VP/SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KAREN JUNKINS LOBDELL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5420 DEL ROY DRIVE</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75229</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>247116</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>136169</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>383285</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>383285</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>5749</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>377536</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>18877</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>18877</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>17</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>17</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>18860</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>18860</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>18860</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>220000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>220000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>17</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>219983</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>18860</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>323846</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>55138</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>137684</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>3467</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>49398</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>569533</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>220000</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>18860</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>201140</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>770673</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>323846</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>446827</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>55138</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>137684</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>3467</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>49398</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>201140</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>MARILYN JO JUNKINS</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>MARILYN JO JUNKINS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9436 MEADOWBROOK DRIVE</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75220</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2145201966</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>LETTER FORMAT ONLY</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE DALLAS ABORETUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8525 GARLAND ROAD</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75218</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>112500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EPISCOPAL SCHOOL OF DALLAS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4100 MERRELL ROAD</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75229</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>IOWA STATE UNIVERSITY FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2505 UNIVERSITY BLVD</AddressLine1Txt>
+            <CityNm>AMES</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>50010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNITED WAY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1800 N LAMAR</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNICEF</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11700 PRESTON ROAD</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 660-307</AddressLine2Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75230</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LAMPLIGHTER SCHOOL ENDOWMENT FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11611 INWOOD ROAD</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75229</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ANNUAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NW WOMEN'S CLUB CHARITABLE FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 796155</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75379</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HEAD START OF GREATER DALLAS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3954 GANNON LANE</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75237</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>220000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>12</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>8221</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>-1601</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>8233</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>-1601</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>6632</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <Amt>2350</Amt>
+        <NetInvestmentIncomeAmt>2350</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc3">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>COLUMBIA CORE BOND FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>128638</BookValueAmt>
+        <EOYFMVAmt>120922</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>COLUMBIA SHORT TERM BOND FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>72791</BookValueAmt>
+        <EOYFMVAmt>72172</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DOUBLELINE OPPORTUNISTIC CREDIT FUND</CategoryOrItemTxt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc4">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES</CategoryTxt>
+        <Amt>4047</Amt>
+        <NetInvestmentIncomeAmt>4047</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <TaxesDetail>
+        <CategoryTxt>TAXES</CategoryTxt>
+        <Amt>138</Amt>
+        <NetInvestmentIncomeAmt>138</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

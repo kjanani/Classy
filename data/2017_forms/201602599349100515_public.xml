@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-15T11:58:40-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>311295025</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>JACKSON S HARTY CO CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>119 E COURT ST STE 200</AddressLine1Txt>
+        <CityNm>CINCINNATI</CityNm>
+        <StateAbbreviationCd>OH</StateAbbreviationCd>
+        <ZIPCd>452021203</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>464081852</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>LOCAL INITIATIVE FOR EXCELLENCE</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>LOCA</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>4200 MALSBARY ROAD</AddressLine1Txt>
+        <CityNm>BLUE ASH</CityNm>
+        <StateAbbreviationCd>OH</StateAbbreviationCd>
+        <ZIPCd>45242</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>GEORGE WILE</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <SignatureDt>2016-08-29</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JACKSON S HARTY</PreparerPersonNm>
+      <PTIN>P00018013</PTIN>
+      <PhoneNum>5134218282</PhoneNum>
+      <PreparationDt>2016-08-29</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>4647037</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>863</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>863</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>863</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>116919</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>116919</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>116919</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">-310572</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>4591183</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>149</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc6">77</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>77</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>77</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>-192713</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>118008</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>117859</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">1160</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>300</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>860</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc7">20112</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>20112</OtherProfFeesNetInvstIncmAmt>
+        <InterestRevAndExpnssAmt>104</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>104</InterestNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc8">2339</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>2039</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>200</TaxesDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>3180</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>3180</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc5">96</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>96</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>26991</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>22555</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>4336</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>100000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>100000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>126991</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>22555</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>104336</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-319704</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>95453</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>117859</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>305280</CashBOYAmt>
+        <CashEOYAmt>1124936</CashEOYAmt>
+        <CashEOYFMVAmt>1124936</CashEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>4693196</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc4">3553836</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>3522101</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>4998476</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>4678772</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>4647037</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>4998476</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>4678772</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>4998476</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4678772</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>4998476</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>4678772</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>4998476</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-319704</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>4678772</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4678772</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>149</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>2560</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>334481</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.007654</DistributionYr1Rt>
+        <TotalDistributionRt>0.007654</TotalDistributionRt>
+        <AverageDistributionRt>0.007654</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>4739728</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>36278</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>955</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>37233</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>104336</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>955</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>955</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>955</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>55</EstimatedPlusOvpmtIncmTxAmt>
+        <AppliedToEsTaxAmt>2000</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>2055</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>1100</OverpaymentAmt>
+        <AppliedToESTaxAmt>1100</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OH</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>DR CARTER F RANDOLPH</IndividualWithBooksNm>
+        <PhoneNum>5138917144</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4200 MALSBARY ROAD</AddressLine1Txt>
+          <CityNm>BLUE ASH</CityNm>
+          <StateAbbreviationCd>OH</StateAbbreviationCd>
+          <ZIPCd>45242</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GEORGE WILE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5545 DRAKE ROAD</AddressLine1Txt>
+            <CityNm>CINCINNATI</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45243</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CARTER RANDOLPH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4200 MALSBARY ROAD</AddressLine1Txt>
+            <CityNm>BLUE ASH</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45242</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PATTY BROCKMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4200 MALSBARY ROAD</AddressLine1Txt>
+            <CityNm>BLUE ASH</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45242</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>4179006</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>632901</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>4811907</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>4811907</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>72179</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>4739728</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>236986</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>236986</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>955</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>955</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>236031</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>236031</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>236031</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>104336</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>104336</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>955</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>103381</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>236031</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>14119</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>104336</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>14119</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>90217</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>145814</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>GEORGE WILE</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>CARTER RANDOLPH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4200 MALSBARY RD</AddressLine1Txt>
+            <CityNm>CINCINNATI</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45242</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5138917144</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>SEE ATTACHED</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>SEE ATTACHED</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>SEE ATTACHED</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CINCINNATI CHILDREN'S HOSP MED CTR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3333 BURNET AVE</AddressLine1Txt>
+            <CityNm>CINCINNATI</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45229</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF CINCINNATI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2600 CLIFTON AVE</AddressLine1Txt>
+            <CityNm>CINCINNATI</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45220</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>100000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>863</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>116919</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>77</RelatedOrExemptFunctionIncmAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>-310572</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>-192713</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>-192713</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>INDIRECT ACCOUNTING FEES</CategoryTxt>
+        <Amt>1160</Amt>
+        <NetInvestmentIncomeAmt>300</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>860</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>700 SHS ALIBABA GROUP HLDG</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>56164</GrossSalesPriceAmt>
+        <BasisAmt>55350</BasisAmt>
+        <TotalNetAmt>814</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>2800 SHS AMERICAN RAILCAR INDS</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <GrossSalesPriceAmt>125070</GrossSalesPriceAmt>
+        <BasisAmt>152483</BasisAmt>
+        <TotalNetAmt>-27413</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>4700 SHS BANCO BRADESCO</AssetDesc>
+        <AcquiredDt>2015-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>31257</GrossSalesPriceAmt>
+        <BasisAmt>50702</BasisAmt>
+        <TotalNetAmt>-19445</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>7300 SHS BANCO SANTANDER</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>36517</GrossSalesPriceAmt>
+        <BasisAmt>54040</BasisAmt>
+        <TotalNetAmt>-17523</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>2300 SHS BAXTER INTERNATIONAL</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-09</SoldDt>
+        <GrossSalesPriceAmt>80819</GrossSalesPriceAmt>
+        <BasisAmt>89276</BasisAmt>
+        <TotalNetAmt>-8457</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>2700 SHS CBS CORP CLASS B</AssetDesc>
+        <AcquiredDt>2014-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>123006</GrossSalesPriceAmt>
+        <BasisAmt>151374</BasisAmt>
+        <TotalNetAmt>-28368</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>1700 SHS CATERPILLAR INC</AssetDesc>
+        <AcquiredDt>2014-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>135327</GrossSalesPriceAmt>
+        <BasisAmt>155054</BasisAmt>
+        <TotalNetAmt>-19727</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>1500 SHS CHEVRON CORP</AssetDesc>
+        <AcquiredDt>2015-06</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>121003</GrossSalesPriceAmt>
+        <BasisAmt>153289</BasisAmt>
+        <TotalNetAmt>-32286</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>4000 SHS DIREXION SHARES TRUST</AssetDesc>
+        <AcquiredDt>2015-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>81004</GrossSalesPriceAmt>
+        <BasisAmt>86323</BasisAmt>
+        <TotalNetAmt>-5319</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>5000 SHS DIREXION SHARES TRUST</AssetDesc>
+        <AcquiredDt>2015-09</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-10</SoldDt>
+        <GrossSalesPriceAmt>18390</GrossSalesPriceAmt>
+        <BasisAmt>24765</BasisAmt>
+        <TotalNetAmt>-6375</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>2400 SHS DU PONT</AssetDesc>
+        <AcquiredDt>2015-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>160426</GrossSalesPriceAmt>
+        <BasisAmt>147538</BasisAmt>
+        <TotalNetAmt>12888</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>2900 SHS EMERSON ELEC CO</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>142711</GrossSalesPriceAmt>
+        <BasisAmt>162561</BasisAmt>
+        <TotalNetAmt>-19850</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>2900 SHS GOLDCORP INC</AssetDesc>
+        <AcquiredDt>2015-10</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>32175</GrossSalesPriceAmt>
+        <BasisAmt>44788</BasisAmt>
+        <TotalNetAmt>-12613</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>3300 SHS KKR &amp; COMPANY LP</AssetDesc>
+        <AcquiredDt>2014-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>75708</GrossSalesPriceAmt>
+        <BasisAmt>74466</BasisAmt>
+        <TotalNetAmt>1242</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>3700 SHS LEXMARK INTERNATIONAL</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>108590</GrossSalesPriceAmt>
+        <BasisAmt>152786</BasisAmt>
+        <TotalNetAmt>-44196</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>7700 SHS PROSHARES ULTRAPRO SHORT</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>188042</GrossSalesPriceAmt>
+        <BasisAmt>189531</BasisAmt>
+        <TotalNetAmt>-1489</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>7500 SHS PROSHARES ULTRAPRO SHORT</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>269988</GrossSalesPriceAmt>
+        <BasisAmt>269260</BasisAmt>
+        <TotalNetAmt>728</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>1800 SHS SCHLUMBERGER LTD</AssetDesc>
+        <AcquiredDt>2015-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>132754</GrossSalesPriceAmt>
+        <BasisAmt>131282</BasisAmt>
+        <TotalNetAmt>1472</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>39500 SHS VANGUARD HIGH DIV YIELD</AssetDesc>
+        <AcquiredDt>2014-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2667678</GrossSalesPriceAmt>
+        <BasisAmt>2756875</BasisAmt>
+        <TotalNetAmt>-89197</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SHORT-TERM GAIN/LOSS FROM PTE</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <BasisAmt>12</BasisAmt>
+        <TotalNetAmt>-12</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LONG TERM GAIN/LOSS FROM PTE</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>4405</GrossSalesPriceAmt>
+        <TotalNetAmt>4405</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc4">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SECURITIES</CategoryOrItemTxt>
+        <BookValueAmt>3553836</BookValueAmt>
+        <EOYFMVAmt>3522101</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>63</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>63</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES/SUBSCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>33</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>33</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc6">
+      <OtherIncomeDetail>
+        <Desc>BLACKSTONE GROUP LP</Desc>
+        <RevenueAndExpensesPerBooksAmt>172</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>172</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>172</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>KKR &amp; CO LP</Desc>
+        <RevenueAndExpensesPerBooksAmt>-95</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-95</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>-95</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc7">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>ADVISOR FEE</CategoryTxt>
+        <Amt>20029</Amt>
+        <NetInvestmentIncomeAmt>20029</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>BLACKSTONE GROUP LP</CategoryTxt>
+        <Amt>42</Amt>
+        <NetInvestmentIncomeAmt>42</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>KKR &amp; CO LP</CategoryTxt>
+        <Amt>41</Amt>
+        <NetInvestmentIncomeAmt>41</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc8">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>2039</Amt>
+        <NetInvestmentIncomeAmt>2039</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAXES</CategoryTxt>
+        <Amt>100</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>STATE TAXES</CategoryTxt>
+        <Amt>200</Amt>
+        <DisbursementsCharitablePrpsAmt>200</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

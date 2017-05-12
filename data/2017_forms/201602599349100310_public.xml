@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-15T11:02:34-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>561256981</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>PAGE &amp; SMITH PA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1350 E ARLINGTON BLVD SUITE C</AddressLine1Txt>
+        <CityNm>GREENVILLE</CityNm>
+        <StateAbbreviationCd>NC</StateAbbreviationCd>
+        <ZIPCd>278585868</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>561789818</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>EDWARDS-HOBGOOD FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>EDWA</BusinessNameControlTxt>
+      <PhoneNum>9198811062</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 6550</AddressLine1Txt>
+        <CityNm>RALEIGH</CityNm>
+        <StateAbbreviationCd>NC</StateAbbreviationCd>
+        <ZIPCd>27628</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>AL HOBGOOD III</PersonNm>
+      <PersonTitleTxt>PRES/SEC</PersonTitleTxt>
+      <PhoneNum>2525238100</PhoneNum>
+      <SignatureDt>2016-06-17</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>BENJAMIN V HARDY CPA</PreparerPersonNm>
+      <PTIN>P01358889</PTIN>
+      <PhoneNum>2523170690</PhoneNum>
+      <PreparationDt>2016-09-14</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>227214</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>4703</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>4703</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>4703</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>11970</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>11970</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>11970</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>16673</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>16673</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>4703</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">1476</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>738</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>738</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc6">3784</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>3784</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc7">378</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>378</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc4">18</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>3</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>15</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>5656</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>4903</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>753</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>20570</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>20570</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>26226</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>4903</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>21323</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-9553</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>11770</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>4703</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>377</CashBOYAmt>
+        <CashEOYAmt>537</CashEOYAmt>
+        <CashEOYFMVAmt>537</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>248941</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">240428</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>226677</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>249318</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>240965</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>227214</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>249318</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>240965</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>249318</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>240965</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>249318</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>240965</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>249318</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-9553</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc5">1200</OtherIncreasesAmt>
+        <SubtotalAmt>240965</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>240965</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>11970</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>15310</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>270022</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.056699</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>25699</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>270409</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.095038</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>30883</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>272034</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.113526</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>35506</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>292505</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.121386</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>22205</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>248621</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.089313</DistributionYr5Rt>
+        <TotalDistributionRt>0.475962</TotalDistributionRt>
+        <AverageDistributionRt>0.095192</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>247172</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>23529</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>118</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>23647</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>21323</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>235</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>235</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>235</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>235</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NC</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>AL HOBGOOD III</IndividualWithBooksNm>
+        <PhoneNum>9198811062</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3105 GLENWOOD AVENUE</AddressLine1Txt>
+          <AddressLine2Txt>SUITE 201</AddressLine2Txt>
+          <CityNm>RALEIGH</CityNm>
+          <StateAbbreviationCd>NC</StateAbbreviationCd>
+          <ZIPCd>27612</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>AL HOBGOOD III</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 6550</AddressLine1Txt>
+            <CityNm>RALEIGH</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27628</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRES/SEC</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELIZABETH H WELLONS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>609 HANCOCK ST</AddressLine1Txt>
+            <CityNm>SMITHFIELD</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27577</ZIPCd>
+          </USAddress>
+          <TitleTxt>VP/SEC</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>THOMAS A HOBGOOD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2038 NOLAND PARK LANE</AddressLine1Txt>
+            <CityNm>CHARLOTTE</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28209</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KENNETH E HOBGOOD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1918 ST MARYS ST</AddressLine1Txt>
+            <CityNm>RALEIGH</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27608</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREAS/DIR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>NONE</Description1Txt>
+        <Description2Txt>NONE</Description2Txt>
+        <Description3Txt>NONE</Description3Txt>
+        <Description4Txt>NONE</Description4Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>248756</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>2180</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>250936</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>250936</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>3764</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>247172</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>12359</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>12359</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>235</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>235</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>12124</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>12124</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>12124</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>21323</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>21323</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>21323</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>12124</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>10444</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>20929</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr2Amt>12289</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>2155</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>45817</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>21323</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>12124</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>9199</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>55016</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>10444</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>44572</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>20929</ExcessFromYear4Amt>
+        <ExcessFromYear2Amt>12289</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>2155</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>9199</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE FIRST TEE OF THE TRIANGLE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5560 MUNFORD RD 109</AddressLine1Txt>
+            <CityNm>RALEIGH</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE EDUCATIONAL FOUNDATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2446</AddressLine1Txt>
+            <CityNm>CHAPEL HILL</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27515</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HARBOR OF JOHNSTON COUNTY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1149 BUFFALO RD</AddressLine1Txt>
+            <CityNm>SMITHFIELD</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27577</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DOWN EAST ANIMAL REFUGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO DRAWER 40</AddressLine1Txt>
+            <CityNm>SCOTLAND NECK</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27874</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAINT MARY'S SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>900 HILLSBOROUGH ST</AddressLine1Txt>
+            <CityNm>RALEIGH</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27603</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAMP KANATA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13524 CAMP KANATA RD</AddressLine1Txt>
+            <CityNm>WAKE FOREST</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27587</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>753</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRANKIE LEMMON FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2301 STONEHENGE DR 102</AddressLine1Txt>
+            <CityNm>RALEIGH</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27615</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KANSAS GOVERNOR'S ONE SHOT TRKY HNT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 S MAIN ST</AddressLine1Txt>
+            <CityNm>EL DORADO</CityNm>
+            <StateAbbreviationCd>KS</StateAbbreviationCd>
+            <ZIPCd>67042</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>968</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NORTH CAROLINA STATE STUDENT AID</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2016 HARRIS HALL</AddressLine1Txt>
+            <AddressLine2Txt>CAMPUS BOX 7302</AddressLine2Txt>
+            <CityNm>RALEIGH</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27695</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>1600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NORTH CAROLINA STATE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>NC STATE UNIVERSITY</AddressLine1Txt>
+            <CityNm>RALEIGH</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27695</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>4399</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>20570</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>4703</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>11970</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>4703</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>11970</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>16673</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>PAGE &amp; SMITH, P.A., CPAS</CategoryTxt>
+        <Amt>1476</Amt>
+        <NetInvestmentIncomeAmt>738</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>738</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>-WELLS FARGO ADVISORS -3827</StockNm>
+        <EOYBookValueAmt>240428</EOYBookValueAmt>
+        <EOYFMVAmt>226677</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>18</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>3</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>15</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc5">
+      <OtherIncreasesDetail>
+        <Desc>ADJUSTMENT IN COST BASIS OF ASSETS</Desc>
+        <Amt>1200</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>WELLS FARGO MANAGEMENT FEES</CategoryTxt>
+        <Amt>3784</Amt>
+        <NetInvestmentIncomeAmt>3784</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAX FOR 12/31/13</CategoryTxt>
+        <Amt>346</Amt>
+        <NetInvestmentIncomeAmt>346</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX WITHHELD</CategoryTxt>
+        <Amt>32</Amt>
+        <NetInvestmentIncomeAmt>32</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

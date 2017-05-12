@@ -1,0 +1,826 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-09T08:02:00-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>WENDELL WJ YIM CPA INC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>45-129 ALINA PLACE</AddressLine1Txt>
+        <CityNm>KANEOHE</CityNm>
+        <StateAbbreviationCd>HI</StateAbbreviationCd>
+        <ZIPCd>96744</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>300180163</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BEATRICE YOUNG FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% DOUGLAS HO</InCareOfNm>
+      <BusinessNameControlTxt>BEAT</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>1268 YOUNG STREET RM 302</AddressLine1Txt>
+        <CityNm>HONOLULU</CityNm>
+        <StateAbbreviationCd>HI</StateAbbreviationCd>
+        <ZIPCd>96814</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DOUGLAS HO</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <SignatureDt>2016-09-10</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>WENDELL YIM</PreparerPersonNm>
+      <PTIN>P00234491</PTIN>
+      <PhoneNum>8082354122</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>695</InterestOnSavRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>14247</DividendsRevAndExpnssAmt>
+        <NetRentalIncomeOrLossAmt>34452</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>1314131</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>619274</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>93328</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>1329073</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>93328</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>92768</CompOfcrDirTrstRevAndExpnssAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSch">3142</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>0</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">33191</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">21564</TaxesRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>43060</TravConfMeetingRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">43546</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>237271</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>429666</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>429666</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>666937</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>429666</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>662136</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>93328</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>152092</CashBOYAmt>
+        <CashEOYAmt>1439245</CashEOYAmt>
+        <SavAndTempCashInvstBOYAmt>917083</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>1817083</SavAndTempCashInvstEOYAmt>
+        <OtherInvestmentsBOYAmt>2160537</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">1779006</OtherInvestmentsEOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>1319392</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>88108</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>3528328</LandBOYAmt>
+        <LandEOYAmt>1231284</LandEOYAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSch">1482</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSch">-7762</OtherAssetsEOYAmt>
+        <TotalAssetsBOYAmt>6759522</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>6258856</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <MortgagesAndNotesPayableBOYAmt>1286567</MortgagesAndNotesPayableBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabSch">-4012</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>1286567</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>-4012</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>2902982</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>2902982</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>4082600</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>4082600</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>-1512627</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>-722714</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>5472955</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6262868</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>6759522</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>6258856</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>5472955</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>662136</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSch">127777</OtherIncreasesAmt>
+        <SubtotalAmt>6262868</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6262868</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BULLION</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2013-06-06</AcquiredDt>
+          <SoldDt>2015-12-15</SoldDt>
+          <GrossSalesPriceAmt>619274</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>525946</CostOrOtherBasisAmt>
+          <GainOrLossAmt>93328</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>93328</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>93328</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp />
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1867</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1867</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1867</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>92</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>92</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>1775</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>HI</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>DOUGLAS HO</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1268 YOUNG ST</AddressLine1Txt>
+          <CityNm>HON</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96814</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DOUGLAS HO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1268 YOUNG STREET</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96814</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT/ DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>92768</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RANDOLPH LEONG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>100 N BERETANIA ST</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96814</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR/ SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GREGORY LEONG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O 1268 YOUNG ST</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96813</ZIPCd>
+          </USAddress>
+          <TitleTxt>VP AND DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>REUBEN WONG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1164 BISHOP ST</AddressLine1Txt>
+            <CityNm>HON</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96813</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1779006</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>1817083</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>2591759</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>6187848</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>6187848</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>92818</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>6095030</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>304752</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>304752</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1867</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1867</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>302885</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>302885</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>302885</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>429666</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt referenceDocumentId="CashDistExplnStmt">0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>429666</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>429666</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>302885</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2013</PriorYear1Yr>
+        <PriorYear2Yr>2012</PriorYear2Yr>
+        <PriorYear3Yr>2011</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>0</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>26087</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>548000</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>379915</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>92000</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>1046002</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>429666</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>302885</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>126781</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>1172783</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>1172783</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>26087</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>548000</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>379915</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>92000</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>126781</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>DOUGLAS T HO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1268 YOUNG ST HONOLULU HI 96814</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96814</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8085919799</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>THE APPLICATION MUST INCLUDE PURPOSE, GOALS, TIME TABLE, MEMBERS, AND REASONS FOR REQUESTING THE GRANT.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHINESE CHAMBER OF COMMERCE HAWAII</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8 S KING ST STE 201</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96813</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(c)(3) ORGANIZATI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROMOTE BUSINESS AND ECONOMIC DEVELOPMENT WITH CHINA AND TO PRESERVE CHINESE CULTURE.</GrantOrContributionPurposeTxt>
+          <Amt>33250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HAWAII INSTITUTE OF MOLECULAR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1268 YOUNG STREET</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96814</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>PROMOTE RESEARCH AND STUDY</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MISS CHINATOWN PAGEANT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 25184</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96825</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SHARE LOCAL HAWAII CHINESE CULTURE WITH OTHER SOCIETIES.</GrantOrContributionPurposeTxt>
+          <Amt>51000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>1990 INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 383</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>BROADEN UNDERSTANDING AND BUILD TRUST</GrantOrContributionPurposeTxt>
+          <Amt>121816</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE ARC OF HONOLULU</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3989 DIAMOND HEAD ROAD</AddressLine1Txt>
+            <CityNm>HON</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96816</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>HELP PEOPLE WITH DEVELOPMENTAL DISABILITIES TO LIVE THEIR DREAMS.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NOTRE DAME CLUB OF HAWAII</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 11257</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96828</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>LOCAL NOTRE DAME BOOSTER ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ASIAN AMERICAN DONOR FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2169 HARBOR BAY PARKWAY</AddressLine1Txt>
+            <CityNm>ALAMEDA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MATCHING DONORS OF VARIOUS ORGANS THROUGH THE MATCHING PROTOCOL.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CTR FOR INDEPENDENT DOCUMENT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>680 SO MAIN ST</AddressLine1Txt>
+            <CityNm>SHARON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02067</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>DOCUMENTARY FILM " FINDING KUKAN "</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHINESE AMERICAN CIRCLE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2756</AddressLine1Txt>
+            <CityNm>CUPERTINO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95014</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROVIDING SCHOLARSHIPS TO PEOPLE IN THE BAY AREA.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHINESE NEWCOMER SERVICE CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>777 STOCKTON ST 104</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94108</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROVIDE UNDERSERVICED COMMUNITIES WITH SOCIAL AND ECONOMIC AND BUSINESS SERVICES.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DAMIEN MEMORIAL HIGH SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1401 HOUGHTAILING ST</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96817</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FACILITATE THE LEARNING EXPERIENCE FOR THE STUDENTS OF DAMIEN MEMORIAL HS.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HAWAII FAMILY FORUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6301 PALI HWY</AddressLine1Txt>
+            <CityNm>KANEOHE</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96744</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROMOTING LIFE, FAITH, FAMILY AND RELIGIOUS FREEDOM.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOO CHO SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1342 7TH AVE</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96816</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROMOTE TEACHING OF MANDARIN CHINESE LANGUAGE.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KAHUKU YOUTH ATHLETIC ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>57 KUILIMA DR</AddressLine1Txt>
+            <CityNm>KAHUKU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96731</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ASSIST THE YOUTH OF KAHUKU IN PROMOTING ATHLETICS.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LAUAKEA FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6301 PALI HWY</AddressLine1Txt>
+            <CityNm>KANEOHE</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96744</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROMOTE AND PRESERVE HAWAIIAN CULTURE THROUGH DANCE.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LUNALILO HOME</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 KEKAULUOHI ST</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96825</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROVIDE RESPECTFUL, QUALITY, COMPASSIONATE AND CARING SERVICES FOR DISADVANTAGED KUPUNA (SENIORS).</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MARYKNOLL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1526 ALEXANDER ST</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96822</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ENVOY PROGRAM SENDING GROUPS OF STUDENTS AND TEACHERS TO CHINA IN WUHAN AND SHANGHAI.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OREGON STATE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1500 SW JEFFERSON ST</AddressLine1Txt>
+            <CityNm>CORVALLIS</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97331</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>EDUCATE AND ENRICH THE LIVES OF OUR YOUTHS.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PALOLO CHINESE HOME</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2459 10TH AVE</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96816</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO TAKE CARE OF EDERLY.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>REHABILITATION CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>226 KUAKINI ST</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96817</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CARDIAC THERAPY GYM OVER THE SPAN OF FOUR YEARS.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAINT LOUIS SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3142 WAIALAE AVE</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96816</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>BENEFIT THE STUDENTS AND PROGRAMS AT SAINT LOIUS SCHOOL.</GrantOrContributionPurposeTxt>
+          <Amt>5600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HAWAII SPCA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 KEALAHOU ST A31</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96825</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CARE FOR ANIMALS AND EDUCATE PUBLIC ABOUT THEIR SITUATION.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STANLEY AND GILBERT HONG SCHOLARSHIP FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>LILIUOKALANI TRUST</AddressLine1Txt>
+            <CityNm>HONOLULU</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96816</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>ASSIST COLLEGE BOUND STUDENTS OF HAWAII.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>429666</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>695</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>14247</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>1314131</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>NET RENTAL</Desc>
+          <ExclusionCd>30</ExclusionCd>
+          <RelatedOrExemptFunctionIncmAmt>34452</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>1329073</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>34452</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1363525</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>6283</Amt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>CPA</CategoryTxt>
+        <Amt>24328</Amt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>PAYROLL</CategoryTxt>
+        <Amt>2580</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <CashDistributionExplnStmt documentId="CashDistExplnStmt">
+      <ExplanationTxt>GRANTS TO VIATIC RESEARCH CORPORTATION</ExplanationTxt>
+    </CashDistributionExplnStmt>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>COLLECTIBLES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSch">
+      <LegalFeesGrp>
+        <CategoryTxt>ATTORNEYS</CategoryTxt>
+        <LegalFeesAmt>3142</LegalFeesAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssetsScheduleGrp>
+        <Desc>OTHER</Desc>
+        <EOYBookValueAmt>-7762</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>AUTO AND LEASE</Desc>
+        <RevenueAndExpensesPerBooksAmt>6619</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1077</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CABLE</Desc>
+        <RevenueAndExpensesPerBooksAmt>261</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CONSULTATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>5651</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ENTERTAINMENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>987</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>6479</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>KAPIOLANI CENTURTY CENTER</Desc>
+        <RevenueAndExpensesPerBooksAmt>15131</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE</Desc>
+        <RevenueAndExpensesPerBooksAmt>533</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PERIODICALS</Desc>
+        <RevenueAndExpensesPerBooksAmt>383</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>152</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PRINTING</Desc>
+        <RevenueAndExpensesPerBooksAmt>39</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PROMOTION</Desc>
+        <RevenueAndExpensesPerBooksAmt>1503</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>RPT</Desc>
+        <RevenueAndExpensesPerBooksAmt>153</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SAFETY DEPOSIT</Desc>
+        <RevenueAndExpensesPerBooksAmt>3173</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SECURITY</Desc>
+        <RevenueAndExpensesPerBooksAmt>104</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SEMINARS</Desc>
+        <RevenueAndExpensesPerBooksAmt>135</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SUBSCRIPTION</Desc>
+        <RevenueAndExpensesPerBooksAmt>48</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1118</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSch">
+      <OtherIncreasesDetail>
+        <Desc>ADDITIONS FROM THE ESTATES</Desc>
+        <Amt>127777</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabSch">
+      <OtherLiabilitiesDetail>
+        <Desc>OTHER</Desc>
+        <EOYBookValueAmt>-4012</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>REAL PROPERTY TAXES</CategoryTxt>
+        <Amt>9365</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FICA</CategoryTxt>
+        <Amt>7650</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>SUC</CategoryTxt>
+        <Amt>331</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL</CategoryTxt>
+        <Amt>4218</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

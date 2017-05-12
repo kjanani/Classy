@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-15T16:08:01-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>271264977</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ECKLEY LOMBARDI LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>950 S BASCOM AVE STE 3118</AddressLine1Txt>
+        <CityNm>SAN JOSE</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>951283538</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>770549288</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE ALLISON LEE CONDIT FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ALLI</BusinessNameControlTxt>
+      <PhoneNum>8314761011</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>150 DEBERNARDO LANE</AddressLine1Txt>
+        <CityNm>APTOS</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>950032738</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ROSS CONDIT</PersonNm>
+      <PersonTitleTxt>OFFICER</PersonTitleTxt>
+      <PhoneNum>8314761011</PhoneNum>
+      <SignatureDt>2016-08-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MAURICE J ECKLEY JR</PreparerPersonNm>
+      <PTIN>P00162376</PTIN>
+      <PhoneNum>4089982180</PhoneNum>
+      <PreparationDt>2016-08-09</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>191062</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>5580</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>5580</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>5580</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">941</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>941</GrossSalesPriceAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc5">167</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>167</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>6688</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>5580</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>5747</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">1165</AccountingFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc6">111</TaxesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>1276</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>6750</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>6750</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>8026</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>6750</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-1338</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>5580</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>5747</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>17638</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>16300</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>16300</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>91028</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">91028</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>174762</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>108666</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>107328</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>191062</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>108666</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>107328</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>108666</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>107328</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>108666</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>107328</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>108666</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-1338</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>107328</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>107328</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>2090</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>180512</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.011578</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>7500</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>146425</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.051221</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>1500</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>130077</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.011532</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>3000</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>117763</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.025475</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>13964</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>112266</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.124383</DistributionYr5Rt>
+        <TotalDistributionRt>0.224189</TotalDistributionRt>
+        <AverageDistributionRt>0.044838</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>195278</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>8756</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>56</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>8812</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>6750</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>112</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>112</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>112</TaxBasedOnInvestmentIncomeAmt>
+        <AppliedToEsTaxAmt>115</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>115</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>3</OverpaymentAmt>
+        <AppliedToESTaxAmt>3</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>ROSS CONDIT</IndividualWithBooksNm>
+        <PhoneNum>8314761011</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>150 DEBERNARDO LN</AddressLine1Txt>
+          <CityNm>APTOS</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95003</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>true</UndistributedIncomePYInd>
+        <UndistributedIncomePY1Yr>2014</UndistributedIncomePY1Yr>
+        <UndistrIncmSect4942a2NotAppInd>true</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROSS CONDIT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>150 DEBERNARDO LANE</AddressLine1Txt>
+            <CityNm>APTOS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>950032738</ZIPCd>
+          </USAddress>
+          <TitleTxt>OFFICER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>181283</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>16969</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>198252</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>198252</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>2974</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>195278</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>9764</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>9764</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>112</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>112</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>9652</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>9652</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>9652</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>6750</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>6750</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>6750</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>9652</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>8810</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>6750</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>6750</AppliedToYear1Amt>
+        <Taxable2Amt>2060</Taxable2Amt>
+        <UndistributedIncomeCYAmt>9652</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>ROSS CONDIT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>150 DEBERNARDO LN</AddressLine1Txt>
+            <CityNm>APTOS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>950032738</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8314761011</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>LETTER OF REQUEST; IRS QUALIFICATION LTR; PURPOSE</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>90 DAYS PRIOR TO NEEDS</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>HANDICAPPED CHILDREN &amp; ADULTS NEEDS</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WATCH RESOURCES INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12801 CABEZUT RD</AddressLine1Txt>
+            <CityNm>SONORA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95370</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HANDICAP CHILDREN</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CABRILLO COLLEGE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6500 SOQUEL DRIVE</AddressLine1Txt>
+            <CityNm>APTOS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STROKE CENTER</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE DOWN SYNDROME CONNECTION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101-J TOWN COUNTRY DR</AddressLine1Txt>
+            <CityNm>DANVILLE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94526</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT PEOPLE WITH DOWN SYNDROME</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SPECIAL PARENTS INFORMATION NETWORK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2367</AddressLine1Txt>
+            <CityNm>SANTA CRUZ</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95063</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SPECIAL NEEDS CHILDREN</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>6750</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>5580</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>941</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>LITIGATION SETTLEMENT</Desc>
+          <RelatedOrExemptFunctionIncmAmt>167</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>5580</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>1108</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>6688</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>SALES OF STOCK</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>1165</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>KRAFT FOODS GROUP</AssetDesc>
+        <AcquiredDt>2003-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <GrossSalesPriceAmt>941</GrossSalesPriceAmt>
+        <TotalNetAmt>941</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORPORATE STOCK</StockNm>
+        <EOYBookValueAmt>91028</EOYBookValueAmt>
+        <EOYFMVAmt>174762</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc5">
+      <OtherIncomeDetail>
+        <Desc>LITIGATION SETTLEMENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>167</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>167</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc6">
+      <TaxesDetail>
+        <CategoryTxt>INDIRECT TAXES/LICENSES</CategoryTxt>
+        <Amt>111</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

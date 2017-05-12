@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-14T21:28:25-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>946214841</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Armanino LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>12657 Alcosta Blvd Ste 500</AddressLine1Txt>
+        <CityNm>San Ramon</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>945834600</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>946061290</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Louise A &amp; Walter H Sullivan</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>Foundation</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>LOUI</BusinessNameControlTxt>
+      <PhoneNum>6503456959</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>906 Aruba Lane</AddressLine1Txt>
+        <CityNm>Foster City</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94404</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Erica Fuller</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <PhoneNum>6503456959</PhoneNum>
+      <SignatureDt>2016-09-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>John Panetta</PreparerPersonNm>
+      <PTIN>P00365375</PTIN>
+      <PhoneNum>9257902600</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>233140</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>7637</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>7637</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>1790</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>86779</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>1790</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>9427</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>9427</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">2254</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1127</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1127</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">2057</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>1029</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>1029</OtherProfFeesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">14</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>7</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>7</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>4325</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>2163</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2163</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>15334</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>15334</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>19659</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>2163</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>17497</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-10232</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>7264</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>2908</CashBOYAmt>
+        <CashEOYAmt>3306</CashEOYAmt>
+        <CashEOYFMVAmt>3306</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>3239</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>4767</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>4767</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>253054</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">225067</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>225067</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>259201</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>233140</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>233140</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>72263</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>72263</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>186938</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>160877</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>259201</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>233140</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>259201</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>233140</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>259201</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-10232</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>248969</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">15829</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>233140</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly traded securities</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>13872</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16975</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3103</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3103</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>72907</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>68014</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4893</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4893</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>1790</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>15782</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>268359</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.058809</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>17599</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>276815</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.063577</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>13132</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>242090</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.054244</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>9410</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>267641</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.035159</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>12617</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>222408</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.056729</DistributionYr5Rt>
+        <TotalDistributionRt>0.268518</TotalDistributionRt>
+        <AverageDistributionRt>0.053704</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>251602</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>13512</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>73</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>13585</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>17497</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>73</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>73</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>73</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>2815</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>2815</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>2742</OverpaymentAmt>
+        <AppliedToESTaxAmt>2742</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>WALTER FULLER</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6503456959</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>906 Aruba Lane</AddressLine1Txt>
+          <CityNm>Foster City</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94404</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Erica S Fuller</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>906 Aruba Lane</AddressLine1Txt>
+            <CityNm>Foster City</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94404</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.30</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Walter H Sullivan</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>906 Aruba Lane</AddressLine1Txt>
+            <CityNm>Foster City</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94404</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.10</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>245203</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>10231</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>255434</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>255434</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>3832</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>251602</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>12580</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>12580</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>73</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>73</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>12507</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>12507</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>12507</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>17497</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>17497</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>73</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>17424</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>12507</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>55</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>17497</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>55</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>12507</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>4935</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>4935</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>4935</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>4935</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>Erica Fuller</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>906 Aruba Lane</AddressLine1Txt>
+            <CityNm>Foster City</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94404</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>6503456959</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>Typewritten information regarding purpose of organization</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>None</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>Must be a qualified charitable, religious, educational, or medical organization</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Friends of KVRM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1574 Coburg Road 237</AddressLine1Txt>
+            <CityNm>Eugene</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KALW</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 Mansell St</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94134</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KLCC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>136 W 8th Ave</AddressLine1Txt>
+            <CityNm>Eugene</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KQED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2601 Mariposa Street</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support - Education</GrantOrContributionPurposeTxt>
+          <Amt>700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Menlo College</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 El Camino Real</AddressLine1Txt>
+            <CityNm>Atherton</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support - Education</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Sailors for the sea</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>449 Thames St</AddressLine1Txt>
+            <CityNm>Newport</CityNm>
+            <StateAbbreviationCd>RI</StateAbbreviationCd>
+            <ZIPCd>02840</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>1334</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Stevenson School</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3152 Forest Lake Road</AddressLine1Txt>
+            <CityNm>Pebble Beach</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93953</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support - Education</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Foundation For The Reed Schools</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>277 Karen Way</AddressLine1Txt>
+            <CityNm>Tiburon</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94920</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support - Education</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Thacher School</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5025 Thacher Road</AddressLine1Txt>
+            <CityNm>Ojai</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93923</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support - Education</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Western States Fellowship</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10496 Alta Sierra Drive</AddressLine1Txt>
+            <CityNm>Grass Valley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95949</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public Charity</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>15334</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7637</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>1790</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>9427</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>9427</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting Fees</CategoryTxt>
+        <Amt>2254</Amt>
+        <NetInvestmentIncomeAmt>1127</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1127</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Corporate Stocks</StockNm>
+        <EOYBookValueAmt>225067</EOYBookValueAmt>
+        <EOYFMVAmt>225067</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>Unrealized Loss on Investments</Desc>
+        <Amt>15829</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Charge</Desc>
+        <RevenueAndExpensesPerBooksAmt>14</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>7</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>7</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Investment Management</CategoryTxt>
+        <Amt>2057</Amt>
+        <NetInvestmentIncomeAmt>1029</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1029</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

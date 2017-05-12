@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-15T09:31:07-05:00</ReturnTs>
+    <TaxPeriodEndDt>2016-04-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>042574751</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ROMITO TOMASETTI &amp; ASSOCIATES PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>600 WEST CUMMINGS PARK</AddressLine1Txt>
+        <CityNm>WOBURN</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>01801</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-05-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>046113398</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SIDNEY H RABINOWITZ FAMILY</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SIDN</BusinessNameControlTxt>
+      <PhoneNum>6173375578</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>C/O PETER RABINOWITZ 250 FIRST AVE</AddressLine1Txt>
+        <CityNm>BOSTON</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>02129</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>PETER RABINOWITZ</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>7818941666</PhoneNum>
+      <SignatureDt>2016-09-09</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>NANCY A MCWHIRTER</PreparerPersonNm>
+      <PTIN>P00196216</PTIN>
+      <PhoneNum>7819385600</PhoneNum>
+      <PreparationDt>2016-09-12</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="RetDoc1">
+      <AddressChangeInd>X</AddressChangeInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>69983</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>7</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>7</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">-5050</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>53228</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>-5043</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>7</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">2196</AccountingFeesRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc6">171</OtherProfFeesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc5">62</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>2429</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>7285</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>7285</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>9714</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>7285</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-14757</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>7</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>1894</CashBOYAmt>
+        <CashEOYAmt>10308</CashEOYAmt>
+        <CashEOYFMVAmt>10305</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>26197</SavAndTempCashInvstBOYAmt>
+        <CorporateStockBOYAmt>96817</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">99843</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>59678</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>124908</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>110151</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>69983</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>124908</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>110151</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>124908</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>110151</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>124908</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>110151</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>124908</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-14757</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>110151</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>110151</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>7052</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>129241</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.054565</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>7373</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>107616</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.068512</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>11541</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>83453</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.138293</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>10942</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>105075</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.104135</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>15383</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>121030</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.127101</DistributionYr5Rt>
+        <TotalDistributionRt>0.492606</TotalDistributionRt>
+        <AverageDistributionRt>0.098521</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>76162</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>7504</AdjNetVlNoncharitableAssetsAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>7504</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>7285</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>PETER A RABINOWITZ</IndividualWithBooksNm>
+        <PhoneNum>6173375578</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>250 FIRST AVENUE SUITE 236</AddressLine1Txt>
+          <CityNm>BOSTON</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02129</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOY RABINOWITZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>165 CHESTNUT STREET</AddressLine1Txt>
+            <CityNm>BROOKLINE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02445</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PETER RABINOWITZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>250 FIRST AVENUE</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02129</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICHAEL RABINOWITZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7185 LANDING POINT</AddressLine1Txt>
+            <CityNm>STOCKBRIDGE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30281</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WENDY GRALNEK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7398 EAST ONYX COURT</AddressLine1Txt>
+            <CityNm>SCOTTSDALE</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85258</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>70622</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>6700</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>77322</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>77322</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1160</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>76162</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>3808</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>3808</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>3808</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>3808</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>3808</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>7285</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>7285</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>7285</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>3808</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>9351</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>5700</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>7392</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>1996</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>590</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>25029</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>7285</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>3808</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>3477</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>28506</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>9351</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>19155</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>5700</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>7392</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>1996</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>590</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>3477</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEE ATTACHED SCHEDULE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>BOSTON</AddressLine1Txt>
+            <AddressLine2Txt>BOSTON</AddressLine2Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02129</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>7285</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>7285</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>-5050</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>7</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>-5050</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>-5043</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>2196</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CORNERSTONE</AssetDesc>
+        <AcquiredDt>2014-05</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>1520</GrossSalesPriceAmt>
+        <BasisAmt>10099</BasisAmt>
+        <TotalNetAmt>-8579</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CORNERSTONE</AssetDesc>
+        <AcquiredDt>2014-09</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>1520</GrossSalesPriceAmt>
+        <BasisAmt>7747</BasisAmt>
+        <TotalNetAmt>-6227</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>IMAGOLD</AssetDesc>
+        <AcquiredDt>2014-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>7243</GrossSalesPriceAmt>
+        <BasisAmt>8628</BasisAmt>
+        <TotalNetAmt>-1385</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LAKESHORE</AssetDesc>
+        <AcquiredDt>2012-06</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>8124</GrossSalesPriceAmt>
+        <BasisAmt>8946</BasisAmt>
+        <TotalNetAmt>-822</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LAKESHORE</AssetDesc>
+        <AcquiredDt>2013-06</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>1219</GrossSalesPriceAmt>
+        <BasisAmt>435</BasisAmt>
+        <TotalNetAmt>784</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LAKESHORE</AssetDesc>
+        <AcquiredDt>2013-06</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>31184</GrossSalesPriceAmt>
+        <BasisAmt>11155</BasisAmt>
+        <TotalNetAmt>20029</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>NEWMONT MINING</AssetDesc>
+        <AcquiredDt>2011-03</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>1658</GrossSalesPriceAmt>
+        <BasisAmt>5351</BasisAmt>
+        <TotalNetAmt>-3693</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WILLIAMS CREEK</AssetDesc>
+        <AcquiredDt>2014-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>15</GrossSalesPriceAmt>
+        <BasisAmt>345</BasisAmt>
+        <TotalNetAmt>-330</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WILLIAMS CREEK</AssetDesc>
+        <AcquiredDt>2014-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>8</GrossSalesPriceAmt>
+        <BasisAmt>148</BasisAmt>
+        <TotalNetAmt>-140</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WILLIAMS CREEK</AssetDesc>
+        <AcquiredDt>2014-05</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>661</GrossSalesPriceAmt>
+        <BasisAmt>2274</BasisAmt>
+        <TotalNetAmt>-1613</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WILLIAMS CREEK</AssetDesc>
+        <AcquiredDt>2012-06</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>76</GrossSalesPriceAmt>
+        <BasisAmt>3150</BasisAmt>
+        <TotalNetAmt>-3074</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMORFIX LIFE SCIENCE</StockNm>
+        <EOYBookValueAmt>7123</EOYBookValueAmt>
+        <EOYFMVAmt>878</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TYHEE GOLD</StockNm>
+        <EOYBookValueAmt>33838</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WI2WI</StockNm>
+        <EOYBookValueAmt>5807</EOYBookValueAmt>
+        <EOYFMVAmt>1706</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY CHARITABLE GIVING FUNDS</StockNm>
+        <EOYBookValueAmt>53075</EOYBookValueAmt>
+        <EOYFMVAmt>57094</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORNERSTON</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IMAGOLD</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LAKESHORE</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NEWMONT MINING</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WILLIAMS CREEK</StockNm>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MA ANNUAL REPORT FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>35</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>27</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISTORY FEES</CategoryTxt>
+        <Amt>171</Amt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

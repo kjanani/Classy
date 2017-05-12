@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-15T14:13:54-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>LBA Certified Public AccountantsPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>501 Riverside Ave Suite 800</AddressLine1Txt>
+        <CityNm>Jacksonville</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>322024939</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>597265111</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Borowy Family Foundation</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>c/o Thomas D Borowy</BusinessNameLine2Txt>
+      </BusinessName>
+      <InCareOfNm>% THOMAS D BOROWY</InCareOfNm>
+      <BusinessNameControlTxt>BORO</BusinessNameControlTxt>
+      <PhoneNum>9047390270</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2200 Miller Oaks Court</AddressLine1Txt>
+        <CityNm>Jacksonville</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>322173506</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>THOMAS D BOROWY</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <PhoneNum>9047390270</PhoneNum>
+      <SignatureDt>2016-07-25</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Richard D Brock</PreparerPersonNm>
+      <PTIN>P00264440</PTIN>
+      <PhoneNum>9043964015</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>107983</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>3531</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>3531</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>4187</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>4187</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-988</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>15389</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">2</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>2</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>6732</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>7720</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">1225</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>613</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">150</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>150</OtherProfFeesNetInvstIncmAmt>
+        <InterestRevAndExpnssAmt>84</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>84</InterestNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">219</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>18</TaxesNetInvstIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>192</TravConfMeetingRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>1870</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>252</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>613</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>33000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>33000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>34870</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>252</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>33613</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-28138</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>7468</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>7452</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>0</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>0</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateBondsBOYAmt>122532</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestCorpBondsSch">106155</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>107983</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>129984</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>106155</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>107983</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabSch">4309</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesEOYAmt>4309</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>129984</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>101846</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>129984</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>101846</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>129984</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>106155</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>129984</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-28138</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>101846</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>101846</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GLOBAL X FDS SUPER DIVIDEND ET</PropertyDesc>
+          <AcquiredDt>2013-07-09</AcquiredDt>
+          <SoldDt>2015-08-24</SoldDt>
+          <GrossSalesPriceAmt>10353</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10846</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-493</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-493</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GLOBAL X FDS SUPER DIVIDEND ET</PropertyDesc>
+          <AcquiredDt>2013-07-09</AcquiredDt>
+          <SoldDt>2015-09-14</SoldDt>
+          <GrossSalesPriceAmt>5031</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5531</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-500</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-500</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAIN DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GainOrLossAmt>5</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-988</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>38990</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>142542</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.273533</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>25065</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>164526</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.152347</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>80578</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>207934</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.387517</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>74285</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>222353</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.334086</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>91459</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>296659</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.308297</DistributionYr5Rt>
+        <TotalDistributionRt>1.45578</TotalDistributionRt>
+        <AverageDistributionRt>0.291156</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>120039</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>34950</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>75</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>35025</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>33613</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>149</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>149</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>149</TaxBasedOnInvestmentIncomeAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>149</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>n/a</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>THOMAS D BOROWY</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9047390270</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>2200 MILLER OAKS COURT</AddressLine1Txt>
+          <CityNm>JACKSONVILLE</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>32217</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>THOMAS D BOROWY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2200 Miller Oaks Court</AddressLine1Txt>
+            <CityNm>Jacksonville</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>322173506</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PATRICIA C BOROWY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2200 Miller Oaks Court</AddressLine1Txt>
+            <CityNm>Jacksonville</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>322173506</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MEGAN B WALKER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2200 Miller Oaks Court</AddressLine1Txt>
+            <CityNm>Jacksonville</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>322173506</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>118283</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>3584</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>121867</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>121867</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1828</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>120039</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>6002</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>6002</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>149</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>149</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>5853</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>5853</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>5853</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>33613</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>33613</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>33613</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>5853</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2013</PriorYear1Yr>
+        <PriorYear2Yr>2012</PriorYear2Yr>
+        <PriorYear3Yr>2011</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>77008</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>63497</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>70565</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>17123</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>32064</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>260257</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>33613</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>5853</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>27760</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>288017</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>77008</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>211009</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>63497</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>70565</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>17123</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>32064</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>27760</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>THOMAS D BOROWY</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PINE CASTLE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4911 spring park road</AddressLine1Txt>
+            <CityNm>JACKSONVILLE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32207</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNITED STATES OLYMPIC COMMITTEE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 OLYMPIC PLZ</AddressLine1Txt>
+            <CityNm>COLORADO SPRINGS</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80909</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CUMMER MUSEUM OF ART &amp; GARDENS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>829 RIVERSIDE AVENUE</AddressLine1Txt>
+            <CityNm>JACKSONVILLE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32204</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF NORTH FLORIDA FOUNDATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 UNF DRIVE</AddressLine1Txt>
+            <CityNm>JACKSONVILLE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32224</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>12500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE COMMUNITY HOSPICE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4266 SUNBEAM RD STE 200</AddressLine1Txt>
+            <CityNm>JACKSONVILLE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WOUNDED WARRIOR PROJECT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4899 BELFORT RD 300</AddressLine1Txt>
+            <CityNm>JACKSONVILLE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32256</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BAPTIST HEALTH FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 PRUDENTIAL DRIVE</AddressLine1Txt>
+            <CityNm>JACKSONVILLE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32207</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE BOLLES SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7400 SAN JOSE BLVD</AddressLine1Txt>
+            <CityNm>JACKSONVILLE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32217</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1050</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ONEJAX INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 UNF DRIVE</AddressLine1Txt>
+            <CityNm>JACKSONVILLE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32224</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>33000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>3531</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>4187</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-988</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>SUBSTITUTE PAYMENTS</Desc>
+          <ExclusionAmt>2</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>6732</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>6732</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX RETURN PREPARATION</CategoryTxt>
+        <Amt>1225</Amt>
+        <DisbursementsCharitablePrpsAmt>613</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpBondsSchedule documentId="InvestCorpBondsSch">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HSBC HOLDINGS PLC</BondNm>
+        <EOYBookValueAmt>10875</EOYBookValueAmt>
+        <EOYFMVAmt>11340</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PUBLIC STORAGE SERIES II</BondNm>
+        <EOYBookValueAmt>18641</EOYBookValueAmt>
+        <EOYFMVAmt>19440</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMERICAN FINANCIAL GROUP</BondNm>
+        <EOYBookValueAmt>25000</EOYBookValueAmt>
+        <EOYFMVAmt>26060</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>QWEST CORPORATION</BondNm>
+        <EOYBookValueAmt>29948</EOYBookValueAmt>
+        <EOYFMVAmt>31423</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GLOBAL X FDS</BondNm>
+        <EOYBookValueAmt>21691</EOYBookValueAmt>
+        <EOYFMVAmt>19720</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>Substitute Payments</Desc>
+        <RevenueAndExpensesPerBooksAmt>2</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabSch">
+      <OtherLiabilitiesDetail>
+        <Desc>MARGIN LOAN</Desc>
+        <EOYBookValueAmt>4309</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>150</Amt>
+        <NetInvestmentIncomeAmt>150</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>DEPT OF THE TREASURY</CategoryTxt>
+        <Amt>201</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>18</Amt>
+        <NetInvestmentIncomeAmt>18</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

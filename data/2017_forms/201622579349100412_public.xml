@@ -1,0 +1,679 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-13T11:14:35-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>SKIDMORE &amp; OLAUSSON PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>801 N 500 W STE 102</AddressLine1Txt>
+        <CityNm>BOUNTIFUL</CityNm>
+        <StateAbbreviationCd>UT</StateAbbreviationCd>
+        <ZIPCd>84010</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>208074132</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Brent &amp; Cheri Andrus Charitable Trust</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BREN</BusinessNameControlTxt>
+      <PhoneNum>4356457799</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>15 Sandstone Cove</AddressLine1Txt>
+        <CityNm>Park City</CityNm>
+        <StateAbbreviationCd>UT</StateAbbreviationCd>
+        <ZIPCd>84060</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Brent Andrus</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2016-09-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Hokan Olausson CPA</PreparerPersonNm>
+      <PTIN>P00082326</PTIN>
+      <PhoneNum>8019518900</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="3">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>594946</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>278000</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>3</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>3</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>3</DividendsAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>278003</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>3</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>3</TotalAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">171</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>171</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>171</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>171</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>35537</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>35537</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>35708</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>171</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>35537</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>242295</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>3</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>94040</CashBOYAmt>
+        <CashEOYAmt>107201</CashEOYAmt>
+        <CashEOYFMVAmt>107201</CashEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>487745</InvstLandCostOrOtherBasisAmt>
+        <LandBldgInvestmentsBOYAmt>258611</LandBldgInvestmentsBOYAmt>
+        <LandBldgInvestmentsEOYAmt referenceDocumentId="InvestmentsLandSchedule2">487745</LandBldgInvestmentsEOYAmt>
+        <LandBldgInvestmentsEOYFMVAmt>487745</LandBldgInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>352651</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>594946</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>594946</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>352651</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>594946</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>352651</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>594946</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>352651</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>594946</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>352651</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>242295</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>594946</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>594946</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Brent Andrus</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>4356457799</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>15 Sandstone Cove</AddressLine1Txt>
+          <CityNm>Park City</CityNm>
+          <StateAbbreviationCd>UT</StateAbbreviationCd>
+          <ZIPCd>84060</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Brent Andrus</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>15 Sandstone Cove</AddressLine1Txt>
+            <CityNm>Park City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84060</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Cheri Andrus</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>15 Sandstone Cove</AddressLine1Txt>
+            <CityNm>Park City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84060</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>100620</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>100620</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>100620</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1509</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>99111</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>4956</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>4956</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>4956</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>4956</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>4956</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>35537</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>35537</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>35537</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>4956</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>195075</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>232395</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>441226</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>213918</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>235676</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>1318290</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>35537</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>4956</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>30581</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>1348871</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>195075</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>1153796</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>232395</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>441226</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>213918</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>235676</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>30581</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Brigham Young University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ASB C-389</AddressLine1Txt>
+            <CityNm>PROVO</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Contribution</GrantOrContributionPurposeTxt>
+          <Amt>5200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Boy Scouts of America</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>525 Foothill Blvd</AddressLine1Txt>
+            <CityNm>Salt Lake City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84113</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Cancer Society</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>941 E 3300 S 100</AddressLine1Txt>
+            <CityNm>Salt Lake City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Peace House of Park City</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1960 Sidewinder Dr 208</AddressLine1Txt>
+            <CityNm>Park City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84060</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Purple Heart</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 49</AddressLine1Txt>
+            <CityNm>Annandale</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Northwestern Univesity</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>633 Clark St</AddressLine1Txt>
+            <CityNm>Evanston</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60208</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Utah Food Bank</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3150 S 900 W</AddressLine1Txt>
+            <CityNm>Salt Lake City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84119</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Judicial Watch</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>425 Third Street</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Kingsbury Hall</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1395 Presidents Cir</AddressLine1Txt>
+            <CityNm>Salt Lake City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LDS Church</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>60 E South Temple</AddressLine1Txt>
+            <CityNm>Salt Lake City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>1050</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Volunteers of America</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1660 Duke Street</AddressLine1Txt>
+            <CityNm>Alexandria</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22314</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Salt Lake City Mission</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1151 Redwood Rd 106</AddressLine1Txt>
+            <CityNm>SLC</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Madison House</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2716 Marshall Ct</AddressLine1Txt>
+            <CityNm>Madison</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53705</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Wounded Warriors</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4899 Belfort Rd</AddressLine1Txt>
+            <CityNm>Jacksonville</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32256</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Primary Children's Hospital</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 Mario Capecchi Dr</AddressLine1Txt>
+            <CityNm>Salt Lake City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84132</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>West High School Alumni</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>241 N 300 W</AddressLine1Txt>
+            <CityNm>Salt Lake City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purupose</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Media Research Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1900 Campus Commons Dr</AddressLine1Txt>
+            <CityNm>Reston</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>20191</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Utah Valley University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 W University Pkwy</AddressLine1Txt>
+            <CityNm>Orem</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84058</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Pulbic</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Called to Serve Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1095 Mountain Ridge Rd</AddressLine1Txt>
+            <CityNm>Provo</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Hillsdale College</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>33 E College St</AddressLine1Txt>
+            <CityNm>Hillsdale</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49242</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>National Geographic</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1145 17th St</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUblic</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>25</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Guidepost Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 5815</AddressLine1Txt>
+            <CityNm>Harlan</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>51593</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Utah Tibetan Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>135 W 2950 S</AddressLine1Txt>
+            <CityNm>Salt Lake City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Dry Creek Charity</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1055 E 2100 S Ste 203</AddressLine1Txt>
+            <CityNm>Salt Lake City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AdoptaPlatoon</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1457</AddressLine1Txt>
+            <CityNm>Seabrook</CityNm>
+            <StateAbbreviationCd>NH</StateAbbreviationCd>
+            <ZIPCd>03874</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>62</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Bridle up Hope</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1399</AddressLine1Txt>
+            <CityNm>American Fork</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Red Barn Recovery</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1200 W Red Barn Ln</AddressLine1Txt>
+            <CityNm>Farmington</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Acacia Shade</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>758 Canterbury Ln</AddressLine1Txt>
+            <CityNm>Alpine</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUblic</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Operation Underground Railroad</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>700 N Valley St Ste B</AddressLine1Txt>
+            <CityNm>Anaheim</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Zambia Scholarship Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 515</AddressLine1Txt>
+            <CityNm>Brigham City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Public</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Park City Christian Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1283 Deer Valley Dr</AddressLine1Txt>
+            <CityNm>Park City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84068</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>35537</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>3</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>3</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>3</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <InvestmentsLandSchedule2 documentId="InvestmentsLandSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>Buildings</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>487745</CostOrOtherBasisAmt>
+        <BookValueAmt>487745</BookValueAmt>
+        <EOYFMVAmt>487745</EOYFMVAmt>
+      </InvestmentLandGrp>
+    </InvestmentsLandSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>171</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>171</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

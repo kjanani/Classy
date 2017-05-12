@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-13T12:28:19-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ENTWISLE ENTERPRISES</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>905 EASTWIND ROAD</AddressLine1Txt>
+        <CityNm>BALTIMORE</CityNm>
+        <StateAbbreviationCd>MD</StateAbbreviationCd>
+        <ZIPCd>212046705</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>521275627</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE ELIZABETH FLICK CHARITABLE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ELIZ</BusinessNameControlTxt>
+      <PhoneNum>4109028357</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3125 BLENDON ROAD</AddressLine1Txt>
+        <CityNm>OWINGS MILLS</CityNm>
+        <StateAbbreviationCd>MD</StateAbbreviationCd>
+        <ZIPCd>211171659</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JAMES A FLICK JR</PersonNm>
+      <PersonTitleTxt>SECRETARY</PersonTitleTxt>
+      <PhoneNum>4109028357</PhoneNum>
+      <SignatureDt>2016-08-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>HANK ENTWISLE</PreparerPersonNm>
+      <PhoneNum>4108286611</PhoneNum>
+      <PreparationDt>2016-08-13</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>487403</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>30062</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>1</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>1</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>14244</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>14244</DividendsNetInvstIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>10908</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>44307</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>25153</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt>2500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2500</AccountingFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="00000005" referenceDocumentName="TaxesSchedule">611</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>611</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="00000003" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">77</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>77</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>3188</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>3188</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>50350</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>50350</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>53538</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>3188</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>50350</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-9231</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>21965</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>1858</CashBOYAmt>
+        <CashEOYAmt>3445</CashEOYAmt>
+        <CashEOYFMVAmt>3445</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>25215</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>7144</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>7144</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>362410</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="00000002" referenceDocumentName="InvestmentsCorpStockSchedule">430088</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>476814</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>389483</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>440677</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>487403</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>389483</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>440677</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>389483</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>440677</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>389483</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>440677</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>389483</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-9231</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="00000004" referenceDocumentName="OtherIncreasesSchedule">60425</OtherIncreasesAmt>
+        <SubtotalAmt>440677</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>440677</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>640 SHARES FTI CONSULTING [FCN]</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2013-12-18</AcquiredDt>
+          <SoldDt>2015-07-10</SoldDt>
+          <GrossSalesPriceAmt>26164</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>25018</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1146</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>1146</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FUND CAPITAL GAIN DISTRIBUTIONS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>9762</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>0</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9762</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>9762</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>10908</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>4600</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>464059</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.009913</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>950</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>405646</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.002342</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>21300</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>349892</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.060876</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>16210</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>330532</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.049042</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>22750</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>298391</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.076242</DistributionYr5Rt>
+        <TotalDistributionRt>0.198415</TotalDistributionRt>
+        <AverageDistributionRt>0.039683</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>486062</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>19288</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>220</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>19508</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>50350</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>220</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>220</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>220</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>274</EstimatedPlusOvpmtIncmTxAmt>
+        <AppliedToEsTaxAmt>400</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>674</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnOverpaymentAmt>-674</OriginalReturnOverpaymentAmt>
+        <OverpaymentAmt>454</OverpaymentAmt>
+        <AppliedToESTaxAmt>454</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MD</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>WEALTHA M FLICK</IndividualWithBooksNm>
+        <PhoneNum>4109027001</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3125 BLENDON ROAD OWINGS</AddressLine1Txt>
+          <CityNm>MILLS</CityNm>
+          <StateAbbreviationCd>MD</StateAbbreviationCd>
+          <ZIPCd>211171659</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WEALTHA M FLICK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3125 BLENDON ROAD</AddressLine1Txt>
+            <CityNm>OWINGS MILLS</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21117</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>J ALEXANDER FLICK III</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>21 GLENBERRY COURT</AddressLine1Txt>
+            <CityNm>PHOENIX</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21131</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMES A FLICK JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1830 IVY POINTE COURT</AddressLine1Txt>
+            <CityNm>NAPLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34109</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WENDY D FLICK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>21 GLENBERRY COURT</AddressLine1Txt>
+            <CityNm>PHOENIX</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21131</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>458627</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>34837</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>493464</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>493464</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>7402</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>486062</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>24303</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>24303</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>220</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>220</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>24083</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>24083</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>24083</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>50350</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>50350</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>220</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>50130</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>24083</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>22713</UndistributedIncomePYAmt>
+        <ExcessDistributionCyovYr5Amt>22750</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr3Amt>21300</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>950</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>4600</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>49600</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>50350</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>50350</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>99950</TotalCorpusAmt>
+        <Taxable2Amt>22713</Taxable2Amt>
+        <UndistributedIncomeCYAmt>24083</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>22750</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>77200</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>21300</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>950</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>4600</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>50350</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>JAMES A FLICK JR</ContributingManagerNm>
+        <ShareholderManagerNm>NA</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3125 BLENDON ROAD</AddressLine1Txt>
+            <CityNm>OWINGS MILLS</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21117</ZIPCd>
+          </RecipientUSAddress>
+          <FormAndInfoAndMaterialsTxt>N/A</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>N/A</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>N/A</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LIVING CLASSROOMS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1417 THAMES STREET</AddressLine1Txt>
+            <CityNm>BALTIMORE</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21231</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATIONALUNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FIRST TEE OF BALTIMORE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8508 LOCH RAVEN BLVD</AddressLine1Txt>
+            <CityNm>TOWSON</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21286</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATIONALUNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JOHNS HOPKINS HOSPITAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1800 ORLEANS STREET</AddressLine1Txt>
+            <CityNm>BALTIMORE</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21287</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATIONALUNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PEN MAR HUMAN SERVICES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10709 SUSQUEHANNA TRAIL</AddressLine1Txt>
+            <CityNm>GLEN ROCK</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17327</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLEUNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>350</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THORNCREEK UNITED METHODIST CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>142 ROCKDALE ROAD</AddressLine1Txt>
+            <CityNm>BUTLER</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLEUNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>50350</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>12</ExclusionCd>
+          <ExclusionAmt>14244</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>10908</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>25152</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>25152</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="00000002">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEE ATTACHED STATEMENTS</StockNm>
+        <EOYBookValueAmt>430088</EOYBookValueAmt>
+        <EOYFMVAmt>476814</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="00000003">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK SERVICE CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>77</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>77</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="00000004">
+      <OtherIncreasesDetail>
+        <Desc>BOOK TO FMV FINANCIAL STATEMENT FORMAT</Desc>
+        <Amt>60425</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="00000005">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>490</Amt>
+        <NetInvestmentIncomeAmt>490</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>121</Amt>
+        <NetInvestmentIncomeAmt>121</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

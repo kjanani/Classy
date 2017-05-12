@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-18T13:27:55-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>450604259</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BRITT &amp; COMPANY CPA LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>980 WASHINGTON STREET SUITE 123</AddressLine1Txt>
+        <CityNm>DEDHAM</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>02026</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>205907069</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SARA &amp; YASUO KUNIYOSHI FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SARA</BusinessNameControlTxt>
+      <PhoneNum>7813201900</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>61 FROST STREET</AddressLine1Txt>
+        <CityNm>CAMBRIDGE</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>021402247</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>STEPHEN DIAMOND</PersonNm>
+      <PersonTitleTxt>DIRECTOR</PersonTitleTxt>
+      <SignatureDt>2016-08-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>THOMAS P BRITT</PreparerPersonNm>
+      <PTIN>P00021357</PTIN>
+      <PhoneNum>7813201900</PhoneNum>
+      <PreparationDt>2016-08-15</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>527531</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>1</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>1</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>1</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>11189</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>11189</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>11189</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>24996</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>264624</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>24996</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>5302</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>36186</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>36186</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>16492</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">1500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1500</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc7">5781</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>5781</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc8">140</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>140</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc6">2212</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>2212</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>9633</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>9633</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>28000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>28000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>37633</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>9633</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>28000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-1447</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>26553</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>16492</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>10378</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>4453</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>4453</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>330146</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">319918</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>319918</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>223687</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc3">203160</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>203160</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>564211</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>527531</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>527531</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>564211</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>527531</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>564211</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>527531</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>564211</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>527531</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>564211</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-1447</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>562764</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc5">35233</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>527531</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>TD AMERITRADE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-06-09</AcquiredDt>
+          <SoldDt>2015-05-26</SoldDt>
+          <GrossSalesPriceAmt>109652</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>104350</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5302</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5302</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>TD AMERITRADE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2005-01-01</AcquiredDt>
+          <SoldDt>2015-05-26</SoldDt>
+          <GrossSalesPriceAmt>81278</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>81978</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-700</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-700</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>TD AMERITRADE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2005-01-01</AcquiredDt>
+          <SoldDt>2015-05-26</SoldDt>
+          <GrossSalesPriceAmt>72600</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>53300</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19300</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19300</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>24996</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>5302</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>26157</AdjustedQlfyDistriYr1Amt>
+        <AdjustedQlfyDistriYr2Amt>26157</AdjustedQlfyDistriYr2Amt>
+        <AdjustedQlfyDistriYr3Amt>26895</AdjustedQlfyDistriYr3Amt>
+        <AdjustedQlfyDistriYr4Amt>26762</AdjustedQlfyDistriYr4Amt>
+        <AdjustedQlfyDistriYr5Amt>25902</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsAmt>476740</NetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>266</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>266</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>28000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>266</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>266</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>266</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>266</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>STEPHEN DIAMOND</IndividualWithBooksNm>
+        <PhoneNum>7813201900</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>61 FROST STREET</AddressLine1Txt>
+          <CityNm>CAMBRIDGE</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>021402247</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEPHEN DIAMOND</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>61 FROST STREET</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02140</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHARLOTTE DIAMOND</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>61 FROST STREET</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02140</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>TO FURTHER THE APPRECIATION OF ALL FORMS OF ART</Description1Txt>
+        <Expenses1Amt>9633</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>484000</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>484000</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>484000</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>7260</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>476740</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>23837</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>23837</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>266</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>266</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>23571</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>23571</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>23571</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>28000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>28000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>266</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>27734</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>23571</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>28720</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>27000</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>55720</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>28000</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>23571</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>4429</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>60149</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>60149</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>28720</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>27000</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>4429</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WOODSTOCK ARTIST ASSOC &amp; MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>28 TINKER STREET</AddressLine1Txt>
+            <CityNm>WOODSTOCK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12498</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501C3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTICTED GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ART STUDENT LEAGUE OF NEW YORK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>215 WEST 57TH STREET</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501C3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GRANT</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MAUD MORGAN ARTS STREET</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20A SACRAMENTO STREET</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02138</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501C3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GRANT</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEW ENGLAND CONSERVATORY OF MUSIC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>290 HUNTINGTON AVE</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02115</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501C3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GILCREASE MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1400 N MUSEUM ROAD</AddressLine1Txt>
+            <CityNm>TULSA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501C3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GRANT</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>28000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>11189</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>24996</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>36186</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>36186</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>1500</Amt>
+        <NetInvestmentIncomeAmt>1500</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc3">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TD AMERITRADE</BondNm>
+        <EOYBookValueAmt>203160</EOYBookValueAmt>
+        <EOYFMVAmt>203160</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TD AMERITRADE</StockNm>
+        <EOYBookValueAmt>319918</EOYBookValueAmt>
+        <EOYFMVAmt>319918</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc5">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED CAPITAL LOSSES IN 2015</Desc>
+        <Amt>35233</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SMITHSONIAN EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2212</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2212</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc7">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>MANAGEMENT FEES</CategoryTxt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISOR FEE</CategoryTxt>
+        <Amt>2500</Amt>
+        <NetInvestmentIncomeAmt>2500</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>ARCHIVIST</CategoryTxt>
+        <Amt>1880</Amt>
+        <NetInvestmentIncomeAmt>1880</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>ARCHIVE EXPENSE</CategoryTxt>
+        <Amt>484</Amt>
+        <NetInvestmentIncomeAmt>484</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>TAX//FILING FEE</CategoryTxt>
+        <Amt>917</Amt>
+        <NetInvestmentIncomeAmt>917</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc8">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES PAID ON INVESTMENT</CategoryTxt>
+        <Amt>140</Amt>
+        <NetInvestmentIncomeAmt>140</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

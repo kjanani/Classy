@@ -1,0 +1,2750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-12T11:22:34-05:00</ReturnTs>
+    <TaxPeriodEndDt>2016-04-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>540987121</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>JOYNER KIRKHAM KEEL &amp; ROBERTSON PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>5012 MONUMENT AVENUE SUITE 300</AddressLine1Txt>
+        <CityNm>RICHMOND</CityNm>
+        <StateAbbreviationCd>VA</StateAbbreviationCd>
+        <ZIPCd>232303632</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-05-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>546051620</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>J EDWIN TREAKLE FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JEDW</BusinessNameControlTxt>
+      <PhoneNum>8046930881</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>BOX 1157</AddressLine1Txt>
+        <CityNm>GLOUCESTER</CityNm>
+        <StateAbbreviationCd>VA</StateAbbreviationCd>
+        <ZIPCd>23061</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>CYNTHIA HORSLEY</PersonNm>
+      <PersonTitleTxt>SECRETARY</PersonTitleTxt>
+      <PhoneNum>8046930881</PhoneNum>
+      <SignatureDt>2016-08-16</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>PETER N THACKER JR CPA</PreparerPersonNm>
+      <PTIN>P00585830</PTIN>
+      <PhoneNum>8042880496</PhoneNum>
+      <PreparationDt>2016-08-16</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="13">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>5907269</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>44</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>44</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>127213</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>127213</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>246136</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2721444</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>246136</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>373393</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>373393</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>54600</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>20400</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>34200</CompOfcrDirTrstDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>3571</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>1428</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>2143</PensionEmplBnftDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">9809</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>9809</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">32043</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>32043</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">3052</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc2203000001">161</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>0</DeprecAndDpltnNetInvstIncmAmt>
+        <OccupancyRevAndExpnssAmt>1800</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>900</OccupancyNetInvstIncmAmt>
+        <OccupancyDsbrsChrtblAmt>900</OccupancyDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">7309</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>3656</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>3656</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>112345</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>68236</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>40899</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>400000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>400000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>512345</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>68236</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>440899</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-138952</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>305157</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>17105</CashBOYAmt>
+        <CashEOYAmt>33720</CashEOYAmt>
+        <CashEOYFMVAmt>33720</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>159826</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>562129</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>562129</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>5564572</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">4594376</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>4594376</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>712452</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2044400001">716051</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>716051</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>5</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">5</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>5</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>5049</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>5049</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>161</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc2059000001">0</LandEOYAmt>
+        <LandEOYFMVAmt>0</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc2046600001">0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc2046600001">988</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc2046600001">988</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>6454121</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>5907269</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>5907269</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">2254</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">0</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>2254</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>6451867</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>5907269</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>6451867</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>5907269</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>6454121</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>5907269</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>6451867</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-138952</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>6312915</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">405646</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>5907269</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 SHS AIR PRODUCTS &amp; CHEMICALS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-10-14</AcquiredDt>
+          <SoldDt>2015-09-10</SoldDt>
+          <GrossSalesPriceAmt>6840</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4097</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2743</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2743</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHS ALEXION PHARMACEUTICALS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-09-10</AcquiredDt>
+          <SoldDt>2016-01-14</SoldDt>
+          <GrossSalesPriceAmt>16106</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>17549</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1443</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1443</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10 SHS ALPHABET INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-10</AcquiredDt>
+          <SoldDt>2016-04-12</SoldDt>
+          <GrossSalesPriceAmt>7599</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5287</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2312</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2312</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 SHS AMERICAN EXPRESS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-09-16</AcquiredDt>
+          <SoldDt>2016-01-07</SoldDt>
+          <GrossSalesPriceAmt>19156</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20398</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1242</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1242</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHS APACHE CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2003-12-24</AcquiredDt>
+          <SoldDt>2016-01-14</SoldDt>
+          <GrossSalesPriceAmt>17497</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20113</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2616</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2616</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 SHS AVALON BAY COMMUNITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-02-19</AcquiredDt>
+          <SoldDt>2015-06-08</SoldDt>
+          <GrossSalesPriceAmt>4059</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3233</CostOrOtherBasisAmt>
+          <GainOrLossAmt>826</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>826</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHS BIOGEN IDEC INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-07-11</AcquiredDt>
+          <SoldDt>2015-12-03</SoldDt>
+          <GrossSalesPriceAmt>28795</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>31822</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3027</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3027</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>350 SHS BOEING</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-24</AcquiredDt>
+          <SoldDt>2015-12-03</SoldDt>
+          <GrossSalesPriceAmt>44080</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>29465</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14615</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14615</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 SHS BOSTON PROPERTIES INC COM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-10-02</AcquiredDt>
+          <SoldDt>2015-06-08</SoldDt>
+          <GrossSalesPriceAmt>6411</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5301</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1110</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1110</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>80 SHS CHEMOURS CO</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-07-01</AcquiredDt>
+          <SoldDt>2015-07-20</SoldDt>
+          <GrossSalesPriceAmt>1254</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1027</CostOrOtherBasisAmt>
+          <GainOrLossAmt>227</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>227</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 SHS CHIPOTLE MEXICAN GRILL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-04-27</AcquiredDt>
+          <SoldDt>2015-12-11</SoldDt>
+          <GrossSalesPriceAmt>26417</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>32167</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5750</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5750</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>250 SHS CHUBB CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-09-16</AcquiredDt>
+          <SoldDt>2015-12-03</SoldDt>
+          <GrossSalesPriceAmt>32676</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18086</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14590</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14590</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>250 SHS CISCO SYSTEMS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-02-15</AcquiredDt>
+          <SoldDt>2016-04-12</SoldDt>
+          <GrossSalesPriceAmt>6894</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7622</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-728</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-728</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 SHS CITIGROUP INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-06-02</AcquiredDt>
+          <SoldDt>2016-03-14</SoldDt>
+          <GrossSalesPriceAmt>12297</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16373</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4076</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4076</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>350 SHS CONOCOPHILLIPS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-09-16</AcquiredDt>
+          <SoldDt>2016-01-20</SoldDt>
+          <GrossSalesPriceAmt>12321</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>17865</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5544</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5544</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>350 SHS CVS HEALTH CORPORATION</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-09-16</AcquiredDt>
+          <SoldDt>2015-12-03</SoldDt>
+          <GrossSalesPriceAmt>33147</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>27213</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5934</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5934</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>400 SHS DEVON ENERGY CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-12-20</AcquiredDt>
+          <SoldDt>2015-09-10</SoldDt>
+          <GrossSalesPriceAmt>16042</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>24786</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-8744</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-8744</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 SHS DISNEY WALT CO.</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-05-29</AcquiredDt>
+          <SoldDt>2015-12-03</SoldDt>
+          <GrossSalesPriceAmt>2847</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1647</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1200</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1200</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 SHS DOMINION RESOURCES INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-08-17</AcquiredDt>
+          <SoldDt>2015-10-21</SoldDt>
+          <GrossSalesPriceAmt>14604</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5999</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8605</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8605</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>450 SHS DOW CHEMICAL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-07-25</AcquiredDt>
+          <SoldDt>2015-09-10</SoldDt>
+          <GrossSalesPriceAmt>20522</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>15756</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4766</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4766</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1250 SHS EMC CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-02-04</AcquiredDt>
+          <SoldDt>2015-09-10</SoldDt>
+          <GrossSalesPriceAmt>29747</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21169</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8578</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8578</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>400 SHS EXPRESS SCRIPTS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-06-20</AcquiredDt>
+          <SoldDt>2015-12-03</SoldDt>
+          <GrossSalesPriceAmt>31528</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>22862</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8666</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8666</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHS FRANKLIN RES INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-03</AcquiredDt>
+          <SoldDt>2016-04-12</SoldDt>
+          <GrossSalesPriceAmt>18562</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20961</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2399</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2399</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000 SHS GENERAL MOTORS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-10</AcquiredDt>
+          <SoldDt>2015-06-08</SoldDt>
+          <GrossSalesPriceAmt>36058</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>36228</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-170</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-170</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 SHS GILEAD SCIENCES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-24</AcquiredDt>
+          <SoldDt>2015-09-10</SoldDt>
+          <GrossSalesPriceAmt>15882</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5841</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10041</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10041</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>900 SHS HEALTH CARE REIT INC COM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-10-02</AcquiredDt>
+          <SoldDt>2015-06-10</SoldDt>
+          <GrossSalesPriceAmt>61833</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>54851</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6982</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6982</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 SHS HOME DEPOT INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-24</AcquiredDt>
+          <SoldDt>2015-12-03</SoldDt>
+          <GrossSalesPriceAmt>3351</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1679</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1672</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1672</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 SHS HONEYWELL INTERNATIONAL INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-10-14</AcquiredDt>
+          <SoldDt>2015-12-03</SoldDt>
+          <GrossSalesPriceAmt>5211</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2306</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2905</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2905</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 SHS INTERNATIONAL BUSINESS MACHINES CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-06-14</AcquiredDt>
+          <SoldDt>2016-01-20</SoldDt>
+          <GrossSalesPriceAmt>6575</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3653</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2922</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2922</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>250 SHS KINDER MORGAN INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-09-10</AcquiredDt>
+          <SoldDt>2015-12-03</SoldDt>
+          <GrossSalesPriceAmt>5888</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7736</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1848</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1848</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>225 SHS LILLY ELI &amp; CO</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-12-03</AcquiredDt>
+          <SoldDt>2016-03-14</SoldDt>
+          <GrossSalesPriceAmt>16514</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18630</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2116</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2116</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1750 SHS MICRON TECHNOLOGY INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-09-10</AcquiredDt>
+          <SoldDt>2016-01-14</SoldDt>
+          <GrossSalesPriceAmt>25265</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>40922</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-15657</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-15657</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>101 SHS MICROSOFT CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1997-08-06</AcquiredDt>
+          <SoldDt>2015-11-30</SoldDt>
+          <GrossSalesPriceAmt>5541</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1775</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3766</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3766</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 SHS PHILLIPS 66</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-12-11</AcquiredDt>
+          <SoldDt>2016-03-14</SoldDt>
+          <GrossSalesPriceAmt>25861</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21395</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4466</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4466</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 SHS PRAXAIR INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2005-08-25</AcquiredDt>
+          <SoldDt>2015-09-10</SoldDt>
+          <GrossSalesPriceAmt>14940</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7862</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7078</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7078</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHS PROCTOR &amp; GAMBLE CO</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1991-02-25</AcquiredDt>
+          <SoldDt>2015-06-02</SoldDt>
+          <GrossSalesPriceAmt>7934</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>994</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6940</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6940</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 SHS PUBLIC STORAGE INC COM (REIT)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-12-11</AcquiredDt>
+          <SoldDt>2015-06-08</SoldDt>
+          <GrossSalesPriceAmt>4828</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3782</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1046</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1046</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHS QUALCOMM INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2002-11-29</AcquiredDt>
+          <SoldDt>2015-12-03</SoldDt>
+          <GrossSalesPriceAmt>29819</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10258</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19561</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19561</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125 SHS RAYTHEON CO</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-10-14</AcquiredDt>
+          <SoldDt>2015-10-21</SoldDt>
+          <GrossSalesPriceAmt>14508</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5680</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8828</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8828</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 SHS SIMON PPTY GROUP INC NEW COM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-10-02</AcquiredDt>
+          <SoldDt>2015-06-08</SoldDt>
+          <GrossSalesPriceAmt>4496</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3726</CostOrOtherBasisAmt>
+          <GainOrLossAmt>770</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>770</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125 SHS TJX COMPANIES INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-10-14</AcquiredDt>
+          <SoldDt>2015-10-21</SoldDt>
+          <GrossSalesPriceAmt>8992</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2782</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6210</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6210</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 SHS UNITED TECHNOLOGIES CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2004-09-03</AcquiredDt>
+          <SoldDt>2015-12-03</SoldDt>
+          <GrossSalesPriceAmt>18416</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9298</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9118</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9118</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 SHS VISA INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-24</AcquiredDt>
+          <SoldDt>2015-10-21</SoldDt>
+          <GrossSalesPriceAmt>15346</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7972</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7374</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7374</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 SHS WAL-MART STORES INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-09-16</AcquiredDt>
+          <SoldDt>2015-06-02</SoldDt>
+          <GrossSalesPriceAmt>22462</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>17084</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5378</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5378</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>355 SHS WELLS FARGO &amp; CO.</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2002-11-29</AcquiredDt>
+          <SoldDt>2015-10-21</SoldDt>
+          <GrossSalesPriceAmt>19412</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8323</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11089</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11089</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1250 SHS BARCLAYS SHORT TERM HIGH YIELD BD ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-12-11</AcquiredDt>
+          <SoldDt>2015-06-02</SoldDt>
+          <GrossSalesPriceAmt>36616</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>38588</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1972</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1972</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3500 SHS ISHARES INTL SELECT DIVIDEND ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-09-25</AcquiredDt>
+          <SoldDt>2015-06-08</SoldDt>
+          <GrossSalesPriceAmt>120616</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>127290</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-6674</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-6674</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHS ISHARES MSCI ALL COUNTRY ASIA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-10</AcquiredDt>
+          <SoldDt>2015-06-02</SoldDt>
+          <GrossSalesPriceAmt>33247</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>31629</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1618</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1618</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4250 SHS ISHARES MSCI EAFE ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-12-11</AcquiredDt>
+          <SoldDt>2015-12-03</SoldDt>
+          <GrossSalesPriceAmt>245336</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>280223</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-34887</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-34887</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2750 SHS ISHARES MSCI EMERGING MKTS MIN VOL ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-07-11</AcquiredDt>
+          <SoldDt>2015-06-08</SoldDt>
+          <GrossSalesPriceAmt>136268</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>138206</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1938</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1938</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1250 SHS ISHARES RUSSELL 1000 GROWTH INDEX</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-01-23</AcquiredDt>
+          <SoldDt>2016-01-14</SoldDt>
+          <GrossSalesPriceAmt>118874</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>46093</CostOrOtherBasisAmt>
+          <GainOrLossAmt>72781</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>72781</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>750 SHS VANGUARD GLOBAL EX-US REAL ESTATE ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-05-29</AcquiredDt>
+          <SoldDt>2015-06-08</SoldDt>
+          <GrossSalesPriceAmt>37744</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>42475</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4731</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4731</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>750 SHS VANGUARD INTERMEDIATE TERM BOND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-03-12</AcquiredDt>
+          <SoldDt>2015-06-08</SoldDt>
+          <GrossSalesPriceAmt>62903</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>63622</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-719</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-719</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>650 SHS VANGUARD MID-CAP ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-24</AcquiredDt>
+          <SoldDt>2016-01-14</SoldDt>
+          <GrossSalesPriceAmt>76371</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>59420</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16951</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16951</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1400 SHS VANGUARD SMALL-CAP ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-24</AcquiredDt>
+          <SoldDt>2015-10-21</SoldDt>
+          <GrossSalesPriceAmt>154027</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>148590</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5437</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5437</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1500 SHS WISDOMTREE EUROPE HEDGED EQUITY FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-10</AcquiredDt>
+          <SoldDt>2015-06-08</SoldDt>
+          <GrossSalesPriceAmt>97560</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>94756</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2804</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2804</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3500.003 SHS CAMBIAR SMALL CAP FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-03-01</AcquiredDt>
+          <SoldDt>2015-06-04</SoldDt>
+          <GrossSalesPriceAmt>73885</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>73542</CostOrOtherBasisAmt>
+          <GainOrLossAmt>343</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>343</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4362.827 SHS COLUMBIA ACORN INTERNATIONAL FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-01-10</AcquiredDt>
+          <SoldDt>2015-09-08</SoldDt>
+          <GrossSalesPriceAmt>171423</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>160002</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11421</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11421</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>7000 SHS COLUMBIA SELECT LARGE CAP GROWTH FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-09-26</AcquiredDt>
+          <SoldDt>2016-02-10</SoldDt>
+          <GrossSalesPriceAmt>104948</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>68796</CostOrOtherBasisAmt>
+          <GainOrLossAmt>36152</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>36152</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>6500 SHS FIDELITY ADVISOR FLOATING RATE HIGH INCOME FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-10-04</AcquiredDt>
+          <SoldDt>2015-12-01</SoldDt>
+          <GrossSalesPriceAmt>60255</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>64545</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4290</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4290</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3000 SHS IVY ASSET STRATEGY FUND CL I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-02-19</AcquiredDt>
+          <SoldDt>2015-05-29</SoldDt>
+          <GrossSalesPriceAmt>77325</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>89905</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-12580</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-12580</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHS JOHN HANCOCK FDS III DISCIPLINED VALUE MID CAP FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-12-17</AcquiredDt>
+          <SoldDt>2015-05-29</SoldDt>
+          <GrossSalesPriceAmt>10640</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4610</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6030</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6030</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>8000 SHS NATIXIS FDS TR II</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-02-06</AcquiredDt>
+          <SoldDt>2015-09-08</SoldDt>
+          <GrossSalesPriceAmt>85430</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>93630</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-8200</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-8200</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHS WALMART STORES INC SR NT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-12-06</AcquiredDt>
+          <SoldDt>2015-07-08</SoldDt>
+          <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>102204</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2204</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2204</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHS MICROSOFT CORP SR NT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-12-06</AcquiredDt>
+          <SoldDt>2006-02-08</SoldDt>
+          <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>103607</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3607</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3607</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>39443</GrossSalesPriceAmt>
+          <GainOrLossAmt>39443</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>39443</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>246136</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>442560</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>6334436</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.069866</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>447091</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>6200009</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.072111</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>419370</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>5996856</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.069932</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>404434</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>6187498</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.065363</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>369419</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>6204466</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.059541</DistributionYr5Rt>
+        <TotalDistributionRt>0.336813</TotalDistributionRt>
+        <AverageDistributionRt>0.067363</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>5891143</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>396845</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>3052</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>399897</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>440899</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>3052</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>3052</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3052</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>4040</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>4040</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>988</OverpaymentAmt>
+        <AppliedToESTaxAmt>988</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>VA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>FOUNDATION OFFICERS</IndividualWithBooksNm>
+        <PhoneNum>8046930881</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>105 GAZETTE-JOURNAL BLDG</AddressLine1Txt>
+          <CityNm>GLOUCESTER</CityNm>
+          <StateAbbreviationCd>VA</StateAbbreviationCd>
+          <ZIPCd>23061</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CYNTHIA B HORSLEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7305 WELLFORD LANE</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY &amp; GRANT ADMIN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>8.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>17400</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NANCY POWELL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 854</AddressLine1Txt>
+            <CityNm>COBBS CREEK</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23035</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT AND TREASUR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>8.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>17400</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBERT A MAY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1030 PINE HALL ROAD</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT AND FOUNDATION M</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>17400</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>E C VERBYLA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>P O BOX 465</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2400</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>5954005</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>26796</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>55</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>5980856</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>5980856</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>89713</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>5891143</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>294557</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>294557</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3052</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>3052</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>291505</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>291505</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>291505</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>440899</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>440899</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>3052</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>437847</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>291505</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>64709</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>102667</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>124257</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>144239</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>133846</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>569718</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>440899</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>291505</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>149394</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>719112</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>64709</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>654403</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>102667</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>124257</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>144239</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>133846</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>149394</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>MR ROBERT A MAY PRESIDENT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>BOX 1157</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8046930881</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>APPLICATION SUPPLIED BY FOUNDATION</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>JANUARY 1 TO APRIL 30, EACH YEAR</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>PREFERENCE GIVEN TO LOCAL AND EDUCATIONAL ORGANIZATIONS</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ABINGDON EPISCOPAL CHURCH GUEST PROGRAM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 82</AddressLine1Txt>
+            <CityNm>WHITE MARSH</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23183</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE TRANSPORTATION FOR HOMELESS TO AND FROM SHELTERS AND FOR EQUIPMENT TO ASSIST WITH CHECK-IN PROCEDURES</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ABINGDON VOLUNTEER FIRE AND RESCUE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 9</AddressLine1Txt>
+            <CityNm>BENA</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAY FOR EQUIPMENT, TRAINING, AND UPGRADES</GrantOrContributionPurposeTxt>
+          <Amt>55000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ANIMAL CARE SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 121</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAY FOR SPAY/NEUTER OF PETS OF NEEDY</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ANIMAL RESOURCE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 967</AddressLine1Txt>
+            <CityNm>WHITE MARSH</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23183</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HELP PET OWNERS WITH COSTS OF SPAY/NEUTER</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ANTIOCH BAPTIST CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>110 ANTIOCH ROAD</AddressLine1Txt>
+            <CityNm>SUSAN</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23163</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NO IRS RULINGS</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MAINTAIN BUILDING AND GROUNDS</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BAY AGING</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5306 OLD VIRGINIA STREET</AddressLine1Txt>
+            <CityNm>URBANNA</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23175</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUND SERVICES ASSISTING ELDERLY</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BAY SCHOOL COMMUNITY ARTS CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1524</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE ART TO 150 KIDS IN SUMMER</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BAYSIDE YOUTH BALLET</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6756 MAIN STREET</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE SUMMER INTENSIVE FOR 21 DANCERS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BOYS &amp; GIRLS CLUBS OF THE VIRGINIA PENINSULA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11825 ROCK LANDING DRIVE CHESAPEAKE</AddressLine1Txt>
+            <AddressLine2Txt>BUILDING</AddressLine2Txt>
+            <CityNm>NEWPORT NEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23606</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE GENERAL OPERATING FUNDS FOR MATHEWS AND GLOUCESTER CLUBS TO SERVE YOUTH</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CEREBRAL PALSY OF VIRGINIA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5825 ARROWHEAD DRIVE SUITE 201</AddressLine1Txt>
+            <CityNm>VIRGINIA BEACH</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23462</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE ART THERAPY TO DISABLED ADULTS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHESAPEAKE BAY FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6 HERNDON AVENUE</AddressLine1Txt>
+            <CityNm>ANNAPOLIS</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21403</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT EDUCATIONAL PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHILDREN'S HOSPITAL OF THE KING'S DAUGHTERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>601 CHILDRENS LANE</AddressLine1Txt>
+            <CityNm>NORFOLK</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23507</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GIVE NEW BOOKS TO KIDS GETTING PHYSICALS AT COURTHOUSE PEDIATRICS</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHRISTOPHER NEWPORT UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 AVENUE OF THE ARTS</AddressLine1Txt>
+            <CityNm>NEWPORT NEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>236063072</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE SCHOLARSHIPS FOR STUDENTS FROM GLOUCESTER OR MATHEWS</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CIRCLE OF FRIENDS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 112</AddressLine1Txt>
+            <CityNm>GLOUCESTER POINT</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23062</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ASSIST MENTALLY AND PHYSICALLY CHALLENGED PEOPLE, INCLUDING SUMMER CAMPS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CONCERTS BY THE BAY INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 355</AddressLine1Txt>
+            <CityNm>NORTH</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23128</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT CONCERTS AND YOUTH EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COURT HOUSE PLAYERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 643</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE 8 SCHOLARSHIPS TO MISSOULA CHILDREN'S THEATER AND ADVERTISING FOR SHOW</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EQUI-KIDS THERAPEUTIC RIDING PROGRAM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2626 HERITAGE PARK DRIVE</AddressLine1Txt>
+            <CityNm>VIRGINIA BEACH</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23456</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUND 7 DISABLED KIDS IN 8-WEEK RIDING PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FAIRFIELD FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 157</AddressLine1Txt>
+            <CityNm>WHITE MARSH</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23183</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT COMMUNITY OUTREACH PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FIRST BAPTIST CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 84</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PURCHASE COMPUTERS AND RESTORE WEBSITE</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FOODBANK OF THE VIRGINIA PENSINSULA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2401 ALUMINUM AVENUE</AddressLine1Txt>
+            <CityNm>HAMPTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23661</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE FOOD FOR NEEDY IN GLOUCESTER AND MATHEWS</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GIRL SCOUT COUNCIL OF COLONIAL COAST</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>912 CEDAR ROAD</AddressLine1Txt>
+            <CityNm>CHESAPEAKE</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23322</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>REPLACE 44 METAL COTS AND MATTRESSES AT CAMP BURKE'S MILL POND</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GLOUCESTER ARTS ON MAIN INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6580 B MAIN STREET</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUND AFTER-SCHOOL PROGRAM FOR 64 PETWSORTH ELEMENTARY SCHOOL STUDENTS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GLOUCESTER COUNTY 4-H</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 156</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAMP SCHOLARSHIPS, COUNSELOR TRAINING, AND TRANSPORTATION TO AND FROM CAMP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GLOUCESTER COUNTY PUBLIC SCHOOLS EDUCATIONAL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6099 TC WALKER ROAD</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE MINI-GRANTS TO TEACHERS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GLOUCESTER LIBRARY FRIENDS OF</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6920 MAIN STREET</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUY BOOKS, PERIODICALS, AND CREATE TEEN AREA</GrantOrContributionPurposeTxt>
+          <Amt>22000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GLOUCESTER VOLUNTEER FIRE AND RESCUE SQUAD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6595 MAIN STREET</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PURCHASE EQUIPMENT</GrantOrContributionPurposeTxt>
+          <Amt>55000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GLOUCESTER-MATHEWS FREE CLINIC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 684</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>230610684</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EXPAND DENTAL CLINIC HOURS TO 20 HRS./WEEK AND ADD DENTURE SERVICES FOR SENIORS AND OTHER ADULTS</GrantOrContributionPurposeTxt>
+          <Amt>23000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GWYNN'S ISLAND CIVIC LEAGUE FOR GWYNN'S ISLAND CEMETARY FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 313</AddressLine1Txt>
+            <CityNm>GWYNN</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23066</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>REMOVE LARGE/LEANING TREE AND LEVEL MONUMENTS DISPLACED BY TREE ROOTS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HABITAT FOR HUMANITY OF GLOUCESTERMATHEWS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3725 GEORGE WASHINGTON MEMORIAL</AddressLine1Txt>
+            <AddressLine2Txt>HIGHWAY SUITE B</AddressLine2Txt>
+            <CityNm>HAYES</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23072</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FINISH 10TH HOME AND REMODEL OTHERS</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HANDS ACROSS MATHEWS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1303</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE FOOD, RENT, HOME REPAIRS, FUEL, AND MORTGAGE HELP FOR NEEDY IN MATHEWS</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HISTORIC CHRIST CHURCH INC FOUNDATION FOR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 24</AddressLine1Txt>
+            <CityNm>IRVINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22480</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PRODUCE ORIENTATION VIDEO FOR ELEMENTARY STUDENTS WHO VISIT CHURCH</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOSPITAL HOSPITALITY HOUSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>612 EAST MARSHALL STREET</AddressLine1Txt>
+            <CityNm>RICHMOND</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23219</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE FREE NIGHTS OF LODGING TO FAMILIES UNABLE TO PAY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JACOB'S LADDER INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 555</AddressLine1Txt>
+            <CityNm>URBANNA</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23175</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUND TWO AT-RISK CLIMBERS FROM MATHEWS AND MIDDLESEX</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KINGSTON PARISH PRESCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 471</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUY CLASSROOM SUPPLIES</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LAUREL SHELTER INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 23</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUY MEDICATIONS, CLOTHING, TEACHING AIDS FOR KIDS</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LITERACY VOLUNTEERS OF GLOUCESTER INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5276 GEORGE WASHINGTON MEMORIAL</AddressLine1Txt>
+            <AddressLine2Txt>HIGHWAY</AddressLine2Txt>
+            <CityNm>WHITE MARSH</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23183</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUY MATERIALS FOR PEOPLE SEEKING GEDS AND FOR USER LICENSE FOR GED ACADEMY</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MATHEWS BAPTIST CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8284 BUCKLEY HALL ROAD</AddressLine1Txt>
+            <CityNm>HUDGINS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23076</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NO IRS RULINGS</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MAINTAIN CEMETERY LOTS WHERE TREAKLE FAMILY BURIED</GrantOrContributionPurposeTxt>
+          <Amt>600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MATHEWS COUNTY HISTORICAL SOCIETY INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 855</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAY TOWARD HAVING IN-DEPTH HISTORY OF MATHEWS WRITTEN</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MATHEWS COUNTY SCHOOL DIVISION'S FREE REDUCED MEAL PROGRAM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 369</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>USE PUBLIC SCHOOL RU</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAY FOR MEALS OF KIDS ON REDUCED LUNCH PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>2400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MATHEWS COUNTY TRIAD INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 190</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE LIFELINE TO 5 INDIGENT SENIORS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MATHEWS FAMILY YMCA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1536</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EXPAND SERVICES AND FOR CAPITAL PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MATHEWS HIGH SCHOOL CREW</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 38</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>USE PUBLIC SCHOOL RU</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>USE FOR REPAIRS, TRAVEL, FUNDS FOR INDIGENT KIDS, EQUIPMENT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MATHEWS LAND CONSERVANCY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 306</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUILD FISHING AND HISTORIC VESSEL PIER. THEY WANT TO NAME IT AFTER MR. TREAKLE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MATHEWS LIONS CHARITY FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 281</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HELP FINANCE BUILDING FOR MATHEWS LIONS CLUB</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MATHEWS MEMORIAL LIBRARY INC FRIENDS OF</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 127</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUY BOOKS, SOFTWARE, PROVIDE TRAINING, MAINTAIN LIBRARY</GrantOrContributionPurposeTxt>
+          <Amt>22000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MATHEWS VOLUNTEER FIRE DEPARTMENT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 1130</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUY 5 THERMAL IMAGING CAMERAS</GrantOrContributionPurposeTxt>
+          <Amt>27500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MATHEWS VOLUNTEER RESCUE SQUAD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 723</AddressLine1Txt>
+            <CityNm>MATHEWS</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUY NEW AMBULANCE AND REPLACE EQUIPMENT</GrantOrContributionPurposeTxt>
+          <Amt>27500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEW CREATION MINISTRIES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>61 COBBS CREEK LANE</AddressLine1Txt>
+            <CityNm>COBBS CREEK</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23035</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUNDING TO OPEN FAMILY RECREATION CENTER</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PARK PARTNERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 157</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CREATE RIPARIAN ZONE DEMONSTRATION GARDEN AT WOODVILLE PARK</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PEARTREE CEMETARY ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 43</AddressLine1Txt>
+            <CityNm>MOON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23119</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NO PUBLIC OR PRIVATE</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UPKEEP AND MAINTENANCE OF CEMETARY</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RAPPAHANNOCK COMMUNITY COLLEGE EDUCATIONAL FOUNDATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 923</AddressLine1Txt>
+            <CityNm>WARSAW</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22572</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE SCHOLARSHIPS AND UPDATE LIBRARY MATERIALS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RAPPAHANNOCK WESTMINSTER-CANTERBURY FOUNDATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>132 LANCASTER DRIVE</AddressLine1Txt>
+            <CityNm>IRVINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22480</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT FELLOWSHIP ASSISTANCE PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>READING IS FUNDAMENTAL - BOTETOURT PTA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6361 MAIN STREET</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUY BOOKS FOR STUDENTS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ROSEWELL FOUNDATION THE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1456</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>INSTALL SIGNAGE AT SITE OF RUINS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RURAL INFANT SERVICES PROGRAM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 40</AddressLine1Txt>
+            <CityNm>SALUDA</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23149</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUY PROGRAM EQUIPMENT AND MATERIALS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SALVATION ARMY - GLOUCESTER CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>759 GEORGE WASHINGTON MEMORIAL</AddressLine1Txt>
+            <AddressLine2Txt>HIGHWAY</AddressLine2Txt>
+            <CityNm>HAYES</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23072</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST WITH RENT, UTILITIES, FOOD, FUEL, MEDICATIONS, CAMP FOR KIDS, PAY CASE WORKER</GrantOrContributionPurposeTxt>
+          <Amt>17000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAMARITAN GROUP THE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 784</AddressLine1Txt>
+            <CityNm>WHITE MARSH</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>231830784</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ASSIST NEEDY IN GLOUCESTER WITH UTILITIES, RENT, TRANSPORTATION, MEDICAL BILLS, ETC.</GrantOrContributionPurposeTxt>
+          <Amt>11000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST PAUL CEMETERIES ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1150 ANTIOCH ROAD</AddressLine1Txt>
+            <CityNm>SUSAN</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23163</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NO PUBLIC OR PRIVATE</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UPKEEP AND MAINTENANCE OF CEMETARY</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VERSABILITY RESOURCES INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2520 58TH STREET</AddressLine1Txt>
+            <CityNm>HAMPTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23661</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT LEWIS B. PULLER CENTER</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VIRGINIA COLLEGE FUND THE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4900 AUGUSTA AVENUE SUITE 101</AddressLine1Txt>
+            <CityNm>RICHMOND</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>232303611</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE SCHOLARSHIPS FOR STUDENTS IN VCF SCHOOLS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VIRGINIA SYMPHONY ORCHESTRA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>150 BOUSCH STREET STE 201</AddressLine1Txt>
+            <CityNm>NORFOLK</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23510</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SEND STUDENTS FROM YORK &amp; GLOUCESTER ELEM. SCHOOLS TO YOUNG PEOPLE'S CONCERT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WARE ACADEMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7936 JOHN CLAYTON MEMORIAL HIGHWAY</AddressLine1Txt>
+            <CityNm>GLOUCESTER</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PURCHASE TECHNOLOGY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WASHINGTON AND LEE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>DEVELOPMENT BUILDING</AddressLine1Txt>
+            <CityNm>LEXINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>244502116</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT 501 (C) (3) P</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUY 3-D PRINTER FOR INTEGRATIVE &amp; QUANTITATIVE CENTER</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>400000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>44</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>127213</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>246136</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>373393</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>373393</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>AUDIT OF FINANCIAL STATEMENTS AND PREPARATION OF FORM 990-PF</CategoryTxt>
+        <Amt>9809</Amt>
+        <NetInvestmentIncomeAmt>9809</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FILE CABINET</PropertyDesc>
+        <AcquiredDt>1976-03-15</AcquiredDt>
+        <CostOrOtherBasisAmt>624</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>624</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FILE CABINET</PropertyDesc>
+        <AcquiredDt>1978-07-15</AcquiredDt>
+        <CostOrOtherBasisAmt>134</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>134</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IBM TYPEWRITER</PropertyDesc>
+        <AcquiredDt>1980-05-15</AcquiredDt>
+        <CostOrOtherBasisAmt>460</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>460</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>DESK</PropertyDesc>
+        <AcquiredDt>1992-02-24</AcquiredDt>
+        <CostOrOtherBasisAmt>495</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>495</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CREDENIZA</PropertyDesc>
+        <AcquiredDt>1992-02-24</AcquiredDt>
+        <CostOrOtherBasisAmt>335</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>335</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CHAIR, SEC</PropertyDesc>
+        <AcquiredDt>1992-02-24</AcquiredDt>
+        <CostOrOtherBasisAmt>130</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>130</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CHAIR, SIDE</PropertyDesc>
+        <AcquiredDt>1992-02-24</AcquiredDt>
+        <CostOrOtherBasisAmt>120</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>120</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>4 DOOR FILE CABINET</PropertyDesc>
+        <AcquiredDt>1996-05-30</AcquiredDt>
+        <CostOrOtherBasisAmt>220</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>220</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER DESK</PropertyDesc>
+        <AcquiredDt>1997-12-17</AcquiredDt>
+        <CostOrOtherBasisAmt>596</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>596</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER SYSTEM</PropertyDesc>
+        <AcquiredDt>2010-09-21</AcquiredDt>
+        <CostOrOtherBasisAmt>1935</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1774</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>161</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>50K ANHEUSER BUSCH INBEV WORLDWIDE INC SR NT</BondNm>
+        <EOYBookValueAmt>50216</EOYBookValueAmt>
+        <EOYFMVAmt>50216</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>50K APPLE INC SR UNSECD NT</BondNm>
+        <EOYBookValueAmt>50221</EOYBookValueAmt>
+        <EOYFMVAmt>50221</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>50K BP CAP MKTS PLC CO GTD NT</BondNm>
+        <EOYBookValueAmt>50340</EOYBookValueAmt>
+        <EOYFMVAmt>50340</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>100K CITIGROUP INC SR NT</BondNm>
+        <EOYBookValueAmt>101840</EOYBookValueAmt>
+        <EOYFMVAmt>101840</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>50K JOHN DEERE CAP CO SR NT</BondNm>
+        <EOYBookValueAmt>54667</EOYBookValueAmt>
+        <EOYFMVAmt>54667</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>50K JPMORGAN CHASE &amp; CO</BondNm>
+        <EOYBookValueAmt>50315</EOYBookValueAmt>
+        <EOYFMVAmt>50315</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>50K PEPSICO INC</BondNm>
+        <EOYBookValueAmt>50801</EOYBookValueAmt>
+        <EOYFMVAmt>50801</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>100K TOTAL CAP INTL SA GTD NT</BondNm>
+        <EOYBookValueAmt>103014</EOYBookValueAmt>
+        <EOYFMVAmt>103014</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>50K UNITEDHEALTH GROUP INC SR UNSECD NT</BondNm>
+        <EOYBookValueAmt>50284</EOYBookValueAmt>
+        <EOYFMVAmt>50284</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>50K VISA INC UNSECD SR GLBL NT</BondNm>
+        <EOYBookValueAmt>51292</EOYBookValueAmt>
+        <EOYFMVAmt>51292</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>100K WELLS FARGO &amp; CO SR NT</BondNm>
+        <EOYBookValueAmt>103061</EOYBookValueAmt>
+        <EOYFMVAmt>103061</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>10 SHS MATHEWS YACHT CLUB</StockNm>
+        <EOYBookValueAmt>50</EOYBookValueAmt>
+        <EOYFMVAmt>50</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>250 SHS 3M CO</StockNm>
+        <EOYBookValueAmt>41845</EOYBookValueAmt>
+        <EOYFMVAmt>41845</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>750 SHS ABBVIE INC</StockNm>
+        <EOYBookValueAmt>45750</EOYBookValueAmt>
+        <EOYFMVAmt>45750</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 SHS AIR PRODUCTS &amp; CHEMICALS INC</StockNm>
+        <EOYBookValueAmt>29178</EOYBookValueAmt>
+        <EOYFMVAmt>29178</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>65 SHS ALPHABET INC</StockNm>
+        <EOYBookValueAmt>46012</EOYBookValueAmt>
+        <EOYFMVAmt>46012</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>35 SHS AMAZON COM INC</StockNm>
+        <EOYBookValueAmt>23086</EOYBookValueAmt>
+        <EOYFMVAmt>23086</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>600 SHS AMERICAN WATERWORKS CO INC</StockNm>
+        <EOYBookValueAmt>43656</EOYBookValueAmt>
+        <EOYFMVAmt>43656</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>125 SHS AMGEN INC</StockNm>
+        <EOYBookValueAmt>19787</EOYBookValueAmt>
+        <EOYFMVAmt>19787</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>650 SHS APPLE INC</StockNm>
+        <EOYBookValueAmt>60931</EOYBookValueAmt>
+        <EOYFMVAmt>60931</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>750 SHS AT&amp;T INC.</StockNm>
+        <EOYBookValueAmt>29115</EOYBookValueAmt>
+        <EOYFMVAmt>29115</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 SHS AUTOMATIC DATA PROCESSING INC</StockNm>
+        <EOYBookValueAmt>44220</EOYBookValueAmt>
+        <EOYFMVAmt>44220</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 SHS AVALON BAY COMMUNITIES</StockNm>
+        <EOYBookValueAmt>53037</EOYBookValueAmt>
+        <EOYFMVAmt>53037</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 SHS BECTON DICKINSON &amp; CO</StockNm>
+        <EOYBookValueAmt>48378</EOYBookValueAmt>
+        <EOYFMVAmt>48378</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>125 SHS BLACKROCK INC</StockNm>
+        <EOYBookValueAmt>44541</EOYBookValueAmt>
+        <EOYFMVAmt>44541</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 SHS BOSTON PROPERTIES INC COM</StockNm>
+        <EOYBookValueAmt>51544</EOYBookValueAmt>
+        <EOYFMVAmt>51544</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>350 SHS BRISTOL MYERS SQUIBB</StockNm>
+        <EOYBookValueAmt>25263</EOYBookValueAmt>
+        <EOYFMVAmt>25263</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>21 SHS CALIFORNIA RESOURCES CORP</StockNm>
+        <EOYBookValueAmt>46</EOYBookValueAmt>
+        <EOYFMVAmt>46</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 SHS CAPITAL ONE FINL CORP</StockNm>
+        <EOYBookValueAmt>21717</EOYBookValueAmt>
+        <EOYFMVAmt>21717</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 SHS CELGENE CORP</StockNm>
+        <EOYBookValueAmt>20682</EOYBookValueAmt>
+        <EOYFMVAmt>20682</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 SHS CHEVRON CORP</StockNm>
+        <EOYBookValueAmt>40872</EOYBookValueAmt>
+        <EOYFMVAmt>40872</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1250 SHS CISCO SYSTEMS</StockNm>
+        <EOYBookValueAmt>34362</EOYBookValueAmt>
+        <EOYFMVAmt>34362</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1000 SHS COCA COLA CO</StockNm>
+        <EOYBookValueAmt>44800</EOYBookValueAmt>
+        <EOYFMVAmt>44800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 SHS COSTCO WHSL CORP</StockNm>
+        <EOYBookValueAmt>14813</EOYBookValueAmt>
+        <EOYFMVAmt>14813</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>375 SHS DISNEY WALT CO.</StockNm>
+        <EOYBookValueAmt>38722</EOYBookValueAmt>
+        <EOYFMVAmt>38722</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>800 SHS DOMINION RESOURCES INC</StockNm>
+        <EOYBookValueAmt>57176</EOYBookValueAmt>
+        <EOYFMVAmt>57176</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>550 SHS DOW CHEMICAL</StockNm>
+        <EOYBookValueAmt>28936</EOYBookValueAmt>
+        <EOYFMVAmt>28936</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>290 SHS DR PEPPER SNAPPLE INC</StockNm>
+        <EOYBookValueAmt>26364</EOYBookValueAmt>
+        <EOYFMVAmt>26364</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 SHS E I DUPONT DE NEMOURS &amp; CO</StockNm>
+        <EOYBookValueAmt>26364</EOYBookValueAmt>
+        <EOYFMVAmt>26364</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 SHS EATON CORP PLC IRELAND</StockNm>
+        <EOYBookValueAmt>31635</EOYBookValueAmt>
+        <EOYFMVAmt>31635</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>225 SHS EOG RES INC</StockNm>
+        <EOYBookValueAmt>18590</EOYBookValueAmt>
+        <EOYFMVAmt>18590</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>250 SHS EXPRESS SCRIPTS INC</StockNm>
+        <EOYBookValueAmt>18433</EOYBookValueAmt>
+        <EOYFMVAmt>18433</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>700 SHS EXXON MOBIL CORPORATION</StockNm>
+        <EOYBookValueAmt>61880</EOYBookValueAmt>
+        <EOYFMVAmt>61880</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>250 SHS FACEBOOK INC CL A</StockNm>
+        <EOYBookValueAmt>29395</EOYBookValueAmt>
+        <EOYFMVAmt>29395</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2000 SHS GENERAL ELECTRIC COMPANY</StockNm>
+        <EOYBookValueAmt>61500</EOYBookValueAmt>
+        <EOYFMVAmt>61500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>350 SHS GILEAD SCIENCES INC</StockNm>
+        <EOYBookValueAmt>30874</EOYBookValueAmt>
+        <EOYFMVAmt>30874</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>150 SHS GOLDMAN SACHS GROUP INC</StockNm>
+        <EOYBookValueAmt>24617</EOYBookValueAmt>
+        <EOYFMVAmt>24617</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>375 SHS HOME DEPOT INC</StockNm>
+        <EOYBookValueAmt>50209</EOYBookValueAmt>
+        <EOYFMVAmt>50209</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 SHS HONEYWELL INTERNATIONAL INC</StockNm>
+        <EOYBookValueAmt>57135</EOYBookValueAmt>
+        <EOYFMVAmt>57135</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>850 SHS INTEL CORP</StockNm>
+        <EOYBookValueAmt>25738</EOYBookValueAmt>
+        <EOYFMVAmt>25738</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 SHS INTERNATIONAL BUSINESS MACHINES CORP</StockNm>
+        <EOYBookValueAmt>29188</EOYBookValueAmt>
+        <EOYFMVAmt>29188</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>750 SHS J P MORGAN CHASE &amp; CO</StockNm>
+        <EOYBookValueAmt>47400</EOYBookValueAmt>
+        <EOYFMVAmt>47400</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 SHS JOHNSON &amp; JOHNSON</StockNm>
+        <EOYBookValueAmt>33624</EOYBookValueAmt>
+        <EOYFMVAmt>33624</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>250 SHS KIMBERLY CLARK CORP</StockNm>
+        <EOYBookValueAmt>31298</EOYBookValueAmt>
+        <EOYFMVAmt>31298</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 SHS LOCKHEED MARTIN CORP</StockNm>
+        <EOYBookValueAmt>23238</EOYBookValueAmt>
+        <EOYFMVAmt>23238</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 SHS LYONDELLBASELL INDUSTRIES NV CL A</StockNm>
+        <EOYBookValueAmt>16534</EOYBookValueAmt>
+        <EOYFMVAmt>16534</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 SHS MEDTRONIC PLC</StockNm>
+        <EOYBookValueAmt>31660</EOYBookValueAmt>
+        <EOYFMVAmt>31660</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>750 SHS MERCK &amp; CO INC</StockNm>
+        <EOYBookValueAmt>41130</EOYBookValueAmt>
+        <EOYFMVAmt>41130</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1350 SHS MICROSOFT CORP</StockNm>
+        <EOYBookValueAmt>67324</EOYBookValueAmt>
+        <EOYFMVAmt>67324</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>276 SHS MOLSON COORS BREWING CO CL B</StockNm>
+        <EOYBookValueAmt>26394</EOYBookValueAmt>
+        <EOYFMVAmt>26394</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>350 SHS NIKE INC CL B</StockNm>
+        <EOYBookValueAmt>20629</EOYBookValueAmt>
+        <EOYFMVAmt>20629</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 SHS NORTHROP GRUMMAN CORP</StockNm>
+        <EOYBookValueAmt>20626</EOYBookValueAmt>
+        <EOYFMVAmt>20626</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>275 SHS OCCIDENTAL PETE CORP DEL</StockNm>
+        <EOYBookValueAmt>21079</EOYBookValueAmt>
+        <EOYFMVAmt>21079</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 SHS PEPSICO INC</StockNm>
+        <EOYBookValueAmt>41184</EOYBookValueAmt>
+        <EOYFMVAmt>41184</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 SHS PFIZER INC</StockNm>
+        <EOYBookValueAmt>16355</EOYBookValueAmt>
+        <EOYFMVAmt>16355</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 SHS PHILIP MORRIS INTERNATIONAL INC</StockNm>
+        <EOYBookValueAmt>49060</EOYBookValueAmt>
+        <EOYFMVAmt>49060</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 SHS PNC FINANCIAL SERVICES GROUP INC.</StockNm>
+        <EOYBookValueAmt>26334</EOYBookValueAmt>
+        <EOYFMVAmt>26334</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 SHS PRAXAIR INC.</StockNm>
+        <EOYBookValueAmt>23492</EOYBookValueAmt>
+        <EOYFMVAmt>23492</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 SHS PROCTOR &amp; GAMBLE CO</StockNm>
+        <EOYBookValueAmt>40060</EOYBookValueAmt>
+        <EOYFMVAmt>40060</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>275 SHS PUBLIC STORAGE INC COM (REIT)</StockNm>
+        <EOYBookValueAmt>67323</EOYBookValueAmt>
+        <EOYFMVAmt>67323</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>425 SHS RAYTHEON CO</StockNm>
+        <EOYBookValueAmt>53699</EOYBookValueAmt>
+        <EOYFMVAmt>53699</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 SHS SALESFORCE.COM INC</StockNm>
+        <EOYBookValueAmt>37900</EOYBookValueAmt>
+        <EOYFMVAmt>37900</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>225 SHS SCHLUMBERGER LTD CURACAO</StockNm>
+        <EOYBookValueAmt>18076</EOYBookValueAmt>
+        <EOYFMVAmt>18076</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>275 SHS SIMON PPTY GROUP INC NEW COM</StockNm>
+        <EOYBookValueAmt>55322</EOYBookValueAmt>
+        <EOYFMVAmt>55322</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 SHS TARGET CORP</StockNm>
+        <EOYBookValueAmt>31800</EOYBookValueAmt>
+        <EOYFMVAmt>31800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>350 SHS TEVA PHARMACEUTICAL INDS LTD</StockNm>
+        <EOYBookValueAmt>19057</EOYBookValueAmt>
+        <EOYFMVAmt>19057</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>350 SHS TEXAS INSTRS INC</StockNm>
+        <EOYBookValueAmt>19964</EOYBookValueAmt>
+        <EOYFMVAmt>19964</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 SHS TIME WARNER INC</StockNm>
+        <EOYBookValueAmt>37570</EOYBookValueAmt>
+        <EOYFMVAmt>37570</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>625 SHS TJX COMPANIES INC</StockNm>
+        <EOYBookValueAmt>47387</EOYBookValueAmt>
+        <EOYFMVAmt>47387</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 SHS TRAVELERS COMPANIES INC</StockNm>
+        <EOYBookValueAmt>32970</EOYBookValueAmt>
+        <EOYFMVAmt>32970</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 SHS UNITED TECHNOLOGIES CORP.</StockNm>
+        <EOYBookValueAmt>31311</EOYBookValueAmt>
+        <EOYFMVAmt>31311</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>750 SHS US BANCORP</StockNm>
+        <EOYBookValueAmt>32017</EOYBookValueAmt>
+        <EOYFMVAmt>32017</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 SHS VALERO ENERGY CORP NEW</StockNm>
+        <EOYBookValueAmt>11774</EOYBookValueAmt>
+        <EOYFMVAmt>11774</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>750 SHS VENTAS INC</StockNm>
+        <EOYBookValueAmt>46590</EOYBookValueAmt>
+        <EOYFMVAmt>46590</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 SHS VERIZON COMMUNICATIONS INC COM</StockNm>
+        <EOYBookValueAmt>20376</EOYBookValueAmt>
+        <EOYFMVAmt>20376</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>600 SHS VISA INC</StockNm>
+        <EOYBookValueAmt>46344</EOYBookValueAmt>
+        <EOYFMVAmt>46344</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1000 SHS WELLS FARGO &amp; CO.</StockNm>
+        <EOYBookValueAmt>49980</EOYBookValueAmt>
+        <EOYFMVAmt>49980</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1000 SHS WEYERHAEUSER CO</StockNm>
+        <EOYBookValueAmt>32120</EOYBookValueAmt>
+        <EOYFMVAmt>32120</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 SHS YUM BRANDS INC</StockNm>
+        <EOYBookValueAmt>31824</EOYBookValueAmt>
+        <EOYFMVAmt>31824</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>465 SHS ISHARES IBOXX $ INVEST GRADE CORP</StockNm>
+        <EOYBookValueAmt>55953</EOYBookValueAmt>
+        <EOYFMVAmt>55953</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2250 SHS ISHARES MSCI EAFE ETF</StockNm>
+        <EOYBookValueAmt>131467</EOYBookValueAmt>
+        <EOYFMVAmt>131467</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 SHS ISHARES MSCI EMERGING MKTS MIN VOL ETF</StockNm>
+        <EOYBookValueAmt>25730</EOYBookValueAmt>
+        <EOYFMVAmt>25730</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1000 SHS ISHARES MSCI USA MIN VOLATILITY ETF</StockNm>
+        <EOYBookValueAmt>43770</EOYBookValueAmt>
+        <EOYFMVAmt>43770</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1250 SHS ISHARES RUSSELL 1000 GROWTH INDEX</StockNm>
+        <EOYBookValueAmt>123575</EOYBookValueAmt>
+        <EOYFMVAmt>123575</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1000 SHS ISHARES RUSSELL 1000 VALUE ETF</StockNm>
+        <EOYBookValueAmt>100890</EOYBookValueAmt>
+        <EOYFMVAmt>100890</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2750 SHS ISHARES TR MSCI EAFE MIN VOL INDEX</StockNm>
+        <EOYBookValueAmt>184855</EOYBookValueAmt>
+        <EOYFMVAmt>184855</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>250 SHS VANGUARD FTSE EMERGING MKTS ETF</StockNm>
+        <EOYBookValueAmt>8733</EOYBookValueAmt>
+        <EOYFMVAmt>8733</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1250 SHS VANGUARD MID-CAP ETF</StockNm>
+        <EOYBookValueAmt>152325</EOYBookValueAmt>
+        <EOYFMVAmt>152325</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1650 SHS VANGUARD SMALL-CAP ETF</StockNm>
+        <EOYBookValueAmt>187209</EOYBookValueAmt>
+        <EOYFMVAmt>187209</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>10000 SHS BLACKROCK GLOBAL LONG/SHORT EQUITY FUND</StockNm>
+        <EOYBookValueAmt>108900</EOYBookValueAmt>
+        <EOYFMVAmt>108900</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>11500 SHS BLACKSTONE ALTERNATIVE MULTISTRATEGY FUND</StockNm>
+        <EOYBookValueAmt>114425</EOYBookValueAmt>
+        <EOYFMVAmt>114425</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>14311 SHS JOHN HANCOCK FDS III DISCPILINED VALUE MID CAP FUND</StockNm>
+        <EOYBookValueAmt>278208</EOYBookValueAmt>
+        <EOYFMVAmt>278208</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>8500 SHS PRINCIPAL PFD SECS FUND</StockNm>
+        <EOYBookValueAmt>85170</EOYBookValueAmt>
+        <EOYFMVAmt>85170</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>10000 SHS ROBECO BOSTON PARTNERS LONG/SHORT RESEARCH FUND</StockNm>
+        <EOYBookValueAmt>148200</EOYBookValueAmt>
+        <EOYFMVAmt>148200</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1500 SHS UNDISCOVERED MANAGERS FDS BEHAVIORAL VALUE FUND</StockNm>
+        <EOYBookValueAmt>87900</EOYBookValueAmt>
+        <EOYFMVAmt>87900</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1500 SHS VICTORY SMALL CO OPPTY FUND CL I</StockNm>
+        <EOYBookValueAmt>55800</EOYBookValueAmt>
+        <EOYFMVAmt>55800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>COINS &amp; PAPERS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>5</BookValueAmt>
+        <EOYFMVAmt>5</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc2059000001">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>FILE CABINET</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>624</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>624</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>FILE CABINET</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>134</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>134</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>IBM TYPEWRITER</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>460</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>460</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>DESK</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>495</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>495</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>CREDENIZA</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>335</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>335</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>CHAIR, SEC</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>130</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>130</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>CHAIR, SIDE</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>120</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>120</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>4 DOOR FILE CABINET</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>220</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>220</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>COMPUTER DESK</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>596</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>596</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>COMPUTER SYSTEM</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1935</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1935</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssetsScheduleGrp>
+        <Desc>RECOVERABLE EXCISE TAXES</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>988</EOYBookValueAmt>
+        <EOYFMVAmt>988</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED LOSS</Desc>
+        <Amt>405646</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>4406</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2204</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2204</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>389</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>195</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>195</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>P.O. BOX RENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>68</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>34</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>34</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1176</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>588</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>588</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>148</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>74</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>74</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1122</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>561</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>561</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>EXCISE TAXES PAYABLE</Desc>
+        <BOYBookValueAmt>2254</BOYBookValueAmt>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>TRUST FEES FOR MAINTAINING INVESTMENT ASSETS</CategoryTxt>
+        <Amt>32043</Amt>
+        <NetInvestmentIncomeAmt>32043</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAXES</CategoryTxt>
+        <Amt>3052</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,762 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2014v6.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-24T14:53:39-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-10-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Hoffman Consulting</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1949 Sugarland Dr Ste 220</AddressLine1Txt>
+        <CityNm>Sheridan</CityNm>
+        <StateAbbreviationCd>WY</StateAbbreviationCd>
+        <ZIPCd>82801</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2014-11-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>742276741</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>MARNA M KUEHNE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MARN</BusinessNameControlTxt>
+      <PhoneNum>3076728956</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 6064</AddressLine1Txt>
+        <CityNm>SHERIDAN</CityNm>
+        <StateAbbreviationCd>WY</StateAbbreviationCd>
+        <ZIPCd>82801</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>EDWARD A HOFFMAN</PersonNm>
+      <PersonTitleTxt>President &amp; CEO</PersonTitleTxt>
+      <SignatureDt>2016-08-24</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Edward A Hoffman CPA CFP</PreparerPersonNm>
+      <PTIN>P01370032</PTIN>
+      <PhoneNum>3076728956</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2014</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation 8453SignatureDocument.1" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>25341772</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>1355173</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>1355173</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>1355173</DividendsAdjNetIncmAmt>
+        <GrossRentsRevAndExpnssAmt>190280</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>190280</GrossRentsNetInvstIncmAmt>
+        <GrossRentsAdjNetIncmAmt>190280</GrossRentsAdjNetIncmAmt>
+        <NetRentalIncomeOrLossAmt>110178</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>386657</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>3317585</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>103269</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>283388</NetSTCapitalGainAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">311693</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>10560</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>10560</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>2243803</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1659282</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>1839401</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>254303</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>254303</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">64737</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>64737</LegalFeesDsbrsChrtblAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">9870</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesDsbrsChrtblAmt>9870</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">28585</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>28585</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">56587</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>56587</DeprecAndDpltnNetInvstIncmAmt>
+        <OccupancyRevAndExpnssAmt>14965</OccupancyRevAndExpnssAmt>
+        <OccupancyDsbrsChrtblAmt>14965</OccupancyDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>1293</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubDsbrsChrtblAmt>1293</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">176760</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>136112</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>40648</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>607100</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>192699</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>414401</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1465535</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1465535</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>2072635</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>192699</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1879936</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>171168</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>1466583</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1839401</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>67459</CashBOYAmt>
+        <CashEOYAmt>6669</CashEOYAmt>
+        <CashEOYFMVAmt>6669</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>490842</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>693347</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>693347</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>18028959</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>18713471</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>21641756</CorporateStockEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>2301286</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>392705</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>2116968</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">1908581</LandEOYAmt>
+        <LandEOYFMVAmt>2300000</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">776060</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">731774</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">700000</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>21480288</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>22053842</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>25341772</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>979</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>1327</AccountsPayableEOYAmt>
+        <GrantsPayableBOYAmt>667539</GrantsPayableBOYAmt>
+        <GrantsPayableEOYAmt>1069577</GrantsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>668518</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>1070904</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>20811770</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>20982938</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>20811770</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>20982938</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>21480288</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>22053842</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>20811770</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>171168</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>20982938</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>20982938</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>103269</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>283388</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>1323688</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>25290953</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.05234</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>869129</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>22912207</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.03793</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>2025339</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>21392980</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.09467</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>1053068</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>20924645</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.05033</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>1282626</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>18383101</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.06977</DistributionYr5Rt>
+        <TotalDistributionRt>0.30504</TotalDistributionRt>
+        <AverageDistributionRt>0.06101</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>24921300</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>1520424</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>14666</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>1535090</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>1879936</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>14666</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>14666</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>14666</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>31350</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>31350</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <OverpaymentAmt>16684</OverpaymentAmt>
+        <RefundAmt>16684</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>true</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>WY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>EDWARD A HOFFMAN CPA</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3076728956</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1949 Sugarland Drive Suite 220</AddressLine1Txt>
+          <CityNm>Sheridan</CityNm>
+          <StateAbbreviationCd>WY</StateAbbreviationCd>
+          <ZIPCd>82801</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EDWARD A HOFFMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1949 Sugarland Drive Ste 220</AddressLine1Txt>
+            <CityNm>SHERIDAN</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82801</ZIPCd>
+          </USAddress>
+          <TitleTxt>President &amp; CEO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>38.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>143827</CompensationAmt>
+          <EmployeeBenefitProgramAmt>11506</EmployeeBenefitProgramAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAN B RIGGS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>50 E LOUCKS</AddressLine1Txt>
+            <CityNm>SHERIDAN</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82801</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>6.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>28800</CompensationAmt>
+          <EmployeeBenefitProgramAmt>4190</EmployeeBenefitProgramAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Jack Tarter</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>582 North DeSmet</AddressLine1Txt>
+            <CityNm>Buffalo</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82834</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>6.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>28800</CompensationAmt>
+          <EmployeeBenefitProgramAmt>4190</EmployeeBenefitProgramAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Richard Hammer</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 6001</AddressLine1Txt>
+            <CityNm>Sheridan</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82801</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>6.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>28800</CompensationAmt>
+          <EmployeeBenefitProgramAmt>4190</EmployeeBenefitProgramAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>21892000</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>429300</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>3000000</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>25321300</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>25321300</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt referenceDocumentId="ExplCashDeemedHeld">400000</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>24921300</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1246065</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1246065</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>14666</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>14666</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1231399</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1231399</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1231399</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>1879936</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>1879936</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>14666</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>1865270</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1231399</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>285367</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>36451</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>992782</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr1Amt>90458</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>1405058</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>1879936</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>1231399</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>648537</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>2053595</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>285367</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>1768228</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>36451</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>992782</ExcessFromYear3Amt>
+        <ExcessFromYear1Amt>90458</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>648537</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>The Marna M Kuehne Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1949 Sugarland Drive Suite 220</AddressLine1Txt>
+            <CityNm>Sheridan</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3076728956</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>Charities wishing to receive grant consideration should contact Edward Hoffman, President of the Foundation to obtain a grant application and to ask questions related to the scope of operations for the foundation.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>Ten days before the next scheduled board of directors meetin</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>The Foundation was established to benefit disabled Veterans in northeastern Wyoming.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CAMPBELL CO MEMORIAL HOSP</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3011</AddressLine1Txt>
+            <CityNm>Gillette</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82716</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>VETERAN SERVICE COORDINATION; EYEGLASSES &amp; HEARIG AIDS</GrantOrContributionPurposeTxt>
+          <Amt>91909</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VETERAN'S HOME OF WY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>700 VETERANS LANE</AddressLine1Txt>
+            <CityNm>Buffalo</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82834</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Gov Org</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>VETERAN CARE:SPECIAL NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>205605</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF WYOMING</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1200 East Evinson Street</AddressLine1Txt>
+            <CityNm>Laramie</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82070</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Gov Org</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Veterans Service center funding</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VETERANS MEDICAL CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1898 Fort Road</AddressLine1Txt>
+            <CityNm>Sheridan</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>none</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>POWWOW 25,233, VA transportation $64,000, below market rent on building $91,728</GrantOrContributionPurposeTxt>
+          <Amt>180961</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DAV - Department of Wyoming</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2902 Pheasant Dr</AddressLine1Txt>
+            <CityNm>Casper</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Purchase of transportation vans to take veterans for medical care</GrantOrContributionPurposeTxt>
+          <Amt>22800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Volunteers of America</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1876 S Sheridan Ave</AddressLine1Txt>
+            <CityNm>Sheridan</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Veteran fishing program</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Sheridan County YMCA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>417 N Jefferson St</AddressLine1Txt>
+            <CityNm>Sheridan</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Veterans programing</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Northern Wyoming Community College</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3059 Coffeen Ave PO Box 6328</AddressLine1Txt>
+            <CityNm>Sheridan</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Dorm for Vet's $5,260, Veterans centers $94,600</GrantOrContributionPurposeTxt>
+          <Amt>99860</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Buffalo Senior Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>671 W Fetterman</AddressLine1Txt>
+            <CityNm>Buffalo</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82834</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Veteran breakfast program</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Legion - Post 7</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>137 N Brooks</AddressLine1Txt>
+            <CityNm>Sheridan</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Veteran housing assistance</GrantOrContributionPurposeTxt>
+          <Amt>11400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Sheridan Senior Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>211 Smith Street</AddressLine1Txt>
+            <CityNm>Sheridan</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Building expansion $500,000</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Salvation Army</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>150 S Tschirgi St</AddressLine1Txt>
+            <CityNm>Sheridan</CityNm>
+            <StateAbbreviationCd>WY</StateAbbreviationCd>
+            <ZIPCd>82801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Assist in benefits paid by Salvation Army for Veterans</GrantOrContributionPurposeTxt>
+          <Amt>60500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1465535</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <BusinessCd>523000</BusinessCd>
+          <ExclusionCd>14</ExclusionCd>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <BusinessCd>523000</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>1355173</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>14</ExclusionCd>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>110178</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>386657</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Miscellaneous Income</Desc>
+          <BusinessCd>900001</BusinessCd>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>10558</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Oil Royalties</Desc>
+          <BusinessCd>211110</BusinessCd>
+          <ExclusionCd>15</ExclusionCd>
+          <ExclusionAmt>223507</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Water Disposal Income</Desc>
+          <BusinessCd>211110</BusinessCd>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>77628</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>1355173</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>421871</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>386657</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>2163701</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <CashDeemedCharitableExplnStmt documentId="ExplCashDeemedHeld" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <ShortExplanationTxt>Grant committments</ShortExplanationTxt>
+    </CashDeemedCharitableExplnStmt>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Fencing</PropertyDesc>
+        <AcquiredDt>2009-09-02</AcquiredDt>
+        <CostOrOtherBasisAmt>10000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>7383</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+        <CurrentYearExpenseAmt>1429</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1429</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Gillette Clinic - Bldg</PropertyDesc>
+        <AcquiredDt>2009-11-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1165416</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>147520</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>39.5000</LifeRt>
+        <CurrentYearExpenseAmt>29504</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>29504</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>HVAC - Gillette Cl</PropertyDesc>
+        <AcquiredDt>2009-11-01</AcquiredDt>
+        <CostOrOtherBasisAmt>77300</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>25765</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>5153</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>5153</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Paving</PropertyDesc>
+        <AcquiredDt>2009-11-01</AcquiredDt>
+        <CostOrOtherBasisAmt>78000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>39000</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>7800</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>7800</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Floor Coverings</PropertyDesc>
+        <AcquiredDt>2009-11-01</AcquiredDt>
+        <CostOrOtherBasisAmt>39770</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>28405</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+        <CurrentYearExpenseAmt>5681</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>5681</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Furnishings</PropertyDesc>
+        <AcquiredDt>2009-11-01</AcquiredDt>
+        <CostOrOtherBasisAmt>2160</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1545</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+        <CurrentYearExpenseAmt>309</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>309</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Fire Suppression System</PropertyDesc>
+        <AcquiredDt>2009-11-01</AcquiredDt>
+        <CostOrOtherBasisAmt>43875</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>14625</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>2925</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>2925</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Fencing</PropertyDesc>
+        <AcquiredDt>2008-11-01</AcquiredDt>
+        <CostOrOtherBasisAmt>13615</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>11670</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+        <CurrentYearExpenseAmt>1945</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1945</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Improvements</PropertyDesc>
+        <AcquiredDt>2009-11-01</AcquiredDt>
+        <CostOrOtherBasisAmt>72708</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>9205</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>39.5000</LifeRt>
+        <CurrentYearExpenseAmt>1841</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1841</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Furniture and Fixtures</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1000</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1000</AccumulatedDepreciationAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Buildings</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1479229</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>319278</AccumulatedDepreciationAmt>
+        <BookValueAmt>1159951</BookValueAmt>
+        <EOYFMVAmt>2000000</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Improvements</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>73615</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>72427</AccumulatedDepreciationAmt>
+        <BookValueAmt>1188</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Land</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>747442</CostOrOtherBasisAmt>
+        <BookValueAmt>747442</BookValueAmt>
+        <EOYFMVAmt>300000</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <LegalFeesGrp>
+        <CategoryTxt>Legal fees</CategoryTxt>
+        <LegalFeesAmt>64737</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>64737</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <OtherAssetsScheduleGrp>
+        <Desc>Net Intangible Assets</Desc>
+        <BOYBookValueAmt>776060</BOYBookValueAmt>
+        <EOYBookValueAmt>731773</EOYBookValueAmt>
+        <EOYFMVAmt>700000</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>Rounding</Desc>
+        <EOYBookValueAmt>1</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Excise Taxes</Desc>
+        <RevenueAndExpensesPerBooksAmt>40312</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>40312</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Investment magement fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>112597</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>112597</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Rental Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>23515</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>23515</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Travel and Training</Desc>
+        <RevenueAndExpensesPerBooksAmt>336</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>336</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <OtherIncomeDetail>
+        <Desc>Miscellaneous Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>10558</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Oil Royalties</Desc>
+        <RevenueAndExpensesPerBooksAmt>223507</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Water Disposal Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>77628</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Professional fees</CategoryTxt>
+        <Amt>9870</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>9870</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <TaxesDetail>
+        <CategoryTxt>Payroll</CategoryTxt>
+        <Amt>28585</Amt>
+        <DisbursementsCharitablePrpsAmt>28585</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

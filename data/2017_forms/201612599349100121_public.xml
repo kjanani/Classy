@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-15T03:17:47-00:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Fredrikson &amp; Byron PA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>200 South Sixth Street 4000</AddressLine1Txt>
+        <CityNm>Mpls</CityNm>
+        <StateAbbreviationCd>MN</StateAbbreviationCd>
+        <ZIPCd>55402</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>386869248</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The RHY Charitable Trust</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>RHYC</BusinessNameControlTxt>
+      <PhoneNum>6124927000</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>200 South Sixth Street Room 4000</AddressLine1Txt>
+        <CityNm>Minneapolis</CityNm>
+        <StateAbbreviationCd>MN</StateAbbreviationCd>
+        <ZIPCd>55402</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Debbie Yauk</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <SignatureDt>2016-09-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>John L Nelson</PreparerPersonNm>
+      <PhoneNum>6124927000</PhoneNum>
+      <PreparationDt>2016-09-15</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="990PF" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1926674</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>23</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>23</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>35253</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>28378</DividendsNetInvstIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>35276</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>28401</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>25000</CompOfcrDirTrstRevAndExpnssAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="990PF:75">5000</LegalFeesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>30000</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>105000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>105000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>135000</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>105000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-99724</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>28401</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>192608</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>145934</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>145934</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>691930</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="990PF:88">666061</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>624545</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>918654</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="990PF:89">876581</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>821943</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>341579</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="990PF:90">356471</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>334252</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>2144771</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2045047</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1926674</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>2144771</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>2045047</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2144771</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2045047</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2144771</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2045047</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2144771</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-99724</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2045047</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2045047</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>93833</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>2108038</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>000.044512</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>85874</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>1867887</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>000.045974</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>72874</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1727705</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>000.042180</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>56351</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1471182</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>000.038303</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>35863</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1135207</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>000.031592</DistributionYr5Rt>
+        <TotalDistributionRt>000.202561</TotalDistributionRt>
+        <AverageDistributionRt>000.040512</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1897773</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>76883</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>284</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>77167</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>105000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>284</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>284</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>284</TaxBasedOnInvestmentIncomeAmt>
+        <AppliedToEsTaxAmt>284</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>284</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnTaxPaidAmt>284</OriginalReturnTaxPaidAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MN</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <IndividualWithBooksNm>John Nelson</IndividualWithBooksNm>
+        <PhoneNum>6124927000</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>200 South Sixth Street Suite 4000</AddressLine1Txt>
+          <CityNm>Minneapolis</CityNm>
+          <StateAbbreviationCd>MN</StateAbbreviationCd>
+          <ZIPCd>55402</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Robert H Yauk</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>200 S 6th Street Suite 4000</AddressLine1Txt>
+            <CityNm>Minneapolis</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55402</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Debbie Yauk</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>200 S 6th Street Suite 4000</AddressLine1Txt>
+            <CityNm>Minneapolis</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55402</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>010.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>25000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1780740</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>145933</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1926673</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1926673</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt referenceDocumentId="990PF:177">28900</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1897773</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>94889</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>94889</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>284</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>284</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>94605</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>94605</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>94605</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt referenceDocumentId="990PF:178">105000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>105000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>284</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>104716</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>94605</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>104465</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>105000</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>104465</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>535</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>94070</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Luke's Wings</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1054 31st Street NW Suite 540</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20007</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General use of charity</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Independence Fund Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>32379 Collection Center Dr</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60693</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General use of charity</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Minnesota Military Family Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>620 Mendelssohn Ave N</AddressLine1Txt>
+            <CityNm>Golden Valley</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55427</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General use of charity</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>105000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>23</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>35253</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>35276</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>35276</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <GeneralExplanationAttachment documentId="990PF:123" softwareId="15000290" softwareVersionNum="15.3.0.0"></GeneralExplanationAttachment>
+    <InvestmentsCorpBondsSchedule documentId="990PF:90" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Wells Fargo Account</BondNm>
+        <EOYBookValueAmt>356471</EOYBookValueAmt>
+        <EOYFMVAmt>334252</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="990PF:89" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Wells Fargo Account</StockNm>
+        <EOYBookValueAmt>876581</EOYBookValueAmt>
+        <EOYFMVAmt>821943</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="990PF:88" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <StateLocalSecBookVlEOYAmt>666061</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>624545</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <LegalFeesSchedule documentId="990PF:75" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <LegalFeesGrp>
+        <CategoryTxt>Fredrikson Byron</CategoryTxt>
+        <LegalFeesAmt>5000</LegalFeesAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <TaxesSchedule documentId="990PF:78" softwareId="15000290" softwareVersionNum="15.3.0.0"></TaxesSchedule>
+  </ReturnData>
+</Return>

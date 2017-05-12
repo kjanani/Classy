@@ -1,0 +1,765 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-12T09:21:59-07:00</ReturnTs>
+    <TaxPeriodEndDt>2016-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Frank J Baker &amp; Company Ltd</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>950 Lee Street Suite 101</AddressLine1Txt>
+        <CityNm>Des Plaines</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>600166575</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>250965217</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Polish National Alliance School Corp</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>POLI</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>6100 N Cicero Avenue</AddressLine1Txt>
+        <CityNm>Chicago</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60646</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Frank Spula</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2016-09-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Kurt P Hoffman</PreparerPersonNm>
+      <PTIN>P00123625</PTIN>
+      <PhoneNum>8472970300</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>984546</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>2778</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>34319</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>34319</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>34319</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-3204</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>327496</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>33893</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>34319</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>34319</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">2125</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1806</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>213</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>106</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">334</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>284</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>33</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>17</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">10913</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>10913</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>1092</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>545</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>13372</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>13003</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>1338</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>668</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>52623</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>52623</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>65995</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>13003</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>1338</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>53291</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-32102</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>21316</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>32981</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>25481</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>124705</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>124705</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>562465</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">540606</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>540606</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>432923</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">319235</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>319235</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1020869</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>984546</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>984546</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>1020869</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>984546</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1020869</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>984546</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1020869</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>984546</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1020869</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-32102</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>988767</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">4221</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>984546</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly traded securities</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-06-30</AcquiredDt>
+          <SoldDt>2016-06-30</SoldDt>
+          <GrossSalesPriceAmt>327496</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>330700</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3204</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3204</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-3204</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>47000</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1050279</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.04475</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>49820</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>1015410</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.04906</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>55292</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1035156</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.05341</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>59500</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1071085</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.05555</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>50500</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1125784</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.04486</DistributionYr5Rt>
+        <TotalDistributionRt>0.247637</TotalDistributionRt>
+        <AverageDistributionRt>0.049527</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>989348</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>48999</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>213</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>49212</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>53291</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>213</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>213</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>213</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>132</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>132</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>81</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>James Gura</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>7732860500</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>6100 N Cicero Avenue</AddressLine1Txt>
+          <CityNm>Chicago</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>606464385</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Wesley Musial</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6100 N CICERO</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60646</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Frank Spula</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6100 N Cicero Avenue</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60646</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice Chair</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Marian Grabowski</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6100 N CICERO</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60646</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Charles Komosa</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6100 N CICERO</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60646</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>925230</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>79184</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1004414</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1004414</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>15066</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>989348</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>49467</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>49467</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>213</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>213</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>49254</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>49254</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>49254</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>53291</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>53291</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>213</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>53078</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>49254</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>50942</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>53291</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>50942</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>2349</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>46905</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>Frank Spula</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6100 N Cicero Ave</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60646</ZIPCd>
+          </RecipientUSAddress>
+          <FormAndInfoAndMaterialsTxt>An individual or organization may send a letter requesting a scholarship or donation to further their education.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>None</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>None</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Governors State University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 University Pkwy</AddressLine1Txt>
+            <CityNm>University Park</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60484</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarships</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Slippery Rock Univ PA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 Morrow Way</AddressLine1Txt>
+            <CityNm>Slippery Rock</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16057</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Nova Southeatern Univ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3200 S University Dr</AddressLine1Txt>
+            <CityNm>Ft Lauderdale</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33328</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Janiellonian Univ Med Coll</RecipientPersonNm>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>UL SW Anny</AddressLine1Txt>
+            <CityNm>Krakow</CityNm>
+            <ProvinceOrStateNm>Europe</ProvinceOrStateNm>
+            <CountryCd>PL</CountryCd>
+            <ForeignPostalCd>31-008</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Univ of Pittsburgh Johnstown</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>450 Schoolhouse Rd</AddressLine1Txt>
+            <CityNm>Johnstown</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15909</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Chapman Univ School Law</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>One University Dr</AddressLine1Txt>
+            <CityNm>Orange</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92866</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Univ of Illinois Urbana Champaign</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>620 E John St</AddressLine1Txt>
+            <CityNm>Champaign</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>61820</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Boston College</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>140 Commonwealth Ave</AddressLine1Txt>
+            <CityNm>Chestnut Hill</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02467</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Univ of Illinois Coll Medicine</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>808 S Wood St</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Northwestern University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>303 E Chicago Ave</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60611</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Chicago Medical School</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3333 Green Bay Rd</AddressLine1Txt>
+            <CityNm>North Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60064</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Carnegie Mellon University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5000 Forbes Ave</AddressLine1Txt>
+            <CityNm>Pittsburgh</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15213</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Univ of Illinois School of Veternar</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2001 S Lincoln Ave</AddressLine1Txt>
+            <CityNm>Urbana</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>61802</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Chicago College of Osteopathic Medi</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>555 31st St</AddressLine1Txt>
+            <CityNm>Downers Grove</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60515</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Georgetown University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3520 Prospect St NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20057</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Florida Atlantic University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>777 Glades Rd</AddressLine1Txt>
+            <CityNm>Boca Raton</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33431</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Olivet Nazarene University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 University Ave</AddressLine1Txt>
+            <CityNm>Bourbonnais</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60914</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>University of Illinois</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1853 W Polk St</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarships</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Jesuit School of Theology at Berkel</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1735 Le Roy Avenue</AddressLine1Txt>
+            <CityNm>Berkeley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94709</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>North Dakota State Univ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1301 Administration Ave</AddressLine1Txt>
+            <CityNm>Fargo</CityNm>
+            <StateAbbreviationCd>ND</StateAbbreviationCd>
+            <ZIPCd>58102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>University of South Florida</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4202 E Fowler Ave</AddressLine1Txt>
+            <CityNm>Tampa</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33620</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Georgia Inst of Technology</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>North Ave</AddressLine1Txt>
+            <CityNm>Atlanta</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30332</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Bridgewater State University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>131 Summer St</AddressLine1Txt>
+            <CityNm>Bridgewater</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02325</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4400 Massachusetts Ave</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Saint Louis University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>221 N Grand Blvd</AddressLine1Txt>
+            <CityNm>St Louis</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Columbia University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>116th and Broadway</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>School</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PNA School Corp</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6100 N Cicero Ave</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60646</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Refund</GrantOrContributionPurposeTxt>
+          <Amt>-1377</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>52623</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>34319</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>-3204</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>34319</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>-3204</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>31115</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Frank J. Baker &amp; Co., Ltd</CategoryTxt>
+        <Amt>2125</Amt>
+        <NetInvestmentIncomeAmt>1806</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>213</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>106</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Publicly Traded Equities</StockNm>
+        <EOYBookValueAmt>540606</EOYBookValueAmt>
+        <EOYFMVAmt>540606</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Mutual Funds</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>79200</BookValueAmt>
+        <EOYFMVAmt>79200</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Exchange Traded Products</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>240035</BookValueAmt>
+        <EOYFMVAmt>240035</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Advisory Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>9930</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>9930</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>993</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>496</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Charges</Desc>
+        <RevenueAndExpensesPerBooksAmt>817</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>817</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>82</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>41</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Real Estate Tax</Desc>
+        <RevenueAndExpensesPerBooksAmt>166</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>166</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>17</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>8</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <CategoryTxt>Excise tax</CategoryTxt>
+        <Amt>334</Amt>
+        <NetInvestmentIncomeAmt>284</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>33</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>17</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

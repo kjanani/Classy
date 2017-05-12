@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-12T12:21:06-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>251588535</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>REILLY CREPPAGE &amp; CO INC CPA'S</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>601 VALLEY VIEW BLVD</AddressLine1Txt>
+        <CityNm>ALTOONA</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>166026421</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>656469170</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>RUTH REYNOLDS CHARITABLE TRUST</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>RUTH</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>AMERISERV TRUST FINANCIAL SERVICE</AddressLine1Txt>
+        <CityNm>JOHNSTOWN</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>159070520</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>AMERISERV TRUST FIANNCIAL SVCS</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <SignatureDt>2016-08-03</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>BERNARD CREPPAGE</PreparerPersonNm>
+      <PTIN>P00188618</PTIN>
+      <PhoneNum>8149446178</PhoneNum>
+      <PreparationDt>2016-08-02</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>86736</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>3802</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>3802</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">1220</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>36498</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>761</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>5022</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>4563</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>1181</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">575</AccountingFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc7">51</TaxesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>1807</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>4598</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>4598</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>6405</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>4598</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-1383</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>4563</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>3150</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>3401</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>3401</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>14339</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">15318</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>22640</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>66658</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc4">63984</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>60695</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>84147</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>82703</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>86736</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>82163</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>82163</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>1984</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>540</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>84147</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>82703</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>84147</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>82703</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>84147</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-1383</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>82764</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc6">61</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>82703</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>761</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>5128</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>92959</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.055164</DistributionYr1Rt>
+        <NetVlNoncharitableAssetsYr2Amt>82185</NetVlNoncharitableAssetsYr2Amt>
+        <TotalDistributionRt>0.055164</TotalDistributionRt>
+        <AverageDistributionRt>0.055164</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>90275</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>4980</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>46</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>5026</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>4598</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>91</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>91</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>91</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>91</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>AMERISERV TRUST &amp; FINANCIAL SVCS</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8145335471</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 5820</AddressLine1Txt>
+          <CityNm>JOHNSTOWN</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>159070520</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>AMERISERV TRUST FIANNCIAL SVCS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 520</AddressLine1Txt>
+            <CityNm>JOHNSTOWN</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>159070520</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1181</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>89648</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>2002</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>91650</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>91650</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1375</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>90275</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>4514</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>4514</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>91</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>91</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>4423</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>4423</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>4423</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>4598</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>4598</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>4598</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>4423</DistributableAsAdjustedAmt>
+        <QualifyingDistributionsAmt>4598</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>4423</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>175</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>175</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>175</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>175</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST JOHN GUALBERT CATHEDRAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>117 CLINTON ST</AddressLine1Txt>
+            <CityNm>JOHNSTOWN</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>159012128</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE DISTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>1150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAMBRIA CO ASSOCIATION FOR THE</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>BLIND &amp; HANDICAPPED</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>211 CENTRAL AVE</AddressLine1Txt>
+            <CityNm>JOHNSTOWN</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>159022495</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE DISTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>1150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARTHRITIS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1330 W PEACHTREEE ST</AddressLine1Txt>
+            <CityNm>ATLANTA</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>303092943</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NIONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE DISTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>1149</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN CANCER SOCIETY INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 720366</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>731620366</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE DISTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>1149</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>4598</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>3802</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>1220</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>5022</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>5022</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREP FEE</CategoryTxt>
+        <Amt>575</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMERISERV TRUST &amp; FINANCIAL</AssetDesc>
+        <AcquiredDt>2015-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>2207</GrossSalesPriceAmt>
+        <BasisAmt>2375</BasisAmt>
+        <TotalNetAmt>-168</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMERISERV TRUST &amp; FINANCIAL</AssetDesc>
+        <AcquiredDt>2014-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>25394</GrossSalesPriceAmt>
+        <BasisAmt>25738</BasisAmt>
+        <TotalNetAmt>-344</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMERISERV TRUST &amp; FINANCIAL</AssetDesc>
+        <AcquiredDt>2014-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>4354</GrossSalesPriceAmt>
+        <BasisAmt>3293</BasisAmt>
+        <TotalNetAmt>1061</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>GOLDMAN SACHS</AssetDesc>
+        <AcquiredDt>2015-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>3782</GrossSalesPriceAmt>
+        <BasisAmt>3872</BasisAmt>
+        <TotalNetAmt>-90</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DOUBLELINE TOTAL RETURN BD FD 2040</BondNm>
+        <EOYBookValueAmt>13196</EOYBookValueAmt>
+        <EOYFMVAmt>12752</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EATON VANCE FLOATING RATE ADV I</BondNm>
+        <EOYBookValueAmt>5579</EOYBookValueAmt>
+        <EOYFMVAmt>5088</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FED INST'L HIGH YIELD BOND FD 900</BondNm>
+        <EOYBookValueAmt>4860</EOYBookValueAmt>
+        <EOYFMVAmt>4442</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FIDELITY NEW MARKETS FD 3311</BondNm>
+        <EOYBookValueAmt>2589</EOYBookValueAmt>
+        <EOYFMVAmt>2239</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LOOMIS SAYLES BOND FUND</BondNm>
+        <EOYBookValueAmt>1482</EOYBookValueAmt>
+        <EOYFMVAmt>1262</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>OPPENHEIMER SR FLOATING RATE I</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PIMCO INCOME INSTL FD 1821</BondNm>
+        <EOYBookValueAmt>11358</EOYBookValueAmt>
+        <EOYFMVAmt>11425</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PIMCO INVESTMENT GRADE CORP BD 56</BondNm>
+        <EOYBookValueAmt>10013</EOYBookValueAmt>
+        <EOYFMVAmt>9212</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>T ROWE PRICE CAPITAL APPRECIATION</BondNm>
+        <EOYBookValueAmt>3626</EOYBookValueAmt>
+        <EOYFMVAmt>3438</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VANGUARD S/T FEDERAL ADM</BondNm>
+        <EOYBookValueAmt>5676</EOYBookValueAmt>
+        <EOYFMVAmt>5634</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LOOMIS SAYLES SENIOR FLOATING</BondNm>
+        <EOYBookValueAmt>5605</EOYBookValueAmt>
+        <EOYFMVAmt>5203</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALLIAN BERNSTEIN S/C GR-ADV</StockNm>
+        <EOYBookValueAmt>390</EOYBookValueAmt>
+        <EOYFMVAmt>319</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALTRIA GROUP INC</StockNm>
+        <EOYBookValueAmt>453</EOYBookValueAmt>
+        <EOYFMVAmt>990</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMAZON.COM INC</StockNm>
+        <EOYBookValueAmt>406</EOYBookValueAmt>
+        <EOYFMVAmt>1352</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ANNALY CAP ,G,T INC REIT</StockNm>
+        <EOYBookValueAmt>149</EOYBookValueAmt>
+        <EOYFMVAmt>84</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EXELON CORP</StockNm>
+        <EOYBookValueAmt>134</EOYBookValueAmt>
+        <EOYFMVAmt>139</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FEDERATED STRATEGIC VALUE DIVIDEND</StockNm>
+        <EOYBookValueAmt>309</EOYBookValueAmt>
+        <EOYFMVAmt>360</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY INDEPENDENCE FUND</StockNm>
+        <EOYBookValueAmt>314</EOYBookValueAmt>
+        <EOYFMVAmt>392</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY LEVERAGED CO STK FD 122</StockNm>
+        <EOYBookValueAmt>226</EOYBookValueAmt>
+        <EOYFMVAmt>338</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY LOW-PRICED STK FD 316</StockNm>
+        <EOYBookValueAmt>465</EOYBookValueAmt>
+        <EOYFMVAmt>472</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY SEL SOFTWARE &amp; COMP 28</StockNm>
+        <EOYBookValueAmt>702</EOYBookValueAmt>
+        <EOYFMVAmt>722</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FREEPORT-MCMORAN COPPER &amp; GOLD INC</StockNm>
+        <EOYBookValueAmt>141</EOYBookValueAmt>
+        <EOYFMVAmt>20</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GENERAL MILLS</StockNm>
+        <EOYBookValueAmt>194</EOYBookValueAmt>
+        <EOYFMVAmt>231</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GILIEAD SCIENCES INC</StockNm>
+        <EOYBookValueAmt>256</EOYBookValueAmt>
+        <EOYFMVAmt>506</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOHN HANCOCK III DISC VALUE MID CAP</StockNm>
+        <EOYBookValueAmt>424</EOYBookValueAmt>
+        <EOYFMVAmt>469</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOHNSON &amp; JOHNSON</StockNm>
+        <EOYBookValueAmt>251</EOYBookValueAmt>
+        <EOYFMVAmt>308</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LEGG MASON CAPITAL MGMT OPPOR - IN</StockNm>
+        <EOYBookValueAmt>399</EOYBookValueAmt>
+        <EOYFMVAmt>777</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>OPPENHEIMER INTL SMALL CO FD CL Y</StockNm>
+        <EOYBookValueAmt>1077</EOYBookValueAmt>
+        <EOYFMVAmt>1133</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PIMCO REAL ESTATE REAL RETURN ST - I</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PRIMECAP ODYSSEY AGGRESSIVE GRWTH FD</StockNm>
+        <EOYBookValueAmt>843</EOYBookValueAmt>
+        <EOYFMVAmt>1073</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RYDEX S&amp;P 500 2X STRATEGY FD H</StockNm>
+        <EOYBookValueAmt>307</EOYBookValueAmt>
+        <EOYFMVAmt>506</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SYMONS VALUE INST FD 2</StockNm>
+        <EOYBookValueAmt>467</EOYBookValueAmt>
+        <EOYFMVAmt>461</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>T ROWE PRICE HEALTH SCIENCES FD 114</StockNm>
+        <EOYBookValueAmt>691</EOYBookValueAmt>
+        <EOYFMVAmt>1254</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD INSTL INDEX FD 94</StockNm>
+        <EOYBookValueAmt>6178</EOYBookValueAmt>
+        <EOYFMVAmt>10236</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HARBOR CAPITAL APPRECIATION FUND</StockNm>
+        <EOYBookValueAmt>542</EOYBookValueAmt>
+        <EOYFMVAmt>498</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc6">
+      <OtherDecreasesDetail>
+        <Desc>PRIOR YEAR ADJ</Desc>
+        <Amt>61</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>1</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAX</CategoryTxt>
+        <Amt>50</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-02T12:36:15-00:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>DANIELW TOMBRAGEL CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>8180 NORTH DILCREST CIRCLE</AddressLine1Txt>
+        <CityNm>FLORENCE</CityNm>
+        <StateAbbreviationCd>KY</StateAbbreviationCd>
+        <ZIPCd>41042</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>237419866</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE ROONEY FUND</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ROON</BusinessNameControlTxt>
+      <PhoneNum>6144862143</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1209 WESTWOOD AVE</AddressLine1Txt>
+        <CityNm>COLUMBUS</CityNm>
+        <StateAbbreviationCd>OH</StateAbbreviationCd>
+        <ZIPCd>43212</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>WILLIAM CHAVANNE</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <SignatureDt>2016-09-02</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DANIEL W TOMBRAGEL CPA</PreparerPersonNm>
+      <PhoneNum>8595252977</PhoneNum>
+      <PreparationDt>2016-09-02</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="990PF" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>281249</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <DividendsRevAndExpnssAmt>5162</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>5162</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>5162</DividendsAdjNetIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>5162</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>5162</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>5162</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="990PF:76">3518</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesAdjNetIncmAmt>3518</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>3518</AccountingFeesChrtblPrpsAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="990PF:126">4872</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>4872</DeprecAndDpltnAdjNetIncmAmt>
+        <OccupancyRevAndExpnssAmt>3600</OccupancyRevAndExpnssAmt>
+        <OccupancyAdjNetIncmAmt>3600</OccupancyAdjNetIncmAmt>
+        <OccupancyDsbrsChrtblAmt>3600</OccupancyDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>4054</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubAdjNetIncmAmt>4054</PrintingAndPubAdjNetIncmAmt>
+        <PrintingAndPubDsbrsChrtblAmt>4054</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="990PF:79">8422</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesAdjNetIncmAmt>8422</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>8422</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>24466</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>24466</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>19594</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>90237</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>90237</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>114703</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>24466</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>109831</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-109541</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>5162</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashEOYAmt>26210</CashEOYAmt>
+        <CashEOYFMVAmt>26210</CashEOYFMVAmt>
+        <SavAndTempCashInvstEOYAmt>222652</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>222652</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>353531</CorporateStockBOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>80690</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>48303</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>37259</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="990PF:130">32387</LandEOYAmt>
+        <LandEOYFMVAmt>32387</LandEOYFMVAmt>
+        <TotalAssetsBOYAmt>390790</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>281249</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>281249</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>390790</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>281249</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>390790</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>281249</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>390790</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>281249</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>390790</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-109541</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>281249</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>281249</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>26258</AdjustedQlfyDistriYr1Amt>
+        <AdjustedQlfyDistriYr2Amt>23535</AdjustedQlfyDistriYr2Amt>
+        <AdjustedQlfyDistriYr3Amt>26665</AdjustedQlfyDistriYr3Amt>
+        <AdjustedQlfyDistriYr4Amt>33974</AdjustedQlfyDistriYr4Amt>
+        <AdjustedQlfyDistriYr5Amt>108679</AdjustedQlfyDistriYr5Amt>
+        <NetInvestmentIncomePctAmt>52</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>52</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>109831</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>52</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>52</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>52</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>52</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OH</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>NA</WebsiteAddressTxt>
+        <IndividualWithBooksNm>MR WILLIAM CHAVANNE</IndividualWithBooksNm>
+        <PhoneNum>6144862143</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1209 WESTWOOD AVE</AddressLine1Txt>
+          <CityNm>COLUMBUS</CityNm>
+          <StateAbbreviationCd>OH</StateAbbreviationCd>
+          <ZIPCd>43212</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WILLIAM CHAVANNE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1209 WESTWOOD AVE</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>43212</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>005.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LIBBY MELTON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1244 TURNER PLACE</AddressLine1Txt>
+            <CityNm>XENIA</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45385</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE-PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>005.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DIANNA WINN-MAMAS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>264 A N ASHBROOK CIRCLE</AddressLine1Txt>
+            <CityNm>LAKESIDE PARK</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>41017</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>005.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MELINDA CANNADY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1042 TRIANON DR</AddressLine1Txt>
+            <CityNm>XENIA</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45385</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>005.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>SEE ATTACHED STATEMENT OF CHARITABLE ACTIVITIES</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>NONE</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <DistributableAmountGrp>
+        <TaxBasedOnInvestmentIncomeAmt>52</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>52</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>52</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>52</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>-52</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt referenceDocumentId="990PF:178">109831</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>109831</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>52</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>109779</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>-52</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>108817</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>34115</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>26795</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>23716</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>26431</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>219874</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>109831</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>109831</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>329705</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>108817</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>220888</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>34115</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>26795</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>23716</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>26431</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>109831</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>QUALIFIED INDIVIDUALS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1209 WESTWOOD AVE</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>43212</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>11537</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAMPUS CRUSADE FOR CHRIST INC ( AIA)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>651 TAYLOR DR</AddressLine1Txt>
+            <CityNm>XENIA</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45385</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION/CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>78700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>90237</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>5162</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>5162</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>5162</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>THE ORGANIZATION PROVIDES FUNDING THROUGH SCHLORSHIPS AND GRANTS TO QUALIFIED RECEIPENTS</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>WHO GO THROUGH A VERY STRICT SCREENING PROCESS FROM THE BOARD OF TRUSTEES.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="990PF:76" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>DANIEL W. TOMBRAGEL CPA</CategoryTxt>
+        <Amt>3518</Amt>
+        <AdjustedNetIncomeAmt>3518</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3518</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="990PF:126" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MUSEUM AND OFFICE</PropertyDesc>
+        <AcquiredDt>2007-06-30</AcquiredDt>
+        <CostOrOtherBasisAmt>80690</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>43431</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>0000000015.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>4872</CurrentYearExpenseAmt>
+        <AdjustedNetIncomeAmt>4872</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <GeneralExplanationAttachment documentId="990PF:123" softwareId="15000290" softwareVersionNum="15.3.0.0"></GeneralExplanationAttachment>
+    <InvestmentsCorpStockSchedule documentId="990PF:89" softwareId="15000290" softwareVersionNum="15.3.0.0"></InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="990PF:130" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>EQUIPMENT AND MUSEUM</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>80690</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>48303</AccumulatedDepreciationAmt>
+        <BookValueAmt>32387</BookValueAmt>
+        <EOYFMVAmt>32387</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="990PF:79" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>LANDSCAPPING</Desc>
+        <RevenueAndExpensesPerBooksAmt>1380</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>1380</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1380</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CHANGE IN INVESTMENT VALUE</Desc>
+        <RevenueAndExpensesPerBooksAmt>7042</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>7042</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>7042</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="990PF:77" softwareId="15000290" softwareVersionNum="15.3.0.0"></OtherProfessionalFeesSchedule>
+    <SalesOfInventoryList documentId="990PF:73" softwareId="15000290" softwareVersionNum="15.3.0.0"></SalesOfInventoryList>
+    <TaxesSchedule documentId="990PF:78" softwareId="15000290" softwareVersionNum="15.3.0.0"></TaxesSchedule>
+  </ReturnData>
+</Return>

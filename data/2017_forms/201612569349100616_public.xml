@@ -1,0 +1,1004 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-12T09:08:40-00:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Sandor Accounting Service</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO Box 662</AddressLine1Txt>
+        <CityNm>Hardeeville</CityNm>
+        <StateAbbreviationCd>SC</StateAbbreviationCd>
+        <ZIPCd>29927</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>363818697</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Hattie A &amp; Marie V Fatz Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>HATT</BusinessNameControlTxt>
+      <PhoneNum>3127827320</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1 N LaSalle Street Room 3000</AddressLine1Txt>
+        <CityNm>Chicago</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60602</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Kenneth F Theisen</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <PhoneNum>3127827320</PhoneNum>
+      <SignatureDt>2016-09-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Thomas K Sandor</PreparerPersonNm>
+      <PhoneNum>8475305670</PhoneNum>
+      <PreparationDt>2016-09-12</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="990PF" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1020382</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <InterestOnSavRevAndExpnssAmt>144</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>144</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>30277</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>30277</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="990PF:72">-9841</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>81685</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>5271</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="990PF:74">4384</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>4384</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>24964</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>40076</TotalNetInvstIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="990PF:75">10000</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>10000</LegalFeesNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="990PF:76">7000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>7000</AccountingFeesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="990PF:79">397</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>397</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>17397</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>17397</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>55000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>55000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>72397</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>17397</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>55000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-47433</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>22679</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>5838</CashBOYAmt>
+        <CashEOYAmt>18860</CashEOYAmt>
+        <CashEOYFMVAmt>18860</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>44126</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>9379</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>9370</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>1518</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt>1491</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>470</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>1014458</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="990PF:89">987778</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>991682</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>1065940</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1017508</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1020382</TotalAssetsEOYFMVAmt>
+        <AccountsPayableEOYAmt>3000</AccountsPayableEOYAmt>
+        <TotalLiabilitiesEOYAmt>3000</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>1065940</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1014508</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1065940</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1014508</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1065940</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1017508</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1065940</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-47433</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1018507</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="990PF:133">3999</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1014508</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>5271</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>70817</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1079875</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>000.065579</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>69807</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>1094581</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>000.063775</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>70000</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1181893</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>000.059227</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>60000</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1076011</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>000.055762</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>60000</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1066853</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>000.056240</DistributionYr5Rt>
+        <TotalDistributionRt>000.300583</TotalDistributionRt>
+        <AverageDistributionRt>000.060117</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1064605</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>64001</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>227</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>64228</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>55000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>454</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>454</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>454</TaxBasedOnInvestmentIncomeAmt>
+        <AppliedToEsTaxAmt>250</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>250</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnTaxPaidAmt>250</OriginalReturnTaxPaidAmt>
+        <TaxDueAmt>204</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IL</OrgReportOrRegisterStateCd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PhoneNum>3127827320</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1 N LaSalle St Suite 3000</AddressLine1Txt>
+          <CityNm>Chicago</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>606024003</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Kenneth F Theisen</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1 N LaSalle Ste 3000</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60602</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>001.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Herbert J Theisen</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1 N LaSalle Ste 3000</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60602</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>001.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>None</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1002623</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>78194</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1080817</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1080817</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt referenceDocumentId="990PF:177">16212</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1064605</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>53230</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>53230</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>454</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>454</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>52776</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>52776</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>52776</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt referenceDocumentId="990PF:178">55000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>55000</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>55000</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>52776</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>7567</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>7011</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>11423</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>15464</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>17189</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>58654</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>55000</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>52776</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>2224</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>60878</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>7567</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>53311</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>7011</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>11423</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>15464</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>17189</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>2224</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>18925</Year1Amt>
+          <Year3Amt>7883</Year3Amt>
+          <TotalAmt>26808</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <Year1Amt>16086</Year1Amt>
+          <Year3Amt>6701</Year3Amt>
+          <TotalAmt>22787</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>55000</CurrentYearAmt>
+          <Year1Amt>71000</Year1Amt>
+          <Year2Amt>70000</Year2Amt>
+          <Year3Amt>70000</Year3Amt>
+          <TotalAmt>266000</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>55000</CurrentYearAmt>
+          <Year1Amt>71000</Year1Amt>
+          <Year2Amt>70000</Year2Amt>
+          <Year3Amt>70000</Year3Amt>
+          <TotalAmt>266000</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>35487</CurrentYearAmt>
+          <Year1Amt>35996</Year1Amt>
+          <Year2Amt>36486</Year2Amt>
+          <Year3Amt>39397</Year3Amt>
+          <TotalAmt>147366</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>Kenneth F Theisen</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 N LaSalle St Ste 3000</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3127827320</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>Letter Including program information and copy of IRS not for profit status</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>November 30</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>None</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Ann and Robert Lurie Childrens Hospital</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>21W421 Briar Cliff Rd</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60148</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Childrens medical research</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Housing Opportunity for Women</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>70 E Lake St Ste 1300</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Womens welfare</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Tender Loving Care Animal Shelter</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>224 S Michigan Ave</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Animal Welfare</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Grant Park Orchestral Assoc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>29 S LaSalle St Ste 440</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60603</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Music education and performance</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Joffery Ballet</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1930 Glenview Rd</AddressLine1Txt>
+            <CityNm>Glenview</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Arts education and performance</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Chicago Architectural Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1581</AddressLine1Txt>
+            <CityNm>Arlington Heights</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Thomas More Society</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>205 E Randolph</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Legal Education</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>55000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>144</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>30277</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-5457</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>24964</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>24964</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="990PF:76" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Sandor Accounting Services</CategoryTxt>
+        <Amt>7000</Amt>
+        <NetInvestmentIncomeAmt>7000</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="990PF:72" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Peabody Energy</AssetDesc>
+        <AcquiredDt>2012-01</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-10</SoldDt>
+        <GrossSalesPriceAmt>6</GrossSalesPriceAmt>
+        <BasisAmt>194</BasisAmt>
+        <TotalNetAmt>-188</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>NII Holding Inc.</AssetDesc>
+        <AcquiredDt>2009-09</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <BasisAmt>2458</BasisAmt>
+        <TotalNetAmt>-2458</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>NII Holding Inc.</AssetDesc>
+        <AcquiredDt>2012-01</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-07</SoldDt>
+        <BasisAmt>4316</BasisAmt>
+        <TotalNetAmt>-4316</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Consol Energy</AssetDesc>
+        <AcquiredDt>2010-04</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-06</SoldDt>
+        <GrossSalesPriceAmt>2380</GrossSalesPriceAmt>
+        <BasisAmt>4468</BasisAmt>
+        <TotalNetAmt>-2088</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Consol Energy</AssetDesc>
+        <AcquiredDt>2010-09</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-06</SoldDt>
+        <GrossSalesPriceAmt>2380</GrossSalesPriceAmt>
+        <BasisAmt>3568</BasisAmt>
+        <TotalNetAmt>-1188</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Prospect Capital</AssetDesc>
+        <AcquiredDt>2010-12</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-06</SoldDt>
+        <GrossSalesPriceAmt>7504</GrossSalesPriceAmt>
+        <BasisAmt>10921</BasisAmt>
+        <TotalNetAmt>-3417</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Polypore Intl</AssetDesc>
+        <AcquiredDt>2011-08</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>6050</GrossSalesPriceAmt>
+        <BasisAmt>5884</BasisAmt>
+        <TotalNetAmt>166</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Stonemor Partners</AssetDesc>
+        <AcquiredDt>2013-05</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-06</SoldDt>
+        <GrossSalesPriceAmt>8900</GrossSalesPriceAmt>
+        <BasisAmt>8259</BasisAmt>
+        <TotalNetAmt>641</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Mylan Inc</AssetDesc>
+        <AcquiredDt>2013-07</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-03</SoldDt>
+        <GrossSalesPriceAmt>5770</GrossSalesPriceAmt>
+        <BasisAmt>3237</BasisAmt>
+        <TotalNetAmt>2533</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Teva Pharmaceutical</AssetDesc>
+        <AcquiredDt>2012-10</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-06</SoldDt>
+        <GrossSalesPriceAmt>11830</GrossSalesPriceAmt>
+        <BasisAmt>8131</BasisAmt>
+        <TotalNetAmt>3699</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Air Products</AssetDesc>
+        <AcquiredDt>2010-02</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-06</SoldDt>
+        <GrossSalesPriceAmt>14283</GrossSalesPriceAmt>
+        <BasisAmt>7105</BasisAmt>
+        <TotalNetAmt>7178</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Mylan Inc.</AssetDesc>
+        <AcquiredDt>2013-06</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-03</SoldDt>
+        <GrossSalesPriceAmt>17311</GrossSalesPriceAmt>
+        <BasisAmt>9477</BasisAmt>
+        <TotalNetAmt>7834</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Thornburg Mtg</AssetDesc>
+        <AcquiredDt>2004-02</AcquiredDt>
+        <HowAcquiredTxt>P</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <BasisAmt>23508</BasisAmt>
+        <TotalNetAmt>-23508</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <GeneralExplanationAttachment documentId="990PF:123" softwareId="15000290" softwareVersionNum="15.3.0.0"></GeneralExplanationAttachment>
+    <InvestmentsCorpStockSchedule documentId="990PF:89" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>600 shares of Apollo Investment Corp</StockNm>
+        <EOYBookValueAmt>14159</EOYBookValueAmt>
+        <EOYFMVAmt>3132</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 shares of Johnson Controls</StockNm>
+        <EOYBookValueAmt>8526</EOYBookValueAmt>
+        <EOYFMVAmt>11847</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Mosaic Co</StockNm>
+        <EOYBookValueAmt>14267</EOYBookValueAmt>
+        <EOYFMVAmt>5518</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Couer d Alene Mines Corp</StockNm>
+        <EOYBookValueAmt>3499</EOYBookValueAmt>
+        <EOYFMVAmt>496</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 shares of DuPont</StockNm>
+        <EOYBookValueAmt>23588</EOYBookValueAmt>
+        <EOYFMVAmt>6660</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 shares of Tortoise MLP Fund</StockNm>
+        <EOYBookValueAmt>10000</EOYBookValueAmt>
+        <EOYFMVAmt>6944</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 shares of Chesapeake Energy Corp</StockNm>
+        <EOYBookValueAmt>13014</EOYBookValueAmt>
+        <EOYFMVAmt>1800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>160 shares of Exxon</StockNm>
+        <EOYBookValueAmt>5490</EOYBookValueAmt>
+        <EOYFMVAmt>12472</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1148 shares of Frontier Communications</StockNm>
+        <EOYBookValueAmt>9606</EOYBookValueAmt>
+        <EOYFMVAmt>5361</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Illinois Tool Works</StockNm>
+        <EOYBookValueAmt>9517</EOYBookValueAmt>
+        <EOYFMVAmt>18536</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1000 shares of General Electric</StockNm>
+        <EOYBookValueAmt>28756</EOYBookValueAmt>
+        <EOYFMVAmt>31150</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>28 shares of Seventy Seven Energy Inc</StockNm>
+        <EOYFMVAmt>29</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 shares of IBM</StockNm>
+        <EOYBookValueAmt>5072</EOYBookValueAmt>
+        <EOYFMVAmt>13762</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 shares of Macquire Infrastructure CO LLC</StockNm>
+        <EOYBookValueAmt>10000</EOYBookValueAmt>
+        <EOYFMVAmt>7620</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>580 shares of Impac Mortgage Holding REIT</StockNm>
+        <EOYBookValueAmt>24049</EOYBookValueAmt>
+        <EOYFMVAmt>10440</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 shares of Manitowoc Co, Inc.</StockNm>
+        <EOYBookValueAmt>12257</EOYBookValueAmt>
+        <EOYFMVAmt>7675</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 shares of Pfizer</StockNm>
+        <EOYBookValueAmt>34722</EOYBookValueAmt>
+        <EOYFMVAmt>12912</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 shares of Altria Group</StockNm>
+        <EOYBookValueAmt>6981</EOYBookValueAmt>
+        <EOYFMVAmt>17463</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Proctor Gamble</StockNm>
+        <EOYBookValueAmt>5730</EOYBookValueAmt>
+        <EOYFMVAmt>15882</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1000 shares of Realty Income Corp</StockNm>
+        <EOYBookValueAmt>7445</EOYBookValueAmt>
+        <EOYFMVAmt>51630</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 shares of ATT</StockNm>
+        <EOYBookValueAmt>26644</EOYBookValueAmt>
+        <EOYFMVAmt>13764</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Chicago Bridge Iron</StockNm>
+        <EOYBookValueAmt>2514</EOYBookValueAmt>
+        <EOYFMVAmt>7798</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of United Technologies</StockNm>
+        <EOYBookValueAmt>4514</EOYBookValueAmt>
+        <EOYFMVAmt>19214</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 shares of Petroleo Brasiliero ADR</StockNm>
+        <EOYBookValueAmt>10576</EOYBookValueAmt>
+        <EOYFMVAmt>1290</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Verizon</StockNm>
+        <EOYBookValueAmt>9585</EOYBookValueAmt>
+        <EOYFMVAmt>9244</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1321 shares of Franklin Gold Precious Metals</StockNm>
+        <EOYBookValueAmt>23242</EOYBookValueAmt>
+        <EOYFMVAmt>14539</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>3115 shares of Fundamental Investors</StockNm>
+        <EOYBookValueAmt>94322</EOYBookValueAmt>
+        <EOYFMVAmt>157962</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 shares of Vale SA ADR</StockNm>
+        <EOYBookValueAmt>13872</EOYBookValueAmt>
+        <EOYFMVAmt>1645</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1000 shares of John Hancock Premium Dividend Fd II</StockNm>
+        <EOYBookValueAmt>11392</EOYBookValueAmt>
+        <EOYFMVAmt>13710</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>900 shares of Veolia Environmental</StockNm>
+        <EOYBookValueAmt>21967</EOYBookValueAmt>
+        <EOYFMVAmt>21376</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 shares of 3M Corp</StockNm>
+        <EOYBookValueAmt>7276</EOYBookValueAmt>
+        <EOYFMVAmt>15064</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1007 shares of Zweig Total Return Fund</StockNm>
+        <EOYBookValueAmt>34016</EOYBookValueAmt>
+        <EOYFMVAmt>12265</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 shares of General Motors 7.25</StockNm>
+        <EOYBookValueAmt>12500</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 shares of Consolidated Water Co</StockNm>
+        <EOYBookValueAmt>4555</EOYBookValueAmt>
+        <EOYFMVAmt>3672</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Cliffs Natural Resources</StockNm>
+        <EOYBookValueAmt>11950</EOYBookValueAmt>
+        <EOYFMVAmt>316</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1000 shares of Voya Global Equity Dividend</StockNm>
+        <EOYBookValueAmt>20000</EOYBookValueAmt>
+        <EOYFMVAmt>7000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of JP Morgan Chase</StockNm>
+        <EOYBookValueAmt>7286</EOYBookValueAmt>
+        <EOYFMVAmt>13206</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>299 shares of Tortoise Energy Capital</StockNm>
+        <EOYBookValueAmt>9850</EOYBookValueAmt>
+        <EOYFMVAmt>8318</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Bunge Ltd</StockNm>
+        <EOYBookValueAmt>12191</EOYBookValueAmt>
+        <EOYFMVAmt>13656</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>600 shares of Conoco Phillips</StockNm>
+        <EOYBookValueAmt>23720</EOYBookValueAmt>
+        <EOYFMVAmt>28014</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Schlumberger</StockNm>
+        <EOYBookValueAmt>12175</EOYBookValueAmt>
+        <EOYFMVAmt>13950</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 shares of Freeport-McMoran Copper Gold</StockNm>
+        <EOYBookValueAmt>11325</EOYBookValueAmt>
+        <EOYFMVAmt>2031</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Unitedhealth Group</StockNm>
+        <EOYBookValueAmt>7473</EOYBookValueAmt>
+        <EOYFMVAmt>23528</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Honeywell Intl</StockNm>
+        <EOYBookValueAmt>10418</EOYBookValueAmt>
+        <EOYFMVAmt>20714</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Potash Corp Saskatchewan</StockNm>
+        <EOYBookValueAmt>9750</EOYBookValueAmt>
+        <EOYFMVAmt>3424</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 shares of Weatherford Intl</StockNm>
+        <EOYBookValueAmt>10445</EOYBookValueAmt>
+        <EOYFMVAmt>4195</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 shares of American International Group</StockNm>
+        <EOYBookValueAmt>9974</EOYBookValueAmt>
+        <EOYFMVAmt>18591</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of American Tower Corp REIT</StockNm>
+        <EOYBookValueAmt>14472</EOYBookValueAmt>
+        <EOYFMVAmt>19390</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 shares of Cerner Corp</StockNm>
+        <EOYBookValueAmt>14980</EOYBookValueAmt>
+        <EOYFMVAmt>24068</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 shares of Chart Industries Inc.</StockNm>
+        <EOYBookValueAmt>7318</EOYBookValueAmt>
+        <EOYFMVAmt>1796</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 shares of Cisco Systems</StockNm>
+        <EOYBookValueAmt>10544</EOYBookValueAmt>
+        <EOYFMVAmt>13578</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>600 shares of CSX Corp</StockNm>
+        <EOYBookValueAmt>13595</EOYBookValueAmt>
+        <EOYFMVAmt>15570</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 shares of EMC Corp Mass</StockNm>
+        <EOYBookValueAmt>13469</EOYBookValueAmt>
+        <EOYFMVAmt>12840</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 shares of WW Grainger</StockNm>
+        <EOYBookValueAmt>20109</EOYBookValueAmt>
+        <EOYFMVAmt>20259</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1000 shares of Molycorp Inc.</StockNm>
+        <EOYBookValueAmt>9570</EOYBookValueAmt>
+        <EOYFMVAmt>23</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 shares of Morgan Stanley</StockNm>
+        <EOYBookValueAmt>9336</EOYBookValueAmt>
+        <EOYFMVAmt>15905</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 shares of Omega Healthcare REIT</StockNm>
+        <EOYBookValueAmt>10837</EOYBookValueAmt>
+        <EOYFMVAmt>17490</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 shares of Pan American Silver</StockNm>
+        <EOYBookValueAmt>9759</EOYBookValueAmt>
+        <EOYFMVAmt>2600</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>13 shares of Peabody Energy</StockNm>
+        <EOYBookValueAmt>7560</EOYBookValueAmt>
+        <EOYFMVAmt>100</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 shares of Suburban Propane Partners LP</StockNm>
+        <EOYBookValueAmt>3434</EOYBookValueAmt>
+        <EOYFMVAmt>2431</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Triumph Group</StockNm>
+        <EOYBookValueAmt>13551</EOYBookValueAmt>
+        <EOYFMVAmt>7950</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 shares of Valero Energy Corp</StockNm>
+        <EOYBookValueAmt>7511</EOYBookValueAmt>
+        <EOYFMVAmt>21213</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 shares of Allscripts Healthcare Solutions</StockNm>
+        <EOYBookValueAmt>6841</EOYBookValueAmt>
+        <EOYFMVAmt>7690</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 shares of Corning Inc.</StockNm>
+        <EOYBookValueAmt>7287</EOYBookValueAmt>
+        <EOYFMVAmt>9140</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 shares of Digital Global Inc</StockNm>
+        <EOYBookValueAmt>12791</EOYBookValueAmt>
+        <EOYFMVAmt>6264</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 shares of Hertz Global Hldg</StockNm>
+        <EOYBookValueAmt>8011</EOYBookValueAmt>
+        <EOYFMVAmt>4269</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 shares of ITC Holding</StockNm>
+        <EOYBookValueAmt>9453</EOYBookValueAmt>
+        <EOYFMVAmt>11775</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 shares of Mylan NV</StockNm>
+        <EOYBookValueAmt>23081</EOYBookValueAmt>
+        <EOYFMVAmt>21628</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>675 shares of Brookfield Total Return Fd</StockNm>
+        <EOYBookValueAmt>23941</EOYBookValueAmt>
+        <EOYFMVAmt>14816</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 shares of India Fund</StockNm>
+        <EOYBookValueAmt>10960</EOYBookValueAmt>
+        <EOYFMVAmt>11370</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 shares of First Tr Energy Income Growth Fd</StockNm>
+        <EOYBookValueAmt>10000</EOYBookValueAmt>
+        <EOYFMVAmt>9200</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Baxalta Inc</StockNm>
+        <EOYFMVAmt>7806</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shares of Baxter Intl</StockNm>
+        <EOYBookValueAmt>13770</EOYBookValueAmt>
+        <EOYFMVAmt>7630</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 shares of Bristol Myers Squibb</StockNm>
+        <EOYBookValueAmt>6681</EOYBookValueAmt>
+        <EOYFMVAmt>6879</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>20 shares of Chemours Co</StockNm>
+        <EOYFMVAmt>107</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 shares of Varian Med Sys</StockNm>
+        <EOYBookValueAmt>8707</EOYBookValueAmt>
+        <EOYFMVAmt>8080</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="990PF:75" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <LegalFeesGrp>
+        <CategoryTxt>Tews,Theisen Theisen</CategoryTxt>
+        <LegalFeesAmt>10000</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>10000</NetInvestmentIncomeAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="990PF:133" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <OtherDecreasesDetail>
+        <Desc>Prior period adjustment</Desc>
+        <Amt>3999</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="990PF:79" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Filing Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>25</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>25</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Service Charge</Desc>
+        <RevenueAndExpensesPerBooksAmt>329</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>329</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Supplies</Desc>
+        <RevenueAndExpensesPerBooksAmt>43</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>43</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="990PF:74" softwareId="15000290" softwareVersionNum="15.3.0.0">
+      <OtherIncomeDetail>
+        <Desc>Partnership Distributions</Desc>
+        <RevenueAndExpensesPerBooksAmt>3454</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>3454</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Income tax refund</Desc>
+        <RevenueAndExpensesPerBooksAmt>930</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>930</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="990PF:78" softwareId="15000290" softwareVersionNum="15.3.0.0"></TaxesSchedule>
+  </ReturnData>
+</Return>

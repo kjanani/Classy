@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-13T06:01:37-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>473123679</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>SAM BROWN CPA INC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO BOX 1027</AddressLine1Txt>
+        <CityNm>TROY</CityNm>
+        <StateAbbreviationCd>OH</StateAbbreviationCd>
+        <ZIPCd>453738027</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>650423547</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>HORIZON HOUSING FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>HORI</BusinessNameControlTxt>
+      <PhoneNum>7706727891</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1892 CHATUGE SHORES RD</AddressLine1Txt>
+        <CityNm>HIAWASSEE</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>30546</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>HENRY R FOCKE JR</PersonNm>
+      <PersonTitleTxt>DIRECTOR</PersonTitleTxt>
+      <PhoneNum>7706727891</PhoneNum>
+      <SignatureDt>2016-08-30</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>SAM B BROWN</PreparerPersonNm>
+      <PTIN>P00178037</PTIN>
+      <PhoneNum>9378759510</PhoneNum>
+      <PreparationDt>2016-08-30</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>30095</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <TotalRevAndExpnssAmt>0</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">1860</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1860</AccountingFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc5">50</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>50</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>1910</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1910</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>8748</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>8748</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>10658</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1910</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>8748</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-10658</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>35392</CashBOYAmt>
+        <CashEOYAmt>24734</CashEOYAmt>
+        <CashEOYFMVAmt>24734</CashEOYFMVAmt>
+        <AcctRcvblAmt>2796</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>2796</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>2796</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>2796</AcctRcvblEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>2565</InvstLandCostOrOtherBasisAmt>
+        <LandBldgInvestmentsBOYAmt>2565</LandBldgInvestmentsBOYAmt>
+        <LandBldgInvestmentsEOYAmt referenceDocumentId="RetDoc3">2565</LandBldgInvestmentsEOYAmt>
+        <LandBldgInvestmentsEOYFMVAmt>2565</LandBldgInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>40753</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>30095</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>30095</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>8432</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>8432</AccountsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc4">100750</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc4">100750</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>109182</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>109182</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>-68429</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>-79087</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>-68429</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>-79087</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>40753</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>30095</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>-68429</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-10658</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>-79087</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>-79087</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>10500</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>38075</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.275772</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>1000</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>71770</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.013933</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>1000</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>79862</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.012522</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>1500</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>15230</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.098490</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>2500</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>529179</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.004724</DistributionYr5Rt>
+        <TotalDistributionRt>0.405441</TotalDistributionRt>
+        <AverageDistributionRt>0.081088</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>32366</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>2624</AdjNetVlNoncharitableAssetsAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>2624</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>8748</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>TAXPAYER</IndividualWithBooksNm>
+        <PhoneNum>7706727891</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1892 CHATUGE SHORES RD</AddressLine1Txt>
+          <CityNm>HIAWASSEE</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>30546</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>HENRY R FOCKE JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1892 CHATUGE SHORES RD</AddressLine1Txt>
+            <CityNm>HIAWASSEE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30546</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RICHARD A FOCKE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1892 CHATUGE SHORES RD</AddressLine1Txt>
+            <CityNm>HIAWASSEE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30546</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DOUGLAS GREGG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1892 CHATUGE SHORES RD</AddressLine1Txt>
+            <CityNm>HIAWASSEE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30546</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>30063</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>2796</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>32859</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>32859</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>493</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>32366</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1618</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1618</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>1618</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1618</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1618</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>8748</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>8748</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>8748</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1618</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>5007</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>5007</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>8748</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>1618</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>7130</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>12137</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>12137</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>5007</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>7130</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>BOARD OF DIRECTORS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1892 CHATUGE SHORES RD</AddressLine1Txt>
+            <CityNm>HIAWASSEE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30546</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>7706727891</RecipientPhoneNum>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHAMINADE JULIENNE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>505 SOUTH LUDLOW ST</AddressLine1Txt>
+            <CityNm>DAYTON</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45402</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>UNSPECIFIED</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MARK A KREUSCH MEMORIAL FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7755 PARAGON ROAD STE 1</AddressLine1Txt>
+            <CityNm>DAYTOH</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45459</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>UNSPECIFIED</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CLAY COUNTY SCHOOLS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>154 YELLOW JACKET DR</AddressLine1Txt>
+            <CityNm>HAYESVILLE</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28904</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PLAYGROUND EQUIPMENT</GrantOrContributionPurposeTxt>
+          <Amt>1248</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>8748</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>INDIRECT ACCOUNTING FEES</CategoryTxt>
+        <Amt>1860</Amt>
+        <NetInvestmentIncomeAmt>1860</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsLandSchedule2 documentId="RetDoc3">
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>CHRISTOPHER LAND</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>2565</CostOrOtherBasisAmt>
+        <BookValueAmt>2565</BookValueAmt>
+        <EOYFMVAmt>2565</EOYFMVAmt>
+      </InvestmentLandGrp>
+    </InvestmentsLandSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc4">
+      <OtherLiabilitiesDetail>
+        <Desc>ACCRUED EXPENSES</Desc>
+        <BOYBookValueAmt>100750</BOYBookValueAmt>
+        <EOYBookValueAmt>100750</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <TaxesDetail>
+        <CategoryTxt>INDIRECT TAXES/LICENSES</CategoryTxt>
+        <Amt>50</Amt>
+        <NetInvestmentIncomeAmt>50</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

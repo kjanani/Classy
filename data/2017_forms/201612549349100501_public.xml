@@ -1,0 +1,1409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-10T12:25:34-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>043682418</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>WHITTON &amp; COMPANY LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>4825 JENNWAY LOOP</AddressLine1Txt>
+        <CityNm>MOSELEY</CityNm>
+        <StateAbbreviationCd>VA</StateAbbreviationCd>
+        <ZIPCd>231201387</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>066099725</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SORENSON-PEARSON FAMILY FNDTN INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SORE</BusinessNameControlTxt>
+      <PhoneNum>8606936441</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>51 WEST ROAD</AddressLine1Txt>
+        <CityNm>CANTON</CityNm>
+        <StateAbbreviationCd>CT</StateAbbreviationCd>
+        <ZIPCd>06019</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>WENDY S PEARSON</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <SignatureDt>2016-09-10</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>SANDRA WHITTON</PreparerPersonNm>
+      <PTIN>P00594065</PTIN>
+      <PhoneNum>8605733172</PhoneNum>
+      <PreparationDt>2016-09-10</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="RetDoc1" referenceDocumentId="RetDoc9">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>4241715</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>29211</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>29211</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>29211</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>123975</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>123975</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>123975</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">320737</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1835228</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>473923</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>153186</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>153186</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">762</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>762</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc8">39078</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>39078</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc10">7161</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>7161</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>47001</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>47001</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>231300</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>231300</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>278301</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>47001</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>231300</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>195622</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>106185</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>153186</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>344550</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>144930</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>144930</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>2555897</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">2980624</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>3614864</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>537437</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc4">491629</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>481921</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>3437884</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>3617183</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>4241715</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>3437884</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>3617183</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>3437884</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3617183</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>3437884</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>3617183</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>3437884</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>195622</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc7">7500</OtherIncreasesAmt>
+        <SubtotalAmt>3641006</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc6">23823</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3617183</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>214000</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>4580809</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.046717</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>218122</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>4013249</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.054350</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>205494</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>4207927</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.048835</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>193000</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>4040293</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.047769</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>174000</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>3712041</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.046874</DistributionYr5Rt>
+        <TotalDistributionRt>0.244545</TotalDistributionRt>
+        <AverageDistributionRt>0.048909</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>4477255</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>218978</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>1062</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>220040</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>231300</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>1062</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1062</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1062</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>3000</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>3000</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>1938</OverpaymentAmt>
+        <AppliedToESTaxAmt>1938</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CT</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>WENDY PEARSON</IndividualWithBooksNm>
+        <PhoneNum>8606936441</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>51 WEST ROAD</AddressLine1Txt>
+          <CityNm>CANTON</CityNm>
+          <StateAbbreviationCd>CT</StateAbbreviationCd>
+          <ZIPCd>06109</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WENDY S PEARSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>51 WEST ROAD</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06019</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RICHARD W SORENSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6540 SE HARBOR CIRCLE</AddressLine1Txt>
+            <CityNm>STUART</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34996</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>NOT APPLICABLE</Description1Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>3734628</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>503113</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>307696</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>4545437</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>4545437</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>68182</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>4477255</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>223863</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>223863</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1062</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1062</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>222801</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>222801</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>222801</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>231300</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>231300</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>1062</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>230238</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>222801</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>9124</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>9124</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>231300</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>222801</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>8499</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>17623</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>17623</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>9124</ExcessFromYear2Amt>
+        <ExcessFromCurrentYearAmt>8499</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>SORENSON-PEARSON FAMILY FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>51 WEST ROAD</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8606936441</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>REQUEST BY LETTER</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>VARIES</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALZHEIMER'S ASSOC CT CHAP</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2075 SILAS DEANE HIGHWAY</AddressLine1Txt>
+            <CityNm>ROCKY HILL</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06067</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN CANCER SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 22718</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN FDTN FOR AIDS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>120 WALL STREET</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN HEART ASSN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5 BROOKSIDE DRIVE</AddressLine1Txt>
+            <CityNm>WALLINGFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06492</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN SCH FOR THE DEAF</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>139 N MAIN ST</AddressLine1Txt>
+            <CityNm>WEST HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06107</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARNOLD ARBORETUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>125 ARBORWAY</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>2100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARTHRITUS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>35 COLD SPRING ROAD</AddressLine1Txt>
+            <CityNm>ROCKY HILL</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06067</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BOYS&amp;GIRLS CLUBS OF HTFD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>170 SIGOURNEY ST</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BUSHNELL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>166 CAPITOL AVE</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAMP COURANT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>285 BROAD ST</AddressLine1Txt>
+            <CityNm>HARTORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06115</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CARLOS OTIS STRATTON MTN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>78 FOUNDERS HILL ROAD</AddressLine1Txt>
+            <CityNm>STRATTON</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05360</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHILDRENS HOME</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>58 MISSIONARY RD</AddressLine1Txt>
+            <CityNm>CROMWELL</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06416</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHILD'S PLAY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>46 POST ROAD EAST</AddressLine1Txt>
+            <CityNm>WESTPORT</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06880</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CITYSINGERS OF HARTFORD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>591 PARK ROAD</AddressLine1Txt>
+            <CityNm>WEST HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06107</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>2100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CPTV</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1049 ASYLUM AVE</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CT CANINE SEARCH &amp; RESCUE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 6</AddressLine1Txt>
+            <CityNm>KENSINGTON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>2100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CT CHILDREN'S MEDICAL CEN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>282 WASHINGTON STREET</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CT COLLEGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>270 MOHEGAN AVE</AddressLine1Txt>
+            <CityNm>NEW LONDON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06320</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EMANUEL LUTHERAN CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>311 CAPITAL AVE</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FARMINGTON RIVER WATERSHE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>749 HOPMEADOW ST</AddressLine1Txt>
+            <CityNm>SIMSBURY</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06070</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FIDELCO GUIDE DOG FDTN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>103 VISIONS WAY</AddressLine1Txt>
+            <CityNm>BLOOMFIELD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>10700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF ELIZABETH PARK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>150 WALBRIDGE RD</AddressLine1Txt>
+            <CityNm>WEST HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06119</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF HEUBLEIN TOWER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 991</AddressLine1Txt>
+            <CityNm>AVON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF HILDENE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1005 HILDENE ROAD</AddressLine1Txt>
+            <CityNm>MANCHESTER</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05254</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GOODSPEED OPERA FDTN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX A</AddressLine1Txt>
+            <CityNm>EAST HADDAM</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06423</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>2100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HARTFORD HABITAT FOR HUMANITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1933</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06144</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HARTFORD HEALTHCARE AT HOME</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1290 SILAS DEANE HWY</AddressLine1Txt>
+            <CityNm>WETHERSFIELD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HARTFORD HOSPITAL ANNUAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>80 SEYMOUR STREET</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>10700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HARTFORD SYMPHONY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 PEARL STREET</AddressLine1Txt>
+            <CityNm>HARTFORED</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>3200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HILL STEAD MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>35 MOUNTAIN ROAD</AddressLine1Txt>
+            <CityNm>FARMINGTON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06032</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOLE-IN-THE-WALL GANG FUN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>555 LONG WHARF DRIVE</AddressLine1Txt>
+            <CityNm>NEW HAVEN</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06511</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INSTITUTE OF LIVING</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 RETREAT AVE</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06114</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INTERVAL HOUSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 340207</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06134</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>3200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JIMMY FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 849168</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02284</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>3200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KNOX PARKS FDTN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>75 LAUREL ST</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LEUKEMIA SOC OF AMER-CT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>321 RESEARCH PARKWAY</AddressLine1Txt>
+            <CityNm>MERIDEN</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06450</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LITERACY VOLUNTEERS OF GR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>30 ARBOR ST</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>2100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MARK TWAIN MEMORIAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>351 FARMINGTON AVE</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>4300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MCLEAN HOME</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>75 GREAT POND ROAD</AddressLine1Txt>
+            <CityNm>SIMSBURY</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06070</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>43000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MYSTIC SEAPORT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>75 GREENMANVILLE AVE</AddressLine1Txt>
+            <CityNm>MYSTIC</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06355</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NAT'L MS SOCIETY-CT CH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>659 TOWER AVE</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATURE CONSERVANCY OF CT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>33 PENT RD</AddressLine1Txt>
+            <CityNm>WESTON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06883</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEW BRITAIN MUSEUM OF AME</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>56 LEXINGTON ST</AddressLine1Txt>
+            <CityNm>NEW BRITAIN</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NOAH WEBSTER FDTN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>227 SOUTH MAIN ST</AddressLine1Txt>
+            <CityNm>WEST HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06107</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>3200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OAK HILL SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>120 HOLCOMB ST</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPEN HEARTH ASSN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>437 SHELDON ST</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>3200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RIVERFRONT RECAPUTRE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 COLUMBUS BLVD</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>2100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ROARING BROOK NATURE CTR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>70 GRACEY RD</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SALVATION ARMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>217 WASHINGTON ST</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STRATTON FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 523</AddressLine1Txt>
+            <CityNm>STRATTON MOUNTAIN</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05155</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNITED WAY OF CENTRAL AND NE CT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>30 LAUREL STREET</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIV OF CT HEALTH CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>263 FARMINGTON AVE</AddressLine1Txt>
+            <CityNm>FARMINGTON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06030</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>2100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WADSWORTH ATHENEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>600 MAIN ST</AddressLine1Txt>
+            <CityNm>HARTFORD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>12900</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WALKS FDTN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 155</AddressLine1Txt>
+            <CityNm>WEST GRANBY</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06090</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WFCR NEW ENGLAND PUBLIC RADIO</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>131 COUNTY CIRCLE</AddressLine1Txt>
+            <CityNm>AMHERST</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL USE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>231300</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>29211</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>123975</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>320737</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>473923</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>473923</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>INDIRECT ACCOUNTING FEES</CategoryTxt>
+        <Amt>762</Amt>
+        <NetInvestmentIncomeAmt>762</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CALL ENTERPRISE PRODUCTS</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>798</GrossSalesPriceAmt>
+        <TotalNetAmt>798</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CALL PLAINS ALL AMER PIP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>449</GrossSalesPriceAmt>
+        <TotalNetAmt>449</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CALLS ABBVIE, ALTRIA, ANHUESER B,ETC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>88798</GrossSalesPriceAmt>
+        <BasisAmt>27556</BasisAmt>
+        <TotalNetAmt>61242</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOMINION RESOURCES INC</AssetDesc>
+        <AcquiredDt>2014-03</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>73618</GrossSalesPriceAmt>
+        <BasisAmt>68873</BasisAmt>
+        <TotalNetAmt>4745</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOMINION RESOURCES INC</AssetDesc>
+        <AcquiredDt>2014-03</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>29447</GrossSalesPriceAmt>
+        <BasisAmt>28493</BasisAmt>
+        <TotalNetAmt>954</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DOMINION RESOURCES INC</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-10</SoldDt>
+        <GrossSalesPriceAmt>145664</GrossSalesPriceAmt>
+        <BasisAmt>159041</BasisAmt>
+        <TotalNetAmt>-13377</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EMERSON ELECTRIC CO</AssetDesc>
+        <AcquiredDt>2014-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>92169</GrossSalesPriceAmt>
+        <BasisAmt>104105</BasisAmt>
+        <TotalNetAmt>-11936</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>INTEL CORP</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-10</SoldDt>
+        <GrossSalesPriceAmt>131710</GrossSalesPriceAmt>
+        <BasisAmt>140303</BasisAmt>
+        <TotalNetAmt>-8593</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>NORDSTROM INC</AssetDesc>
+        <AcquiredDt>2014-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>83653</GrossSalesPriceAmt>
+        <BasisAmt>76545</BasisAmt>
+        <TotalNetAmt>7108</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ROCHE HLDG LTD</AssetDesc>
+        <AcquiredDt>2014-03</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>48774</GrossSalesPriceAmt>
+        <BasisAmt>56506</BasisAmt>
+        <TotalNetAmt>-7732</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ROCHE HLDG LTD</AssetDesc>
+        <AcquiredDt>2014-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-02</SoldDt>
+        <GrossSalesPriceAmt>39019</GrossSalesPriceAmt>
+        <BasisAmt>44016</BasisAmt>
+        <TotalNetAmt>-4997</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ROCKWELL AUTOMATION INC</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-03</SoldDt>
+        <GrossSalesPriceAmt>174222</GrossSalesPriceAmt>
+        <BasisAmt>161725</BasisAmt>
+        <TotalNetAmt>12497</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DUKE ENERGY COPR</AssetDesc>
+        <AcquiredDt>2007-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>266</GrossSalesPriceAmt>
+        <BasisAmt>166</BasisAmt>
+        <TotalNetAmt>100</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EBAY INC</AssetDesc>
+        <AcquiredDt>2014-03</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-10</SoldDt>
+        <GrossSalesPriceAmt>24502</GrossSalesPriceAmt>
+        <BasisAmt>23006</BasisAmt>
+        <TotalNetAmt>1496</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EXXON MOBIL CORP</AssetDesc>
+        <AcquiredDt>1993-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-11</SoldDt>
+        <GrossSalesPriceAmt>117943</GrossSalesPriceAmt>
+        <BasisAmt>8476</BasisAmt>
+        <TotalNetAmt>109467</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>GENL ELECTRIC CO</AssetDesc>
+        <AcquiredDt>2012-06</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-06</SoldDt>
+        <GrossSalesPriceAmt>67849</GrossSalesPriceAmt>
+        <BasisAmt>48764</BasisAmt>
+        <TotalNetAmt>19085</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>GENL ELECTRIC CO</AssetDesc>
+        <AcquiredDt>2014-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-06</SoldDt>
+        <GrossSalesPriceAmt>13570</GrossSalesPriceAmt>
+        <BasisAmt>13593</BasisAmt>
+        <TotalNetAmt>-23</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>GENL ELECTRIC CO</AssetDesc>
+        <AcquiredDt>2014-03</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-06</SoldDt>
+        <GrossSalesPriceAmt>27140</GrossSalesPriceAmt>
+        <BasisAmt>25616</BasisAmt>
+        <TotalNetAmt>1524</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>KINDER MORGAN INC</AssetDesc>
+        <AcquiredDt>2012-10</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>51606</GrossSalesPriceAmt>
+        <BasisAmt>89405</BasisAmt>
+        <TotalNetAmt>-37799</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MICROSOFT</AssetDesc>
+        <AcquiredDt>2013-10</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-11</SoldDt>
+        <GrossSalesPriceAmt>95438</GrossSalesPriceAmt>
+        <BasisAmt>67356</BasisAmt>
+        <TotalNetAmt>28082</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>NISOURCE INC</AssetDesc>
+        <AcquiredDt>2007-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>84946</GrossSalesPriceAmt>
+        <BasisAmt>36238</BasisAmt>
+        <TotalNetAmt>48708</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>NISOURCE INC</AssetDesc>
+        <AcquiredDt>2008-05</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>42473</GrossSalesPriceAmt>
+        <BasisAmt>17888</BasisAmt>
+        <TotalNetAmt>24585</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>NOVARTIS AG SPON</AssetDesc>
+        <AcquiredDt>2012-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>95888</GrossSalesPriceAmt>
+        <BasisAmt>55423</BasisAmt>
+        <TotalNetAmt>40465</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PLAINS ALL AMERICAN PIPELINE</AssetDesc>
+        <AcquiredDt>2013-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-08</SoldDt>
+        <GrossSalesPriceAmt>39188</GrossSalesPriceAmt>
+        <BasisAmt>57953</BasisAmt>
+        <TotalNetAmt>-18765</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PROCTER &amp; GAMBLE</AssetDesc>
+        <AcquiredDt>1996-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>18082</GrossSalesPriceAmt>
+        <BasisAmt>4258</BasisAmt>
+        <TotalNetAmt>13824</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PROCTER &amp; GAMBLE</AssetDesc>
+        <AcquiredDt>1996-09</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>72326</GrossSalesPriceAmt>
+        <BasisAmt>19119</BasisAmt>
+        <TotalNetAmt>53207</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>QUALCOMM INC</AssetDesc>
+        <AcquiredDt>2014-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-10</SoldDt>
+        <GrossSalesPriceAmt>79261</GrossSalesPriceAmt>
+        <BasisAmt>107304</BasisAmt>
+        <TotalNetAmt>-28043</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WILLIAMS COS INC (DEL)</AssetDesc>
+        <AcquiredDt>2013-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-03</SoldDt>
+        <GrossSalesPriceAmt>95598</GrossSalesPriceAmt>
+        <BasisAmt>72763</BasisAmt>
+        <TotalNetAmt>22835</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CALL ENTERPRISE PRODUCTS</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>532</GrossSalesPriceAmt>
+        <TotalNetAmt>532</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CALL PLAINS ALL AMER PIP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>299</GrossSalesPriceAmt>
+        <TotalNetAmt>299</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CORP BONDS</BondNm>
+        <EOYBookValueAmt>491629</EOYBookValueAmt>
+        <EOYFMVAmt>481921</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TOTAL EQUITIES</StockNm>
+        <EOYBookValueAmt>2980624</EOYBookValueAmt>
+        <EOYFMVAmt>3614864</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc6">
+      <OtherDecreasesDetail>
+        <Desc>PY CHECKS CLEARED</Desc>
+        <Amt>21000</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>PRIOR YEAR ADJUSTMENT</Desc>
+        <Amt>2823</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc7">
+      <OtherIncreasesDetail>
+        <Desc>CHECKS WRITTEN, NOT CASHED</Desc>
+        <Amt>7500</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc8">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INDIRECT OTHER PROFESSIONAL FEES</CategoryTxt>
+        <Amt>39078</Amt>
+        <NetInvestmentIncomeAmt>39078</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <ReasonableCauseExplanation documentId="RetDoc9">
+      <ExplanationTxt>THIS 990PF IS BEING FILED LATE AS A RESULT OF EXTENUATING PERSONAL CIRCUMSTANCES WITH THE PAID PROVIDER. BECAUSE THE PAID PROVIDER IS SELF-EMPLOYED, THERE WAS NOT ANOTHER CPA AVAILABLE TO FINALIZE AND SUBMIT THE RETURN ON THE OFFICER'S BEHALF. THE SORENSON-PEARSON FOUNDATION HAS A HISTORY OF FILING THEIR 990-PF ON A TIMELY BASIS. THIS CURRENT YEAR, THE SORENSON-PEARSON FOUNDATION WAS OVERPAID. THEREFORE, THE GOVERNMENT WAS NOT DUE TAXES WITH THE LATE-FILED RETURN.</ExplanationTxt>
+    </ReasonableCauseExplanation>
+    <TaxesSchedule documentId="RetDoc10">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL INCOME TAXES</CategoryTxt>
+        <Amt>3927</Amt>
+        <NetInvestmentIncomeAmt>3927</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>WITHOLDING AND TAXES PAID</CategoryTxt>
+        <Amt>3234</Amt>
+        <NetInvestmentIncomeAmt>3234</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

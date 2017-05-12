@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-01T13:42:49-07:00</ReturnTs>
+    <TaxPeriodEndDt>2016-05-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>John F Dickey &amp; Co CPAs</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1251 Nilles Rd Unit 19</AddressLine1Txt>
+        <CityNm>Fairfield</CityNm>
+        <StateAbbreviationCd>OH</StateAbbreviationCd>
+        <ZIPCd>45014</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-06-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>311680764</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>EE Connelly Family Foundation Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>EECO</BusinessNameControlTxt>
+      <PhoneNum>5132905646</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>6165 Stirrup Road</AddressLine1Txt>
+        <CityNm>Cincinnati</CityNm>
+        <StateAbbreviationCd>OH</StateAbbreviationCd>
+        <ZIPCd>45244</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>John Connelly</PersonNm>
+      <PersonTitleTxt>Trustee/Pres</PersonTitleTxt>
+      <SignatureDt>2016-09-01</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Mark R Dickey CPA</PreparerPersonNm>
+      <PTIN>P00183368</PTIN>
+      <PhoneNum>5138294500</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>545439</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>1</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>1</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>17147</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>17147</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-7023</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>20344</GrossSalesPriceAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">-42</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>-42</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>10083</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>17106</TotalNetInvstIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">25</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>25</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">1625</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>1625</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">5479</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>5479</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">904</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>200</TaxesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>8033</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>5479</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>1850</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>17500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>17500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>25533</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>5479</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>19350</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-15450</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>11627</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>7670</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>17541</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>17541</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>483731</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>445225</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>445225</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>92546</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt>82673</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>82673</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>583947</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>545439</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>545439</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>254000</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>230942</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>329947</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>314497</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>583947</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>545439</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>583947</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>545439</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>583947</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-15450</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>568497</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">23058</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>545439</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-05-31</AcquiredDt>
+          <SoldDt>2015-11-17</SoldDt>
+          <GrossSalesPriceAmt>13001</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>27367</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-14366</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-14366</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gain Dividends</PropertyDesc>
+          <GainOrLossAmt>7343</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-7023</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>22775</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>587565</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.03876</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>16750</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>556771</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.03008</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>41091</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>526731</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.07801</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>14010</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>523720</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.02675</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>20625</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>520977</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.03959</DistributionYr5Rt>
+        <TotalDistributionRt>0.213197</TotalDistributionRt>
+        <AverageDistributionRt>0.042639</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>535948</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>22852</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>116</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>22968</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>19350</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>233</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>233</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>233</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>233</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OH</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>John Connelly</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5132905646</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>6165 Stirrup Road</AddressLine1Txt>
+          <CityNm>Cincinnati</CityNm>
+          <StateAbbreviationCd>OH</StateAbbreviationCd>
+          <ZIPCd>45244</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>John Connelly</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6165 Stirrup Road</AddressLine1Txt>
+            <CityNm>Cincinnati</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45244</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee/Pres</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Laura Connelly</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>551 Missouri</AddressLine1Txt>
+            <CityNm>Cincinnati</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45226</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee/Treas</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Catherine Connelly Sharif</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2294 Royal Lane</AddressLine1Txt>
+            <CityNm>Naples</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34112</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>527937</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>16173</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>544110</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>544110</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>8162</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>535948</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>26797</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>26797</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>233</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>233</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>26564</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>26564</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>26564</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>19350</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>19350</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>19350</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>26564</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>801</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>19350</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>801</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>18549</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>8015</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>John Connelly</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6165 Stirrup Road</AddressLine1Txt>
+            <CityNm>Cincinnati</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45244</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5132905646</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>One Page Letter</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>None</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>None</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Boys Hope Girls Hope</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1725 Riverside Dr</AddressLine1Txt>
+            <CityNm>Cincinnati</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Operating Support</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>St Ursula Villa</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3660 Vineyard Place</AddressLine1Txt>
+            <CityNm>Cincinnati</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45226</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Annual Fund &amp; Foundation</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Catholic Community Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 E 8th St 2nd Floor</AddressLine1Txt>
+            <CityNm>Cincinnati</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>One Faith One Hope One Love Campaign</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Ursaline Academy</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5535 Pfeiffer Rd</AddressLine1Txt>
+            <CityNm>Cincinnati</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45242</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Annual Fund &amp; Endowment Campaign</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Childrens Theatre of Cincinnati</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4015 Red Bank Rd</AddressLine1Txt>
+            <CityNm>Cincinnati</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45227</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Capital Campaign</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>17500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>17147</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>42</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-7023</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>10083</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>10083</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <AccountingFeesDetail>
+        <Amt>1625</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1625</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <LegalFeesGrp>
+        <LegalFeesAmt>25</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>25</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherDecreasesDetail>
+        <Desc>Net Unrealized Loss on Investments</Desc>
+        <Amt>23058</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherIncomeDetail>
+        <Desc>Other Investment Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>-42</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-42</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Investment Fees</CategoryTxt>
+        <Amt>5479</Amt>
+        <NetInvestmentIncomeAmt>5479</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="15000324" softwareVersionNum="2015v2.0">
+      <TaxesDetail>
+        <CategoryTxt>Federal Taxes</CategoryTxt>
+        <Amt>704</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Ohio Filing Fees</CategoryTxt>
+        <Amt>200</Amt>
+        <DisbursementsCharitablePrpsAmt>200</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

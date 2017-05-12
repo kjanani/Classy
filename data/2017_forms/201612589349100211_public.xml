@@ -1,0 +1,842 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-14T14:29:27-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>410978542</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>HOFFMAN &amp; BROBST PLLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>125 8TH AVE</AddressLine1Txt>
+        <CityNm>GRANITE FALLS</CityNm>
+        <StateAbbreviationCd>MN</StateAbbreviationCd>
+        <ZIPCd>56241</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>270572772</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>JEANNETTE AND CURT OLSON FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JEAN</BusinessNameControlTxt>
+      <PhoneNum>3205643825</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>685 PRENTICE STREET PO BOX 70</AddressLine1Txt>
+        <CityNm>GRANITE FALLS</CityNm>
+        <StateAbbreviationCd>MN</StateAbbreviationCd>
+        <ZIPCd>56241</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>BARRY EVENSTAD</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <PhoneNum>3205643825</PhoneNum>
+      <SignatureDt>2016-08-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>BARRY EVENSTAD CPA</PreparerPersonNm>
+      <PTIN>P00121807</PTIN>
+      <PhoneNum>3205644070</PhoneNum>
+      <PreparationDt>2016-08-22</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2029773</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>1836516</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>4322</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>4322</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">-9031</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>108229</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>6561</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>1831807</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>10883</TotalNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc8">25</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>25</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>25</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>25</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>10124</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>10124</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>10149</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>25</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>10124</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>1821658</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>10858</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>9640</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>119682</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>119682</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc6">218660</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>218365</USGovtObligationsEOYFMVAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">785630</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>793547</CorporateStockEOYFMVAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc4">76025</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>76564</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>198493</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc7">829794</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>821615</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>208133</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2029791</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2029773</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>208133</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>2029791</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>208133</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2029791</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>208133</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2029791</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>208133</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>1821658</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2029791</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2029791</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>6561</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>10467</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>203870</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.051342</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>9857</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>195737</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.050358</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>7306</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>143932</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.050760</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>6335</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>124806</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.050759</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>5000</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>82833</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.060362</DistributionYr5Rt>
+        <TotalDistributionRt>0.263581</TotalDistributionRt>
+        <AverageDistributionRt>0.052716</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>226217</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>11925</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>109</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>12034</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>10124</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>217</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>217</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>217</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>217</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MN</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>BARRY EVENSTAD CPA</IndividualWithBooksNm>
+        <PhoneNum>3205644070</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>125 8TH AVENUE</AddressLine1Txt>
+          <CityNm>GRANITE FALLS</CityNm>
+          <StateAbbreviationCd>MN</StateAbbreviationCd>
+          <ZIPCd>56241</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SPENCER H KVAM</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>685 PRENTICE STREET</AddressLine1Txt>
+            <CityNm>GRANITE FALLS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>56241</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN VIRNIG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>702 PRENTICE STREET</AddressLine1Txt>
+            <CityNm>GRANITE FALLS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>56241</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE-PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BARRY EVENSTAD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>125 8TH AVENUE</AddressLine1Txt>
+            <CityNm>GRANITE FALLS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>56241</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRUCE VANDERSALL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>45 SO 7TH STREET STE 2500</AddressLine1Txt>
+            <CityNm>MINNEAPOLIS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55402</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>210954</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>18708</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>229662</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>229662</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>3445</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>226217</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>11311</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>11311</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>217</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>217</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>11094</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>11094</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>11094</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>10124</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>10124</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>10124</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>11094</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>895</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>216</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>267</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>241</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>543</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>2162</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>10124</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>10124</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>970</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>970</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>1192</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>1192</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>141</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>267</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>241</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>543</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GRANITE FALLS LIBRARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>155 7TH AVENUE</AddressLine1Txt>
+            <CityNm>GRANITE FALLS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>56241</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>CITY GOVERNM</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PURCHASE OF BOOKS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GRANITE FALLS LIVING AT</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>HOME BLOCK NURSE PROGRAM</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>16020 PETES POINT RD</AddressLine1Txt>
+            <CityNm>GRANITE FALLS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>56241</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501-C-3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HEALTH SERVICES TO ELDERLY RESIDENTS</GrantOrContributionPurposeTxt>
+          <Amt>800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YELLOW MEDICINE EAST</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>DOLLARS FOR SCHOLARS</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>450 9TH AVENUE</AddressLine1Txt>
+            <CityNm>GRANITE FALLS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>56241</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501-C-3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS TO HIGH SCHOOL SENIORS</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE SALVATION ARMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2445 PRIOR AVENUE</AddressLine1Txt>
+            <CityNm>ROSEVILLE</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55113</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501-C-3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ASSIST THE NEEDY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YELLOW MEDICINE COUNTY</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>HISTORICAL SOCIETY</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 145</AddressLine1Txt>
+            <CityNm>GRANITE FALLS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>56241</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501-C-3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATIONAL EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>324</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GRANITE FALLS MUNICIPAL HOSPITAL</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>HOSPITAL</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>345 10YH AVENUE</AddressLine1Txt>
+            <CityNm>GRANITE FALLS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>56241</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOVERNMENT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATIONAL EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GRANITE FALLS CONGREGATIONAL</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>CHURCH</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>210 9TH AVENUE</AddressLine1Txt>
+            <CityNm>GRANITE FALLS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>56241</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>CHURCH</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATIONAL EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GRANITE FALLS LUTHERAN CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>350 9TH AVENUE</AddressLine1Txt>
+            <CityNm>GRANITE FALLS</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>56241</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>CHURCH</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATIONAL EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>10124</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>4322</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>-9031</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>-4709</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>-4709</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>JEANNETTE OLSON CHARITABLE REMAINDER</BusinessNameLine1Txt>
+          <BusinessNameLine2Txt>TRUST</BusinessNameLine2Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>685 PRENTICE STREET PO BOX 70</AddressLine1Txt>
+          <CityNm>GRANITE FALLS</CityNm>
+          <StateAbbreviationCd>MN</StateAbbreviationCd>
+          <ZIPCd>56241</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>1836516</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>STOCKS, BONDS, MUTUAL FUNDS</NoncashPropertyDesc>
+        <FairMarketValueAmt>1836516</FairMarketValueAmt>
+        <ReceivedDt>2015-12-23</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>3.099 WELLS FARGO ST HI YIELD</AssetDesc>
+        <AcquiredDt>2015-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>25</GrossSalesPriceAmt>
+        <BasisAmt>25</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>1118.769 GABELLI UTILITIES</AssetDesc>
+        <AcquiredDt>2012-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>5849</GrossSalesPriceAmt>
+        <BasisAmt>4781</BasisAmt>
+        <TotalNetAmt>1068</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>417.312 PIMCO REAL RETURN</AssetDesc>
+        <AcquiredDt>2012-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>4384</GrossSalesPriceAmt>
+        <BasisAmt>5191</BasisAmt>
+        <TotalNetAmt>-807</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>98.892 VAN ECK GLOBAL HARD ASSET</AssetDesc>
+        <AcquiredDt>2012-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>2635</GrossSalesPriceAmt>
+        <BasisAmt>5007</BasisAmt>
+        <TotalNetAmt>-2372</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>464.491 WELLS FARGO SHORT TERM</AssetDesc>
+        <AcquiredDt>2015-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>3700</GrossSalesPriceAmt>
+        <BasisAmt>3721</BasisAmt>
+        <TotalNetAmt>-21</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>3117.667 GABELLI UTILITIES</AssetDesc>
+        <AcquiredDt>2011-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-01</SoldDt>
+        <GrossSalesPriceAmt>16300</GrossSalesPriceAmt>
+        <BasisAmt>17757</BasisAmt>
+        <TotalNetAmt>-1457</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>1118.112 PIMCO REAL RETURN FUND</AssetDesc>
+        <AcquiredDt>2011-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>11746</GrossSalesPriceAmt>
+        <BasisAmt>10939</BasisAmt>
+        <TotalNetAmt>807</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>1163.365 RYDEX INVERSE BOND</AssetDesc>
+        <AcquiredDt>2011-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>42177</GrossSalesPriceAmt>
+        <BasisAmt>47182</BasisAmt>
+        <TotalNetAmt>-5005</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>311.535 VAN ECK GLOBAL HARD ASSET</AssetDesc>
+        <AcquiredDt>2011-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>8300</GrossSalesPriceAmt>
+        <BasisAmt>16133</BasisAmt>
+        <TotalNetAmt>-7833</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>822.624 WELLS FARGO ST TERM BOND</AssetDesc>
+        <AcquiredDt>2011-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-12</SoldDt>
+        <GrossSalesPriceAmt>6552</GrossSalesPriceAmt>
+        <BasisAmt>6524</BasisAmt>
+        <TotalNetAmt>28</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CONAGRA FOODS</BondNm>
+        <EOYBookValueAmt>53650</EOYBookValueAmt>
+        <EOYFMVAmt>53876</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SEARS HOLDING CO</BondNm>
+        <EOYBookValueAmt>22375</EOYBookValueAmt>
+        <EOYFMVAmt>22688</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MEDTRONIC</StockNm>
+        <EOYBookValueAmt>71771</EOYBookValueAmt>
+        <EOYFMVAmt>71400</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CEMEX</StockNm>
+        <EOYBookValueAmt>6940</EOYBookValueAmt>
+        <EOYFMVAmt>7308</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CENTURY LINK</StockNm>
+        <EOYBookValueAmt>20144</EOYBookValueAmt>
+        <EOYFMVAmt>20128</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DUKE ENERGY CORP</StockNm>
+        <EOYBookValueAmt>48317</EOYBookValueAmt>
+        <EOYFMVAmt>48617</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EDISON INTL</StockNm>
+        <EOYBookValueAmt>33313</EOYBookValueAmt>
+        <EOYFMVAmt>33134</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GENERAL ELECTRIC</StockNm>
+        <EOYBookValueAmt>66900</EOYBookValueAmt>
+        <EOYFMVAmt>68348</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GENERAL MOTORS</StockNm>
+        <EOYBookValueAmt>17145</EOYBookValueAmt>
+        <EOYFMVAmt>17005</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GLAXOSMITHKLINE</StockNm>
+        <EOYBookValueAmt>49458</EOYBookValueAmt>
+        <EOYFMVAmt>50016</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KRAFT HEINZ</StockNm>
+        <EOYBookValueAmt>27713</EOYBookValueAmt>
+        <EOYFMVAmt>27649</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MONDELEZ INTL</StockNm>
+        <EOYBookValueAmt>54136</EOYBookValueAmt>
+        <EOYFMVAmt>54294</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NASB FINANCIAL</StockNm>
+        <EOYBookValueAmt>60000</EOYBookValueAmt>
+        <EOYFMVAmt>64000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PFIZER</StockNm>
+        <EOYBookValueAmt>56040</EOYBookValueAmt>
+        <EOYFMVAmt>55626</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SOUTHERN CO</StockNm>
+        <EOYBookValueAmt>36368</EOYBookValueAmt>
+        <EOYFMVAmt>36635</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>3M CO</StockNm>
+        <EOYBookValueAmt>74485</EOYBookValueAmt>
+        <EOYFMVAmt>75320</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>US BANCORP</StockNm>
+        <EOYBookValueAmt>48827</EOYBookValueAmt>
+        <EOYFMVAmt>48793</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>XCEL ENERGY</StockNm>
+        <EOYBookValueAmt>74059</EOYBookValueAmt>
+        <EOYFMVAmt>75274</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PREFERRED APT CMMTYS INC</StockNm>
+        <EOYBookValueAmt>30007</EOYBookValueAmt>
+        <EOYFMVAmt>30000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PREFERRED APPT CMMTYS PREF</StockNm>
+        <EOYBookValueAmt>10007</EOYBookValueAmt>
+        <EOYFMVAmt>10000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc6">
+      <StateLocalSecBookVlEOYAmt>218660</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>218365</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc7">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AMERICAN CENTRY EQUITY</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>48698</BookValueAmt>
+        <EOYFMVAmt>48514</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CENTRE AMERICAN SELECT EQUITY</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>27401</BookValueAmt>
+        <EOYFMVAmt>24162</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DEUTSCHE SMALL CAP VALUE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>53324</BookValueAmt>
+        <EOYFMVAmt>53521</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DRYFUS SMALL CAP EQUITY FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>79744</BookValueAmt>
+        <EOYFMVAmt>74424</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>EATON VANCE INCOME FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>77892</BookValueAmt>
+        <EOYFMVAmt>76759</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FIRST EAGLE OVERSEAS FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>44377</BookValueAmt>
+        <EOYFMVAmt>44722</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FIRST EAGLE GLOBAL FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>76417</BookValueAmt>
+        <EOYFMVAmt>77799</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FIRST EAGLE US VALUE FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>70683</BookValueAmt>
+        <EOYFMVAmt>71923</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FRANKLIN INCOME FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>85430</BookValueAmt>
+        <EOYFMVAmt>85057</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GABELLI MULTI MEDIA TRUST</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>52462</BookValueAmt>
+        <EOYFMVAmt>52393</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GABELLI EQUITY TRUST</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>39785</BookValueAmt>
+        <EOYFMVAmt>39935</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GAMCO NAT'L RES GOLD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>22760</BookValueAmt>
+        <EOYFMVAmt>22920</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>JOHN HANCOCK FOCUSED HI YIELD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>36047</BookValueAmt>
+        <EOYFMVAmt>36273</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>NUVEEN PREFERRED SECURITIES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>10196</BookValueAmt>
+        <EOYFMVAmt>10093</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>HENDERSON GLOBAL EQUITY</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>10007</BookValueAmt>
+        <EOYFMVAmt>8368</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>NUVEEN PREFERRED AND INCOME TERM</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>22860</BookValueAmt>
+        <EOYFMVAmt>22760</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FT UNIT 3773 NORTHLAND SECURITIES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>20894</BookValueAmt>
+        <EOYFMVAmt>20908</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GUGGENHEIM DEFINED 1036</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>4781</BookValueAmt>
+        <EOYFMVAmt>4766</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GUGGENHEIM DEFINED 1035</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>9349</BookValueAmt>
+        <EOYFMVAmt>9294</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GUGGENHEIM DEFINED 1037</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>12241</BookValueAmt>
+        <EOYFMVAmt>12178</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GUGGENHEIM DEFINED 1134</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>11419</BookValueAmt>
+        <EOYFMVAmt>11486</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GUGGENHEIM DEFINED 1034</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>13027</BookValueAmt>
+        <EOYFMVAmt>13360</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PIMCO REAL RETURN FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>RYDEX INVERSE GOV'T LONG TERM BOND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VAN ECK GLOBAL HARD ASSETS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>THE GABELLI UTILITIES FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>NUVEEN PREFERRED SECURITIES FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ISI STRATAGY FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>25</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>25</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

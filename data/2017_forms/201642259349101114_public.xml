@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-12T15:59:15-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>870440785</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CHRISTENSEN PALMER &amp; AMBROSE PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>298 24TH ST STE 300</AddressLine1Txt>
+        <CityNm>OGDEN</CityNm>
+        <StateAbbreviationCd>UT</StateAbbreviationCd>
+        <ZIPCd>84401</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>942819009</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>DIALYSIS RESEARCH FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>DIAL</BusinessNameControlTxt>
+      <PhoneNum>8014790351</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>5575 SOUTH 500 EAST</AddressLine1Txt>
+        <CityNm>OGDEN</CityNm>
+        <StateAbbreviationCd>UT</StateAbbreviationCd>
+        <ZIPCd>844056907</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MARDEE HAGEN</PersonNm>
+      <PersonTitleTxt>SECRETARY</PersonTitleTxt>
+      <PhoneNum>8014760351</PhoneNum>
+      <SignatureDt>2016-08-11</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>CHUCK PALMER CPA</PreparerPersonNm>
+      <PTIN>P00016352</PTIN>
+      <PhoneNum>8016272060</PhoneNum>
+      <PreparationDt>2016-08-12</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="RetDoc2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>550</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>41928</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>41928</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>41928</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>37336</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>37336</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>37336</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>142015</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1487727</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>142015</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc10">1235851</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>1235851</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>1457680</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>221279</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>1315115</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>61197</CompOfcrDirTrstRevAndExpnssAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>16206</OthEmplSlrsWgsRevAndExpnssAmt>
+        <PensionEmplBnftRevAndExpnssAmt>6259</PensionEmplBnftRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc3">7870</AccountingFeesRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc11">26425</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>26425</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc12">1176</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1108</TaxesNetInvstIncmAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc4">397</DeprecAndDpltnRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>25000</OccupancyRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc8">120892</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>265422</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>27533</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>536200</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>536200</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>801622</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>27533</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>536200</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>656058</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>193746</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1315115</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>575102</CashBOYAmt>
+        <CashEOYAmt>409963</CashEOYAmt>
+        <PrepaidExpensesBOYAmt>3400</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>1144</PrepaidExpensesEOYAmt>
+        <CorporateStockBOYAmt>3893511</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">3836186</CorporateStockEOYAmt>
+        <OtherInvestmentsBOYAmt>2774619</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc6">3405319</OtherInvestmentsEOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>12520</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>11270</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>1647</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc7">1250</LandEOYAmt>
+        <TotalAssetsBOYAmt>7248279</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>7653862</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>5108</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>5840</AccountsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>5108</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>5840</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>7243171</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>7648022</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>7243171</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>7648022</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>7248279</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>7653862</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>7243171</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>656058</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc9">-251207</OtherIncreasesAmt>
+        <SubtotalAmt>7648022</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>7648022</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIRST CLEARING LLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>412227</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>433162</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-20935</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-20935</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIRST CLEARING LLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>716788</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>589243</CostOrOtherBasisAmt>
+          <GainOrLossAmt>127545</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>127545</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIRST CLEARING LLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>104719</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>115054</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-10335</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-10335</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIRST CLEARING LLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>208372</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>181975</CostOrOtherBasisAmt>
+          <GainOrLossAmt>26397</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>26397</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIRST CLEARING LLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>339</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>338</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIRST CLEARING LLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-01</AcquiredDt>
+          <SoldDt>2015-12-31</SoldDt>
+          <GrossSalesPriceAmt>45104</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25940</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19164</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19164</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>142015</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-31269</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>688346</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>7173208</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.095961</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>323912</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>3885419</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.083366</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>758946</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>4084351</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.185818</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>556047</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>3920906</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.141816</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>461669</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>6090983</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.075795</DistributionYr5Rt>
+        <TotalDistributionRt>0.582756</TotalDistributionRt>
+        <AverageDistributionRt>0.116551</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>7335639</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>854976</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>1937</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>856913</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>536200</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>3875</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>3875</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3875</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1144</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1144</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>2731</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>MARDEE HAGEN</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8014790351</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>5575 SOUTH 500 EAST</AddressLine1Txt>
+          <CityNm>OGDEN</CityNm>
+          <StateAbbreviationCd>UT</StateAbbreviationCd>
+          <ZIPCd>84405</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALLEN BERRETT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5575 SOUTH 500 EAST</AddressLine1Txt>
+            <CityNm>OGDEN</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>844056907</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>450</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TODD SCHENCK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5575 SOUTH 500 EAST</AddressLine1Txt>
+            <CityNm>OGDEN</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>844056907</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4747</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARDEE HAGEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5575 SOUTH 500 EAST</AddressLine1Txt>
+            <CityNm>OGDEN</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>844056907</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>24.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>41670</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NEAL BERUBE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5575 SOUTH 500 EAST</AddressLine1Txt>
+            <CityNm>OGDEN</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>844056907</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>450</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAM CORBRIDGE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5575 SOUTH 500 EAST</AddressLine1Txt>
+            <CityNm>OGDEN</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>844056907</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>12980</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JERALD ISRAELSEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5575 SOUTH 500 EAST</AddressLine1Txt>
+            <CityNm>OGDEN</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84405</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>450</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>HARRY SENEKJIAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5575 SOUTH 500 EAST</AddressLine1Txt>
+            <CityNm>OGDEN</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>844056907</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>450</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>UNIVERSITY OF UTAH</Description1Txt>
+        <Description2Txt>NATIONAL KIDNEY FOUNDATION</Description2Txt>
+        <Description3Txt>WEBER HUMAN SERVICES</Description3Txt>
+        <Description4Txt>INTERMOUNTAIN DONOR SERVICES</Description4Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>3864848</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>492532</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>3089969</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>7447349</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>7447349</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>111710</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>7335639</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>366782</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>366782</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3875</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>3875</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>362907</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>362907</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>362907</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>536200</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>536200</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>536200</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>362907</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr3Amt>558616</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>132970</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>330829</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>1022415</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>536200</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>362907</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>173293</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>1195708</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>1195708</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>558616</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>132970</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>330829</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>173293</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF UTAH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>85 N MEDICAL DR</AddressLine1Txt>
+            <CityNm>SALT LAKE CITY</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>STATE UNIVER</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ENDOWMENT RESEARCH SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATIONAL KIDNEY FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3707 NORTH CANYON RD</AddressLine1Txt>
+            <CityNm>PROVO</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PATIENT ASSISTANCE</GrantOrContributionPurposeTxt>
+          <Amt>26200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WEBER HUMAN SERVICES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>237 26TH STREET</AddressLine1Txt>
+            <CityNm>OGDEN</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>UTAH SPECIAL</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PATIENT TRANSPORTATION IN WEBER COUN</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>536200</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <Desc>SUPPORT FROM DIALYSIS CENTERS</Desc>
+          <ExclusionCd>1</ExclusionCd>
+          <ExclusionAmt>1235700</ExclusionAmt>
+        </ProgramServiceRevPartVIIGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>41928</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>37336</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>141837</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>178</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>MISCELLANEOUS</Desc>
+          <ExclusionCd>1</ExclusionCd>
+          <ExclusionAmt>151</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>1377688</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>79442</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1457130</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>true</RelationshipsNonchrtblEOInd>
+        <RelationshipScheduleDetail>
+          <OrganizationBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF UTAH</BusinessNameLine1Txt>
+          </OrganizationBusinessName>
+          <OrganizationTypeDesc>UNIVERSITY</OrganizationTypeDesc>
+          <RelationshipDescriptionTxt>ENDOWMENT RESEARCH SUPPORT</RelationshipDescriptionTxt>
+        </RelationshipScheduleDetail>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>7870</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc4">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING DEPRECIATION</PropertyDesc>
+        <PriorYearDepreciationAmt>794</PriorYearDepreciationAmt>
+        <CurrentYearExpenseAmt>397</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BROKAGE ACCOUNTS</StockNm>
+        <EOYBookValueAmt>3836186</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc6">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AFFILIATION AGREEMENT EQUITY</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>3405319</BookValueAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc7">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>BUILDINGS</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>12520</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>11270</AccumulatedDepreciationAmt>
+        <BookValueAmt>1250</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADMINISTRATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>64223</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>56392</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TRAVEL</Desc>
+        <RevenueAndExpensesPerBooksAmt>277</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc10">
+      <OtherIncomeDetail>
+        <Desc>SUPPORT FROM DIALYSIS CENTERS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1235700</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>1235700</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>151</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>151</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc9">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED LOSS</Desc>
+        <Amt>-251207</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc11">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>26425</Amt>
+        <NetInvestmentIncomeAmt>26425</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc12">
+      <TaxesDetail>
+        <CategoryTxt>TAXES</CategoryTxt>
+        <Amt>1176</Amt>
+        <NetInvestmentIncomeAmt>1108</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

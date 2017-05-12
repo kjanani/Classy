@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-14T16:05:22-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>721169261</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KENNETH D FOLDEN AND COMPANY CPAS</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>302 8TH STREET</AddressLine1Txt>
+        <CityNm>JONESBORO</CityNm>
+        <StateAbbreviationCd>LA</StateAbbreviationCd>
+        <ZIPCd>71251</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>581973221</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE ALBERTI EDUCATIONAL TRUST</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ALBE</BusinessNameControlTxt>
+      <PhoneNum>3182594406</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 640</AddressLine1Txt>
+        <CityNm>JONESBORO</CityNm>
+        <StateAbbreviationCd>LA</StateAbbreviationCd>
+        <ZIPCd>712510640</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JO ANN TEAT</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>3182594406</PhoneNum>
+      <SignatureDt>2016-09-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>KENNETH D FOLDEN CPA</PreparerPersonNm>
+      <PTIN>P00736205</PTIN>
+      <PhoneNum>3182597316</PhoneNum>
+      <PreparationDt>2016-09-14</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>216</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>216</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>216</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>1296</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>1296</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>1296</DividendsAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>1512</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1512</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>1512</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">780</AccountingFeesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc5">8330</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesAdjNetIncmAmt>8328</OtherExpensesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>9110</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>8328</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>9250</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>9250</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>18360</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>8328</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>9250</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-16848</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>1512</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>422480</CashBOYAmt>
+        <CashEOYAmt>400333</CashEOYAmt>
+        <SavAndTempCashInvstBOYAmt>54204</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>54420</SavAndTempCashInvstEOYAmt>
+        <CorporateStockBOYAmt>491256</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">484222</CorporateStockEOYAmt>
+        <TotalAssetsBOYAmt>967940</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>938975</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>967940</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>938975</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>967940</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>938975</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>967940</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>938975</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>967940</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-16848</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>951092</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc4">12117</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>938975</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>5431</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>953421</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.005696</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>8226</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>892249</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.009219</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>8776</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>661644</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.013264</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>4250</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>863186</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.004924</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>9428</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>777494</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.012126</DistributionYr5Rt>
+        <TotalDistributionRt>0.045229</TotalDistributionRt>
+        <AverageDistributionRt>0.009046</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>932957</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>8440</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>15</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>8455</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>9250</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>15</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>15</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>15</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>15</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>KENNETH D FOLDEN &amp; CO CPAS</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3182597316</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>302 EIGHTH STREET</AddressLine1Txt>
+          <CityNm>JONESBORO</CityNm>
+          <StateAbbreviationCd>LA</StateAbbreviationCd>
+          <ZIPCd>71251</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>true</UndistributedIncomePYInd>
+        <UndistributedIncomePY1Yr>2014</UndistributedIncomePY1Yr>
+        <UndistributedIncomePY2Yr>2013</UndistributedIncomePY2Yr>
+        <UndistributedIncomePY3Yr>2012</UndistributedIncomePY3Yr>
+        <UndistributedIncomePY4Yr>2011</UndistributedIncomePY4Yr>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JO ANN TEAT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 640</AddressLine1Txt>
+            <CityNm>JONESBORO</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>712510640</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>947164</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>947164</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>947164</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>14207</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>932957</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>46648</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>46648</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>15</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>15</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>46633</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>46633</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>46633</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>9250</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>9250</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>15</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>9235</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>46633</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>47534</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>9250</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>9250</AppliedToYear1Amt>
+        <Taxable2Amt>38284</Taxable2Amt>
+        <UndistributedIncomeCYAmt>46633</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>MRS JOANN TEAT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 640</AddressLine1Txt>
+            <CityNm>JONESBORO</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>712510640</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3182594406</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>APPLICATIONS CAN BE OBTAINED FROM THE ALBERTI EDUCATIONAL TRUST</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>APRIL 1</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>SCHOLARSHIPS ARE RESTRICTED TO GRADUATES OF JACKSON PARISH HIGH SCHOOLS WHO WILL ATTEND A COLLEGE OR UNIVERSITY IN LOUISIANA.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATALEE PAIGE GRAY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>662 GLADWAY ROAD</AddressLine1Txt>
+            <CityNm>QUITMAN</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>71268</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMBER C PARDUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>619 HIGHWAY 505</AddressLine1Txt>
+            <CityNm>JONESBORO</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>71251</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LEAH MICHELLE CHAPMAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>588 BEAR KNOLL DRIVE</AddressLine1Txt>
+            <CityNm>QUITMAN</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>71268</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ASHLYN HARVEY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>900 COUNTRY ROAD</AddressLine1Txt>
+            <CityNm>JONESBORO</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>71251</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CARTER LYNN BUSBY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>179 FLETCHER ROAD</AddressLine1Txt>
+            <CityNm>JONESBORO</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>71251</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MONICA NICOLE HODNETT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 448</AddressLine1Txt>
+            <CityNm>HODGE</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>71247</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TOREY CHRISTAN WOMACK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>160 PARDUE ROAD</AddressLine1Txt>
+            <CityNm>JONESBORO</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>71251</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHELSEA DIANE GARRETT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>670 HIGHWAY 505</AddressLine1Txt>
+            <CityNm>JONESBORO</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>71251</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALEXIS SHARNAE JOHNSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 606</AddressLine1Txt>
+            <CityNm>HODGE</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>71247</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DYANA M DONALDSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>269 HOGAN SUBDIVISION ROA</AddressLine1Txt>
+            <CityNm>JONESBORO</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>71251</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>9250</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>216</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>1296</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>1512</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1512</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>780</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORP STOCK-JACKSON BANCORP</StockNm>
+        <EOYBookValueAmt>313750</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORP STOCK-ENTERGY</StockNm>
+        <EOYBookValueAmt>7174</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORP STOCK-MORGAN KEEGAN</StockNm>
+        <EOYBookValueAmt>145528</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORP STOCK-EXCELON</StockNm>
+        <EOYBookValueAmt>17770</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc4">
+      <OtherDecreasesDetail>
+        <Desc>PRIOR PERIOD TAXES AND PENALTIES</Desc>
+        <Amt>12117</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADMINISTRATIVE FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>UNREALIZED GAIN (LOSS) ON STO</Desc>
+        <RevenueAndExpensesPerBooksAmt>8328</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>8328</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

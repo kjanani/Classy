@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-15T09:25:39-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>272451296</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>LOPRESTI &amp; COMPANY LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>4160 WASHINGTON ROAD SUITE 2</AddressLine1Txt>
+        <CityNm>MCMURRAY</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>15317</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>251895885</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>DONALD D MATEER FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>DONA</BusinessNameControlTxt>
+      <PhoneNum>4125725358</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>C/O STEPHENSON 110 CRESCENT DRIVE</AddressLine1Txt>
+        <CityNm>PITTSBURGH</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>15228</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>CHARLOTTE M STEPHENSON</PersonNm>
+      <PersonTitleTxt>TRUSTEE/SECRETARY</PersonTitleTxt>
+      <PhoneNum>4125725358</PhoneNum>
+      <SignatureDt>2016-08-04</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>BARBARA J LOPRESTI</PreparerPersonNm>
+      <PTIN>P00368884</PTIN>
+      <PhoneNum>7249690110</PhoneNum>
+      <PreparationDt>2016-08-04</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1132578</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>10</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>10</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>10</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>22864</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>22864</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>22864</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>102489</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>433347</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>102595</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>125363</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>125469</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>22874</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>15000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>3000</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>12000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc3">2500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>500</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2000</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc7">15525</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>15525</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc8">2791</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>340</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>35816</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>19365</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>14000</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>144500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>144500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>180316</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>19365</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>158500</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-54953</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>106104</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>22874</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashEOYAmt>-2</CashEOYAmt>
+        <SavAndTempCashInvstBOYAmt>34382</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>14677</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>14677</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>699953</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">719602</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>776012</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>410765</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc4">356210</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>341889</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1145100</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1090487</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1132578</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>1145100</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1090487</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1145100</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1090487</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1145100</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1090487</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1145100</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-54953</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc6">340</OtherIncreasesAmt>
+        <SubtotalAmt>1090487</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1090487</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>244</GrossSalesPriceAmt>
+          <GainOrLossAmt>244</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>244</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>19000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12348</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6652</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6652</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>26093</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25539</CostOrOtherBasisAmt>
+          <GainOrLossAmt>554</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>554</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>50530</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>36759</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13771</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13771</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>71214</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>73359</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2145</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2145</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>99456</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>73250</CostOrOtherBasisAmt>
+          <GainOrLossAmt>26206</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>26206</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>135230</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>109497</CostOrOtherBasisAmt>
+          <GainOrLossAmt>25733</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>25733</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>102595</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-1591</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>151595</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1316035</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.115191</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>206400</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>1375304</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.150076</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>157685</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1430113</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.110261</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>133090</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1517527</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.087702</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>129820</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1526738</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.085031</DistributionYr5Rt>
+        <TotalDistributionRt>0.548261</TotalDistributionRt>
+        <AverageDistributionRt>0.109652</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1207419</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>132396</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>1061</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>133457</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>158500</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>1061</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1061</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1061</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1568</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1568</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc2">X</Form2220AttachedInd>
+        <EsPenaltyAmt>1</EsPenaltyAmt>
+        <OverpaymentAmt>506</OverpaymentAmt>
+        <AppliedToESTaxAmt>506</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>PA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>CHARLOTTE M STEPHENSON</IndividualWithBooksNm>
+        <PhoneNum>4125725358</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>110 CRESCENT DRIVE</AddressLine1Txt>
+          <CityNm>PITTSBURGH</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>15228</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHARLOTTE M STEPHENSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>110 CRESCENT DRIVE</AddressLine1Txt>
+            <CityNm>PITTSBURGH</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15228</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE/SECR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>8.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>15000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHARLOTTE B OBERT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>115 HAVERFORD CIRCLE</AddressLine1Txt>
+            <CityNm>PITTSBURGH</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15228</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DONALD D MATEER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10 GLENCOVE ROAD</AddressLine1Txt>
+            <CityNm>GREENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15601</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1191224</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>34582</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1225806</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1225806</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>18387</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1207419</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>60371</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>60371</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1061</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1061</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>59310</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>59310</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>59310</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>158500</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>158500</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>1061</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>157439</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>59310</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>129820</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>58546</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>86719</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>139461</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>88927</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>503473</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>158500</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>59310</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>99190</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>602663</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>129820</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>472843</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>58546</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>86719</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>139461</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>88927</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>99190</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AVID</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1715 WEST CESAR CHAVEZ</AddressLine1Txt>
+            <CityNm>AUSTIN</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78703</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BACON FOUNDATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10260 HART BRANCH CIRCLE</AddressLine1Txt>
+            <CityNm>ORLANDO</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32832</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEMOURS CHILDREN'S HOSPITAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BRIDGEVILLE CIVIC LEAGUE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>BOX 303</AddressLine1Txt>
+            <CityNm>BRIDGEVILLE</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CORRIDOR RESCUE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7531 NORTH LINPAR CT</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77040</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GILDA'S CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>255 ALEXANDER STREET</AddressLine1Txt>
+            <CityNm>ROCHESTER</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>14607</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GOING HOME GREYHOUNDS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 513</AddressLine1Txt>
+            <CityNm>WEXFORD</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15090</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GREENVILLE SCOTTISH GAMES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3300 POINSETT HIGHWAY</AddressLine1Txt>
+            <CityNm>GREENVILLE</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29613</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INDIANA COUNTY HUMANE SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>65 HAVEN DRIVE</AddressLine1Txt>
+            <CityNm>INDIANA</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KID'S FOOD BASKET</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2055 OAK INDUSTRIAL DRIVE</AddressLine1Txt>
+            <CityNm>GRAND RAPIDS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49505</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KINDRED SPIRITS SANCTUARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12600 N US HWY 27</AddressLine1Txt>
+            <CityNm>OCALA</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34482</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LYTLE ANIMAL CONTROL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 743</AddressLine1Txt>
+            <CityNm>LYTLE</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MEALS ON WHEELS AND MORE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3227 EAST 5TH STREET</AddressLine1Txt>
+            <CityNm>AUSTIN</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78702</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MT LEBANON PUBLIC LIBRARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>16 CASTLE SHANNON BLVD</AddressLine1Txt>
+            <CityNm>PITTSBURGH</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>152282252</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PENN STATE HERSHEY MEDICAL CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 852</AddressLine1Txt>
+            <CityNm>HERSHEY</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17033</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOUR DIAMONDS FUND</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PENN STATE HERSHEY MEDICAL CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 852</AddressLine1Txt>
+            <CityNm>HERSHEY</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17033</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PET RESCUE BY JUDY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>401 SOUTH LAUREL AVENUE</AddressLine1Txt>
+            <CityNm>SANFORD</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32771</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PITTSBURGH BALLET THEATRE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2900 LIBERTY AVENUE</AddressLine1Txt>
+            <CityNm>PITTSBURGH</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>REFUGEE SERVICES OF TEXAS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E ST JOHNS AVE</AddressLine1Txt>
+            <CityNm>AUSTIN</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78752</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST THOMAS LUTHERAN CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9393 CHURCH ROAD</AddressLine1Txt>
+            <CityNm>GROSSE ILE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48138</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPITAL IMPROVEMENT FUND</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STAGE RIGHT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>105 WEST FOURTH STREET</AddressLine1Txt>
+            <CityNm>GREENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DREAMS BUILD DREAMS CAPITAL CAMPAIGN</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TAILS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 396</AddressLine1Txt>
+            <CityNm>GROSSE ILE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48138</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE PITTSBURGH FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>FIVE PPG PLACE</AddressLine1Txt>
+            <CityNm>PITTSBURGH</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15222</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE RETREAT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1221 WAYZATA BLVD EAST</AddressLine1Txt>
+            <CityNm>WAYZATA</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55391</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>URBAN IMPACT OF BLACK ROCK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3716</AddressLine1Txt>
+            <CityNm>BRIDGEPORT</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06605</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WESTMORELAND MUSEUM OF AMERICAN ART</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>221 NORTH MAIN STREET</AddressLine1Txt>
+            <CityNm>GREENSBURG</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAPITAL AND ENDOWMENT CAMPAIGN</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>144500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>10</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>22864</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>102489</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>125363</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>125363</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFeesDetail>
+        <CategoryTxt>THOMAS R. ETZEL, CPA</CategoryTxt>
+        <Amt>2500</Amt>
+        <NetInvestmentIncomeAmt>500</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2000</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>UBS BROKERAGE ACCOUNTS</BondNm>
+        <EOYBookValueAmt>356210</EOYBookValueAmt>
+        <EOYFMVAmt>341889</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS BROKERAGE ACCOUNTS</StockNm>
+        <EOYBookValueAmt>719602</EOYBookValueAmt>
+        <EOYFMVAmt>776012</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc6">
+      <OtherIncreasesDetail>
+        <Desc>BOOK COST BASIS ADJUSTMENT P/Y</Desc>
+        <Amt>340</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc7">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>UBS FINANCIAL - ADVISORY FEES</CategoryTxt>
+        <Amt>1366</Amt>
+        <NetInvestmentIncomeAmt>1366</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>UBS FINANCIAL - ADVISORY FEES</CategoryTxt>
+        <Amt>9995</Amt>
+        <NetInvestmentIncomeAmt>9995</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>UBS FINANCIAL - ADVISORY FEES</CategoryTxt>
+        <Amt>2652</Amt>
+        <NetInvestmentIncomeAmt>2652</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>UBS FINANCIAL - ADVISORY FEES</CategoryTxt>
+        <Amt>1512</Amt>
+        <NetInvestmentIncomeAmt>1512</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc8">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX WITHHELD</CategoryTxt>
+        <Amt>340</Amt>
+        <NetInvestmentIncomeAmt>340</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>INVEST INCOME TAX PAID C/Y</CategoryTxt>
+        <Amt>1568</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>INVEST INCOME TAX PAID P/Y</CategoryTxt>
+        <Amt>883</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

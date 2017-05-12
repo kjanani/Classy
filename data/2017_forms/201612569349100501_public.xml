@@ -1,0 +1,728 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-12T09:46:29-05:00</ReturnTs>
+    <TaxPeriodEndDt>2016-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>371144423</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ARNOLD BEHRENS NESBIT GRAY PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>901 HAMPSHIRE</AddressLine1Txt>
+        <CityNm>QUINCY</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>62301</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>431818513</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE GR &amp; MF NICHOLS FOUNDATION</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O B DUNN</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>NICH</BusinessNameControlTxt>
+      <PhoneNum>2172429359</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>17838 LASSWELL DRIVE</AddressLine1Txt>
+        <CityNm>CANTON</CityNm>
+        <StateAbbreviationCd>MO</StateAbbreviationCd>
+        <ZIPCd>63435</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>BEVERLY A DUNN</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <PhoneNum>2172429359</PhoneNum>
+      <SignatureDt>2016-08-26</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>THOMAS R BEHRENS</PreparerPersonNm>
+      <PTIN>P00004727</PTIN>
+      <PhoneNum>2172247500</PhoneNum>
+      <PreparationDt>2016-08-26</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>926663</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>111</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>111</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>24530</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>24530</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">19757</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>47818</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>44398</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>24641</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">2175</AccountingFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc8">752</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc7">10501</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>13428</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>53347</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>53347</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>66775</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>53347</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-22377</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>24641</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>87</CashBOYAmt>
+        <CashEOYAmt>87</CashEOYAmt>
+        <CashEOYFMVAmt>87</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>30507</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>11451</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>11451</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>558200</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">554431</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>603829</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>281520</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc4">281520</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>311296</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>870314</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>847489</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>926663</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>870314</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>847489</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>870314</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>847489</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>870314</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>847489</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>870314</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-22377</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>847937</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc6">448</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>847489</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>49140</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1012018</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.048556</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>38770</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>990217</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.039153</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>42020</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1036826</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.040528</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>82163</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>764509</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.107472</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>46372</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>847224</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.054734</DistributionYr5Rt>
+        <TotalDistributionRt>0.290443</TotalDistributionRt>
+        <AverageDistributionRt>0.058089</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>947742</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>55053</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>246</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>55299</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>53347</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>493</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>493</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>493</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>493</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MO</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>BEVERLY DUNN</IndividualWithBooksNm>
+        <PhoneNum>2172429359</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>17838 LASSWELL DRIVE</AddressLine1Txt>
+          <CityNm>CANTON</CityNm>
+          <StateAbbreviationCd>MO</StateAbbreviationCd>
+          <ZIPCd>63435</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>true</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PATRICK E DUNN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10840 CHURCH HILL DOWNS ROAD</AddressLine1Txt>
+            <CityNm>MARTHASVILLE</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63357</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KELLY PATRICK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>469 BROOKHART BEND</AddressLine1Txt>
+            <CityNm>AVON</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>61415</ZIPCd>
+          </USAddress>
+          <TitleTxt>V-PRES/SECY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BEVERLY A DUNN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6 KIMRICK DR</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63435</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>828570</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>22251</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>111354</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>962175</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>962175</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>14433</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>947742</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>47387</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>47387</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>493</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>493</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>46894</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>46894</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>46894</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>53347</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>53347</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>53347</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>46894</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>50118</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>53347</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>50118</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>3229</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>43665</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>BEVERLY DUNN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17838 LASSWELL DRIVE</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63435</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2172429359</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>PERSONAL RESUME AND SCHOLARSHIP APPLICATION</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>ELIGIBLE RECIPIENTS MUST HAVE GRADUATED AND HAVE A MINIMUM CUMULATIVE GRADE POINT AVERAGE OF 2.0 ON A 4.0 SCALE BASED ON AT LEAST 7 SEMESTERS OF SECONDARY EDUCATION: RELATIVE FINANCIAL NEED; AND COMMUNITY SERVICE AND LEADERSHIP. THERE ARE NO RESTRICTIONS ON RACE OR EMPLOYMENT STATUS OF PROSPECTIVE RECIPIENTS. THERE ARE AVAILABLE AT LEAST FOUR SCHOLARSHIPS PER YEAR FOR FOUR YEARS AS LONG AS THE RECIPIENT HAS PASSING GRADES AND STAYS IN SCHOOL.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CANTON RV SCHOOLS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 S FOURTH ST</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63435</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>BIG MACK COMMUNICATOR</GrantOrContributionPurposeTxt>
+          <Amt>579</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CULVER STOCKTON COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 COLLEGE HILL</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63435</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LEWIS STREET PLAYHOUSE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>405 LEWIS STREET</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63435</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROJECTION LAMPS FOR FAMILY MOVIES</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FOOD FOR THOUGHT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>307 NO 6TH STREET</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63435</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FOOD DISTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>IMMANUEL METHODIST CHURCH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>601 WASHINGTON</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63435</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>COMPUTER &amp; RELATED SOFTWARE</GrantOrContributionPurposeTxt>
+          <Amt>2817</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LAGRANGE YOUTH CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>405 W JEFFERSON ST</AddressLine1Txt>
+            <CityNm>LA GRANGE</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63448</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>EQUIPMENT FOR YOUTH CENTER</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CANTON COMMUNITY CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>210 N 7TH STREET</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63435</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ROOF REPLACEMENT</GrantOrContributionPurposeTxt>
+          <Amt>5432</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LEWIS COUNTY FAIR BOARD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>LEWIS CO FAIR GROUNDS</AddressLine1Txt>
+            <CityNm>LEWISTOWN</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63452</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FAIR GROUNDS OFFICE BUILDING</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MARYVILLE UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>650 MARYVILLE UNIVERSITY</AddressLine1Txt>
+            <CityNm>ST LOUIS</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63141</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF MO EXTENSION LEWIS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 68</AddressLine1Txt>
+            <CityNm>MONTICELLO</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63457</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>EQUIPMENT FOR 4-H LUNCH STAND</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NW MISSOURI STATE UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 UNIVERSITY DR</AddressLine1Txt>
+            <CityNm>MARYVILLE</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>64468</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SW BAPTIST UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 ANDERSON DRIVE</AddressLine1Txt>
+            <CityNm>BOLIVAR</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65613</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF CENTRAL MISOURI</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>108 WEST SOUTH STREET</AddressLine1Txt>
+            <CityNm>WARRENSBURG</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>64093</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF MISSOURI</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>JESSE HALL</AddressLine1Txt>
+            <CityNm>COLUMBIA</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65211</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EWING SPLASH STATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>29861 STREET HWY N</AddressLine1Txt>
+            <CityNm>EWING</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63440</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>POOL REPAIRS</GrantOrContributionPurposeTxt>
+          <Amt>3450</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TRUMAN STATE UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 E NORMAL STREET</AddressLine1Txt>
+            <CityNm>KIRKSVILLE</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63501</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COLUMBIA COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1001 ROGERS STREET</AddressLine1Txt>
+            <CityNm>COLUMBIA</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65216</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CULVER STOCKTON COLLEGE -TASC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 COLLEGE HILL</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63435</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TASC SCHOOL EQUIPMENT</GrantOrContributionPurposeTxt>
+          <Amt>2969</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DURHAM COMMUNITY CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 WEST BRYAN 23</AddressLine1Txt>
+            <CityNm>EWING</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63440</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>DURHAM BALL PARK FENCE LOAN</GrantOrContributionPurposeTxt>
+          <Amt>4500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CITY OF CANTON RECYCLING CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>106 N FIFTH STREET</AddressLine1Txt>
+            <CityNm>CANTON</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63435</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PALLET JACK &amp; SCALE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WESTERN LEWIS COUNTY FIRE PROTECTIO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>29529 135TH AVE</AddressLine1Txt>
+            <CityNm>LABELLE</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63447</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FIRE DISTRICT EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>1100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>53347</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>111</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>24530</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>19757</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>44398</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>44398</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES</CategoryTxt>
+        <Amt>2175</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>TOYOTA MOTOR CORP</AssetDesc>
+        <AcquiredDt>2012-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-09</SoldDt>
+        <GrossSalesPriceAmt>11596</GrossSalesPriceAmt>
+        <BasisAmt>7658</BasisAmt>
+        <TotalNetAmt>3938</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LOREAL</AssetDesc>
+        <AcquiredDt>2012-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2016-02</SoldDt>
+        <GrossSalesPriceAmt>2811</GrossSalesPriceAmt>
+        <BasisAmt>2036</BasisAmt>
+        <TotalNetAmt>775</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MICROSOFT CORP</AssetDesc>
+        <AcquiredDt>2010-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2016-02</SoldDt>
+        <GrossSalesPriceAmt>3136</GrossSalesPriceAmt>
+        <BasisAmt>1816</BasisAmt>
+        <TotalNetAmt>1320</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>NOVO-NORDISK A-S</AssetDesc>
+        <AcquiredDt>2012-05</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2016-02</SoldDt>
+        <GrossSalesPriceAmt>3181</GrossSalesPriceAmt>
+        <BasisAmt>1865</BasisAmt>
+        <TotalNetAmt>1316</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMAZON COM INC</AssetDesc>
+        <AcquiredDt>2011-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2016-02</SoldDt>
+        <GrossSalesPriceAmt>3990</GrossSalesPriceAmt>
+        <BasisAmt>1468</BasisAmt>
+        <TotalNetAmt>2522</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>GENERAL ELECTRIC CO</AssetDesc>
+        <AcquiredDt>2010-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2016-02</SoldDt>
+        <GrossSalesPriceAmt>2196</GrossSalesPriceAmt>
+        <BasisAmt>1266</BasisAmt>
+        <TotalNetAmt>930</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>JOHNSON &amp; JOHNSON</AssetDesc>
+        <AcquiredDt>2010-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2016-02</SoldDt>
+        <GrossSalesPriceAmt>2914</GrossSalesPriceAmt>
+        <BasisAmt>1827</BasisAmt>
+        <TotalNetAmt>1087</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>JPMORGAN CHASE &amp; CO</AssetDesc>
+        <AcquiredDt>2012-03</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2016-02</SoldDt>
+        <GrossSalesPriceAmt>2767</GrossSalesPriceAmt>
+        <BasisAmt>2349</BasisAmt>
+        <TotalNetAmt>418</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PFIZER INCORPORATED</AssetDesc>
+        <AcquiredDt>2011-03</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2016-02</SoldDt>
+        <GrossSalesPriceAmt>2987</GrossSalesPriceAmt>
+        <BasisAmt>2080</BasisAmt>
+        <TotalNetAmt>907</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>VISA INC CLASS A</AssetDesc>
+        <AcquiredDt>2012-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2016-02</SoldDt>
+        <GrossSalesPriceAmt>2974</GrossSalesPriceAmt>
+        <BasisAmt>1326</BasisAmt>
+        <TotalNetAmt>1648</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WALT DISNEY CO</AssetDesc>
+        <AcquiredDt>2012-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2016-02</SoldDt>
+        <GrossSalesPriceAmt>3039</GrossSalesPriceAmt>
+        <BasisAmt>1636</BasisAmt>
+        <TotalNetAmt>1403</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO &amp; CO</AssetDesc>
+        <AcquiredDt>2010-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2016-02</SoldDt>
+        <GrossSalesPriceAmt>2918</GrossSalesPriceAmt>
+        <BasisAmt>1816</BasisAmt>
+        <TotalNetAmt>1102</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMAZON COM INC</AssetDesc>
+        <AcquiredDt>2011-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2016-02</SoldDt>
+        <GrossSalesPriceAmt>3309</GrossSalesPriceAmt>
+        <BasisAmt>918</BasisAmt>
+        <TotalNetAmt>2391</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INVESTMENTS-SCHWAB FIXED INCOME</BondNm>
+        <EOYBookValueAmt>281520</EOYBookValueAmt>
+        <EOYFMVAmt>311296</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESTMENT-SCHWAB EQUITIES</StockNm>
+        <EOYBookValueAmt>393047</EOYBookValueAmt>
+        <EOYFMVAmt>506873</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INV.FORD MOTOR CO COM STK</StockNm>
+        <EOYBookValueAmt>109531</EOYBookValueAmt>
+        <EOYFMVAmt>43945</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INV-CITIGROUP C/S 768 SHS</StockNm>
+        <EOYBookValueAmt>44484</EOYBookValueAmt>
+        <EOYFMVAmt>32556</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INV-VISTEON CORP 261.866 SHS</StockNm>
+        <EOYBookValueAmt>3345</EOYBookValueAmt>
+        <EOYFMVAmt>17233</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INV-CITIGROUP 76 SHS</StockNm>
+        <EOYBookValueAmt>4024</EOYBookValueAmt>
+        <EOYFMVAmt>3222</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc6">
+      <OtherDecreasesDetail>
+        <Desc>FEDERAL INCOME TAX</Desc>
+        <Amt>448</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT FEES-SCHWAB</Desc>
+        <RevenueAndExpensesPerBooksAmt>10501</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc8">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX PAID</CategoryTxt>
+        <Amt>752</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

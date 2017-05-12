@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-12T09:10:13-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>631031732</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>HARTMANN BLACKMON &amp; KILGORE PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO BOX 1469</AddressLine1Txt>
+        <CityNm>FAIRHOPE</CityNm>
+        <StateAbbreviationCd>AL</StateAbbreviationCd>
+        <ZIPCd>365331469</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>010837016</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CAMILLE SNIDER CHARITABLE REMAINDER</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>UNITRUST</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CAMI</BusinessNameControlTxt>
+      <PhoneNum>2519378228</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>16259 MOSLEY ROAD</AddressLine1Txt>
+        <CityNm>STAPLETON</CityNm>
+        <StateAbbreviationCd>AL</StateAbbreviationCd>
+        <ZIPCd>36578</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ALBERT G KEULER</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>2519378228</PhoneNum>
+      <SignatureDt>2016-09-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>SALLY S WAGNER</PreparerPersonNm>
+      <PTIN>P00014051</PTIN>
+      <PhoneNum>2519282443</PhoneNum>
+      <PreparationDt>2016-09-12</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>946072</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>42</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>42</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>15363</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>15363</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">2576</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>88344</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>2576</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>17981</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>17981</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>12376</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>12376</CompOfcrDirTrstNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">1350</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1350</AccountingFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc7">539</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>539</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc6">466</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>466</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>14731</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>14731</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>47901</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>47901</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>62632</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>14731</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>47901</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-44651</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>3250</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>147499</CashBOYAmt>
+        <CashEOYAmt>169912</CashEOYAmt>
+        <CashEOYFMVAmt>169912</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>586937</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">514810</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>776160</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>734436</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>684722</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>946072</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <AdditionalPaidInCapitalBOYAmt>865215</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>865215</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>-130779</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>-180493</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>734436</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>684722</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>734436</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>684722</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>734436</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-44651</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>689785</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc5">5063</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>684722</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>KINDER MORGAN INC. DEL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-12-04</AcquiredDt>
+          <SoldDt>2015-01-26</SoldDt>
+          <GrossSalesPriceAmt>16</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>APACHE CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-03-05</AcquiredDt>
+          <SoldDt>2015-09-11</SoldDt>
+          <GrossSalesPriceAmt>10787</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20139</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9352</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9352</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES NASDAQ BIOTECH</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-06-17</AcquiredDt>
+          <SoldDt>2015-09-11</SoldDt>
+          <GrossSalesPriceAmt>24834</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12601</CostOrOtherBasisAmt>
+          <GainOrLossAmt>12233</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12233</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VMWARE, INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-06-14</AcquiredDt>
+          <SoldDt>2015-09-11</SoldDt>
+          <GrossSalesPriceAmt>20655</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25156</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4501</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4501</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES MSCI CDA ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2015-09-11</SoldDt>
+          <GrossSalesPriceAmt>21676</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>27856</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-6180</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-6180</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>2576</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>49804</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1009192</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.049350</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>44653</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>903427</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.049426</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>43868</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>878867</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.049914</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>45443</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>907099</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.050097</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>41748</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>837004</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.049878</DistributionYr5Rt>
+        <TotalDistributionRt>0.248665</TotalDistributionRt>
+        <AverageDistributionRt>0.049733</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1012550</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>50357</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>33</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>50390</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>47901</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>65</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>65</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>65</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>2720</EstimatedPlusOvpmtIncmTxAmt>
+        <BackupWithholdingWithheldAmt>202</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>2922</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>2857</OverpaymentAmt>
+        <AppliedToESTaxAmt>65</AppliedToESTaxAmt>
+        <RefundAmt>2792</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>DONNA K WILSON TRUSTEE</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2519378228</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>16259 MOSLEY ROAD</AddressLine1Txt>
+          <CityNm>STAPLETON</CityNm>
+          <StateAbbreviationCd>AL</StateAbbreviationCd>
+          <ZIPCd>36578</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALBERT G KEULER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>27211 STATE HIGHWAY 181</AddressLine1Txt>
+            <CityNm>DAPHNE</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>36526</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>8.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4125</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DONNA K WILSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>16259 MOSLEY RD</AddressLine1Txt>
+            <CityNm>STAPLETON</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>36578</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>8.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4125</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALBERT W KEULER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>34461 SPRING RD S</AddressLine1Txt>
+            <CityNm>STAPLETON</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>36578</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>8.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4126</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>857696</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>170274</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1027970</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1027970</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>15420</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1012550</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>50628</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>50628</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>65</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>65</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>50563</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>50563</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>50563</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>47901</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>47901</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>47901</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>50563</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr4Amt>121</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr2Amt>576</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>2049</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>2746</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>47901</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>47901</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>2662</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>2662</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>84</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>84</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>84</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>DONNA K WILSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>16259 MOSLEY ROAD</AddressLine1Txt>
+            <CityNm>STAPLETON</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>36578</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2519378228</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>LETTER OF INQUIRY CONTAINING PURPOSE OF ORGANIZATION GOALS AND OBJECTIVES OF PROJECT FOR WHICH FUNDING IS REQUESTED, CURRENT STATUS OF PROJECT, ANNUAL BUDGET AND DETAIL PROJECT BUDGET WITH AMOUNT REQUESTED AND A COPY OF THE ORGANIZATION'S IRS EXEMPTION LETTER.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>N/A</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>N/A</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRENCH CAMP</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ONE FINE PLACE</AddressLine1Txt>
+            <CityNm>FRENCH CAMP</CityNm>
+            <StateAbbreviationCd>MS</StateAbbreviationCd>
+            <ZIPCd>39745</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CHRISTIAN BOARDING SCHOOL AND HOME</GrantOrContributionPurposeTxt>
+          <Amt>11975</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PALMER HOME FOR CHILDREN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>912 11TH AVE SOUTH</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>MS</StateAbbreviationCd>
+            <ZIPCd>39701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CHRISTIAN CHILDREN'S HOME AND SCHOOL</GrantOrContributionPurposeTxt>
+          <Amt>11975</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST JUDE CHILDRENS RESEARC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>332 N LAUDERDALE</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>11976</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JOSIAH &amp; BETHANY CHILDREN'S HOME</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 412</AddressLine1Txt>
+            <CityNm>HIDALGO</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78857</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CHRISTIAN CHILDREN'S HOME</GrantOrContributionPurposeTxt>
+          <Amt>11975</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>47901</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>42</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>15363</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>2576</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>17981</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>17981</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>1350</Amt>
+        <NetInvestmentIncomeAmt>1350</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MERRILL LYNCH MUTUAL FUNDS</StockNm>
+        <EOYBookValueAmt>221385</EOYBookValueAmt>
+        <EOYFMVAmt>313494</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MERRILL LYNCH EQUITIES</StockNm>
+        <EOYBookValueAmt>293425</EOYBookValueAmt>
+        <EOYFMVAmt>462666</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc5">
+      <OtherDecreasesDetail>
+        <Desc>2015 ESTIMATED TAX PAYMENTS</Desc>
+        <Amt>2720</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>2014 INCOME TAXES</Desc>
+        <Amt>2145</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>OTHER NET BOOK TO TAX AND TIMING ADJUSTMENTS</Desc>
+        <Amt>198</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>466</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>466</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <TaxesDetail>
+        <CategoryTxt>NON-RECLAIMABLE FOREIGN TAX</CategoryTxt>
+        <Amt>539</Amt>
+        <NetInvestmentIncomeAmt>539</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

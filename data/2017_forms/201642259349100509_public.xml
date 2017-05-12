@@ -1,0 +1,692 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-12T06:57:21-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>383581667</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>MILES V SCHMIDT CPA PLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>750 FRONT AVE NW SUITE 315</AddressLine1Txt>
+        <CityNm>GRAND RAPIDS</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>495044400</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>383168934</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>ROBERT F BEARD CHARITABLE FOUNDAT'N</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O JAMES R CLARK</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ROBE</BusinessNameControlTxt>
+      <PhoneNum>7344530209</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>8845 VERGENNES PO BOX 698</AddressLine1Txt>
+        <CityNm>ADA</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>493010698</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JAMES R CLARK</PersonNm>
+      <PersonTitleTxt>PRESIDENT/DIRECTOR</PersonTitleTxt>
+      <PhoneNum>7344530209</PhoneNum>
+      <SignatureDt>2016-08-08</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MILES V SCHMIDT CPA</PreparerPersonNm>
+      <PTIN>P00059527</PTIN>
+      <PhoneNum>6167420400</PhoneNum>
+      <PreparationDt>2016-08-08</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>11411706</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>86</InterestOnSavRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>284776</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>233256</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">-52780</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>6220147</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>232082</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>233256</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>80000</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">10595</AccountingFeesRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>441</TravConfMeetingRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc6">54724</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>145760</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>630000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>630000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>775760</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>630000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-543678</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>233256</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>115455</CashBOYAmt>
+        <CashEOYAmt>9277</CashEOYAmt>
+        <CashEOYFMVAmt>9277</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>751829</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>355743</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>355743</SavAndTempCashInvstEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>11150240</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc4">11072666</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>11046686</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>12017524</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>11437686</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>11411706</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>13020</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>13020</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>12004504</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>11424666</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>12017524</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>11437686</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>12017524</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>11437686</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>12017524</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-543678</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>11473846</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc5">36160</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>11437686</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>625000</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>12757240</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.048992</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>500000</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>10850392</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.046081</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>628718</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>10418622</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.060346</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>515000</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>10923236</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.047147</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>21250</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1526946</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.013917</DistributionYr5Rt>
+        <TotalDistributionRt>0.216483</TotalDistributionRt>
+        <AverageDistributionRt>0.043297</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>12240797</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>529990</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>2333</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>532323</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>630000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>2333</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2333</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2333</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>18720</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>18720</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>16387</OverpaymentAmt>
+        <AppliedToESTaxAmt>2340</AppliedToESTaxAmt>
+        <RefundAmt>14047</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MI</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>MILES V SCHMIDT</IndividualWithBooksNm>
+        <PhoneNum>6167420400</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>750 FRONT AVE NW SUITE 350</AddressLine1Txt>
+          <CityNm>GRAND RAPIDS</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>495044400</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMES R CLARK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 698</AddressLine1Txt>
+            <CityNm>ADA</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>493010698</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT/DI</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>10000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN BEARD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>29404 WINDMILL CT</AddressLine1Txt>
+            <CityNm>FARMINGTON HILLS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>483343110</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER/DI</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>10000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GARRET CLARK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>11417 FOREMAN FARMS CT</AddressLine1Txt>
+            <CityNm>LOWELL</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>493319167</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRES/DI</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>10000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRIAN CLARK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>318 RIVERSIDE DR</AddressLine1Txt>
+            <CityNm>LOWELL</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>493311057</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBR/</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>10000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SUSAN CLARK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 698</AddressLine1Txt>
+            <CityNm>ADA</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>493010698</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBR/</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>10000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LAUREN RYAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9400 SHADOW HILL TRAIL</AddressLine1Txt>
+            <CityNm>CHESTERLAND</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>440262360</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBR/</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>10000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICHAEL BEARD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>217 INDIGO BLUE ST</AddressLine1Txt>
+            <CityNm>DELAWARE</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>430155074</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBR/</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>10000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MELISSA CHIRCO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>825 GARGANTUA AVE</AddressLine1Txt>
+            <CityNm>CLAWSON</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>480171886</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY/DI</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>10000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>GRANT MAKING</Description1Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>11988924</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>438281</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>12427205</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>12427205</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>186408</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>12240797</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>612040</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>612040</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2333</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2333</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>609707</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>609707</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>609707</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>630000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>630000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>2333</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>627667</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>609707</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>597</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>597</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>630000</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>609707</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>20293</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>20890</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>20890</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>597</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>20293</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ADA CHRISTIAN SCHOOL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6206 ADA DR SE</AddressLine1Txt>
+            <CityNm>ADA</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GRANT</GrantOrContributionPurposeTxt>
+          <Amt>118750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ROSE-MARY CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>19350 EUCLID AVE</AddressLine1Txt>
+            <CityNm>EUCLID</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44117</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GIFT</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SHRIVERS HOSPITAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2900 ROCKY POINT DR</AddressLine1Txt>
+            <CityNm>TAMPA</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33607</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GIFT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST JUDE'S HOSPITAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 ST JUDE PLACE</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GIFT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHARLES SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3950 INDIANOLA AVE</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>43214</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GIFT</GrantOrContributionPurposeTxt>
+          <Amt>78750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHIVE CHARITIES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10100 SANTA MONICA BLVD</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 2200</AddressLine2Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90067</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GIFT</GrantOrContributionPurposeTxt>
+          <Amt>30738</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FORGOTTEN HARVEST</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>21800 GREENFIELD RD</AddressLine1Txt>
+            <CityNm>OAK PARK</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48237</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GIFT</GrantOrContributionPurposeTxt>
+          <Amt>24000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAMP CASEY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 WEST SEVENTH ST</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 230</AddressLine2Txt>
+            <CityNm>ROYAL OAK</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48067</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GRANT</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CARE HOUSE OF OAKLAND COUNTY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>44765 WOODWARD AVE</AddressLine1Txt>
+            <CityNm>PONTIAC</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48431</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GIFT</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SPECIAL OPS WARRIOR FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1137 MARBELLA PLAZA DR</AddressLine1Txt>
+            <CityNm>RIVERVIEW</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33619</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GIFT</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HQ RUNAWAY AND HOMELESS YOUTH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>320 STATE ST SE</AddressLine1Txt>
+            <CityNm>GRAND RAPIDS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49503</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GIFT</GrantOrContributionPurposeTxt>
+          <Amt>8750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HELEN DEVOS CHILDRENS' HOSPITAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 MICHIGAN AVE NE</AddressLine1Txt>
+            <CityNm>GRAND RAPIDS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49503</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GRANT</GrantOrContributionPurposeTxt>
+          <Amt>53750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MY STUFF BAGS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5347 STERLING CENTER DR</AddressLine1Txt>
+            <CityNm>WESTLAKE VILLAGE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91361</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GRANT</GrantOrContributionPurposeTxt>
+          <Amt>13750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARTISTS CREATING TOGETHER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1140 MONROE AVE NW</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 4101</AddressLine2Txt>
+            <CityNm>GRAND RAPIDS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49503</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GIFT</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CATCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>223 FISHER BUILDING</AddressLine1Txt>
+            <AddressLine2Txt>3011 WEST GRAND BLVD</AddressLine2Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GIFT</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KENWOOD HUG PTA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>240 NAHMA AVE</AddressLine1Txt>
+            <CityNm>CLAWSON</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUB. CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED GIFT</GrantOrContributionPurposeTxt>
+          <Amt>11512</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>630000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>86</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>284776</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-52780</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>232082</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>232082</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>INDIRECT ACCOUNTING FEES</CategoryTxt>
+        <Amt>10595</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>L/T CAPITAL GAINS - SECURITIES</AssetDesc>
+        <AcquiredDt>2012-06</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-06</SoldDt>
+        <GrossSalesPriceAmt>3395110</GrossSalesPriceAmt>
+        <BasisAmt>3546592</BasisAmt>
+        <TotalNetAmt>-151482</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>S/T CAPITAL GAINS - SECURITIES</AssetDesc>
+        <AcquiredDt>2014-06</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-05</SoldDt>
+        <GrossSalesPriceAmt>2645936</GrossSalesPriceAmt>
+        <BasisAmt>2726335</BasisAmt>
+        <TotalNetAmt>-80399</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>L/T CAPITAL GAIN DISTRIBUTIONS - SEC</AssetDesc>
+        <AcquiredDt>2012-06</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2015-06</SoldDt>
+        <GrossSalesPriceAmt>179101</GrossSalesPriceAmt>
+        <TotalNetAmt>179101</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc4">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>JP MORGAN PORTFOLIO</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>11072666</BookValueAmt>
+        <EOYFMVAmt>11046686</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="RetDoc5">
+      <OtherDecreasesDetail>
+        <Desc>FEDERAL INCOME TAXES - 2014</Desc>
+        <Amt>18292</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>FEDERAL INCOME TAXES - 2015</Desc>
+        <Amt>18720</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>OTHER ADJUSTMENT</Desc>
+        <Amt>-852</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>111</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MICHIGAN ANNUAL REPORT</Desc>
+        <RevenueAndExpensesPerBooksAmt>20</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>54593</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

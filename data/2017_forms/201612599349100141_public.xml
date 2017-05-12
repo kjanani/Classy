@@ -1,0 +1,579 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2014v6.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-09-15T20:54:22-07:00</ReturnTs>
+    <TaxPeriodEndDt>2015-10-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>James P King &amp; Associates LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1239 Route 25A Suite 5</AddressLine1Txt>
+        <CityNm>Stony Brook</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>117901920</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2014-11-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>116447242</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Swartz Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SWAR</BusinessNameControlTxt>
+      <PhoneNum>6316898082</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>6 Light House PointRoad</AddressLine1Txt>
+        <CityNm>Lloyd Harbor</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11743</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>James P King</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <SignatureDt>2014-09-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>James P King</PreparerPersonNm>
+      <PTIN>P00621866</PTIN>
+      <PhoneNum>6316898082</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2014</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>13828407</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>291207</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>291207</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>291207</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>625550</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>4178481</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>625550</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">42536</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>42536</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>42536</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>959293</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>959293</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>333743</TotalAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">158362</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>158362</OtherProfFeesNetInvstIncmAmt>
+        <InterestRevAndExpnssAmt>12969</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>12969</InterestNetInvstIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>102857</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>102857</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">115140</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>12500</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>112640</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>389328</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>183831</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>215497</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1536373</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1536373</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1925701</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>183831</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1751870</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-966408</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>775462</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>333743</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashEOYAmt>14104</CashEOYAmt>
+        <SavAndTempCashInvstBOYAmt>1064917</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>595403</SavAndTempCashInvstEOYAmt>
+        <CorporateStockBOYAmt>9029464</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>10880706</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>10870904</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>1293899</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt>1172522</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1172522</CorporateBondsEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>1866</InvstLandCostOrOtherBasisAmt>
+        <InvstLandAccumDepreciationAmt>1866</InvstLandAccumDepreciationAmt>
+        <OtherInvestmentsBOYAmt>3087649</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>1784984</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1784981</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>14475929</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>14447719</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>13828407</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>14475929</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>14447719</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>14475929</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>14447719</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>14475929</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>14447719</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>14475929</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-966408</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">938198</OtherIncreasesAmt>
+        <SubtotalAmt>14447719</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>14447719</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>US Trust Managed Accounts STCG</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-01</AcquiredDt>
+          <SoldDt>2014-12-01</SoldDt>
+          <GrossSalesPriceAmt>634160</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>684841</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-50681</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-50681</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>US Trust Managed Accounts LTCG</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-01-01</AcquiredDt>
+          <SoldDt>2014-12-01</SoldDt>
+          <GrossSalesPriceAmt>3067751</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2630293</CostOrOtherBasisAmt>
+          <GainOrLossAmt>437458</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>437458</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Pass-through from Partnerships STCG</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-01</AcquiredDt>
+          <SoldDt>2014-12-01</SoldDt>
+          <CostOrOtherBasisAmt>237797</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-237797</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-237797</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Pass-through from Partnerships LTCG</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-01-01</AcquiredDt>
+          <SoldDt>2014-12-01</SoldDt>
+          <GrossSalesPriceAmt>476570</GrossSalesPriceAmt>
+          <GainOrLossAmt>476570</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>476570</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>625550</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-288478</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>2367671</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>17071503</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.13869</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>2724824</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>17203334</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.15839</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>1895285</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>16242792</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.11669</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>1915973</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>9571799</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.20017</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>1831426</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>9984634</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.18342</DistributionYr5Rt>
+        <TotalDistributionRt>0.79736</TotalDistributionRt>
+        <AverageDistributionRt>0.15947</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>15933919</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>2541014</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>7755</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>2548769</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>3274243</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>7755</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>7755</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>7755</TaxBasedOnInvestmentIncomeAmt>
+        <AppliedToEsTaxAmt>16000</AppliedToEsTaxAmt>
+        <TotalPaymentsAndCreditsAmt>16000</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>8245</OverpaymentAmt>
+        <AppliedToESTaxAmt>8245</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>theswartzfoundation.org</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>James P King</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6316898082</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1239 Route 25A Suite 5</AddressLine1Txt>
+          <CityNm>Stony Brook</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>11790</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>James P King</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1239 Route 25A Suite 5</AddressLine1Txt>
+            <CityNm>Stony Brook</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11790</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Dr Jerome Swartz</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6 Light House PointRoad</AddressLine1Txt>
+            <CityNm>Lloyd Harbor</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11743</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>US Trust</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>114 West 47th Street 4th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Financial Advisory</ServiceTypeTxt>
+          <CompensationAmt>83794</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Co-sponsored five conferences on computational neuroscience.</Description1Txt>
+        <Expenses1Amt>94115</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>Funded research in the fields of applied science and engineering conducted by researchers at the University of California, San Diego.</Description1Txt>
+        <Expenses1Amt>360000</Expenses1Amt>
+        <Description2Txt>Funded research in the field of computational neuroscience conducted by scientists at Cold Spring Harbor Laboratory.</Description2Txt>
+        <Expenses2Amt>267735</Expenses2Amt>
+        <TotalAmt>1522373</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>14922263</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>1254305</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>16176568</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>16176568</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>242649</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>15933919</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>796696</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>796696</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>7755</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>7755</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>788941</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>788941</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>788941</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>1751870</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>1522373</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>3274243</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>7755</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>3266488</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>788941</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>1332874</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>1437383</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>1094766</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>1870830</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>1521809</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>7257662</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>3274243</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>788941</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>2485302</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>9742964</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>1332874</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>8410090</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>1437383</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>1094766</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>1870830</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>1521809</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>2485302</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Dr Jerome Swartz</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Univ of Calif San Diego</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9500 Gilman Drive</AddressLine1Txt>
+            <CityNm>La Jolla</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92093</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fund Research</GrantOrContributionPurposeTxt>
+          <Amt>360000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Cold Spring Harbor Laboratory</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 Bungtown Road</AddressLine1Txt>
+            <CityNm>Cold Spring Harbor</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11724</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fund Research</GrantOrContributionPurposeTxt>
+          <Amt>281735</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Yale University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 Cedar Street</AddressLine1Txt>
+            <CityNm>New Haven</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06520</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fund research</GrantOrContributionPurposeTxt>
+          <Amt>127000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Harvard University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1350 Massachusetts Avenue</AddressLine1Txt>
+            <CityNm>Cambridge</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02138</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fund Research</GrantOrContributionPurposeTxt>
+          <Amt>133534</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Brandeis University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>415 South Street</AddressLine1Txt>
+            <CityNm>Waltham</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02454</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fund Research</GrantOrContributionPurposeTxt>
+          <Amt>252000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>New York University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4 Washington Place</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fund Research</GrantOrContributionPurposeTxt>
+          <Amt>127104</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Columbia Universtiy</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2960 Broadway</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fund Research</GrantOrContributionPurposeTxt>
+          <Amt>195000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Graduate Center Foundation CUNY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>365 Fifth Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fund Research</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1536373</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>291207</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>42536</RelatedOrExemptFunctionIncmAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>625550</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>959293</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>959293</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AllOthProgRltdInvestmentsSch documentId="AllOtherProgramRelatedInvestme" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <AllOtherProgramRelatedInvstGrp>
+        <Desc>Funded research in the field of computational neuroscience conducted by scientists at six universities.</Desc>
+        <Amt>894638</Amt>
+      </AllOtherProgramRelatedInvstGrp>
+    </AllOthProgRltdInvestmentsSch>
+    <InvestmentsLandSchedule2 documentId="InvestmentsLandSchedule2" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>Machinery and Equipment</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1866</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1866</AccumulatedDepreciationAmt>
+      </InvestmentLandGrp>
+    </InvestmentsLandSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Fees &amp; Charges</Desc>
+        <RevenueAndExpensesPerBooksAmt>60</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>60</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Books &amp; Research Materials</Desc>
+        <RevenueAndExpensesPerBooksAmt>514</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>514</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Dues &amp; Subscriptions</Desc>
+        <RevenueAndExpensesPerBooksAmt>490</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>490</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>New York State Annual Filing Fee</Desc>
+        <RevenueAndExpensesPerBooksAmt>750</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>750</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Supplies</Desc>
+        <RevenueAndExpensesPerBooksAmt>207</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>207</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Phones &amp; Internet Access</Desc>
+        <RevenueAndExpensesPerBooksAmt>1019</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1019</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Program Advisory Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>60000</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>60000</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TSO Management &amp; Consulting Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>50000</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>12500</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>47500</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Web Site Hosting Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>2100</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2100</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <OtherIncomeDetail>
+        <Desc>Other Investment Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>42536</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>42536</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>42536</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="14000265" softwareVersionNum="2014v6.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Management Fees on K-1 Schedules</CategoryTxt>
+        <Amt>74568</Amt>
+        <NetInvestmentIncomeAmt>74568</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>US Trust Management Fees</CategoryTxt>
+        <Amt>83794</Amt>
+        <NetInvestmentIncomeAmt>83794</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>
